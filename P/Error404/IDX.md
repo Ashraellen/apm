@@ -14,12 +14,12 @@ A philosophical satire with mystical bureaucracy, domestic absurdity, pain under
 File map:
 
 ```text
-PB.md   — Project Bible: core canon and concept
-STL.md  — Style guide: tone, rhythm, humor, prohibitions
-CHP.md  — Chapter plan and structure
-W7.md   — Window №7 principle and mechanism
-FN.md   — File naming rules
-CHR.md  — Characters and functions
+README_ABBREVIATIONS.md — Abbreviations, folder logic, file naming, versions, archive rules
+PB.md                  — Project Bible: core canon and concept
+STL.md                 — Style guide: tone, rhythm, humor, prohibitions
+CHP.md                 — Chapter plan and structure
+W7.md                  — Window №7 principle and mechanism
+CHR.md                 — Characters and functions
 ```
 
 Current rule:
