@@ -16,11 +16,13 @@ S   — Skills
 
 ## Project folders
 
+Project folder names are readable short names, not hard abbreviations.
+
 ```text
-ASH  — Ashraellen main ecosystem
-CSW  — Church of Saint Whine
-E404 — Error 404: God Not Found
-MNL  — MONOLITH
+Ashraellen  — Ashraellen main ecosystem
+Error404    — Error 404: God Not Found
+MONOLITH    — MONOLITH trilogy
+SaintWhine  — Church of Saint Whine
 ```
 
 ## Common file names
@@ -35,7 +37,7 @@ FN  — File Naming: naming rules and file patterns
 W7  — Window 7: Window №7 principle and mechanism
 CAN — Canon: sacred/core rules of a project
 VIS — Visual Rules: image and design principles
-REV — Revelation Template: structure for CSW revelations
+REV — Revelation Template: structure for SaintWhine revelations
 TAG — Tags and Metadata: hashtags, keywords, descriptions
 TRS — Translation Rules for SLUDGE / ЖИЖА
 PUB — Publication Data: platforms, editions, links, notes
