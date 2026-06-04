@@ -9,7 +9,7 @@ This file is the root abbreviation dictionary for APM.
 ```text
 APM      — Ashraellen Project Memory
 ABR      — Abbreviations
-IDX      — Index
+INDEX    — Index file / folder map
 Projects — Project memory folders
 Skills   — Skills and repeatable workflows
 ```
@@ -28,24 +28,24 @@ SaintWhine  — Church of Saint Whine
 ## Common file names
 
 ```text
-IDX — Index: abbreviation decoding and short folder description
-PB  — Project Bible: core canon, concept, and key decisions
-STL — Style Guide: tone, rhythm, rules, prohibitions
-CHP — Chapter Plan: chapter structure and development map
-CHR — Characters: characters, functions, voices, dynamics
-FN  — File Naming: naming rules and file patterns
-W7  — Window 7: Window №7 principle and mechanism
-CAN — Canon: sacred/core rules of a project
-VIS — Visual Rules: image and design principles
-REV — Revelation Template: structure for SaintWhine revelations
-TAG — Tags and Metadata: hashtags, keywords, descriptions
-TRS — Translation Rules for SLUDGE / ЖИЖА
-PUB — Publication Data: platforms, editions, links, notes
-BIO — Biography: public author bio and positioning
-GST — Grant Strategy: grant profile and applications
-WEB — Website: structure, languages, pages
-CNT — Content: channel style and content rules
-PKD — Polish activity codes and business notes
+INDEX — Index file: folder description and short file map
+PB    — Project Bible: core canon, concept, and key decisions
+STL   — Style Guide: tone, rhythm, rules, prohibitions
+CHP   — Chapter Plan: chapter structure and development map
+CHR   — Characters: characters, functions, voices, dynamics
+FN    — File Naming: naming rules and file patterns
+W7    — Window 7: Window №7 principle and mechanism
+CAN   — Canon: sacred/core rules of a project
+VIS   — Visual Rules: image and design principles
+REV   — Revelation Template: structure for SaintWhine revelations
+TAG   — Tags and Metadata: hashtags, keywords, descriptions
+TRS   — Translation Rules for SLUDGE / ЖИЖА
+PUB   — Publication Data: platforms, editions, links, notes
+BIO   — Biography: public author bio and positioning
+GST   — Grant Strategy: grant profile and applications
+WEB   — Website: structure, languages, pages
+CNT   — Content: channel style and content rules
+PKD   — Polish activity codes and business notes
 ```
 
 ## Skill folders
@@ -61,4 +61,4 @@ PostVisualBrief   — Post Visual Brief
 ```
 
 Rule:
-When adding a new abbreviation or naming convention, update this file and the relevant local `IDX.md`.
+When adding a new abbreviation or naming convention, update this file and the relevant local `INDEX.md`.
