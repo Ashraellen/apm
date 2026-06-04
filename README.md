@@ -12,8 +12,8 @@ Naming rule:
 - names should be readable and fit comfortably on screen;
 - project folders use clear short names, not hard abbreviations;
 - technical files may use short names when useful;
-- each main folder contains `IDX.md`;
-- `IDX.md` explains the folder and gives a short file map.
+- each main folder contains `INDEX.md`;
+- `INDEX.md` explains the folder and gives a short file map.
 
 Top-level structure:
 
@@ -34,4 +34,4 @@ Ashraellen  — Ashraellen main ecosystem / основной проект Ashrae
 ```
 
 Working principle:
-Before working on any project, read the root `AGENTS.md`, then `ABR.md`, then the relevant project `IDX.md`, then the specific project files.
+Before working on any project, read the root `AGENTS.md`, then `ABR.md`, then the relevant project `INDEX.md`, then the specific project files.
