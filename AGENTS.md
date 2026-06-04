@@ -7,18 +7,19 @@ Use this repository as a structured external memory for Ashraellen's projects.
 
 General workflow:
 1. Read this file first.
-2. Identify the relevant abbreviated folder.
-3. Read that folder's `IDX.md`.
-4. Read only the specific files needed for the task.
-5. Do not invent canon if the repository is incomplete.
-6. If something is unclear, say what is missing and ask for the missing decision.
+2. Read `ABR.md`.
+3. Identify the relevant project folder under `Projects/`.
+4. Read that folder's `INDEX.md`.
+5. Read only the specific files needed for the task.
+6. Do not invent canon if the repository is incomplete.
+7. If something is unclear, say what is missing and ask for the missing decision.
 
 Naming rules:
-- Use short abbreviations for folders and files.
-- Every folder must contain `IDX.md`.
-- `IDX.md` must decode abbreviations and give brief descriptions.
-- Avoid long folder names.
-- Prefer stable, compact file names.
+- Names should be readable and fit comfortably on screen.
+- Project folders use clear short names, not hard abbreviations.
+- Technical files may use short names when useful.
+- Every main folder should contain `INDEX.md`.
+- `INDEX.md` explains the folder and gives a short file map.
 
 Writing rules:
 - Preserve the author's style.
@@ -27,12 +28,12 @@ Writing rules:
 - Do not turn scenes into lectures.
 - When editing literary text, preserve meaning, rhythm, tone, and pressure.
 
-Top-level abbreviations:
-- `P` — Projects.
-- `S` — Skills and repeatable workflows.
+Top-level folders:
+- `Projects/` — project memory folders.
+- `Skills/` — repeatable workflows and procedural instructions.
 
-Project abbreviations:
-- `E404` — Error 404: God Not Found / Ошибка 404: Бог не найден.
-- `MNL` — MONOLITH trilogy / трилогия МОНОЛИТ.
-- `CSW` — Church of Saint Whine / "Церковь" Святого Нытья.
-- `ASH` — Ashraellen main ecosystem.
+Project folders:
+- `Error404` — Error 404: God Not Found / Ошибка 404: Бог не найден.
+- `MONOLITH` — MONOLITH trilogy / трилогия МОНОЛИТ.
+- `SaintWhine` — Church of Saint Whine / "Церковь" Святого Нытья.
+- `Ashraellen` — Ashraellen main ecosystem.
