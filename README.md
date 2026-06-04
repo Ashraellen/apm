@@ -5,30 +5,33 @@ APM is a private memory repository for Ashraellen's creative ecosystem.
 Purpose:
 - keep project canon in one place;
 - preserve style guides and key decisions;
-- provide short project maps for new chats and Codex sessions;
+- provide project maps for new chats and Codex sessions;
 - avoid reteaching every project from zero.
 
 Naming rule:
-- folder names use abbreviations;
-- each folder contains `IDX.md`;
-- `IDX.md` explains all abbreviations and gives short descriptions.
+- names should be readable and fit comfortably on screen;
+- project folders use clear short names, not hard abbreviations;
+- technical files may use short names when useful;
+- each main folder contains `IDX.md`;
+- `IDX.md` explains the folder and gives a short file map.
 
 Top-level structure:
 
 ```text
 AGENTS.md  — general working instructions for Codex/AI sessions
-P/         — projects
-S/         — skills and repeatable workflows
+ABR.md     — root abbreviation dictionary
+Projects/  — project memory folders
+Skills/    — skills and repeatable workflows
 ```
 
-Current project abbreviations:
+Current project folders:
 
 ```text
-E404 — Error 404: God Not Found / Ошибка 404: Бог не найден
-MNL  — MONOLITH trilogy / трилогия МОНОЛИТ
-CSW  — Church of Saint Whine / "Церковь" Святого Нытья
-ASH  — Ashraellen main ecosystem / основной проект Ashraellen
+Error404    — Error 404: God Not Found / Ошибка 404: Бог не найден
+MONOLITH    — MONOLITH trilogy / трилогия МОНОЛИТ
+SaintWhine  — Church of Saint Whine / "Церковь" Святого Нытья
+Ashraellen  — Ashraellen main ecosystem / основной проект Ashraellen
 ```
 
 Working principle:
-Before working on any project, read the root `AGENTS.md`, then the relevant project `IDX.md`, then the specific project files.
+Before working on any project, read the root `AGENTS.md`, then `ABR.md`, then the relevant project `IDX.md`, then the specific project files.
