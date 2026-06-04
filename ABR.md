@@ -7,11 +7,11 @@ This file is the root abbreviation dictionary for APM.
 ## Root
 
 ```text
-APM — Ashraellen Project Memory
-ABR — Abbreviations
-IDX — Index
-P   — Projects
-S   — Skills
+APM      — Ashraellen Project Memory
+ABR      — Abbreviations
+IDX      — Index
+Projects — Project memory folders
+Skills   — Skills and repeatable workflows
 ```
 
 ## Project folders
@@ -50,13 +50,15 @@ PKD — Polish activity codes and business notes
 
 ## Skill folders
 
+Skill folder names should be readable and still fit comfortably on screen.
+
 ```text
-BCF — Build Chapter Files
-TSL — Translate SLUDGE
-YMD — YouTube Metadata
-GPF — Grant Profile
-PVB — Post Visual Brief
+BuildChapterFiles — Build Chapter Files
+TranslateSLUDGE   — Translate SLUDGE
+YouTubeMetadata   — YouTube Metadata
+GrantProfile      — Grant Profile
+PostVisualBrief   — Post Visual Brief
 ```
 
 Rule:
-When adding a new abbreviation, update this file and the relevant local `IDX.md`.
+When adding a new abbreviation or naming convention, update this file and the relevant local `IDX.md`.
