@@ -25,27 +25,71 @@ MONOLITH    — MONOLITH trilogy
 SaintWhine  — Church of Saint Whine
 ```
 
-## Common file names
+## Core file naming principle
+
+Use readable file names for main working files.
+
+Abbreviations are allowed for:
+- dictionaries;
+- technical notes;
+- legacy references;
+- very short helper files where the meaning is obvious from the folder.
+
+Abbreviations are not recommended for core project canon files if they make the structure harder to understand later.
+
+Correct for main working files:
 
 ```text
-INDEX — Index file: folder description and short file map
-PB    — Project Bible: core canon, concept, and key decisions
-STL   — Style Guide: tone, rhythm, rules, prohibitions
-CHP   — Chapter Plan: chapter structure and development map
-CHR   — Characters: characters, functions, voices, dynamics
-FN    — File Naming: naming rules and file patterns
-W7    — Window 7: Window №7 principle and mechanism
-CAN   — Canon: sacred/core rules of a project
-VIS   — Visual Rules: image and design principles
-REV   — Revelation Template: structure for SaintWhine revelations
-TAG   — Tags and Metadata: hashtags, keywords, descriptions
-TRS   — Translation Rules for SLUDGE / ЖИЖА
-PUB   — Publication Data: platforms, editions, links, notes
-BIO   — Biography: public author bio and positioning
-GST   — Grant Strategy: grant profile and applications
-WEB   — Website: structure, languages, pages
-CNT   — Content: channel style and content rules
-PKD   — Polish activity codes and business notes
+Project_Bible.md
+Style_Guide.md
+Chapter_Plan.md
+Characters.md
+Window_7.md
+Visual_Rules.md
+Publication_Data.md
+Grant_Strategy.md
+Website.md
+Content_Rules.md
+```
+
+Not recommended as primary working names:
+
+```text
+PB.md
+STL.md
+CHP.md
+CHR.md
+W7.md
+VIS.md
+PUB.md
+GST.md
+WEB.md
+CNT.md
+```
+
+## Legacy / short file-name dictionary
+
+These short names may appear in older notes, indexes, or previous versions.
+When possible, prefer the readable file name shown in the right column.
+
+```text
+PB    — Project_Bible.md: core canon, concept, and key decisions
+STL   — Style_Guide.md: tone, rhythm, style rules, prohibitions
+CHP   — Chapter_Plan.md: chapter structure and development map
+CHR   — Characters.md: characters, functions, voices, dynamics
+FN    — File_Naming.md: naming rules and file patterns
+W7    — Window_7.md: Window №7 principle and mechanism
+CAN   — Canon.md: sacred/core rules of a project
+VIS   — Visual_Rules.md: image and design principles
+REV   — Revelation_Template.md: structure for SaintWhine revelations
+TAG   — Tags_Metadata.md: hashtags, keywords, descriptions
+TRS   — Translation_Rules_SLUDGE.md: translation rules for SLUDGE / ЖИЖА
+PUB   — Publication_Data.md: platforms, editions, links, notes
+BIO   — Biography.md: public author bio and positioning
+GST   — Grant_Strategy.md: grant profile and applications
+WEB   — Website.md: structure, languages, pages
+CNT   — Content_Rules.md: channel style and content rules
+PKD   — Polish_Activity_Codes.md: Polish activity codes and business notes
 ```
 
 ## Skill folders
