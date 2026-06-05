@@ -37,9 +37,9 @@ Language code is placed after the main project code and separated with a hyphen.
 Example:
 
 ```text
-E404GNFB1WM-RU_CH13_v2.md
-E404GNFB1WM-EN_CH13_v1.md
-E404GNFB1WM-PL_CH13_v1.md
+E404GNFB1WM-RU_CH-001_v1.md
+E404GNFB1WM-EN_CH-001_v1.md
+E404GNFB1WM-PL_CH-001_v1.md
 ```
 
 ---
@@ -66,6 +66,7 @@ E404GNFB1WM-PL_CH13_v1.md
 | 03_VOLUME_II | Volume II | Materials for the second volume/book |
 | 04_VOLUME_III | Volume III | Materials for the third volume/book |
 | 05_PROD_MKT | Production & Marketing | Covers, descriptions, site texts, promotion, publication materials |
+| 98_TRASH_REVIEW | Temporary review before deletion | Temporary holding folder for old non-archival files |
 | 99_AOV | Archive Old Versions | Archive for older versions of chapters or documents |
 
 ---
@@ -76,6 +77,7 @@ Folder numbers are used for sorting.
 
 - `00` means core/root materials.
 - `01`, `02`, `03`, etc. show the main working order.
+- `98` means temporary review before possible deletion.
 - `99` means archive or non-current materials.
 
 Example:
@@ -87,6 +89,7 @@ Example:
 03_VOLUME_II
 04_VOLUME_III
 05_PROD_MKT
+98_TRASH_REVIEW
 99_AOV
 ```
 
@@ -94,12 +97,12 @@ The `99_` prefix keeps archive folders at the bottom of the list and prevents ol
 
 ---
 
-## 6. Short chapter file naming pattern
+## 6. Current chapter file naming pattern
 
-Recommended short chapter file naming pattern:
+Current chapter file naming pattern:
 
 ```text
-E404GNFB1WM-LANG_CHXX_vN.ext
+E404GNFB1WM-LANG_CH-XXX_vN.ext
 ```
 
 Where:
@@ -111,56 +114,74 @@ Where:
 | B1 | Book 1 |
 | WM | Why Me? |
 | LANG | Language code: RU, EN, PL, etc. |
-| CHXX | Chapter number, always two digits |
+| CH-XXX | Chapter number, always three digits |
 | vN | Version number |
 | ext | File extension: md, docx, txt, pdf, etc. |
 
 Examples:
 
 ```text
-E404GNFB1WM-RU_CH01_v1.md
-E404GNFB1WM-RU_CH13_v2.docx
-E404GNFB1WM-RU_CH22_v2.txt
-E404GNFB1WM-EN_CH13_v1.md
-E404GNFB1WM-PL_CH13_v1.md
+E404GNFB1WM-RU_CH-001_v1.md
+E404GNFB1WM-RU_CH-001_v1.docx
+E404GNFB1WM-RU_CH-001_v1.txt
+
+E404GNFB1WM-RU_CH-013_v2.md
+E404GNFB1WM-RU_CH-021_v3.docx
+E404GNFB1WM-RU_CH-022_v2.txt
 ```
 
-Underscores are used only before the chapter number and the version:
+For future translations:
 
 ```text
-_CHXX
-_vN
+E404GNFB1WM-EN_CH-001_v1.md
+E404GNFB1WM-PL_CH-001_v1.md
 ```
 
-The language code is separated with a hyphen:
+---
+
+## 7. Chapter number logic
+
+Chapter numbers use three digits after `CH-`.
 
 ```text
--LANG
+CH-001 = Chapter 1
+CH-002 = Chapter 2
+CH-003 = Chapter 3
+CH-009 = Chapter 9
+CH-010 = Chapter 10
+CH-011 = Chapter 11
+CH-021 = Chapter 21
+CH-022 = Chapter 22
 ```
+
+This keeps files sorted correctly in Google Drive and avoids confusion between chapter 1, chapter 11, and chapter 21.
 
 Correct:
 
 ```text
-E404GNFB1WM-RU_CH13_v2.md
+E404GNFB1WM-RU_CH-001_v1.md
+E404GNFB1WM-RU_CH-011_v1.md
+E404GNFB1WM-RU_CH-021_v3.md
 ```
 
 Not recommended:
 
 ```text
-E404_GNF_Book1_Why_Me_Glava_13_Korobka_v2.md
-E404_GNF_B1_WM_G13_v2.md
+E404GNFB1WM-RU_CH01_v1.md
+E404GNFB1WM-RU_CH1_v1.md
+E404_GNF_Book1_Why_Me_Glava_1_Title_v1.md
 ```
 
 ---
 
-## 7. Version logic for chapters
+## 8. Version logic for chapters
 
 The main rule:
 
 ```text
 Chapter number is more important than chapter title.
 The highest version number is considered current.
-Older versions must be moved to 99_AOV, not deleted immediately.
+Older versions must be moved to 99_AOV or 98_TRASH_REVIEW according to file type.
 ```
 
 Titles may change after rewriting.  
@@ -179,32 +200,34 @@ Not primarily on the title.
 
 ---
 
-## 8. Example of chapter version sorting
+## 9. Example of chapter version sorting
 
 Example:
 
 ```text
-E404GNFB1WM-RU_CH19_v1.md
-E404GNFB1WM-RU_CH19_v2.md
-E404GNFB1WM-RU_CH19_v3.md
+E404GNFB1WM-RU_CH-019_v1.md
+E404GNFB1WM-RU_CH-019_v2.md
+E404GNFB1WM-RU_CH-019_v3.md
 ```
 
 Current version:
 
 ```text
-E404GNFB1WM-RU_CH19_v3.md
+E404GNFB1WM-RU_CH-019_v3.md
 ```
 
 Archive:
 
 ```text
-E404GNFB1WM-RU_CH19_v1.md
-E404GNFB1WM-RU_CH19_v2.md
+E404GNFB1WM-RU_CH-019_v1.md
+E404GNFB1WM-RU_CH-019_v2.md
 ```
+
+The same logic applies to `.docx` and `.txt`, but old `.docx` and `.txt` do not need to be preserved permanently if the old `.md` exists.
 
 ---
 
-## 9. Working and archive format rules
+## 10. Working and archive format rules
 
 For the current working version of a chapter, keep all main working formats:
 
@@ -217,9 +240,9 @@ For the current working version of a chapter, keep all main working formats:
 Example:
 
 ```text
-E404GNFB1WM-RU_CH13_v2.md
-E404GNFB1WM-RU_CH13_v2.docx
-E404GNFB1WM-RU_CH13_v2.txt
+E404GNFB1WM-RU_CH-013_v2.md
+E404GNFB1WM-RU_CH-013_v2.docx
+E404GNFB1WM-RU_CH-013_v2.txt
 ```
 
 For old archived versions, keep only the clean text source:
@@ -231,7 +254,7 @@ For old archived versions, keep only the clean text source:
 Example:
 
 ```text
-99_AOV/E404GNFB1WM-RU_CH13_v1.md
+99_AOV/E404GNFB1WM-RU_CH-013_v1.md
 ```
 
 Old `.docx` and `.txt` files do not need to be preserved in the archive if the matching `.md` version exists and has been checked.
@@ -245,7 +268,7 @@ Old archived chapter version = md only
 
 ---
 
-## 10. Archive rule
+## 11. Archive and review rules
 
 The archive is not trash.
 
@@ -253,9 +276,7 @@ The archive is not trash.
 
 Do not delete older chapter versions until the matching `.md` archive copy has been checked.
 
-After confirmation, old `.docx` and `.txt` files for archived versions may be deleted or temporarily placed in a review folder.
-
-Possible temporary review folder:
+Old `.docx` and `.txt` files for outdated versions may be moved to:
 
 ```text
 98_TRASH_REVIEW
@@ -265,17 +286,17 @@ This folder is only for files planned for deletion after manual confirmation.
 
 ---
 
-## 11. Recommended cleanup workflow
+## 12. Recommended cleanup workflow
 
 For each chapter:
 
 ```text
-1. Rename files using the short naming pattern.
+1. Rename files using the current naming pattern.
 2. Identify the highest version number for each chapter.
 3. Keep the highest version in the working folder.
 4. Keep md + docx + txt only for the current version.
 5. Move older md files to 99_AOV.
-6. Delete or review old docx/txt files only after the md archive is confirmed.
+6. Move older docx/txt files to 98_TRASH_REVIEW or delete after manual confirmation.
 ```
 
 Example:
@@ -283,30 +304,30 @@ Example:
 Working folder:
 
 ```text
-E404GNFB1WM-RU_CH19_v3.md
-E404GNFB1WM-RU_CH19_v3.docx
-E404GNFB1WM-RU_CH19_v3.txt
+E404GNFB1WM-RU_CH-019_v3.md
+E404GNFB1WM-RU_CH-019_v3.docx
+E404GNFB1WM-RU_CH-019_v3.txt
 ```
 
 Archive:
 
 ```text
-99_AOV/E404GNFB1WM-RU_CH19_v1.md
-99_AOV/E404GNFB1WM-RU_CH19_v2.md
+99_AOV/E404GNFB1WM-RU_CH-019_v1.md
+99_AOV/E404GNFB1WM-RU_CH-019_v2.md
 ```
 
-Old removable files after confirmation:
+Temporary review:
 
 ```text
-E404GNFB1WM-RU_CH19_v1.docx
-E404GNFB1WM-RU_CH19_v1.txt
-E404GNFB1WM-RU_CH19_v2.docx
-E404GNFB1WM-RU_CH19_v2.txt
+98_TRASH_REVIEW/E404GNFB1WM-RU_CH-019_v1.docx
+98_TRASH_REVIEW/E404GNFB1WM-RU_CH-019_v1.txt
+98_TRASH_REVIEW/E404GNFB1WM-RU_CH-019_v2.docx
+98_TRASH_REVIEW/E404GNFB1WM-RU_CH-019_v2.txt
 ```
 
 ---
 
-## 12. Final working principle
+## 13. Final working principle
 
 ```text
 Keep the current version visible.
