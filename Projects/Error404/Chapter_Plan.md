@@ -238,36 +238,78 @@ System summary:
 
 ---
 
-## 9. Current chapter-file naming rule from v12 source
+## 9. Chapter file names: storage name vs index title
 
-For working chapter files, the full source fixed this readable naming format:
+Use two layers of chapter naming.
 
-```text
-E404_GNF_Book1_Why_Me_Glava_01_Oshibka_404.md
-E404_GNF_Book1_Why_Me_Glava_01_Oshibka_404.docx
-E404_GNF_Book1_Why_Me_Glava_01_Oshibka_404.txt
-```
+### 9.1. Storage file name
 
-For corrected versions:
+For actual stored files, use the compact stable pattern:
 
 ```text
-E404_GNF_Book1_Why_Me_Glava_01_Oshibka_404_v2.docx
-E404_GNF_Book1_Why_Me_Glava_03_Demon_Korrektnyh_Formulirovok_v2.docx
+E404GNFB1WM-LANG_CH-XXX_vN.ext
 ```
 
-Rules:
-- chapter number always two digits: 01, 02, 03;
-- chapter title in transliteration or English without spaces;
-- spaces replaced by underscores;
-- do not use random long variants;
-- for corrected versions add `v2`, `v3` at the end.
+Examples:
 
-Important note:
-This readable naming rule supersedes the overly compressed later experiment `E404GNFB1WM-RU_CH-XXX_vN.ext` for user-facing working chapter files.
+```text
+E404GNFB1WM-RU_CH-001_v1.md
+E404GNFB1WM-RU_CH-001_v1.docx
+E404GNFB1WM-RU_CH-001_v1.txt
+
+E404GNFB1WM-RU_CH-013_v2.md
+E404GNFB1WM-RU_CH-021_v3.docx
+E404GNFB1WM-RU_CH-022_v2.txt
+```
+
+This format is best for storage, sorting, multilingual versions, and version control.
+
+### 9.2. Index / table-of-contents display name
+
+In folder indexes, chapter maps, and human-facing tables of contents, write chapters with a readable expanded name:
+
+```text
+E404_GNF_Book1_Why_Me_Glava_01_Oshibka_404_v1.docx — Глава 1. Ошибка 404
+```
+
+This readable line is not necessarily the physical storage filename. It is a human navigation label, useful for quickly understanding what the chapter is.
+
+### 9.3. Rule
+
+Do not treat the compact storage name and readable index title as enemies.
+
+Use:
+- compact pattern for real files;
+- readable expanded pattern in indexes and chapter descriptions.
+
+The compact file keeps the machine calm.
+The readable index keeps the author sane.
 
 ---
 
-## 10. Formats for ready chapters
+## 10. Chapter number rules
+
+For storage files:
+- use `CH-001`, `CH-002`, `CH-003`, etc.;
+- always three digits after `CH-`.
+
+For readable index titles:
+- use `Glava_01`, `Glava_02`, `Glava_03`, etc.;
+- always two digits in the readable Russian-style title.
+
+Example pair:
+
+```text
+Stored file:
+E404GNFB1WM-RU_CH-001_v1.docx
+
+Index line:
+E404_GNF_Book1_Why_Me_Glava_01_Oshibka_404_v1.docx — Глава 1. Ошибка 404
+```
+
+---
+
+## 11. Formats for ready chapters
 
 For each ready chapter keep three formats:
 
@@ -277,7 +319,7 @@ For each ready chapter keep three formats:
 
 ---
 
-## 11. Practical development rule
+## 12. Practical development rule
 
 When planning or revising chapters:
 
