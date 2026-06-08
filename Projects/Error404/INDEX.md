@@ -2,17 +2,39 @@
 
 `Error404` means **Error 404: God Not Found**.
 
-Russian title:
+Russian working title:
 
 **Ошибка 404: Бог не найден**
+
+Current format:
+
+**multilingual philosophical-satirical novel cycle / series**
 
 Book I:
 
 **Почему я? / Why Me?**
 
+Book II working title:
+
+**На всё воля Его**
+
+Possible English working title:
+
+**On All Things His Will**
+
 Short description:
 
-A philosophical satire with mystical bureaucracy, domestic absurdity, pain under humor, and the movement from **"Why me?" / "Почему я?"** to **"Who is asking?" / "Кто спрашивает?"**.
+A multilingual cycle of philosophical-satirical novels about the Heavenly Chancellery and people who try to find God, Truth, justice, meaning, or an answer — but search through distorted forms of their own fear, pain, profession, faith, knowledge, or self-deception.
+
+Main formula:
+
+```text
+God is not “not found” because He does not exist.
+God is not found because the human being searches for Him as an object, address, instance, proof, justification, or support service.
+
+The error is not in God.
+The error is in the mode of search.
+```
 
 ---
 
@@ -20,8 +42,9 @@ A philosophical satire with mystical bureaucracy, domestic absurdity, pain under
 
 Book I has been written as a completed 22-chapter draft.
 
-This folder is now not only a planning folder for Book I.  
-It is the working memory for the whole trilogy:
+This folder is now the working memory for the whole **Error 404: God Not Found** cycle.
+
+Old planning treated the project as a trilogy:
 
 ```text
 Book I   — Why Me? / Почему я?
@@ -29,8 +52,19 @@ Book II  — Who Is Asking? / Кто спрашивает?
 Book III — Not Found / Не найден
 ```
 
+That structure remains useful as an internal philosophical movement, but it is no longer the final external format.
+
+Current external logic:
+
+```text
+Book I   — Why Me? / Почему я? — completed 22-chapter draft
+Book II  — На всё воля Его — planned next book
+Future books — separate “cases” of the Heavenly Chancellery
+```
+
 Do not treat old Book I planning material as current chapter structure.
-Old structures may still be valuable for Book II and Book III, but only as archived ore / future reservoir.
+
+Old structures may still be valuable for future books, but only as archived ore / future reservoir.
 
 ---
 
@@ -44,8 +78,9 @@ Chapter_Plan.md                  — Book I chapter architecture + old source ma
 Window_7.md                      — Window №7 principle and mechanism
 Characters.md                    — Characters and functions
 Book1_Completed_Map.md           — Completed Book I map and final state after the 22-chapter draft
-Trilogy_Arc.md                   — Structural arc of Books I–III
-Future_Reservoir_Books_II_III.md — Old structures, unused nodes, and future-use material for Books II–III
+Cycle_Arc.md                     — Current cycle / series arc and future-book logic
+Trilogy_Arc.md                   — Archived older trilogy spine; use as internal philosophical reservoir, not final structure
+Future_Reservoir_Books_II_III.md — Old structures, unused nodes, and future-use material for later books
 ```
 
 ---
@@ -76,7 +111,7 @@ Before working on Error404, read:
 4. Projects/Error404/Project_Bible.md
 5. Projects/Error404/Style_Guide.md
 6. Projects/Error404/Book1_Completed_Map.md
-7. Projects/Error404/Trilogy_Arc.md
+7. Projects/Error404/Cycle_Arc.md
 ```
 
 Then read specific files depending on the task:
@@ -85,7 +120,8 @@ Then read specific files depending on the task:
 Window_7.md                      — if working with Window №7, Chancellery surfaces, non-conversations
 Characters.md                    — if working with Vlad, Anna, Poshpshekhon, secondary figures
 Chapter_Plan.md                  — if checking old Book I architecture or structural logic
-Future_Reservoir_Books_II_III.md — if planning Books II–III and mining old unused material
+Trilogy_Arc.md                   — if mining the older trilogy spine as archived philosophical ore
+Future_Reservoir_Books_II_III.md — if planning future books and mining old unused material
 README_ABBREVIATIONS.md          — if naming, archiving, or sorting files
 ```
 
@@ -198,77 +234,35 @@ Physical stored files may use the compact storage pattern.
     Miracles are checked against recipient expectations. Salvation may arrive in an unacceptable form.
 
 12. Donner Kebab
-    Poshpshekhon appears once. Truth arrives through kebab, not through a golden microphone. Vlad rejects it as rudeness.
+    Vlad meets ordinary enlightened people without spiritual performance. The encounter cracks his complaint.
 
-13. Курс успешного духовного успеха
-    Vlad enters spiritual marketing to expose packaging. The box motif becomes visible.
+13. Коробка
+    Vlad sees that he stores proofs, scripts, and reasons not to let go.
 
-14. Коробка
-    Domestic sorting of boxes reveals proofs, scripts, old reasons, and unfinished versions of Vlad.
+14. Пока не готов
+    The phrase becomes a real state, not an excuse.
 
-15. Пока не готов
-    "Пока не готов" is tested through action: honest pause or new residence for resistance.
+15. Слой скриптов
+    Vlad begins noticing automatic inner phrases as scripts, not truth.
 
-16. Автоответчик
-    Vlad notices old phrases answering before him. The old pain speaks in his voice.
+16. Старый запуск
+    An old script starts in an earthly situation; Vlad cannot yet stop it, but notices it.
 
-17. Кто спрашивает?
-    The question "Почему я?" begins to lose a stable author.
+17. Пользовательское соглашение
+    Vlad begins to see the hidden terms he accepted long ago.
 
-18. Удостоверение личности
-    Name, role, code, document, and identity are tested through everyday life. The applicant is not fully presented.
+18. Техническая поддержка
+    The Chancellery does not solve his life but shows the request behind the request.
 
-19. Отдел идентификации заявителя
-    Vlad tries to present the claimant. Body, name, role, and question appear, but the sender remains unconfirmed.
+19. Архив заявителя
+    The applicant is checked through old files, memories, roles, and signatures.
 
-20. Запрос не отправлен
-    The old complaint can no longer be submitted in the same form. "Господи. Мне больно." remains without accusation.
+20. Неверная категория
+    Vlad's appeal is reclassified; the question no longer belongs where he filed it.
 
-21. Окно №7. Повторное обращение
-    Vlad returns to Window №7, but no longer as the same claimant. The state is accepted, not turned into a claim.
+21. Кто спрашивает?
+    The old complaint is damaged; the applicant begins to split into voices, roles, and wounds.
 
 22. Пользователь не найден
-    The former user who tried to use God as a service for confirming pain is no longer found in the old way.
+    The old user is no longer found in the previous form. Book I ends not with enlightenment, but with a broken applicant identity.
 ```
-
-Final bridge:
-
-```text
-For continuation, specify: who is asking?
-```
-
----
-
-## Book I completion warning
-
-When writing Book II, do not reset Vlad to the start of Book I.
-
-He may relapse, joke, resist, avoid, and formalize pain again.
-
-But he cannot unknow Book I.
-
-The old mechanism still exists, but it is damaged by recognition.
-
-That damage is the bridge into Book II.
-
----
-
-## Future-use rule
-
-Old structures, unused departments, and rejected chapter plans are not trash.
-
-They belong in:
-
-```text
-Future_Reservoir_Books_II_III.md
-```
-
-They should be treated as:
-
-```text
-Archived ore.
-Possible future material.
-Not current Book I structure.
-```
-
-Use only what still burns.
