@@ -1,5 +1,11 @@
 # APM — Ashraellen Project Memory
 
+Canonical repository:
+
+```text
+Ashraellen/apm
+```
+
 APM is a private memory repository for Ashraellen's creative ecosystem.
 
 Purpose:
