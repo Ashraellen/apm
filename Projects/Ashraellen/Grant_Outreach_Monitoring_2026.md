@@ -64,6 +64,8 @@ Ashraellen не подаётся как блог, YouTube-проект, духо
 | 1 | 2026-06-09 | Fundacja Bęc Zmiana | Польша / Варшава | не зафиксировано в этом файле | современная культура, публикации, interdisciplinary projects, public knowledge, artistic research, цифровой архив | короткая письменная консультация, возможное институциональное направление, проверка читаемости проекта | отправлено | ориентировочно через 10–14 дней, если не будет ответа |
 | 2 | 2026-06-09 | Fundacja Strefa WolnoSłowa | Польша / Варшава | не зафиксировано в этом файле | миграционный опыт, жизнь между языками и системами, публичный голос, художественная практика наблюдения | короткая консультация, возможное направление, подходящий человек / программа / формат | отправлено | ориентировочно через 10–14 дней, если не будет ответа |
 | 3 | 2026-06-09 | Fundacja Pogranicze / Ośrodek "Pogranicze – sztuk, kultur, narodów" | Польша / Sejny | не зафиксировано в этом файле | внутреннее пограничье, языки, память, системы, культура, литература, Центрально-Восточная Европа | короткая письменная консультация, возможное направление, передача письма подходящему человеку | отправлено | ориентировочно через 10–14 дней, если не будет ответа |
+| 4 | 2026-06-09 | Fundacja Panoptykon | Польша / Варшава | fundacja@panoptykon.org | человек в цифровой среде, информационный шум, наблюдение, самоцензура, утрата внутренней автономии | короткая письменная консультация, проверка релевантности проекта, возможное направление | отправлено | ориентировочно через 10–14 дней, если не будет ответа |
+| 5 | 2026-06-09 | Instytut Badań Literackich PAN / IBL PAN | Польша / Варшава | sekretariat@ibl.waw.pl | литература как форма исследования опыта, языка, памяти, нарратива и самообмана | короткая письменная консультация, направление к подходящей pracownia / исследователю / литературоведческому контексту | отправлено | ориентировочно через 10–14 дней, если не будет ответа |
 
 ---
 
@@ -207,6 +209,103 @@ Ashraellen не подаётся как блог, YouTube-проект, духо
 
 ---
 
+### 5.4. Fundacja Panoptykon
+
+**Дата отправки:** 2026-06-09  
+**Статус:** отправлено  
+**Тип обращения:** первое пристрелочное письмо  
+**Язык:** польский  
+**Адрес:** fundacja@panoptykon.org  
+
+#### Угол обращения
+
+Проект был представлен через следующие рамки:
+
+- człowiek w środowisku cyfrowym;
+- hałas informacyjny;
+- presja narracji;
+- obserwacja i samoobserwacja;
+- autocenzura;
+- utrata autonomii wewnętrznej;
+- publiczna / artystyczna refleksja nad światem cyfrowym;
+- Ashraellen как художественно-философская практика наблюдения, а не правовой, политический или технический проект.
+
+#### Что было важно подчеркнуть
+
+1. Ashraellen не исследует технологии в техническом или юридическом смысле.
+2. Проект исследует человека, живущего под давлением цифровой среды.
+3. В центре — информационный шум, чужие нарративы, постоянная видимость, механизмы самонаблюдения, самоцензура и утрата внутренней автономии.
+4. Литература, сатира, короткие публичные формы, видео, звук, визуальные формулы и цифровой архив — разные инструменты одной практики наблюдения.
+5. Проект не является блогом, терапией, духовной доктриной, политической кампанией, юридическим проектом или техническим исследованием алгоритмов.
+6. На первом этапе запрошена короткая письменная консультация, проверка релевантности и возможное направление.
+
+#### Использованные ссылки
+
+Точные ссылки отправленного письма в этом файле не зафиксированы. Рекомендуемый набор для этой институции:
+
+- https://www.ashraellen.com/pl/
+- https://www.ashraellen.com/pl/professional/
+- https://www.ashraellen.com/pl/research/
+- https://www.ashraellen.com/pl/public/
+- https://www.ashraellen.com/en/professional/
+
+#### Возможный follow-up
+
+Если ответа не будет через 10–14 дней, можно отправить короткое напоминание:
+
+> Szanowni Państwo, pozwalam sobie uprzejmie wrócić do mojej wiadomości dotyczącej projektu Ashraellen jako niezależnej praktyki obserwacji człowieka w środowisku cyfrowym. Będę wdzięczny za krótką informację, czy projekt może być dla Państwa interesujący jako kulturowa forma refleksji nad hałasem informacyjnym, samoobserwacją, autocenzurą i utratą wewnętrznej autonomii — albo czy mogliby Państwo wskazać właściwszy kierunek.
+
+---
+
+### 5.5. Instytut Badań Literackich PAN / IBL PAN
+
+**Дата отправки:** 2026-06-09  
+**Статус:** отправлено  
+**Тип обращения:** первое пристрелочное письмо  
+**Язык:** польский  
+**Адрес:** sekretariat@ibl.waw.pl  
+
+#### Угол обращения
+
+Проект был представлен через следующие рамки:
+
+- praktyka literacko-filozoficzna;
+- literatura jako forma badania doświadczenia;
+- język;
+- pamięć;
+- narracja;
+- samooszustwo;
+- utrata kontaktu z rzeczywistością;
+- wielojęzyczne archiwum autorskie;
+- niezależna praktyka poza tradycyjną instytucją akademicką, ale nie poza powagą myślenia literackiego.
+
+#### Что было важно подчеркнуть
+
+1. Ashraellen — независимая литературно-философская и художественно-исследовательская практика.
+2. В проекте литература не является иллюстрацией готовых тезисов, а становится инструментом исследования опыта, языка, памяти, нарратива и самообмана.
+3. Проект не является просьбой о публикации, гранте, поступлении, академическом руководстве или признании.
+4. На первом этапе нужна консультация / направление к подходящей pracownia / исследователю / литературоведческому контексту.
+5. Русский язык является языком рождения смысла, ритма и литературного напряжения.
+6. Польская и английская версии рассматриваются как каналы доступа к исходному ядру работы.
+
+#### Использованные ссылки
+
+Точные ссылки отправленного письма в этом файле не зафиксированы. Рекомендуемый набор для этой институции:
+
+- https://www.ashraellen.com/pl/
+- https://www.ashraellen.com/pl/professional/
+- https://www.ashraellen.com/pl/research/
+- https://www.ashraellen.com/pl/books/
+- https://www.ashraellen.com/en/professional/
+
+#### Возможный follow-up
+
+Если ответа не будет через 10–14 дней, можно отправить короткое напоминание:
+
+> Szanowni Państwo, pozwalam sobie uprzejmie wrócić do mojej wiadomości dotyczącej projektu Ashraellen jako niezależnej praktyki literacko-filozoficznej, w której literatura działa jako forma badania doświadczenia, języka, pamięci, narracji i samooszustwa. Będę wdzięczny za krótką informację, czy projekt może być właściwy dla którejś z pracowni Instytutu albo czy mogliby Państwo wskazać odpowiednią osobę lub kierunek kontaktu.
+
+---
+
 ## 6. Что делать дальше
 
 ### 6.1. Ждать ответы
@@ -219,7 +318,7 @@ Ashraellen не подаётся как блог, YouTube-проект, духо
 
 ### 6.2. Не отправлять массовую рассылку слишком широко
 
-Первые три письма — пристрелочная тройка. Нужно посмотреть:
+Первые пять писем — пристрелочная пятёрка. Нужно посмотреть:
 
 1. будет ли ответ;
 2. какой тон ответа;
@@ -273,21 +372,31 @@ Ashraellen не подаётся как блог, YouTube-проект, духо
 
 > wewnętrzne pogranicze: miejsce spotkania języka, pamięci, doświadczenia migracyjnego, literatury, systemów politycznych i pytania o rzeczywistość.
 
-### 8.4. Общая защитная формула
+### 8.4. Для Fundacja Panoptykon
+
+> praktyka obserwacji człowieka żyjącego pod presją środowiska cyfrowego: hałasu informacyjnego, cudzych narracji, ciągłej widzialności, mechanizmów samoobserwacji, autocenzury i utraty wewnętrznej autonomii.
+
+### 8.5. Для IBL PAN
+
+> literatura nie pełni funkcji ilustracji gotowych tez, lecz staje się narzędziem badania doświadczenia, języka, pamięci, narracji, samooszustwa i utraty kontaktu z rzeczywistością.
+
+### 8.6. Общая защитная формула
 
 > Projekt nie jest blogiem, terapią, nauczaniem duchowym ani programem motywacyjnym. Nie oferuje systemu pomocy ani gotowej ideologii. Tworzy formy obserwacji.
 
 ---
 
-## 9. Главный вывод после первой тройки
+## 9. Главный вывод после первой пятёрки
 
-Первая пристрелочная тройка закрыта.
+Первая пристрелочная пятёрка закрыта.
 
-Ashraellen был представлен в трёх разных, но совместимых ракурсах:
+Ashraellen был представлен в пяти разных, но совместимых ракурсах:
 
 1. **Bęc Zmiana** — современная культура и публичное знание;
 2. **Strefa WolnoSłowa** — миграционный опыт и публичный голос;
-3. **Pogranicze** — внутреннее пограничье языка, памяти, системы и культуры.
+3. **Pogranicze** — внутреннее пограничье языка, памяти, системы и культуры;
+4. **Panoptykon** — человек в цифровой среде, информационный шум, самоцензура и утрата внутренней автономии;
+5. **IBL PAN** — литература как форма исследования опыта, языка, памяти, нарратива и самообмана.
 
 Это даёт хорошую основу для дальнейших обращений. Важно продолжать не массовой рассылкой, а точечными письмами, где каждый раз меняется вход, но не меняется ядро проекта.
 
