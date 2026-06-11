@@ -39,6 +39,25 @@ Outreach status           — Grant_Outreach_Monitoring_2026.md
 Institutional package     — Grants/<Institution>/
 ```
 
+Current outreach status:
+
+```text
+As of 2026-06-11, five first-contact institutional letters have been sent.
+Date sent: 2026-06-09.
+Status source: Grant_Outreach_Monitoring_2026.md.
+Follow-up window: 2026-06-19 — 2026-06-23, if there is no response.
+```
+
+Sent institutional letters:
+
+```text
+1. Fundacja Bęc Zmiana
+2. Fundacja Strefa WolnoSłowa
+3. Fundacja Pogranicze / Ośrodek "Pogranicze – sztuk, kultur, narodów"
+4. Fundacja Panoptykon
+5. Instytut Badań Literackich PAN / IBL PAN
+```
+
 Grants structure:
 
 ```text
