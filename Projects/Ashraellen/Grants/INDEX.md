@@ -27,7 +27,12 @@ Archive/                    — older drafts and outdated variants when needed
 Current institution folders:
 
 ```text
-EV — Emergent Ventures / Mercatus Center
+EV          — Emergent Ventures / Mercatus Center
+Kone        — Kone Foundation
+Templeton   — John Templeton Foundation
+ISRF        — Independent Social Research Foundation
+Visegrad    — Visegrad Fund
+Panoptykon  — Fundacja Panoptykon
 ```
 
 General positioning rule:
