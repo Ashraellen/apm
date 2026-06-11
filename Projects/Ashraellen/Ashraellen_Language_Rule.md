@@ -1,6 +1,7 @@
 # Ashraellen — языковое правило проекта
 
 Дата фиксации: 2026-06-11  
+Дата очистки ссылок: 2026-06-11  
 Проект: Ashraellen  
 Назначение файла: общее языковое правило для всех будущих чатов, писем, грантовых заявок, переводов, партнёрских материалов и институциональной коммуникации.
 
@@ -89,13 +90,12 @@ Ashraellen нельзя правильно представить, если ис
 
 ## 8. Связанные файлы
 
-Этот файл должен учитываться вместе с:
+Этот файл должен учитываться вместе с актуальными рабочими файлами:
 
-- `Projects/Ashraellen/Grants_000.md`;
-- `Projects/Ashraellen/Grants_001.md`;
-- `Projects/Ashraellen/Grants_002.md`;
-- `Projects/Ashraellen/Grants_003.md`;
-- `Projects/Ashraellen/Grants_004.md`;
-- `Projects/Ashraellen/Grant_Outreach_Monitoring_2026.md`.
+- `Projects/Ashraellen/Grants_Ashraellen_Master.md` — главный канон грантовой и институциональной стратегии Ashraellen;
+- `Projects/Ashraellen/Grant_Outreach_Monitoring_2026.md` — живой журнал отправленных обращений, ответов и follow-up;
+- `Projects/Ashraellen/Ashraellen_Language_Rule.md` — это языковое правило проекта.
+
+Старые локальные файлы `Grants_000.md`–`Grants_004.md` были использованы как источники при сборке `Grants_Ashraellen_Master.md`, но не являются файлами репозитория и не должны указываться как активные связанные файлы.
 
 Если между этим файлом и любым временным черновиком есть противоречие, использовать этот файл как языковое правило проекта.
