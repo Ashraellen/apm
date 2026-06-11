@@ -1,16 +1,15 @@
 # Grant Outreach Monitoring 2026 — Ashraellen
 
 Дата создания: 2026-06-09  
+Дата очистки структуры: 2026-06-11  
 Проект: Ashraellen  
-Назначение файла: мониторинг институциональных обращений, отправленных в рамках грантовой и партнёрской стратегии Ashraellen.
+Назначение файла: живой журнал институциональных обращений, follow-up и ответов.
 
 ---
 
-## 1. Назначение файла
+## 1. Как использовать этот файл
 
-Этот файл фиксирует отправленные обращения к фондам, культурным институциям, потенциальным партнёрам, издателям, кураторам и организациям, которые могут помочь проекту Ashraellen в грантовой, институциональной или партнёрской стратегии.
-
-Главная задача файла — не потерять:
+Этот файл фиксирует только практическую историю обращений:
 
 1. куда уже писали;
 2. когда писали;
@@ -21,23 +20,25 @@
 7. когда стоит сделать follow-up;
 8. что использовать в следующих письмах.
 
-Этот файл связан с основными грантовыми источниками проекта:
+Стратегический канон проекта находится в файле:
 
-- `Grants_000.md` — главная сводная карта грантовой стратегии;
-- `Grants_001.md` — приоритетная стратегическая база;
-- `Grants_002.md`;
-- `Grants_003.md`;
-- `Grants_004.md`.
+`Projects/Ashraellen/Grants_Ashraellen_Master.md`
+
+Языковое правило проекта находится в файле:
+
+`Projects/Ashraellen/Ashraellen_Language_Rule.md`
+
+Этот файл не заменяет мастер-стратегию. Он является оперативным журналом переписки.
 
 ---
 
-## 2. Главная рамка обращений
+## 2. Главная рамка для всех обращений
 
 Ashraellen не подаётся как блог, YouTube-проект, духовное учение, терапия, мотивационная платформа, инфобизнес, медиа-стартап или просьба о помощи.
 
 Правильная рамка:
 
-> Ashraellen — независимый многоязычный проект художественно-философского исследования, выраженный через литературу, сатиру, публичную философию, видео, звук, визуальные формулы и цифровой архив.
+> Ashraellen — независимое многоязычное художественно-философское исследование, выраженное через литературу, сатиру, публичную философию, видео, звук, визуальные формулы и цифровой архив.
 
 Ключевая позиция для институций:
 
@@ -45,15 +46,21 @@ Ashraellen не подаётся как блог, YouTube-проект, духо
 
 ---
 
-## 3. Языковая позиция автора
+## 3. Языковое правило для переписки
 
-Эта формулировка уже использовалась в отправленных письмах и должна сохраняться как канон для польских институций:
+Кратко:
+
+> Русский язык — источник смысла.  
+> Другие языки — каналы доступа.  
+> Перевод должен открывать проект, но не переписывать его ядро.
+
+Польская формулировка для писем:
 
 > Chciałbym również uczciwie zaznaczyć, że moim podstawowym językiem twórczym jest rosyjski — to w nim powstają pierwotne sensy, rytm i wewnętrzne napięcie mojej pracy. W korespondencji po polsku korzystam z pomocy tłumaczeniowej, aby jak najprecyzyjniej przekazać znaczenie projektu. Na pierwszym etapie najwygodniejszą formą kontaktu byłaby dla mnie komunikacja pisemna; w przypadku rozmowy online potrzebowałbym wsparcia tłumacza lub możliwości wcześniejszego otrzymania pytań.
 
-Русский смысл:
+Полное правило см. в:
 
-> Также хочу честно отметить, что моим основным творческим языком является русский — именно в нём рождаются исходные смыслы, ритм и внутреннее напряжение моей работы. В переписке на польском языке я использую переводческую помощь, чтобы как можно точнее передать значение проекта. На первом этапе наиболее удобной формой контакта для меня была бы письменная коммуникация; в случае онлайн-разговора мне понадобилась бы поддержка переводчика или возможность заранее получить вопросы.
+`Projects/Ashraellen/Ashraellen_Language_Rule.md`
 
 ---
 
@@ -61,11 +68,11 @@ Ashraellen не подаётся как блог, YouTube-проект, духо
 
 | № | Дата | Институция | Страна / город | Адрес / канал | Угол обращения | Что просили | Статус | Follow-up |
 |---|---|---|---|---|---|---|---|---|
-| 1 | 2026-06-09 | Fundacja Bęc Zmiana | Польша / Варшава | не зафиксировано в этом файле | современная культура, публикации, interdisciplinary projects, public knowledge, artistic research, цифровой архив | короткая письменная консультация, возможное институциональное направление, проверка читаемости проекта | отправлено | ориентировочно через 10–14 дней, если не будет ответа |
-| 2 | 2026-06-09 | Fundacja Strefa WolnoSłowa | Польша / Варшава | не зафиксировано в этом файле | миграционный опыт, жизнь между языками и системами, публичный голос, художественная практика наблюдения | короткая консультация, возможное направление, подходящий человек / программа / формат | отправлено | ориентировочно через 10–14 дней, если не будет ответа |
-| 3 | 2026-06-09 | Fundacja Pogranicze / Ośrodek "Pogranicze – sztuk, kultur, narodów" | Польша / Sejny | не зафиксировано в этом файле | внутреннее пограничье, языки, память, системы, культура, литература, Центрально-Восточная Европа | короткая письменная консультация, возможное направление, передача письма подходящему человеку | отправлено | ориентировочно через 10–14 дней, если не будет ответа |
-| 4 | 2026-06-09 | Fundacja Panoptykon | Польша / Варшава | fundacja@panoptykon.org | человек в цифровой среде, информационный шум, наблюдение, самоцензура, утрата внутренней автономии | короткая письменная консультация, проверка релевантности проекта, возможное направление | отправлено | ориентировочно через 10–14 дней, если не будет ответа |
-| 5 | 2026-06-09 | Instytut Badań Literackich PAN / IBL PAN | Польша / Варшава | sekretariat@ibl.waw.pl | литература как форма исследования опыта, языка, памяти, нарратива и самообмана | короткая письменная консультация, направление к подходящей pracownia / исследователю / литературоведческому контексту | отправлено | ориентировочно через 10–14 дней, если не будет ответа |
+| 1 | 2026-06-09 | Fundacja Bęc Zmiana | Польша / Варшава | не зафиксировано | современная культура, публикации, interdisciplinary projects, public knowledge, artistic research, цифровой архив | короткая письменная консультация, возможное институциональное направление, проверка читаемости проекта | отправлено | 2026-06-19 — 2026-06-23, если не будет ответа |
+| 2 | 2026-06-09 | Fundacja Strefa WolnoSłowa | Польша / Варшава | не зафиксировано | миграционный опыт, жизнь между языками и системами, публичный голос, художественная практика наблюдения | короткая консультация, возможное направление, подходящий человек / программа / формат | отправлено | 2026-06-19 — 2026-06-23, если не будет ответа |
+| 3 | 2026-06-09 | Fundacja Pogranicze / Ośrodek "Pogranicze – sztuk, kultur, narodów" | Польша / Sejny | sekretariat@pogranicze.sejny.pl | внутреннее пограничье, языки, память, системы, культура, литература, Центрально-Восточная Европа | короткая письменная консультация, возможное направление, передача письма подходящему человеку | отправлено | 2026-06-19 — 2026-06-23, если не будет ответа |
+| 4 | 2026-06-09 | Fundacja Panoptykon | Польша / Варшава | fundacja@panoptykon.org | человек в цифровой среде, информационный шум, наблюдение, самоцензура, утрата внутренней автономии | короткая письменная консультация, проверка релевантности проекта, возможное направление | отправлено | 2026-06-19 — 2026-06-23, если не будет ответа |
+| 5 | 2026-06-09 | Instytut Badań Literackich PAN / IBL PAN | Польша / Варшава | sekretariat@ibl.waw.pl | литература как форма исследования опыта, языка, памяти, нарратива и самообмана | короткая письменная консультация, направление к подходящей pracownia / исследователю / литературоведческому контексту | отправлено | 2026-06-19 — 2026-06-23, если не будет ответа |
 
 ---
 
@@ -80,8 +87,6 @@ Ashraellen не подаётся как блог, YouTube-проект, духо
 
 #### Угол обращения
 
-Проект был представлен через следующие рамки:
-
 - współczesna kultura;
 - publikacje;
 - interdyscyplinarne projekty;
@@ -94,24 +99,12 @@ Ashraellen не подаётся как блог, YouTube-проект, духо
 #### Что было важно подчеркнуть
 
 1. Ashraellen — независимый многоязычный проект badawczo-artystyczny.
-2. Проект соединяет литературу, философское наблюдение, социальную сатиру, короткие публичные формы, видео, звук, визуальные формулы и цифровой архив.
-3. Литература, эссе, сатира, видео, звук и public formulas — не каналы продвижения, а инструменты одной исследовательской практики.
-4. Проект не является блогом, терапией, духовным учением или мотивационной программой.
-5. На первом этапе не просится грант или формальное партнёрство.
-6. Запрошена короткая письменная консультация и возможное институциональное направление.
-
-#### Использованные ссылки
-
-- https://www.ashraellen.com/pl/professional/
-- https://www.ashraellen.com/pl/research/
-- https://www.ashraellen.com/pl/books/
-- https://www.ashraellen.com/pl/public/
-- https://www.ashraellen.com/pl/
-- https://www.ashraellen.com/en/professional/
+2. Литература, эссе, сатира, видео, звук и public formulas — не каналы продвижения, а инструменты одной исследовательской практики.
+3. Проект не является блогом, терапией, духовным учением или мотивационной программой.
+4. На первом этапе не просится грант или формальное партнёрство.
+5. Запрошена короткая письменная консультация и возможное институциональное направление.
 
 #### Возможный follow-up
-
-Если ответа не будет через 10–14 дней, можно отправить короткое напоминание:
 
 > Szanowni Państwo, pozwalam sobie uprzejmie zapytać, czy mieli Państwo możliwość zapoznania się z moją wiadomością dotyczącą projektu Ashraellen. Będę wdzięczny za każdą krótką informację, czy projekt może być dla Państwa interesujący albo czy mogliby Państwo wskazać właściwszy kierunek instytucjonalny.
 
@@ -126,8 +119,6 @@ Ashraellen не подаётся как блог, YouTube-проект, духо
 
 #### Угол обращения
 
-Проект был представлен через следующие рамки:
-
 - migracja;
 - działania artystyczne;
 - język publiczny;
@@ -140,22 +131,10 @@ Ashraellen не подаётся как блог, YouTube-проект, духо
 1. Ashraellen рождается из опыта жизни между странами, языками и культурными реальностями.
 2. Проект не является терапевтическим, интеграционным или pomocowym.
 3. Он не предлагает программы поддержки или готовых социальных решений.
-4. Он исследует, как человек теряет ясность, внутреннюю опору и контакт с реальностью под воздействием языка, чужих нарративов, давления систем, информационного шума и самообмана.
-5. Литература, сатира, видео, звук, образы и короткие публичные тексты — инструменты одной практики наблюдения.
-6. На первом этапе запрошена короткая консультация или указание возможного направления.
-
-#### Использованные ссылки
-
-- https://www.ashraellen.com/pl/
-- https://www.ashraellen.com/pl/professional/
-- https://www.ashraellen.com/pl/research/
-- https://www.ashraellen.com/pl/books/
-- https://www.ashraellen.com/pl/public/
-- https://www.ashraellen.com/en/professional/
+4. Он исследует утрату ясности, внутренней опоры и контакта с реальностью под воздействием языка, чужих нарративов, давления систем, информационного шума и самообмана.
+5. На первом этапе запрошена короткая консультация или указание возможного направления.
 
 #### Возможный follow-up
-
-Если ответа не будет через 10–14 дней, можно отправить короткое напоминание:
 
 > Szanowni Państwo, pozwalam sobie uprzejmie wrócić do mojej wiadomości dotyczącej projektu Ashraellen jako niezależnej praktyki badawczo-artystycznej autora z doświadczeniem życia między językami, krajami i systemami. Będę wdzięczny za krótką informację, czy projekt może być dla Państwa interesujący albo czy mogliby Państwo wskazać odpowiednią osobę, program lub instytucję.
 
@@ -169,8 +148,6 @@ Ashraellen не подаётся как блог, YouTube-проект, духо
 **Язык:** польский  
 
 #### Угол обращения
-
-Проект был представлен через следующие рамки:
 
 - pogranicze języków;
 - pamięć;
@@ -186,24 +163,12 @@ Ashraellen не подаётся как блог, YouTube-проект, духо
 1. Ashraellen — независимая, многоязычная литературно-философская и badawczo-artystyczna практика.
 2. Проект не является блогом, терапией, духовной доктриной или политическим проектом.
 3. Проект рождается из опыта жизни между языками, странами и системами: Беларусью, Казахстаном, Россией и Польшей.
-4. Он не является автобиографическим проектом в узком смысле.
-5. Личный опыт является материалом для более широкого исследования.
-6. Ashraellen может быть прочитан как внутреннее пограничье: место встречи языка, памяти, миграционного опыта, литературы, политических систем и вопроса о реальности.
-7. На первом этапе не запрашивается грант или формальное партнёрство.
-8. Запрошена короткая письменная консультация, возможное направление или передача письма подходящему человеку.
-
-#### Использованные ссылки
-
-- https://www.ashraellen.com/pl/
-- https://www.ashraellen.com/pl/professional/
-- https://www.ashraellen.com/pl/research/
-- https://www.ashraellen.com/pl/books/
-- https://www.ashraellen.com/pl/public/
-- https://www.ashraellen.com/en/professional/
+4. Личный опыт является материалом для более широкого исследования.
+5. Ashraellen может быть прочитан как внутреннее пограничье.
+6. На первом этапе не запрашивается грант или формальное партнёрство.
+7. Запрошена короткая письменная консультация, возможное направление или передача письма подходящему человеку.
 
 #### Возможный follow-up
-
-Если ответа не будет через 10–14 дней, можно отправить короткое напоминание:
 
 > Szanowni Państwo, pozwalam sobie uprzejmie wrócić do mojej wiadomości dotyczącej projektu Ashraellen jako niezależnej praktyki literacko-filozoficznej i badawczo-artystycznej, działającej na granicy języka, pamięci, systemu i kultury. Będę wdzięczny za krótką informację, czy projekt może być dla Państwa interesujący albo czy wiadomość mogłaby zostać przekazana właściwej osobie.
 
@@ -219,39 +184,23 @@ Ashraellen не подаётся как блог, YouTube-проект, духо
 
 #### Угол обращения
 
-Проект был представлен через следующие рамки:
-
 - człowiek w środowisku cyfrowym;
 - hałas informacyjny;
 - presja narracji;
 - obserwacja i samoobserwacja;
 - autocenzura;
 - utrata autonomii wewnętrznej;
-- publiczna / artystyczna refleksja nad światem cyfrowym;
-- Ashraellen как художественно-философская практика наблюдения, а не правовой, политический или технический проект.
+- publiczna / artystyczna refleksja nad światem cyfrowym.
 
 #### Что было важно подчеркнуть
 
 1. Ashraellen не исследует технологии в техническом или юридическом смысле.
 2. Проект исследует человека, живущего под давлением цифровой среды.
-3. В центре — информационный шум, чужие нарративы, постоянная видимость, механизмы самонаблюдения, самоцензура и утрата внутренней автономии.
-4. Литература, сатира, короткие публичные формы, видео, звук, визуальные формулы и цифровой архив — разные инструменты одной практики наблюдения.
-5. Проект не является блогом, терапией, духовной доктриной, политической кампанией, юридическим проектом или техническим исследованием алгоритмов.
-6. На первом этапе запрошена короткая письменная консультация, проверка релевантности и возможное направление.
-
-#### Использованные ссылки
-
-Точные ссылки отправленного письма в этом файле не зафиксированы. Рекомендуемый набор для этой институции:
-
-- https://www.ashraellen.com/pl/
-- https://www.ashraellen.com/pl/professional/
-- https://www.ashraellen.com/pl/research/
-- https://www.ashraellen.com/pl/public/
-- https://www.ashraellen.com/en/professional/
+3. В центре — информационный шум, чужие нарративы, постоянная видимость, самонаблюдение, самоцензура и утрата внутренней автономии.
+4. Проект не является блогом, терапией, духовной доктриной, политической кампанией, юридическим проектом или техническим исследованием алгоритмов.
+5. На первом этапе запрошена короткая письменная консультация, проверка релевантности и возможное направление.
 
 #### Возможный follow-up
-
-Если ответа не будет через 10–14 дней, можно отправить короткое напоминание:
 
 > Szanowni Państwo, pozwalam sobie uprzejmie wrócić do mojej wiadomości dotyczącej projektu Ashraellen jako niezależnej praktyki obserwacji człowieka w środowisku cyfrowym. Będę wdzięczny za krótką informację, czy projekt może być dla Państwa interesujący jako kulturowa forma refleksji nad hałasem informacyjnym, samoobserwacją, autocenzurą i utratą wewnętrznej autonomii — albo czy mogliby Państwo wskazać właściwszy kierunek.
 
@@ -267,8 +216,6 @@ Ashraellen не подаётся как блог, YouTube-проект, духо
 
 #### Угол обращения
 
-Проект был представлен через следующие рамки:
-
 - praktyka literacko-filozoficzna;
 - literatura jako forma badania doświadczenia;
 - język;
@@ -276,74 +223,39 @@ Ashraellen не подаётся как блог, YouTube-проект, духо
 - narracja;
 - samooszustwo;
 - utrata kontaktu z rzeczywistością;
-- wielojęzyczne archiwum autorskie;
-- niezależna praktyka poza tradycyjną instytucją akademicką, ale nie poza powagą myślenia literackiego.
+- wielojęzyczne archiwum autorskie.
 
 #### Что было важно подчеркнуть
 
 1. Ashraellen — независимая литературно-философская и художественно-исследовательская практика.
-2. В проекте литература не является иллюстрацией готовых тезисов, а становится инструментом исследования опыта, языка, памяти, нарратива и самообмана.
+2. Литература не является иллюстрацией готовых тезисов, а становится инструментом исследования опыта, языка, памяти, нарратива и самообмана.
 3. Проект не является просьбой о публикации, гранте, поступлении, академическом руководстве или признании.
 4. На первом этапе нужна консультация / направление к подходящей pracownia / исследователю / литературоведческому контексту.
 5. Русский язык является языком рождения смысла, ритма и литературного напряжения.
 6. Польская и английская версии рассматриваются как каналы доступа к исходному ядру работы.
 
-#### Использованные ссылки
-
-Точные ссылки отправленного письма в этом файле не зафиксированы. Рекомендуемый набор для этой институции:
-
-- https://www.ashraellen.com/pl/
-- https://www.ashraellen.com/pl/professional/
-- https://www.ashraellen.com/pl/research/
-- https://www.ashraellen.com/pl/books/
-- https://www.ashraellen.com/en/professional/
-
 #### Возможный follow-up
-
-Если ответа не будет через 10–14 дней, можно отправить короткое напоминание:
 
 > Szanowni Państwo, pozwalam sobie uprzejmie wrócić do mojej wiadomości dotyczącej projektu Ashraellen jako niezależnej praktyki literacko-filozoficznej, w której literatura działa jako forma badania doświadczenia, języka, pamięci, narracji i samooszustwa. Będę wdzięczny za krótką informację, czy projekt może być właściwy dla którejś z pracowni Instytutu albo czy mogliby Państwo wskazać odpowiednią osobę lub kierunek kontaktu.
 
 ---
 
-## 6. Что делать дальше
+## 6. Использованные основные ссылки
 
-### 6.1. Ждать ответы
+В письмах использовались или рекомендуются следующие точки входа:
 
-Не делать follow-up слишком быстро. Нормальный интервал ожидания:
+- https://www.ashraellen.com/pl/
+- https://www.ashraellen.com/pl/professional/
+- https://www.ashraellen.com/pl/research/
+- https://www.ashraellen.com/pl/books/
+- https://www.ashraellen.com/pl/public/
+- https://www.ashraellen.com/en/professional/
 
-- минимум 10 дней;
-- лучше 10–14 дней;
-- если институция крупная или сильно занятая — до 3 недель.
-
-### 6.2. Не отправлять массовую рассылку слишком широко
-
-Первые пять писем — пристрелочная пятёрка. Нужно посмотреть:
-
-1. будет ли ответ;
-2. какой тон ответа;
-3. попросят ли дополнительные материалы;
-4. предложат ли другой контакт;
-5. будет ли молчание.
-
-После этого корректировать стратегию.
-
-### 6.3. Подготовить следующий слой
-
-Следующий слой может включать:
-
-1. культурных продюсеров;
-2. grant writers;
-3. academic advisors;
-4. издательские контакты;
-5. польские и европейские культурные программы;
-6. возможных institutional partners / fiscal hosts.
+В конкретном письме набор ссылок мог отличаться.
 
 ---
 
-## 7. Шаблон короткого follow-up
-
-Общий польский шаблон:
+## 7. Общий шаблон короткого follow-up
 
 > Szanowni Państwo,
 >
@@ -351,44 +263,39 @@ Ashraellen не подаётся как блог, YouTube-проект, духо
 >
 > Rozumiem oczywiście, że podobnych wiadomości może być wiele, dlatego będę wdzięczny nawet za krótką informację, czy projekt może być dla Państwa interesujący, czy raczej powinienem skierować go do innej osoby, instytucji albo programu.
 >
-> Z wyrazami szacunku,
+> Z wyrazami szacunku,  
 > Nikołaj Kostyszew  
 > Ashraellen  
 > https://www.ashraellen.com/pl/
 
 ---
 
-## 8. Важные формулы, которые хорошо сработали
+## 8. Журнал ответов
 
-### 8.1. Для Fundacja Bęc Zmiana
+Заполнять по мере поступления ответов.
 
-> nie produktem medialnym, lecz żywą praktyką obserwacji i kulturowego badania.
-
-### 8.2. Для Fundacja Strefa WolnoSłowa
-
-> nie projektem o migracji jako problemie, lecz praktyką obserwacji człowieka żyjącego między językami, systemami i narracjami.
-
-### 8.3. Для Fundacja Pogranicze
-
-> wewnętrzne pogranicze: miejsce spotkania języka, pamięci, doświadczenia migracyjnego, literatury, systemów politycznych i pytania o rzeczywistość.
-
-### 8.4. Для Fundacja Panoptykon
-
-> praktyka obserwacji człowieka żyjącego pod presją środowiska cyfrowego: hałasu informacyjnego, cudzych narracji, ciągłej widzialności, mechanizmów samoobserwacji, autocenzury i utraty wewnętrznej autonomii.
-
-### 8.5. Для IBL PAN
-
-> literatura nie pełni funkcji ilustracji gotowych tez, lecz staje się narzędziem badania doświadczenia, języka, pamięci, narracji, samooszustwa i utraty kontaktu z rzeczywistością.
-
-### 8.6. Общая защитная формула
-
-> Projekt nie jest blogiem, terapią, nauczaniem duchowym ani programem motywacyjnym. Nie oferuje systemu pomocy ani gotowej ideologii. Tworzy formy obserwacji.
+| Дата ответа | Институция | Содержание ответа | Что нужно сделать | Статус |
+|---|---|---|---|---|
+| — | — | — | — | — |
 
 ---
 
-## 9. Главный вывод после первой пятёрки
+## 9. Следующие действия
 
-Первая пристрелочная пятёрка закрыта.
+1. Ждать ответы минимум 10 дней.
+2. Оптимальный срок follow-up: 2026-06-19 — 2026-06-23.
+3. Не расширять рассылку хаотично до анализа первых реакций.
+4. Подготовить `Project Brief PL`.
+5. Подготовить `Project Brief EN`.
+6. Подготовить пять follow-up писем, но не отправлять раньше срока.
+7. Собрать evidence pack: охваты, комментарии, ссылки на книги и видео.
+8. Начать подготовку отдельного пакета под Kone Foundation.
+
+---
+
+## 10. Главный вывод
+
+Первая институциональная пятёрка закрыта.
 
 Ashraellen был представлен в пяти разных, но совместимых ракурсах:
 
@@ -397,8 +304,6 @@ Ashraellen был представлен в пяти разных, но совм
 3. **Pogranicze** — внутреннее пограничье языка, памяти, системы и культуры;
 4. **Panoptykon** — человек в цифровой среде, информационный шум, самоцензура и утрата внутренней автономии;
 5. **IBL PAN** — литература как форма исследования опыта, языка, памяти, нарратива и самообмана.
-
-Это даёт хорошую основу для дальнейших обращений. Важно продолжать не массовой рассылкой, а точечными письмами, где каждый раз меняется вход, но не меняется ядро проекта.
 
 Формула:
 
