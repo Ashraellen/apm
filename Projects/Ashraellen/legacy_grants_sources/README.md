@@ -1,53 +1,22 @@
 # Legacy grants source files
 
-Дата создания: 2026-06-11  
-Проект: Ashraellen  
+Дата создания: 2026-06-11
+Проект: Ashraellen
 Назначение папки: архивные исходники грантовой стратегии.
-
----
-
-## Что находится в этой папке
-
-В этой папке хранятся прежние локальные рабочие файлы:
-
-- `Grants_000.md`
-- `Grants_001.md`
-- `Grants_002.md`
-- `Grants_003.md`
-- `Grants_004.md`
-
-Они были использованы как исходный корпус для сборки главного файла:
-
-`Projects/Ashraellen/Grants_Ashraellen_Master.md`
-
----
-
-## Важное правило
 
 Эти файлы являются архивными источниками, а не активными рабочими директивами.
 
-Для новых чатов, заявок, писем и институциональной стратегии использовать прежде всего:
-
-`Projects/Ashraellen/Grants_Ashraellen_Master.md`
+Активный главный канон:
+Projects/Ashraellen/Grants_Ashraellen_Master.md
 
 Дополнительные актуальные файлы:
+Projects/Ashraellen/Ashraellen_Language_Rule.md
+Projects/Ashraellen/Grant_Outreach_Monitoring_2026.md
 
-- `Projects/Ashraellen/Ashraellen_Language_Rule.md`
-- `Projects/Ashraellen/Grant_Outreach_Monitoring_2026.md`
+Если между архивными файлами и Grants_Ashraellen_Master.md есть противоречие,
+приоритет имеет Grants_Ashraellen_Master.md.
 
----
+Короткая формула:
 
-## Как читать эти файлы
-
-Использовать их можно для проверки происхождения решений, восстановления контекста и поиска деталей, которые могли не войти в мастер-файл.
-
-Если между архивными файлами и `Grants_Ashraellen_Master.md` есть противоречие, приоритет имеет:
-
-`Grants_Ashraellen_Master.md`
-
----
-
-## Короткая формула
-
-> Архив хранит происхождение решений.  
-> Мастер-файл задаёт текущий канон.
+Архив хранит происхождение решений.
+Мастер-файл задаёт текущий канон.
