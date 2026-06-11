@@ -8,11 +8,19 @@ The main author, thinker, consultant, content, grant, site, and public identity 
 File map:
 
 ```text
-BIO.md  — Author bio and public positioning
-GST.md  — Grant strategy and profile
-WEB.md  — Website structure and language notes
-CNT.md  — Content style and channel notes
-PKD.md  — Polish activity codes and business notes
+BIO.md   — Author bio and public positioning
+GST.md   — Grant strategy and profile
+WEB.md   — Website structure and language notes
+CNT.md   — Content style and channel notes
+PKD.md   — Polish activity codes and business notes
+Grants/  — Institution-specific grant and application workspaces
+```
+
+Grants structure:
+
+```text
+Grants/INDEX.md  — general grant workspace map and rules
+Grants/EV/       — Emergent Ventures / Mercatus Center application workspace
 ```
 
 Current rule:
