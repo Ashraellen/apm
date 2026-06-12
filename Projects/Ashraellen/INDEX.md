@@ -8,17 +8,18 @@ The main author, thinker, consultant, content, grant, site, and public identity 
 Active file map:
 
 ```text
-BIO.md                           — author bio and public positioning
-GST.md                           — compact grant strategy and profile note
-WEB.md                           — website structure and language notes
-CNT.md                           — content style and channel notes
-PKD.md                           — Polish activity codes and business notes
-Grants_Ashraellen_Master.md      — main grant and institutional strategy canon
-Grant_Outreach_Monitoring_2026.md — live outreach log, sent letters, statuses and follow-up
-Ashraellen_Language_Rule.md      — language, translation and institutional communication rule
-Grants/                          — institution-specific grant and application workspaces
-legacy_grants_sources/           — archived legacy grant source material
-IDX.md                           — older compact index snapshot; not the active map
+BIO.md                                      — author bio and public positioning
+GST.md                                      — compact grant strategy and profile note
+WEB.md                                      — website structure and language notes
+WEB_Asset_Style_Consolidation_Plan.md       — planned website background/CSS consolidation task
+CNT.md                                      — content style and channel notes
+PKD.md                                      — Polish activity codes and business notes
+Grants_Ashraellen_Master.md                 — main grant and institutional strategy canon
+Grant_Outreach_Monitoring_2026.md           — live outreach log, sent letters, statuses and follow-up
+Ashraellen_Language_Rule.md                 — language, translation and institutional communication rule
+Grants/                                     — institution-specific grant and application workspaces
+legacy_grants_sources/                      — archived legacy grant source material
+IDX.md                                      — older compact index snapshot; not the active map
 ```
 
 Active source hierarchy:
