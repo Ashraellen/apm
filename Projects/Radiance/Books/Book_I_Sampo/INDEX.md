@@ -38,9 +38,27 @@ into Sampo as Creation itself
 
 ---
 
+## Opening architecture
+
+Current first movement:
+
+```text
+fantastic prologue hook -> airport / minibus -> northern retreat -> arrival -> house action -> first fire place -> Ivar begins the story
+```
+
+The first active draft is:
+
+```text
+Drafts/Prologue_Hook_v1.md
+```
+
+The prologue opens with the mythic image of the Earth as a living feeding mechanism and the first human attempt to extract / own what already surrounds and feeds them.
+
+---
+
 ## Opening location
 
-Book I may begin at a remote northern retreat / mini-camp / large wooden house somewhere in Finland, in forest, near water, or in another quiet northern landscape.
+Book I may begin in the modern frame at a remote northern retreat / mini-camp / large wooden house somewhere in Finland, in forest, near water, or in another quiet northern landscape.
 
 Important correction:
 
@@ -79,19 +97,19 @@ He is not a guru.
 
 He is not a formal teacher.
 
-He is the one who starts the first door.
+He is the one who starts the first door in the modern frame.
 
 ---
 
-## First scene direction
+## First modern scene direction
 
-The likely opening hook:
+After the fantastic prologue hook:
 
 ```text
-A remote northern house / mini-camp. People arrive once a year. Evening. Fire. Guests expect rest, conversation, maybe one of Ivar's strange stories. Ivar starts the first door: Sampo was never lost — people simply stopped recognizing it.
+A remote northern house / mini-camp waits at the end of the road. People arrive once a year. Some know each other, some are new invited guests. They travel from the airport by minibus, carrying curiosity, skepticism, private hope, fatigue, and the stories others told them about Ivar.
 ```
 
-Possible first turn:
+The first fire scene may begin with:
 
 ```text
 "Сампо никогда не теряли. Его просто перестали узнавать."
@@ -101,7 +119,7 @@ Possible first turn:
 
 ## Opening rule
 
-The campfire is only the entrance.
+The first fire is only the entrance.
 
 After the hook, the book must move into active story:
 
@@ -117,6 +135,8 @@ recognition through events
 
 The narrator should not keep explaining after the door has opened.
 
+The modern frame should move through the house, living room, fireplace, kitchen, bedrooms, porch, lake, forest, morning table and private conversations.
+
 ---
 
 ## First-book caution
@@ -128,3 +148,14 @@ Let the listeners think this is about a mythical machine.
 Let the reader slowly understand that the ground under the fire is already part of the answer.
 
 Then let the story leave the fire and walk.
+
+---
+
+## Active files
+
+```text
+Concept.md              — current Book I concept
+Chapter_Architecture.md — chapter and scene architecture
+Guest_Circle.md         — 12 guests + Ivar, symbolic and dramatic rules
+Drafts/Prologue_Hook_v1.md — first fantastic prologue hook draft
+```
