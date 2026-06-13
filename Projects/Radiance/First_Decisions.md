@@ -40,7 +40,7 @@ The series should feel like a story told by fire, not like a dissertation wearin
 The main frame:
 
 ```text
-A strange narrator sits by a campfire in a summer camp and tells children, or almost children, the “real” history of the world hidden inside northern myths.
+A strange narrator sits by a campfire in a summer camp and tells children, or almost children, the "real" history of the world hidden inside northern myths.
 ```
 
 The listeners should probably be teenagers rather than small children.
@@ -146,7 +146,7 @@ The author's earlier bogoiskatelstvo included the study of many pantheons:
 The inner image from that period:
 
 ```text
-Pantheons appeared as “landing teams”: groups arriving from somewhere beyond ordinary human development — from the future, a parallel layer, another mode of being, or a higher order of reality — to teach and develop early human communities.
+Pantheons appeared as "landing teams": groups arriving from somewhere beyond ordinary human development — from the future, a parallel layer, another mode of being, or a higher order of reality — to teach and develop early human communities.
 ```
 
 For external / institutional language, this must be translated carefully:
@@ -180,10 +180,10 @@ The northern material is the main entrance.
 Current formula:
 
 ```text
-Not “all myths equally at once”, but one northern spine with comparative echoes.
+Not "all myths equally at once", but one northern spine with comparative echoes.
 ```
 
-The project must not pretend to “explain Finland to Finns”.
+The project must not pretend to "explain Finland to Finns".
 
 Correct attitude:
 
