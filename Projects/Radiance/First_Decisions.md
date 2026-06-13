@@ -35,19 +35,43 @@ The series should feel like myth becoming real through story, scene and action, 
 
 ---
 
-## 2. Book I entrance / campfire hook
+## 2. Book I entrance / northern retreat hook
 
 Important correction:
 
 ```text
 The campfire is not the permanent frame for the whole series.
-It is the doorway / hook of Book I.
+It is one possible doorway / hook of Book I.
+```
+
+Book I should not be framed as "Ivar's house".
+
+Correct current understanding:
+
+```text
+There is a small northern retreat / mini-camp / large wooden house somewhere in the Finnish forest or near a northern lake.
+Ivar does not own this place in the narrative sense.
+He also comes there once a year — for solitude, reflection, silence, and the annual gathering of people close to him.
+```
+
+The place is not a guru estate, school, monastery, or official retreat center.
+
+It is a temporary northern shelter where people gather.
+
+Ivar is not Finnish.
+
+Current formula:
+
+```text
+Ivar is a person of the world.
+He loves solitude, but he also loves his guests.
+He belongs to no national costume, no institutional role, and no spiritual brand.
 ```
 
 In Book I, the first door may be:
 
 ```text
-A strange narrator sits by a campfire in a summer camp and starts telling children, or almost children, the "real" history of the world hidden inside northern myths.
+A group arrives once a year at a remote northern house / mini-camp. In the evening, near a fire, Ivar begins the first story: the "real" history of Sampo.
 ```
 
 But this scene must not become a fixed formula for every book.
@@ -68,12 +92,19 @@ inner laws revealed through events
 
 The fire is an ignition point, not a cage.
 
-The listeners should probably be teenagers rather than small children.
+The listeners may include adults, friends, companions, returning guests, new arrivals, and possibly teenagers / almost children.
 
-Reason:
+Do not call them automatically "students".
+
+Better terms for now:
 
 ```text
-They are still open enough to hear myth, but already wounded enough to understand that adults lie, systems break, hunger exists, and God is not found through slogans.
+circle
+guests
+friends
+companions
+people who come back
+those who once arrived and for some reason returned
 ```
 
 The campfire is important because it is the first human screen:
@@ -252,6 +283,8 @@ Theme:
 Word, song, name, sound, formula, language as tuning of reality.
 ```
 
+A later book may use another location, for example a large room with a fireplace, if the theme demands it. Do not lock the whole cycle to the first location.
+
 ### Book III. Кузница
 
 Ilmarinen / Ильмаринен.
@@ -326,7 +359,8 @@ Do not turn the series into:
 - a direct spiritual teaching;
 - a lecture disguised as fantasy;
 - a grant application wearing reindeer antlers;
-- a repeated campfire dialogue in every book just because the first door worked.
+- a repeated campfire dialogue in every book just because the first door worked;
+- a guru estate where Ivar owns the place and people arrive as followers.
 
 The book must remain literature.
 
