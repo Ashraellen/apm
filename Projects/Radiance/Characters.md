@@ -94,6 +94,228 @@ to open the door, not to replace the story
 
 After the threshold is crossed, the narrative should move into heroes, events, mythic figures, and consequences.
 
+### Ivar's appearance and layered revelation
+
+Book I and the wider series are not about Ivar.
+
+Ivar must not become the center of the novel, the hidden protagonist, or the author's direct avatar.
+
+He is a threshold figure: necessary for opening the first hearing, but insufficient as the carrier of the whole message.
+
+Current principle:
+
+```text
+Ivar should be described by trace, not by dossier.
+```
+
+The reader should not receive his full essence at once.
+
+His presence must be revealed in layers:
+
+1. **First appearance / Book I opening** — body, movement, first visual impression, practical action.
+2. **First fire / early Book I** — voice, pauses, the way silence begins to work around him.
+3. **Through guests** — fragments of what returning people say about him, always partial and slightly unreliable.
+4. **Through scenes** — how he reacts to jokes, fear, irritation, hunger, false certainty and questions.
+5. **Through later books** — deeper reasons, fatigue, history, relationship to myth and yearly return may be revealed gradually.
+
+Do not explain him fully in Book I.
+
+The first book should leave him partially unread.
+
+Correct rule:
+
+```text
+appearance through a new guest;
+function through guest fragments;
+power through scenes;
+secret through later books.
+```
+
+#### External appearance
+
+Current external image for Ivar in **Radiance / Сияние**:
+
+```text
+large, tall man in his fifties;
+around 190 cm;
+not old, but carrying the density of lived age;
+shaved temples;
+long French braid going down his back;
+dark hair already touched by silver;
+large, attentive, living face;
+not decorative, not noble in a fantasy sense;
+a man who has stopped performing significance.
+```
+
+His body should be perceived not as theatrical power, but as calm mass and exact presence.
+
+Preferred first-appearance technique:
+
+```text
+A new guest notices him first through practical action: firewood, cup, door, chair, fire, silence.
+```
+
+Possible first impression through Sofia or another newcomer:
+
+```text
+He seemed taller only after he stopped moving.
+Not because he tried to occupy the room.
+Because the room somehow stopped arguing with him.
+```
+
+Important: do not present him as a glowing wise man.
+
+No mystical eyes, no guru entrance, no fantasy elder staging.
+
+#### Eyes
+
+The eyes are central, but not mystical.
+
+They should not sparkle prophetically or press with supernatural force.
+
+They carry:
+
+- living fire;
+- adult attention;
+- care without syrup;
+- the ability to see the pain from which a person learned to speak.
+
+Working formula:
+
+```text
+He looks not at the mask, but at the wound that taught the mask to speak.
+```
+
+Use this only as internal guidance unless a scene earns it.
+
+#### Voice
+
+Voice should be revealed at the fire or in a quiet room, not in an explanatory character note.
+
+Working qualities:
+
+```text
+first slightly hoarse;
+then dense, velvet, low-vibrating;
+not hypnotic;
+tuning rather than commanding.
+```
+
+Rule:
+
+```text
+He does not hypnotize.
+He tunes.
+```
+
+Show this through others: a joke delayed, a question becoming quieter, silence becoming useful.
+
+#### Function in Radiance
+
+For **Radiance**, Ivar does not unpack protocols or dead structures.
+
+He unpacks life.
+
+He sees meaning knots inside:
+
+- a child's question;
+- a crude joke;
+- irritation;
+- hunger;
+- a myth;
+- a domestic scene;
+- a defensive answer;
+- a silence.
+
+But he must not explain this as a method.
+
+Correct dramatic function:
+
+```text
+Ivar does not explain the myth.
+He creates conditions in which the myth begins to unpack the living mechanism inside the listener.
+```
+
+Shorter formula:
+
+```text
+He does not give knowledge.
+He opens recognition.
+```
+
+For Book I / Sampo specifically:
+
+```text
+Ivar sees the moment when a human being mistakes hunger, fear, or defense for the law of the world.
+```
+
+He should help reveal where a person stands inside living provision and still searches for an object, button, machine, proof, ownership right, or source to possess.
+
+#### How guests may speak about him
+
+Guests must not describe Ivar in professional / institutional language.
+
+They should not say:
+
+```text
+He is a literary-philosophical observer of meaning knots.
+```
+
+They may say something partial, human, and imperfect:
+
+```text
+After him some old explanations stop working.
+
+He rarely answers the question. Usually he shows where the question came from.
+
+He does not argue. This is more irritating than arguing.
+
+He listens in a way that makes your own excuse louder.
+
+He does not make pain beautiful. He only shows where you made it into law.
+
+He is not a teacher. Teachers like being listened to too much.
+
+He can answer a stupid joke so that it becomes more exact than a serious question.
+
+People do not return because he makes them feel better.
+They return because ordinary life stops pretending to be ordinary.
+```
+
+Use fragments like these across the book and later books.
+
+Do not put all of them in Chapter 1.
+
+Chapter 1 needs understatement.
+
+#### Relation to Ashraellen method
+
+Ivar may inherit selected functions from the Ashraellen method, but he must not become a direct self-portrait.
+
+Borrowable functions:
+
+- seeing meaning knots;
+- observing from inside, not above;
+- refusing to own truth;
+- preferring accuracy over comfort;
+- treating irritation, joke, resistance, gratitude and silence as material;
+- creating conditions for recognition;
+- making visible what was already working in the dark.
+
+Do not transfer:
+
+- public author biography;
+- institutional description;
+- grant / research language;
+- direct authorial self-explanation.
+
+Character test:
+
+```text
+If Ivar starts sounding like a project description, the scene is wrong.
+If other people become more visible around him, the scene is working.
+```
+
 ---
 
 ## 2. The annual circle
