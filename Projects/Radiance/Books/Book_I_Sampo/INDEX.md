@@ -49,7 +49,7 @@ A summer camp. Evening. A fire. Teenagers expect a scary story or mythological e
 Possible first turn:
 
 ```text
-“Сампо никогда не теряли. Его просто перестали узнавать.”
+"Сампо никогда не теряли. Его просто перестали узнавать."
 ```
 
 ---
