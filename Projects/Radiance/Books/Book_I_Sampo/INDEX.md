@@ -52,7 +52,13 @@ The first active prologue draft is:
 Drafts/Prologue_Hook_v1.md
 ```
 
-The first active Chapter 1 draft is:
+The current active Chapter 1 draft is:
+
+```text
+Drafts/Chapter_01_v2.md
+```
+
+Earlier Chapter 1 draft preserved as:
 
 ```text
 Drafts/Chapter_01_v1.md
@@ -247,5 +253,6 @@ Narrative_POV.md            — primary Sofia POV, controlled shifts, Ivar seen 
 File_Naming.md              — chapter file naming rule
 Season_Setting.md           — seasonal setting: late August / early September threshold
 Drafts/Prologue_Hook_v1.md  — first fantastic prologue hook draft
-Drafts/Chapter_01_v1.md     — Chapter 1 first version
+Drafts/Chapter_01_v1.md     — Chapter 1 first version, preserved
+Drafts/Chapter_01_v2.md     — Chapter 1 second version, current active draft
 ```
