@@ -40,6 +40,7 @@ Other books remain mapped in `../Series_Map.md` until active development begins.
 ## Active Book I files
 
 ```text
-Book_I_Sampo/INDEX.md   — Book I folder index and current practical rules
-Book_I_Sampo/Concept.md — Current Book I concept: location, Ivar, annual circle, opening hook
+Book_I_Sampo/INDEX.md                — Book I folder index and current practical rules
+Book_I_Sampo/Concept.md              — Current Book I concept: location, Ivar, annual circle, opening hook
+Book_I_Sampo/Chapter_Architecture.md — Current chapter/scenes structure: fantastic hook, minibus, arrival, fire, manifestation layers
 ```
