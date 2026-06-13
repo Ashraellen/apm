@@ -6,12 +6,18 @@ The project is at first-canon stage. Do not treat this map as final casting.
 
 ---
 
-## 1. Door narrator
+## 1. Ivar / first-door narrator
+
+Working name:
+
+```text
+Ivar / Ивар
+```
 
 Working role:
 
 ```text
-The first-door narrator.
+first-door narrator / threshold figure
 ```
 
 Earlier temporary wording called him "the campfire narrator". Corrected canon:
@@ -21,13 +27,43 @@ He belongs primarily to the opening doorway of Book I.
 He does not automatically frame every book in the series.
 ```
 
-In Book I, he may sit by a summer-camp fire and start telling children / almost children the "real" history hidden inside northern myths.
-
-His function:
+Important correction:
 
 ```text
-to open the door, not to replace the story
+The northern house / mini-camp is not Ivar's house.
+Ivar himself comes there once a year.
 ```
+
+He comes there for:
+
+- solitude;
+- reflection;
+- silence;
+- distance from ordinary noise;
+- the annual gathering of people close to him.
+
+Ivar is not Finnish.
+
+He is a person of the world.
+
+Current formula:
+
+```text
+He is not a national representative, not a Finnish wise man, not a folklore authority, not a local guide.
+He is a wanderer / thinker / world-person who happens to love this northern place.
+```
+
+He loves solitude, but he also loves his guests.
+
+This contradiction is essential:
+
+```text
+He withdraws, but he is not closed.
+He invites no followers, but people still come.
+He does not teach officially, but stories begin around him.
+```
+
+He may borrow some external description / presence from Ivar in **MONOLITH**, but this must be checked against the MONOLITH files before finalizing his appearance.
 
 He should not be:
 
@@ -50,15 +86,45 @@ His authority should not come from status.
 
 It should come from the feeling that he has either seen something, remembered something, or stopped pretending not to know it.
 
+His function:
+
+```text
+to open the door, not to replace the story
+```
+
 After the threshold is crossed, the narrative should move into heroes, events, mythic figures, and consequences.
 
 ---
 
-## 2. Listener group
+## 2. The annual circle
 
-The listeners are likely teenagers / almost children in the Book I opening.
+The people who come to the northern place should not automatically be called students.
 
-They are not the permanent audience of the entire series unless a later decision explicitly makes them so.
+Avoid making Ivar a guru by vocabulary.
+
+Better current terms:
+
+```text
+circle
+guests
+friends
+companions
+returning people
+people close to him
+those who once arrived and for some reason returned
+```
+
+They may include:
+
+- old friends;
+- adults with private wounds;
+- people who once heard something and came back;
+- a new arrival;
+- someone skeptical;
+- someone who has come only because another person brought them;
+- teenagers / almost children, if Book I needs them.
+
+They are not a passive audience.
 
 They protect the opening from becoming a lecture.
 
@@ -71,7 +137,7 @@ Asks for proof, laughs at solemnity, resists the mythic frame.
 Function:
 
 ```text
-prevents the narrator from becoming pompous
+prevents Ivar from becoming pompous
 ```
 
 ### The sensitive one
@@ -91,7 +157,7 @@ Turns fear into jokes and jokes into accidental truth.
 Function:
 
 ```text
-keeps the fire human
+keeps the gathering human
 ```
 
 ### The wounded one
@@ -118,7 +184,7 @@ carries the modern reader's defensive intelligence
 
 ## 3. Main heroes
 
-The series must not remain trapped at the campfire.
+The series must not remain trapped at the campfire or in the gathering.
 
 After the entrance, the books need active heroes.
 
@@ -128,7 +194,7 @@ Current rule:
 Each book must find the human or mythic protagonist appropriate to its central function.
 ```
 
-Book I may begin with listeners, but it must develop beyond listeners into story-bearing figures, choices, actions and consequences.
+Book I may begin with Ivar and the annual circle, but it must develop beyond listeners into story-bearing figures, choices, actions and consequences.
 
 Future books should not be structured as repeated campfire conversations unless the author later makes a specific decision for a specific book.
 
