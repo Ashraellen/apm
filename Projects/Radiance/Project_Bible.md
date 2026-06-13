@@ -94,7 +94,7 @@ Pantheons are approached as functional systems, not decorative collections of go
 Internal authorial image:
 
 ```text
-Pantheons as “landing teams” — groups of higher functions arriving into human culture to teach language, craft, law, ritual, death, power, desire, order and inner transformation.
+Pantheons as "landing teams" — groups of higher functions arriving into human culture to teach language, craft, law, ritual, death, power, desire, order and inner transformation.
 ```
 
 Institutional / cautious formulation:
@@ -129,7 +129,7 @@ Northern spine. Comparative reflections. Philosophical depth. Literary scene.
 
 The main frame is a campfire in a summer camp.
 
-A strange narrator tells teenagers / almost children the “real” history of the world hidden inside northern myths.
+A strange narrator tells teenagers / almost children the "real" history of the world hidden inside northern myths.
 
 The frame must keep the project alive and human:
 
