@@ -125,20 +125,32 @@ Northern spine. Comparative reflections. Philosophical depth. Literary scene.
 
 ---
 
-## 6. Frame
+## 6. Opening door, not permanent frame
 
-The main frame is a campfire in a summer camp.
+Important correction:
 
-A strange narrator tells teenagers / almost children the "real" history of the world hidden inside northern myths.
+```text
+The campfire is not the main frame of the whole cycle.
+It is the opening door / hook of Book I.
+```
 
-The frame must keep the project alive and human:
+Book I may begin with a strange narrator at a summer-camp fire who starts telling children, or almost children, the "real" history hidden inside northern myths.
 
-- children interrupt;
-- someone laughs;
-- someone does not believe;
-- someone asks the wrong question and opens the right door;
-- the narrator refuses to become a guru;
-- the fire does part of the work.
+But after the hook works, the narrative must pass into active fiction:
+
+- heroes;
+- events;
+- choices;
+- mythic figures;
+- conflicts;
+- consequences;
+- inner laws revealed through action.
+
+The narrator is a threshold figure.
+
+He opens the first door; he does not hold every book hostage by the sleeve.
+
+The fire may return later only if the story earns it.
 
 ---
 
@@ -161,6 +173,8 @@ Then the cycle opens through functions:
 
 The sequence should feel like a path of initiation, but not a manual.
 
+Current named spine has eight active book nodes. The final number may be expanded later.
+
 ---
 
 ## 8. Main danger
@@ -181,8 +195,10 @@ The meaning must arrive through:
 - contradiction;
 - silence;
 - recognition;
-- the children's questions;
-- the narrator's refusal to overexplain.
+- human and mythic action;
+- the refusal to overexplain.
+
+Do not rely on the campfire dialogue to carry every idea.
 
 ---
 
