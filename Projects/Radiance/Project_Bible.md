@@ -125,7 +125,42 @@ Northern spine. Comparative reflections. Philosophical depth. Literary scene.
 
 ---
 
-## 6. Opening door, not permanent frame
+## 6. Book I opening location and Ivar
+
+The first book may open in a small northern retreat / mini-camp / large wooden house somewhere in Finland, in forest, by water, or in another quiet northern landscape.
+
+This is not "Ivar's house".
+
+Correct current rule:
+
+```text
+Ivar himself comes there once a year.
+The place is a temporary northern shelter for solitude, reflection, and the gathering of people close to him.
+```
+
+Ivar is not Finnish.
+
+He is a person of the world:
+
+```text
+not a national representative
+not a local folklore authority
+not an institutional teacher
+not a spiritual brand
+```
+
+He loves solitude and he loves his guests.
+
+This tension matters:
+
+```text
+He withdraws from the world, but does not hate people.
+He does not gather followers; he receives those who can still hear.
+```
+
+---
+
+## 7. Opening door, not permanent frame
 
 Important correction:
 
@@ -134,7 +169,7 @@ The campfire is not the main frame of the whole cycle.
 It is the opening door / hook of Book I.
 ```
 
-Book I may begin with a strange narrator at a summer-camp fire who starts telling children, or almost children, the "real" history hidden inside northern myths.
+Book I may begin with Ivar at a fire, starting the first story about the "real" history hidden inside northern myths.
 
 But after the hook works, the narrative must pass into active fiction:
 
@@ -146,7 +181,7 @@ But after the hook works, the narrative must pass into active fiction:
 - consequences;
 - inner laws revealed through action.
 
-The narrator is a threshold figure.
+Ivar is a threshold figure.
 
 He opens the first door; he does not hold every book hostage by the sleeve.
 
@@ -154,11 +189,11 @@ The fire may return later only if the story earns it.
 
 ---
 
-## 7. Series movement
+## 8. Series movement
 
 Book I begins with abundance.
 
-Then the cycle opens through functions:
+Then the cycle may open through functions:
 
 ```text
 Сампо       — abundance / Creation as Manna-machine
@@ -175,9 +210,13 @@ The sequence should feel like a path of initiation, but not a manual.
 
 Current named spine has eight active book nodes. The final number may be expanded later.
 
+Locations are not locked.
+
+A later book may choose another place, such as a large room with a fireplace, if that place naturally serves the book's function.
+
 ---
 
-## 8. Main danger
+## 9. Main danger
 
 The main danger is explanatory heaviness.
 
@@ -200,9 +239,11 @@ The meaning must arrive through:
 
 Do not rely on the campfire dialogue to carry every idea.
 
+Do not turn the place into a guru estate.
+
 ---
 
-## 9. Working formula
+## 10. Working formula
 
 ```text
 They searched for Sampo as a machine.
