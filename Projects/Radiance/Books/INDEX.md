@@ -4,7 +4,9 @@ This folder stores book-level memory, plans, fragments and future drafts for the
 
 ---
 
-## Current eight-book map
+## Current named book map
+
+The current named spine contains eight active book nodes. The final number of books is not locked.
 
 ```text
 Book I   — Сампо       — abundance / Creation as Manna-machine
@@ -28,5 +30,7 @@ For now, the first active book is:
 ```text
 Book_I_Sampo/
 ```
+
+Book I may use the campfire as an opening door / hook. Other books should not inherit the campfire frame automatically.
 
 Other books remain mapped in `../Series_Map.md` until active development begins.
