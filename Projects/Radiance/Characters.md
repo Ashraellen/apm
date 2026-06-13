@@ -14,7 +14,7 @@ Working role:
 The campfire narrator.
 ```
 
-He tells children / almost children the “real” history hidden inside northern myths.
+He tells children / almost children the "real" history hidden inside northern myths.
 
 He should not be:
 
@@ -153,7 +153,7 @@ Function:
 cold access zone / other side / place where desire is tested by maturity
 ```
 
-Not simply the “evil North”.
+Not simply the "evil North".
 
 ### Kullervo / Куллерво
 
