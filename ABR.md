@@ -23,6 +23,7 @@ Ashraellen  — Ashraellen main ecosystem
 Error404    — Error 404: God Not Found
 MONOLITH    — MONOLITH trilogy
 SaintWhine  — Church of Saint Whine
+Radiance    — Сияние / Northern tales about the real history of the world
 ```
 
 ## Core file naming principle
@@ -50,6 +51,9 @@ Publication_Data.md
 Grant_Strategy.md
 Website.md
 Content_Rules.md
+Series_Map.md
+Research_Notes.md
+First_Decisions.md
 ```
 
 Not recommended as primary working names:
@@ -90,6 +94,9 @@ GST   — Grant_Strategy.md: grant profile and applications
 WEB   — Website.md: structure, languages, pages
 CNT   — Content_Rules.md: channel style and content rules
 PKD   — Polish_Activity_Codes.md: Polish activity codes and business notes
+SMAP  — Series_Map.md: series / book-cycle structure and movement
+RNT   — Research_Notes.md: research directions, sources, institutional orientation
+FDEC  — First_Decisions.md: first fixed decisions for a new project
 ```
 
 ## Skill folders
