@@ -40,10 +40,10 @@ into Sampo as Creation itself
 
 ## First scene direction
 
-The likely opening frame:
+The likely opening hook:
 
 ```text
-A summer camp. Evening. A fire. Teenagers expect a scary story or mythological entertainment. The narrator says that Sampo was never lost — people simply stopped recognizing it.
+A summer camp. Evening. A fire. Teenagers expect a scary story or mythological entertainment. The narrator starts the first door: Sampo was never lost — people simply stopped recognizing it.
 ```
 
 Possible first turn:
@@ -54,6 +54,26 @@ Possible first turn:
 
 ---
 
+## Opening rule
+
+The campfire is only the entrance.
+
+After the hook, the book must move into active story:
+
+```text
+heroes
+actions
+mythic figures
+conflict
+journey
+consequences
+recognition through events
+```
+
+The narrator should not keep explaining after the door has opened.
+
+---
+
 ## First-book caution
 
 Do not reveal everything too early.
@@ -61,3 +81,5 @@ Do not reveal everything too early.
 Let the children think this is about a mythical machine.
 
 Let the reader slowly understand that the ground under the campfire is already part of the answer.
+
+Then let the story leave the fire and walk.
