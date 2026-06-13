@@ -1,6 +1,6 @@
 # Style_Guide — Radiance / Сияние
 
-This file contains tone, rhythm, narrative frame, prohibitions, and practical writing principles for **Radiance / Сияние**.
+This file contains tone, rhythm, opening logic, prohibitions, and practical writing principles for **Radiance / Сияние**.
 
 ---
 
@@ -9,46 +9,69 @@ This file contains tone, rhythm, narrative frame, prohibitions, and practical wr
 The main tone:
 
 ```text
-campfire wonder + philosophical pressure + dry irony + northern seriousness
+northern wonder + philosophical pressure + dry irony + myth becoming active fiction
 ```
 
 The reader should feel:
 
-- the warmth of fire;
+- the warmth of the first fire;
 - the cold of the northern mythic field;
-- the uneasiness of hearing something that sounds like a fairy tale but behaves like a memory;
+- the uneasiness of hearing something that sounds like a fairy tale but behaves like memory;
 - the suspicion that the story is not about ancient people, but about the reader.
+
+The campfire gives the first spark.
+
+It must not become the whole engine.
 
 ---
 
-## 2. The campfire rule
+## 2. The first-door rule
 
-The frame is not decoration.
+The campfire is an entrance.
 
-The campfire is the original interface.
+It is not the permanent narrative frame for every book.
 
-At the fire:
+Correct use:
 
-- stories are spoken, not delivered;
-- listeners interrupt;
-- silence matters;
-- flame changes the face of the narrator;
-- children hear more than they understand;
-- adults understand less than they pretend.
+```text
+Book I opens with a summer-camp fire, a strange narrator, and children / almost children hearing the beginning of the "real" history.
+```
 
-The narrator should not lecture over the fire.
+Then the book must move into active narrative:
 
-The fire should be allowed to answer sometimes through pause, crackle, smoke, light, or the children's reaction.
+- heroes;
+- events;
+- mythic figures;
+- journeys;
+- conflict;
+- consequence;
+- inner laws revealed through action.
+
+Wrong use:
+
+```text
+Every book becomes another evening of explanation by the fire.
+```
+
+That would turn the cycle into a lecture series with smoke.
 
 ---
 
 ## 3. Narrator rule
 
-The narrator is not a guru.
+The narrator is a threshold figure.
 
-He is not a professor of Finnish mythology.
+He opens the first door.
 
-He is not a fantasy wizard with a pedagogical beard.
+He does not automatically narrate the whole cycle.
+
+He is not:
+
+- a guru;
+- a lecturer;
+- a wizard cliché;
+- a professor of Finnish mythology;
+- a clean mouthpiece for the author's philosophy.
 
 He may be:
 
@@ -72,15 +95,17 @@ He effectively says:
 Listen. Belief can wait.
 ```
 
+After the opening function is complete, the narrator should step aside unless the story specifically earns his return.
+
 ---
 
 ## 4. Children / almost children
 
-The listeners should not be passive.
+The children / almost children belong primarily to the Book I entrance.
 
-They must protect the book from becoming a sermon.
+They are not automatically the permanent audience of the whole series.
 
-Their functions:
+Their functions in the opening:
 
 - the skeptic breaks false solemnity;
 - the sensitive one feels the danger early;
@@ -88,7 +113,9 @@ Their functions:
 - the wounded one hears the story as accusation;
 - the almost-adult refuses fairy tales but stays near the fire anyway.
 
-The children's questions should often be sharper than the narrator's explanations.
+Their questions should sharpen the opening hook.
+
+They should not force the whole cycle into question-and-answer format.
 
 ---
 
@@ -102,9 +129,9 @@ Allowed humor:
 - exact;
 - human;
 - slightly absurd;
-- born from mismatch between mythic scale and everyday camp reality.
+- born from mismatch between mythic scale and ordinary reality.
 
-Example direction:
+Example direction for Book I opening:
 
 ```text
 A teenager asks whether Sampo had a warranty.
@@ -121,9 +148,10 @@ Do not explain the mechanism too early.
 
 Correct method:
 
+- use the fire to open the question;
 - show children expecting a magical machine;
-- show the narrator shifting the question toward Earth;
-- show hunger, soil, fire, food, habit, waste, fear;
+- shift the story toward Earth, hunger, soil, food, waste, fear;
+- then leave the entrance and let the narrative unfold through heroes and events;
 - let Sampo become visible slowly as a principle, not as a lecture title.
 
 Wrong method:
@@ -131,6 +159,7 @@ Wrong method:
 - "Now I will explain what Sampo really means."
 - "The moral of this myth is..."
 - "Ancient pantheons symbolize..." too early in exposition.
+- keeping every book at the fire because the first hook was strong.
 
 The book should reveal meaning as if the reader found a warm stone under snow.
 
@@ -184,8 +213,9 @@ Do not make the project:
 - ancient-aliens proof text;
 - pseudo-academic performance;
 - adult self-help disguised as fairy tale;
-- a lecture in winter boots.
+- a lecture in winter boots;
+- a campfire dialogue repeated mechanically across the series.
 
 Keep the text alive.
 
-Let the fire breathe.
+Let the fire open the first door, then let the story walk.
