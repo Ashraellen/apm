@@ -64,6 +64,28 @@ Chapter 1 moves from the modern airport and minibus entrance toward the northern
 
 ---
 
+## Narrative POV
+
+Current Book I point-of-view rule:
+
+```text
+Book I is told primarily through Sofia as the newcomer's living lens, with controlled shifts to other guests when resistance, silence, memory or recognition require it; Ivar is not a POV character in Book I, and the true center of the book is the gradual recognition of Sampo as Creation.
+```
+
+Russian canon:
+
+```text
+Книга I рассказывается преимущественно через Софию как живую линзу нового гостя; иногда фокус может переходить к другим участникам круга, если сцене нужны сопротивление, молчание, память или узнавание. Ивар в первой книге не является точкой зрения. Его видят другие. Настоящий центр книги — не человек, а постепенное узнавание Сампо как Творения.
+```
+
+Full rule:
+
+```text
+Narrative_POV.md
+```
+
+---
+
 ## Chapter file naming rule
 
 All chapter draft files use short technical names:
@@ -221,6 +243,7 @@ Then let the story leave the fire and walk.
 Concept.md                  — current Book I concept
 Chapter_Architecture.md     — chapter and scene architecture
 Guest_Circle.md             — 12 guests + Ivar, symbolic and dramatic rules
+Narrative_POV.md            — primary Sofia POV, controlled shifts, Ivar seen from outside
 File_Naming.md              — chapter file naming rule
 Season_Setting.md           — seasonal setting: late August / early September threshold
 Drafts/Prologue_Hook_v1.md  — first fantastic prologue hook draft
