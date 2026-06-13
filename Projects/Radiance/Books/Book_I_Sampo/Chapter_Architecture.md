@@ -13,22 +13,48 @@ It should begin with a strong fantastic hook.
 Then it moves into the contemporary frame:
 
 ```text
-airport -> minibus -> northern house / retreat -> arrival -> house action -> fire place -> Ivar begins the story
+airport -> minibus -> northern house / retreat -> arrival -> house action -> first fire place -> Ivar begins the story
 ```
 
-After that, the book works through alternating layers:
+Important correction:
+
+```text
+The fire is not the fixed location for the whole book.
+It is the first threshold.
+```
+
+After the first fire scene, the present-time frame remains alive and mobile.
+
+The group may move:
+
+- from the fire to the living room with a fireplace;
+- from the living room to the kitchen;
+- from shared conversation to private conversations before sleep;
+- from night silence to morning breakfast;
+- from group listening to individual reflection;
+- from the house to the lake, forest, porch, sauna, shed, path, or rooms.
+
+The present layer must have its own life, not merely serve as a chair for Ivar's explanations.
+
+---
+
+## Alternating layers
+
+After the opening, the book works through alternating layers:
 
 ```text
 present-time frame
-Ivar's words
-questions / reactions from the guests
-visualized mythic story / manifestation
+Ivar's words / someone else's question / shared silence
+mythic manifestation
 return to present
-next opening phrase
-next manifestation
+shift in the group
+another present location or private echo
+next story-door
 ```
 
 This structure is close to video montage logic, but must remain literary.
+
+The present-time layer should not always return to the same fire.
 
 ---
 
@@ -129,9 +155,9 @@ Possible actions:
 - firewood, food, weather, silence, practical details;
 - the house behaving like a threshold, not a hotel.
 
-### 3. House action before the fire
+### 3. House action before the first fire
 
-Before the fire, something should happen inside or around the house.
+Before the first fire, something should happen inside or around the house.
 
 Purpose:
 
@@ -147,7 +173,7 @@ Possible functions:
 - establish that this is not a retreat, school or sect;
 - let the ordinary world resist the mythic one.
 
-### 4. Fire place
+### 4. First fire place
 
 The group moves to the fire place near the house.
 
@@ -163,6 +189,43 @@ Possible first turn:
 
 The fire opens the mythic mechanism.
 
+But the fire is not the whole book.
+
+---
+
+## Present-time locations after the first fire
+
+The present layer may continue in different places.
+
+Possible later present-time scenes:
+
+```text
+living room with fireplace
+kitchen after the story
+private room before sleep
+porch at night
+lake edge
+forest path
+morning table
+sauna / washing place
+someone alone by a window
+someone discussing what they heard with a partner
+```
+
+These scenes are not filler.
+
+They should reveal how the story affects the listeners.
+
+A guest may pretend nothing happened.
+
+Another may become irritated.
+
+A couple may argue quietly before sleep.
+
+Someone may understand too much and try not to show it.
+
+Someone may ask a practical question in the morning and accidentally open the next mythic layer.
+
 ---
 
 ## Chapter logic
@@ -172,18 +235,23 @@ Each chapter may contain several scenes.
 Working pattern:
 
 ```text
-present scene
-Ivar speaks
-question / interruption / reaction
+present scene in a specific location
+Ivar speaks / someone asks / someone remembers / silence turns strange
 mythic manifestation
-return to present
-shift in the group
+return to present in the same or another location
+human consequence
 next story-door
 ```
 
 The ratio can change.
 
 Do not make every chapter mechanically identical.
+
+The present-time frame should develop its own human arc:
+
+```text
+arrival -> curiosity -> discomfort -> recognition -> resistance -> private reaction -> changed relationships
+```
 
 ---
 
@@ -196,7 +264,7 @@ fantastic hook
 minibus from airport
 arrival at the northern place
 house action
-movement to the fire place
+movement to the first fire place
 Ivar begins the story
 ```
 
@@ -226,6 +294,32 @@ we have crossed from frame into event
 ```
 
 Chapter 2 may still return briefly to Ivar and the listeners, but the dominant pressure should be mythic action.
+
+---
+
+## Later chapter rhythm
+
+Later chapters may move freely between:
+
+```text
+shared present
+private present
+mythic manifestation
+short return
+human consequence
+```
+
+Example rhythm:
+
+```text
+Ivar opens a layer by the fire.
+The manifestation unfolds.
+Later, in the living room, guests argue about what it meant.
+At night, one couple whispers before sleep and reveals a personal wound.
+That wound becomes the doorway into the next manifestation.
+```
+
+This prevents the book from becoming a static storytelling session.
 
 ---
 
@@ -274,7 +368,8 @@ They may include:
 - skeptical newcomers;
 - quiet observers;
 - someone who came for rest and got myth instead;
-- someone who should not have come, but did.
+- someone who should not have come, but did;
+- partners or couples whose private reactions matter after the shared scenes.
 
 The minibus is useful because it forces social friction.
 
@@ -301,3 +396,15 @@ scene as camera instruction
 ```
 
 The visual layer should be written as lived reality, not as a prompt for future video.
+
+Second risk:
+
+```text
+the present layer becomes only a frame for Ivar's monologue
+```
+
+Correction:
+
+```text
+The present layer must have its own human drama, movement, private consequences and changing relationships.
+```
