@@ -128,9 +128,9 @@ Correct method:
 
 Wrong method:
 
-- “Now I will explain what Sampo really means.”
-- “The moral of this myth is...”
-- “Ancient pantheons symbolize...” too early in exposition.
+- "Now I will explain what Sampo really means."
+- "The moral of this myth is..."
+- "Ancient pantheons symbolize..." too early in exposition.
 
 The book should reveal meaning as if the reader found a warm stone under snow.
 
@@ -164,7 +164,7 @@ The story is true in more than one way.
 
 Do not write as if the author owns Kalevala or Finnish / Karelian heritage.
 
-Do not claim to reveal “the real meaning” in an arrogant external sense.
+Do not claim to reveal "the real meaning" in an arrogant external sense.
 
 Correct position:
 
