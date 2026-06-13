@@ -115,6 +115,34 @@ It must not feel like a guru estate, official retreat center, school, sect, mona
 
 ---
 
+## Seasonal setting
+
+Current seasonal decision:
+
+```text
+late August / early September
+northern Finland or another northern forest-water region
+not white nights
+not deep winter
+not postcard Christmas North
+```
+
+The modern frame stands at the threshold between late summer and early autumn.
+
+The land should still be visibly feeding: berries, mushrooms, fish, water, bread, damp moss, grass, cold air, rot and growth at the same time.
+
+White nights are not the right choice for the modern frame because they weaken the fire as threshold.
+
+Northern lights may appear only as a rare sign if earned by the story, not as constant tourist decoration.
+
+Full seasonal rule:
+
+```text
+Season_Setting.md
+```
+
+---
+
 ## Ivar in Book I
 
 Ivar is not Finnish.
@@ -194,6 +222,7 @@ Concept.md                  — current Book I concept
 Chapter_Architecture.md     — chapter and scene architecture
 Guest_Circle.md             — 12 guests + Ivar, symbolic and dramatic rules
 File_Naming.md              — chapter file naming rule
+Season_Setting.md           — seasonal setting: late August / early September threshold
 Drafts/Prologue_Hook_v1.md  — first fantastic prologue hook draft
 Drafts/Chapter_01_v1.md     — Chapter 1 first version
 ```
