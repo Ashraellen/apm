@@ -1,6 +1,8 @@
 # Series_Map — Radiance / Сияние
 
-This file records the current eight-book map for **Сияние. Северные сказания о настоящей истории мира**.
+This file records the current named book map for **Сияние. Северные сказания о настоящей истории мира**.
+
+The current named spine contains eight active book nodes. The final number of books is not locked; if a ninth book appears later, it must be added by decision, not by accident.
 
 ---
 
@@ -23,6 +25,13 @@ Book about the human mechanism that the mythic figure carries.
 The Finnish / Karelian line is the main spine.
 
 Other pantheons appear as comparative echoes, not as equal encyclopedic material.
+
+Important narrative rule:
+
+```text
+The campfire is the entrance / hook of Book I only.
+The series itself must unfold through active heroes, events, mythic figures, choices and consequences.
+```
 
 ---
 
@@ -52,6 +61,12 @@ Core movement:
 from object to principle
 from possession to participation
 from miracle as device to Creation as living mechanism
+```
+
+Opening rule:
+
+```text
+Book I may begin at a summer-camp fire with the first-door narrator, but the narrative must then move beyond the hook into active story.
 ```
 
 Comparative echoes:
@@ -159,14 +174,14 @@ Threshold, northern power, resource, access, refusal, maturity test.
 Main question:
 
 ```text
-Why are some gifts withheld from those who still call appetite “readiness”?
+Why are some gifts withheld from those who still call appetite "readiness"?
 ```
 
 Core movement:
 
 ```text
 from entitlement to threshold
-from “give me” to “who is asking?”
+from "give me" to "who is asking?"
 from resource as property to resource as guarded power
 ```
 
@@ -342,7 +357,7 @@ Recommended display:
 Книга I. Сампо
 ```
 
-Avoid making “Протокол Сампо” the first public title unless the technological tone becomes central in the final draft.
+Avoid making "Протокол Сампо" the first public title unless the technological tone becomes central in the final draft.
 
 Better current use:
 
