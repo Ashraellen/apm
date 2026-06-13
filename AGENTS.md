@@ -37,3 +37,4 @@ Project folders:
 - `MONOLITH` — MONOLITH trilogy / трилогия МОНОЛИТ.
 - `SaintWhine` — Church of Saint Whine / "Церковь" Святого Нытья.
 - `Ashraellen` — Ashraellen main ecosystem.
+- `Radiance` — Сияние / Northern tales about the real history of the world.
