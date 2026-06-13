@@ -64,6 +64,34 @@ Chapter 1 moves from the modern airport and minibus entrance toward the northern
 
 ---
 
+## Chapter file naming rule
+
+All chapter draft files use short technical names:
+
+```text
+Chapter_XX_vY.md
+```
+
+Examples:
+
+```text
+Chapter_01_v1.md
+Chapter_02_v1.md
+Chapter_02_v2.md
+```
+
+Chapter titles do not go into filenames.
+
+The title lives inside the file.
+
+Full rule:
+
+```text
+File_Naming.md
+```
+
+---
+
 ## Opening location
 
 Book I may begin in the modern frame at a remote northern retreat / mini-camp / large wooden house somewhere in Finland, in forest, near water, or in another quiet northern landscape.
@@ -165,6 +193,7 @@ Then let the story leave the fire and walk.
 Concept.md                  — current Book I concept
 Chapter_Architecture.md     — chapter and scene architecture
 Guest_Circle.md             — 12 guests + Ivar, symbolic and dramatic rules
+File_Naming.md              — chapter file naming rule
 Drafts/Prologue_Hook_v1.md  — first fantastic prologue hook draft
 Drafts/Chapter_01_v1.md     — Chapter 1 first version
 ```
