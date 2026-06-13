@@ -17,7 +17,13 @@ Current format:
 Working external logic:
 
 ```text
-A cycle of northern campfire stories where a strange narrator tells children, or almost children, the "real" history behind myth: Sampo, Väinämöinen, Ilmarinen, Louhi, Kullervo, Lemminkäinen, Ilmatar, Tapio, and the living mechanism of Creation.
+A northern philosophical fiction cycle where the first book opens through a campfire hook: a strange narrator starts telling children, or almost children, the "real" history behind myth. After the door opens, the story must pass into active narrative: heroes, events, mythic functions, choices, conflict and consequence.
+```
+
+Important correction:
+
+```text
+The campfire is an entrance / hook for Book I, not the permanent frame for every book in the series.
 ```
 
 ---
@@ -33,7 +39,7 @@ This folder records the initial decisions for a new series built around:
 - Sampo as the first central motif;
 - Creation / Earth as the true Manna-machine;
 - pantheons as symbolic teaching teams / functional systems of transmission;
-- a campfire storytelling frame in a summer camp;
+- a campfire doorway in Book I only;
 - philosophical speculative fiction as the main artistic form.
 
 ---
@@ -43,9 +49,9 @@ This folder records the initial decisions for a new series built around:
 ```text
 First_Decisions.md — First canonical decisions from the initial conversation
 Project_Bible.md   — Core canon, metaphysics, concept, and project identity
-Style_Guide.md     — Tone, rhythm, narrative frame, prohibitions, scene rules
-Series_Map.md      — Eight-book cycle map and functional logic of each book
-Characters.md      — Narrator, children / almost children, mythic functions
+Style_Guide.md     — Tone, rhythm, opening hook, prohibitions, scene rules
+Series_Map.md      — Current named cycle map and functional logic of each book
+Characters.md      — Narrator as first-door figure, listeners, heroes, mythic functions
 Research_Notes.md  — Finnish / Karelian material, comparative pantheons, institutional direction
 Books/             — Book-level memory and future draft folders
 Research/          — Source orientation, notes, and research layers
@@ -72,7 +78,7 @@ Before working on Radiance / Сияние, read:
 Then read specific files depending on the task:
 
 ```text
-Characters.md     — if working with the narrator, children, or mythic functions
+Characters.md     — if working with the narrator, children, heroes, or mythic functions
 Research_Notes.md — if preparing institutional letters, source work, or grant framing
 Books/INDEX.md    — if planning individual books
 ```
@@ -100,10 +106,14 @@ Do not reduce the project to:
 - pseudo-history about ancient aliens;
 - a lecture on pantheons;
 - a grant wrapper for Finnish institutions;
-- ecological moralizing with a sad hedgehog on the cover.
+- ecological moralizing with a sad hedgehog on the cover;
+- a campfire conversation artificially stretched across the whole cycle.
 
 Correct frame:
 
 ```text
 A philosophical fiction cycle where northern mythic figures reveal inner laws of Creation, consciousness, language, abundance, craft, threshold, trauma, death, birth, forest, measure, and responsibility.
+
+The fire opens the first door.
+The story must then walk on its own legs.
 ```
