@@ -17,7 +17,7 @@ Current format:
 Working external logic:
 
 ```text
-A cycle of northern campfire stories where a strange narrator tells children, or almost children, the “real” history behind myth: Sampo, Väinämöinen, Ilmarinen, Louhi, Kullervo, Lemminkäinen, Ilmatar, Tapio, and the living mechanism of Creation.
+A cycle of northern campfire stories where a strange narrator tells children, or almost children, the "real" history behind myth: Sampo, Väinämöinen, Ilmarinen, Louhi, Kullervo, Lemminkäinen, Ilmatar, Tapio, and the living mechanism of Creation.
 ```
 
 ---
