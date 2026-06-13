@@ -36,12 +36,18 @@ Begin with a gripping fantastic hook.
 Then return to the present-time frame:
 
 ```text
-airport -> minibus -> northern retreat -> arrival -> house action -> fire place -> Ivar begins the story
+airport -> minibus -> northern retreat -> arrival -> house action -> first fire place -> Ivar begins the story
 ```
 
 This gives the reader shock first, then ground.
 
 The fantastic hook should create the question before the book explains the question.
+
+Important correction:
+
+```text
+The fire is the first threshold, not the location of the whole book.
+```
 
 ---
 
@@ -64,7 +70,11 @@ It may include:
 - forest;
 - lake or water;
 - fire place outside;
+- living room with a fireplace;
+- kitchen;
 - simple food;
+- bedrooms / private rooms;
+- porch, path, lake edge, sauna / washing place;
 - wood, tools, weather, silence;
 - a sense that the land itself is part of the story.
 
@@ -179,7 +189,7 @@ people are tired, compressed, curious, skeptical, slightly uncomfortable, and un
 
 They arrive at the northern place.
 
-Before the fire, something should happen in or around the house.
+Before the first fire, something should happen in or around the house.
 
 Purpose:
 
@@ -198,7 +208,7 @@ Possible functions:
 
 ---
 
-## Opening hook at the fire
+## Opening hook at the first fire
 
 Possible first turn:
 
@@ -214,16 +224,46 @@ The book must gradually reveal that the question is not about a lost object, but
 
 ---
 
+## Mobile present-time frame
+
+The modern frame should not stay at the fire for the whole book.
+
+After the first fire, the group may move naturally:
+
+```text
+fire place -> living room with fireplace -> kitchen -> private rooms -> porch -> lake / forest -> morning table -> another shared or private scene
+```
+
+The present-time layer must have its own human life.
+
+It may include:
+
+- people moving from the fire into the house;
+- continuing the conversation in the living room by the fireplace;
+- someone going to sleep earlier and failing to sleep;
+- a couple whispering before bed after what they heard;
+- someone discussing Ivar's words with a partner;
+- someone rejecting the story as nonsense but behaving differently afterwards;
+- someone alone near a window, porch, lake or forest path;
+- morning reactions, awkward breakfast, changed glances.
+
+These scenes are not pauses between myths.
+
+They are where the myth begins to digest the guests.
+
+---
+
 ## Narrative movement after the hook
 
-After the fire opens the door, the book must move into story.
+After the first fire opens the door, the book must move into story.
 
 Required movement:
 
 ```text
 from conversation to scene
 from scene to mythic action
-from mythic action to recognition
+from mythic action to human consequence
+from human consequence to the next opening
 ```
 
 The book must include:
@@ -238,9 +278,15 @@ The book must include:
 
 Do not keep Ivar explaining everything by the fire.
 
-The fire starts the machine.
+The first fire starts the machine.
 
-The story must then run.
+The story must then run through both layers:
+
+```text
+mythic events
+present-time reactions
+private consequences
+```
 
 ---
 
@@ -249,12 +295,11 @@ The story must then run.
 Working chapter pattern:
 
 ```text
-present-time frame
-Ivar speaks
-question / reaction / interruption from the guests
+present-time scene in a real place
+Ivar speaks / someone asks / someone remembers / silence turns strange
 mythic manifestation
 return to present
-shift in the group
+human consequence
 next story-door
 ```
 
@@ -286,7 +331,7 @@ fantastic hook
 minibus from airport
 arrival at the northern retreat
 house action
-movement to the fire place
+movement to the first fire place
 Ivar begins the story
 ```
 
@@ -301,6 +346,23 @@ Chapter 2 should move directly into the first action inside Ivar's story.
 The dominant pressure should be mythic action, not explanation.
 
 The present-time frame may return briefly, but the reader must feel that the book has crossed a threshold.
+
+---
+
+## Later present-time function
+
+Later present-time scenes must show how the story affects people.
+
+Examples:
+
+```text
+A shared scene by the fireplace shows how people try to intellectualize what they heard.
+A private bedroom scene shows how the same story touches a couple's old wound.
+A morning kitchen scene shows that some words cannot be unheard.
+A quiet scene by the lake shows that one guest is no longer sure where the story ended.
+```
+
+This keeps the modern layer alive.
 
 ---
 
@@ -338,4 +400,16 @@ Wrong:
 
 ```text
 scene as camera instruction
+```
+
+Third danger:
+
+```text
+the present-time frame becomes only a chair for Ivar's monologue
+```
+
+Correction:
+
+```text
+The present-time frame must move, breathe, resist, digest and change the guests.
 ```
