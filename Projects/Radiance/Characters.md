@@ -6,15 +6,28 @@ The project is at first-canon stage. Do not treat this map as final casting.
 
 ---
 
-## 1. Main narrator
+## 1. Door narrator
 
 Working role:
 
 ```text
-The campfire narrator.
+The first-door narrator.
 ```
 
-He tells children / almost children the "real" history hidden inside northern myths.
+Earlier temporary wording called him "the campfire narrator". Corrected canon:
+
+```text
+He belongs primarily to the opening doorway of Book I.
+He does not automatically frame every book in the series.
+```
+
+In Book I, he may sit by a summer-camp fire and start telling children / almost children the "real" history hidden inside northern myths.
+
+His function:
+
+```text
+to open the door, not to replace the story
+```
 
 He should not be:
 
@@ -37,15 +50,17 @@ His authority should not come from status.
 
 It should come from the feeling that he has either seen something, remembered something, or stopped pretending not to know it.
 
+After the threshold is crossed, the narrative should move into heroes, events, mythic figures, and consequences.
+
 ---
 
 ## 2. Listener group
 
-The listeners are likely teenagers / almost children in a summer camp.
+The listeners are likely teenagers / almost children in the Book I opening.
 
-They are not a passive audience.
+They are not the permanent audience of the entire series unless a later decision explicitly makes them so.
 
-They protect the series from becoming a lecture.
+They protect the opening from becoming a lecture.
 
 Possible functional roles:
 
@@ -81,7 +96,7 @@ keeps the fire human
 
 ### The wounded one
 
-Hears the stories as if they are addressed personally.
+Hears the first story as if it is addressed personally.
 
 Function:
 
@@ -101,7 +116,25 @@ carries the modern reader's defensive intelligence
 
 ---
 
-## 3. Mythic figures as functions
+## 3. Main heroes
+
+The series must not remain trapped at the campfire.
+
+After the entrance, the books need active heroes.
+
+Current rule:
+
+```text
+Each book must find the human or mythic protagonist appropriate to its central function.
+```
+
+Book I may begin with listeners, but it must develop beyond listeners into story-bearing figures, choices, actions and consequences.
+
+Future books should not be structured as repeated campfire conversations unless the author later makes a specific decision for a specific book.
+
+---
+
+## 4. Mythic figures as functions
 
 The mythic figures should be treated as living functional principles, not as simple fantasy characters.
 
@@ -197,7 +230,7 @@ Not merely a forest god.
 
 ---
 
-## 4. Character rule
+## 5. Character rule
 
 No one should exist only to explain philosophy.
 
