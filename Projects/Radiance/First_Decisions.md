@@ -28,20 +28,45 @@ Working genre:
 philosophical speculative fiction
 mythopoetic fantasy
 artistic research through fiction
-northern campfire cycle
+northern mythopoetic cycle
 ```
 
-The series should feel like a story told by fire, not like a dissertation wearing a fur coat.
+The series should feel like myth becoming real through story, scene and action, not like a dissertation wearing a fur coat.
 
 ---
 
-## 2. Narrative frame
+## 2. Book I entrance / campfire hook
 
-The main frame:
+Important correction:
 
 ```text
-A strange narrator sits by a campfire in a summer camp and tells children, or almost children, the "real" history of the world hidden inside northern myths.
+The campfire is not the permanent frame for the whole series.
+It is the doorway / hook of Book I.
 ```
+
+In Book I, the first door may be:
+
+```text
+A strange narrator sits by a campfire in a summer camp and starts telling children, or almost children, the "real" history of the world hidden inside northern myths.
+```
+
+But this scene must not become a fixed formula for every book.
+
+The narrator opens the door.
+
+Then the story should pass into active fiction:
+
+```text
+heroes
+journey
+actions
+conflict
+mythic figures
+consequences
+inner laws revealed through events
+```
+
+The fire is an ignition point, not a cage.
 
 The listeners should probably be teenagers rather than small children.
 
@@ -66,6 +91,8 @@ He says, in essence:
 ```text
 I do not ask you to believe. Just listen. Some stories become clear only after a person stops demanding proof from them.
 ```
+
+After this opening function is fulfilled, the narrator must not keep holding the whole book by the collar unless a later scene specifically earns his return.
 
 ---
 
@@ -195,6 +222,10 @@ The author returns to Kalevala-related material as part of his own earlier spiri
 
 ## 7. Planned book cycle
 
+Current named spine contains eight active book nodes.
+
+The final number of books is not yet locked. If a ninth book appears later, it must follow the same rule: no automatic campfire frame unless specifically earned by the story.
+
 ### Book I. Сампо
 
 Theme:
@@ -294,7 +325,8 @@ Do not turn the series into:
 - a sermon about ecology;
 - a direct spiritual teaching;
 - a lecture disguised as fantasy;
-- a grant application wearing reindeer antlers.
+- a grant application wearing reindeer antlers;
+- a repeated campfire dialogue in every book just because the first door worked.
 
 The book must remain literature.
 
