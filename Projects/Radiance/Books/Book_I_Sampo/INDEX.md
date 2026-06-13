@@ -46,13 +46,21 @@ Current first movement:
 fantastic prologue hook -> airport / minibus -> northern retreat -> arrival -> house action -> first fire place -> Ivar begins the story
 ```
 
-The first active draft is:
+The first active prologue draft is:
 
 ```text
 Drafts/Prologue_Hook_v1.md
 ```
 
+The first active Chapter 1 draft is:
+
+```text
+Drafts/Chapter_01_Malenkoe_Sobytie_v1.md
+```
+
 The prologue opens with the mythic image of the Earth as a living feeding mechanism and the first human attempt to extract / own what already surrounds and feeds them.
+
+Chapter 1 moves from the modern airport and minibus entrance toward the northern house, Ivar's first appearance, the first fire, and the opening sentence that pulls the group back toward the prologue.
 
 ---
 
@@ -154,8 +162,9 @@ Then let the story leave the fire and walk.
 ## Active files
 
 ```text
-Concept.md              — current Book I concept
-Chapter_Architecture.md — chapter and scene architecture
-Guest_Circle.md         — 12 guests + Ivar, symbolic and dramatic rules
-Drafts/Prologue_Hook_v1.md — first fantastic prologue hook draft
+Concept.md                              — current Book I concept
+Chapter_Architecture.md                 — chapter and scene architecture
+Guest_Circle.md                         — 12 guests + Ivar, symbolic and dramatic rules
+Drafts/Prologue_Hook_v1.md              — first fantastic prologue hook draft
+Drafts/Chapter_01_Malenkoe_Sobytie_v1.md — Chapter 1 first version
 ```
