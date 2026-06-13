@@ -31,6 +31,15 @@ For now, the first active book is:
 Book_I_Sampo/
 ```
 
-Book I may use the campfire as an opening door / hook. Other books should not inherit the campfire frame automatically.
+Book I may use a fire / northern gathering as an opening door / hook. Other books should not inherit this frame automatically.
 
 Other books remain mapped in `../Series_Map.md` until active development begins.
+
+---
+
+## Active Book I files
+
+```text
+Book_I_Sampo/INDEX.md   — Book I folder index and current practical rules
+Book_I_Sampo/Concept.md — Current Book I concept: location, Ivar, annual circle, opening hook
+```
