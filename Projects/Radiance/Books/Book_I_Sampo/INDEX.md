@@ -43,7 +43,7 @@ into Sampo as Creation itself
 Current first movement:
 
 ```text
-fantastic prologue hook -> airport / minibus -> northern retreat -> arrival -> house action -> first fire place -> Ivar begins the story
+fantastic prologue hook -> airport / minibus -> northern house -> arrival -> house action -> first fire place -> Ivar begins the story
 ```
 
 The first active prologue draft is:
@@ -70,17 +70,23 @@ Earlier Chapter 1 draft preserved as:
 Drafts/Chapter_01_v1.md
 ```
 
-Earlier Chapter 2 draft preserved as:
+The rejected Chapter 2 first version was removed from active drafts:
 
 ```text
 Drafts/Chapter_02_v1.md
+```
+
+Reason:
+
+```text
+too many interruptions, weakened Ivar, too much балаган, not enough manifestation
 ```
 
 The prologue opens with the mythic image of the Earth as a living feeding mechanism and the first human attempt to extract / own what already surrounds and feeds them.
 
 Chapter 1 moves from the modern airport and minibus entrance toward the northern house, Ivar's first appearance, the first fire, and the opening sentence that pulls the group back toward the prologue.
 
-Chapter 2 continues from the sound under the moss. It does not reveal Sampo as Creation yet; it lets Sampo stop being only a word and become rumor, pressure, hunger, measure, bread, warm snow, and the first disturbance around what feeds. Chapter 2 v2 replaces the first version because the first version overused interruptions and made the fire scene too close to a балаган.
+Chapter 2 continues from the sound under the moss. It does not reveal Sampo as Creation yet; it lets Sampo stop being only a word and become rumor, pressure, hunger, measure, bread, warm snow, soil under the nail, and the first disturbance around what feeds.
 
 ---
 
@@ -136,7 +142,7 @@ File_Naming.md
 
 ## Opening location
 
-Book I may begin in the modern frame at a remote northern retreat / mini-camp / large wooden house somewhere in Finland, in forest, near water, or in another quiet northern landscape.
+Book I may begin in the modern frame at a remote northern house / gathering place / mini-camp somewhere in Finland, in forest, near water, or in another quiet northern landscape.
 
 Important correction:
 
@@ -204,6 +210,24 @@ He is not a guru.
 He is not a formal teacher.
 
 He is the one who starts the first door in the modern frame.
+
+---
+
+## Guest circle
+
+Current number:
+
+```text
+12 guests + Ivar
+```
+
+This creates thirteen bodies in the shared space, but it must not become a direct Jesus-and-apostles image.
+
+The guests are not students, followers or symbolic function-cards.
+
+They are people: returning guests, newcomers, friends, skeptics, private wounds, old loyalties and unfinished questions.
+
+Only a few voices should be active in one scene.
 
 ---
 
@@ -291,6 +315,5 @@ Season_Setting.md           — seasonal setting: late August / early September 
 Drafts/Prologue_Hook_v1.md  — first fantastic prologue hook draft
 Drafts/Chapter_01_v1.md     — Chapter 1 first version, preserved
 Drafts/Chapter_01_v2.md     — Chapter 1 second version, current active draft
-Drafts/Chapter_02_v1.md     — Chapter 2 first version, preserved
 Drafts/Chapter_02_v2.md     — Chapter 2 second version, current active draft
 ```
