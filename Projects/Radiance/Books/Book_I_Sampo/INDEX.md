@@ -61,7 +61,7 @@ Drafts/Chapter_01_v2.md
 The current active Chapter 2 draft is:
 
 ```text
-Drafts/Chapter_02_v1.md
+Drafts/Chapter_02_v2.md
 ```
 
 Earlier Chapter 1 draft preserved as:
@@ -70,11 +70,17 @@ Earlier Chapter 1 draft preserved as:
 Drafts/Chapter_01_v1.md
 ```
 
+Earlier Chapter 2 draft preserved as:
+
+```text
+Drafts/Chapter_02_v1.md
+```
+
 The prologue opens with the mythic image of the Earth as a living feeding mechanism and the first human attempt to extract / own what already surrounds and feeds them.
 
 Chapter 1 moves from the modern airport and minibus entrance toward the northern house, Ivar's first appearance, the first fire, and the opening sentence that pulls the group back toward the prologue.
 
-Chapter 2 continues from the sound under the moss. It does not reveal Sampo as Creation yet; it lets Sampo stop being only a word and become rumor, pressure, hunger, measure, bread, and the first disturbance around what feeds.
+Chapter 2 continues from the sound under the moss. It does not reveal Sampo as Creation yet; it lets Sampo stop being only a word and become rumor, pressure, hunger, measure, bread, warm snow, and the first disturbance around what feeds. Chapter 2 v2 replaces the first version because the first version overused interruptions and made the fire scene too close to a балаган.
 
 ---
 
@@ -239,6 +245,28 @@ The modern frame should move through the house, living room, fireplace, kitchen,
 
 ---
 
+## Chapter montage rule
+
+Each chapter may contain several scenes, like video montage:
+
+```text
+present layer here and now
+-> Ivar speaks briefly / a guest asks one necessary question
+-> visualization / manifestation scene
+-> return to present layer
+-> reaction, silence, small human consequence
+-> next visualization / manifestation scene
+-> return again
+```
+
+Ivar must not be turned into a lecturer or a person constantly interrupted by guests.
+
+Guest comments must be rare and costly.
+
+A single precise interruption is stronger than a page of witty балаган.
+
+---
+
 ## First-book caution
 
 Do not reveal everything too early.
@@ -263,5 +291,6 @@ Season_Setting.md           — seasonal setting: late August / early September 
 Drafts/Prologue_Hook_v1.md  — first fantastic prologue hook draft
 Drafts/Chapter_01_v1.md     — Chapter 1 first version, preserved
 Drafts/Chapter_01_v2.md     — Chapter 1 second version, current active draft
-Drafts/Chapter_02_v1.md     — Chapter 2 first version, current active draft
+Drafts/Chapter_02_v1.md     — Chapter 2 first version, preserved
+Drafts/Chapter_02_v2.md     — Chapter 2 second version, current active draft
 ```
