@@ -66,7 +66,13 @@ from miracle as device to Creation as living mechanism
 Opening rule:
 
 ```text
-Book I may begin at a summer-camp fire with the first-door narrator, but the narrative must then move beyond the hook into active story.
+Book I may begin through a northern gathering and first fire with Ivar as threshold figure, but the narrative must then move beyond the hook into active story.
+```
+
+Current Book I gathering:
+
+```text
+12 guests + Ivar
 ```
 
 Comparative echoes:
@@ -258,7 +264,6 @@ Core movement:
 ```text
 from impulse to death
 from dismemberment to reassembly
-from heroic display to changed return
 ```
 
 Comparative echoes:
