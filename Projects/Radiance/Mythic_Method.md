@@ -1,6 +1,6 @@
 # Mythic Method — Radiance / Сияние
 
-This file fixes the cleaned working method for **Radiance / Сияние** after external advice was evaluated and reduced to what serves the original plan.
+This file fixes the working mythic method for **Radiance / Сияние** after external advice was evaluated and reduced to what serves the original plan.
 
 ---
 
@@ -53,13 +53,11 @@ If an idea makes the core more complex but less alive, remove or postpone it.
 
 ---
 
-## What to take from external advice
+## What to keep from external advice
 
 External advice may be useful only as sharpening material.
 
 It must not take the wheel.
-
-Useful points to keep:
 
 ### 1. Do not retell the epic as plot
 
@@ -94,20 +92,25 @@ Characters must first be alive.
 
 Mythic functions should be felt through action, pressure, mistakes, hunger, speech, silence, and consequence.
 
-### 3. Let modern resistance protect the book from lecture
+### 3. Modern resistance must be precise, not noisy
 
-Nik, Thomas and other guests must prevent Ivar from becoming a smooth author-interface.
+Nik, Thomas, David and other guests may protect the book from false solemnity.
 
-Useful dramatic rule:
+But resistance must not turn the scene into балаган.
+
+Correct rule:
 
 ```text
-If everyone falls into reverent silence after Ivar speaks, the scene may be in danger.
-If someone damages the solemnity and the scene becomes more alive, the scene works.
+A single necessary question may cut deeper than a page of witty interruptions.
 ```
 
 Ivar may open the door.
 
 He must not become the book's explanatory machine.
+
+He also must not become a tired speaker constantly interrupted by guests.
+
+Guest comments should be rare and costly.
 
 ### 4. Keep Sofia as the main human lens
 
@@ -122,22 +125,26 @@ The twelve guests must not become an immediate chart of functions.
 In early chapters, keep active focus on a small number of figures:
 
 ```text
-Sofia, Nik, Thomas, Eva
+Sofia, Nik, Thomas, Eva, and one or two others when the scene earns them.
 ```
 
 Others may remain background / chorus / pressure until the story earns their fuller emergence.
 
-### 6. Do not make manifestations mechanical
+### 6. Manifestations are not scheduled attractions
 
-Avoid a predictable pattern:
+Avoid a dead pattern:
 
 ```text
-Ivar speaks -> vision appears -> guests discuss -> repeat.
+Ivar speaks -> vision appears -> guests discuss -> repeat mechanically.
 ```
 
-Strangeness should not become a scheduled attraction.
+But keep the living montage principle:
 
-It may enter through:
+```text
+present layer -> brief speech / question / silence -> manifestation -> return -> human consequence -> next opening
+```
+
+Strangeness may enter through:
 
 - fire;
 - kitchen;
@@ -148,13 +155,14 @@ It may enter through:
 - silence;
 - a joke that arrives late;
 - a bowl of berries;
-- a sound under the floor.
+- a sound under the floor;
+- a trace on Sofia's body.
 
 ---
 
 ## What to ignore or postpone
 
-The following must not control the project:
+The following must not control the project.
 
 ### 1. Writing to please people who recognize the epic
 
@@ -243,7 +251,7 @@ Book I reveals Sampo, but in layers.
 Correct movement:
 
 ```text
-word -> tale -> object -> desire for a machine -> mistake of ownership -> recognition of Creation
+word -> rumor -> pressure -> object -> desire for a machine -> mistake of ownership -> recognition of Creation
 ```
 
 Do not reveal the final meaning too early.
@@ -256,14 +264,14 @@ The book's task is to let the reader first desire the machine, then fear the des
 
 ## Chapter 2 direction after cleanup
 
-Chapter 2 should follow the original plan, without external overcomplication.
+Chapter 2 v1 is rejected as a working draft because it overused explanations, interruptions and group commentary.
 
-It should not introduce technological mythology, full epic reconstruction, or symbolic diagrams.
+Chapter 2 v2 is the current direction.
 
 Its function:
 
 ```text
-Sampo stops being only a word and becomes a rumor / pressure / first disturbance around what feeds.
+Sampo stops being only a word and becomes bodily pressure: sound under moss, hunger before hunger, warm snow, bread-smell, soil under the nail, and the first touch of iron against living provision.
 ```
 
 Chapter 2 should not yet say:
@@ -275,12 +283,12 @@ Sampo is Creation.
 Instead it should show:
 
 - people around the fire;
-- Ivar beginning a tale;
+- Ivar speaking briefly;
 - Sofia listening without full understanding;
-- Nik resisting;
-- Thomas demanding clarity;
-- the ground, bread, moss, cold, memory and silence beginning to answer faintly;
-- ordinary reality receiving its first crack.
+- one necessary resistance or question at a time;
+- the mythic scene becoming visible;
+- ordinary reality receiving its first crack;
+- the reader understanding why a human being would want to take.
 
 Working formula:
 
@@ -298,6 +306,8 @@ If an idea makes the book cleverer but less alive, remove it.
 If a scene can be described as a lecture with visual effects, rewrite it.
 
 If the myth is present but the bread, cold, hunger, body, joke and silence disappear, the scene has lost Radiance.
+
+If every sentence of Ivar produces a comment from the circle, the scene has turned into балаган.
 
 Correct Radiance test:
 
