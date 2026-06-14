@@ -58,6 +58,12 @@ The current active Chapter 1 draft is:
 Drafts/Chapter_01_v2.md
 ```
 
+The current active Chapter 2 draft is:
+
+```text
+Drafts/Chapter_02_v1.md
+```
+
 Earlier Chapter 1 draft preserved as:
 
 ```text
@@ -67,6 +73,8 @@ Drafts/Chapter_01_v1.md
 The prologue opens with the mythic image of the Earth as a living feeding mechanism and the first human attempt to extract / own what already surrounds and feeds them.
 
 Chapter 1 moves from the modern airport and minibus entrance toward the northern house, Ivar's first appearance, the first fire, and the opening sentence that pulls the group back toward the prologue.
+
+Chapter 2 continues from the sound under the moss. It does not reveal Sampo as Creation yet; it lets Sampo stop being only a word and become rumor, pressure, hunger, measure, bread, and the first disturbance around what feeds.
 
 ---
 
@@ -255,4 +263,5 @@ Season_Setting.md           — seasonal setting: late August / early September 
 Drafts/Prologue_Hook_v1.md  — first fantastic prologue hook draft
 Drafts/Chapter_01_v1.md     — Chapter 1 first version, preserved
 Drafts/Chapter_01_v2.md     — Chapter 1 second version, current active draft
+Drafts/Chapter_02_v1.md     — Chapter 2 first version, current active draft
 ```
