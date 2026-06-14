@@ -67,13 +67,19 @@ Drafts/Chapter_02_v2.md
 The current active Chapter 3 draft is:
 
 ```text
-Drafts/Chapter_03_v1.md
+Drafts/Chapter_03_v2.md
 ```
 
 Earlier Chapter 1 draft preserved as:
 
 ```text
 Drafts/Chapter_01_v1.md
+```
+
+Earlier Chapter 3 draft preserved as:
+
+```text
+Drafts/Chapter_03_v1.md
 ```
 
 The rejected Chapter 2 first version was removed from active drafts:
@@ -94,7 +100,7 @@ Chapter 1 moves from the modern airport and minibus entrance toward the northern
 
 Chapter 2 continues from the sound under the moss. It does not reveal Sampo as Creation yet; it lets Sampo stop being only a word and become rumor, pressure, hunger, measure, bread, warm snow, soil under the nail, and the first disturbance around what feeds.
 
-Chapter 3 moves from listening into participation through morning life: bread, hand, measure, wood, moss, and the warm piece of bread left on Thomas's plate. It should not introduce a large manifestation; the ordinary world must remain ordinary enough to become more disturbing.
+Chapter 3 moves from listening into participation through morning life: bread, hand, measure, wood, moss, and the warm piece of bread left on Thomas's plate. It should not introduce a large manifestation; the ordinary world must remain ordinary enough to become more disturbing. Chapter_03_v2 is the active editorial version after cleaning explanatory authorial confirmations, reducing perfect witty precision, and making Nora less Ivar-like.
 
 ---
 
@@ -135,6 +141,7 @@ Chapter_01_v1.md
 Chapter_02_v1.md
 Chapter_02_v2.md
 Chapter_03_v1.md
+Chapter_03_v2.md
 ```
 
 Chapter titles do not go into filenames.
@@ -325,5 +332,6 @@ Drafts/Prologue_Hook_v1.md  — first fantastic prologue hook draft
 Drafts/Chapter_01_v1.md     — Chapter 1 first version, preserved
 Drafts/Chapter_01_v2.md     — Chapter 1 second version, current active draft
 Drafts/Chapter_02_v2.md     — Chapter 2 second version, current active draft
-Drafts/Chapter_03_v1.md     — Chapter 3 first version, current active draft
+Drafts/Chapter_03_v1.md     — Chapter 3 first version, preserved
+Drafts/Chapter_03_v2.md     — Chapter 3 second version, current active draft
 ```
