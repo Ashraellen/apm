@@ -82,6 +82,12 @@ The current active Chapter 5 draft is:
 Drafts/Chapter_05_v2.md
 ```
 
+The current active Chapter 6 draft is:
+
+```text
+Drafts/Chapter_06_v1.md
+```
+
 Earlier Chapter 1 draft preserved as:
 
 ```text
@@ -131,6 +137,8 @@ Chapter 4 moves from bread/hand/measure to water/surface/holding. It should cont
 
 Chapter 5 opens the first “Sampo as thing / object” movement. It should not reveal Sampo as an artifact or device; it shows how, after bread and water, the human need begins to imagine the living source as a thing that can be found, held, hidden, guarded or taken. The house should press through ordinary objects: cup, hook, shelf, lid, chest, box, iron, wooden bowl, handle, lock. Chapter_05_v2 is the active editorial version after drying Ivar's speech, making the mythic old woman less aphoristic, softening the child's “Само” moment, and reducing repeated final explanation.
 
+Chapter 6 continues the “Sampo as thing / object” movement by showing the first illness of searching. It should not create a quest, map or discovery; it shows how, after Sampo begins to be imagined as a thing, the living world begins to be read as a system of signs and traces. The characters find nothing, but their way of looking becomes damaged.
+
 ---
 
 ## Narrative POV
@@ -176,6 +184,7 @@ Chapter_04_v1.md
 Chapter_04_v2.md
 Chapter_05_v1.md
 Chapter_05_v2.md
+Chapter_06_v1.md
 ```
 
 Chapter titles do not go into filenames.
@@ -373,4 +382,5 @@ Drafts/Chapter_04_v1.md     — Chapter 4 first version, preserved
 Drafts/Chapter_04_v2.md     — Chapter 4 second version, current active draft
 Drafts/Chapter_05_v1.md     — Chapter 5 first version, preserved
 Drafts/Chapter_05_v2.md     — Chapter 5 second version, current active draft
+Drafts/Chapter_06_v1.md     — Chapter 6 first version, current active draft
 ```
