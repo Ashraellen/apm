@@ -12,7 +12,7 @@ Series subtitle:
 
 Current format:
 
-**philosophical speculative fiction / mythopoetic fantasy / artistic research cycle**
+**philosophical fantasy / philosophical speculative fiction / mythopoetic fantasy / artistic research cycle**
 
 Working external logic:
 
@@ -40,7 +40,8 @@ This folder records the initial decisions for a new series built around:
 - Creation / Earth as the true Manna-machine;
 - pantheons as symbolic teaching teams / functional systems of transmission;
 - a campfire doorway in Book I only;
-- philosophical speculative fiction as the main artistic form.
+- philosophical fantasy as the living literary body;
+- philosophical speculative fiction as an additional external description.
 
 ---
 
@@ -49,6 +50,7 @@ This folder records the initial decisions for a new series built around:
 ```text
 First_Decisions.md — First canonical decisions from the initial conversation
 Project_Bible.md   — Core canon, metaphysics, concept, and project identity
+Mythic_Method.md   — Cleaned method: philosophical fantasy, not epic retelling, not over-technical explanation
 Style_Guide.md     — Tone, rhythm, opening hook, prohibitions, scene rules
 Series_Map.md      — Current named cycle map and functional logic of each book
 Characters.md      — Narrator as first-door figure, listeners, heroes, mythic functions
@@ -71,8 +73,9 @@ Before working on Radiance / Сияние, read:
 3. Projects/Radiance/INDEX.md
 4. Projects/Radiance/First_Decisions.md
 5. Projects/Radiance/Project_Bible.md
-6. Projects/Radiance/Series_Map.md
-7. Projects/Radiance/Style_Guide.md
+6. Projects/Radiance/Mythic_Method.md
+7. Projects/Radiance/Series_Map.md
+8. Projects/Radiance/Style_Guide.md
 ```
 
 Then read specific files depending on the task:
@@ -95,6 +98,13 @@ The world was already the Manna-machine.
 The human being searched for Sampo while standing inside it.
 ```
 
+Russian core:
+
+```text
+Сказки содержат настоящую историю мира.
+Люди называли её мифом, потому что забыли язык, на котором она была записана.
+```
+
 ---
 
 ## Main caution
@@ -103,7 +113,6 @@ Do not reduce the project to:
 
 - a retelling of Kalevala;
 - mythological Marvel;
-- pseudo-history about ancient aliens;
 - a lecture on pantheons;
 - a grant wrapper for Finnish institutions;
 - ecological moralizing with a sad hedgehog on the cover;
@@ -112,7 +121,7 @@ Do not reduce the project to:
 Correct frame:
 
 ```text
-A philosophical fiction cycle where northern mythic figures reveal inner laws of Creation, consciousness, language, abundance, craft, threshold, trauma, death, birth, forest, measure, and responsibility.
+A philosophical fantasy cycle where northern mythic figures reveal inner laws of Creation, consciousness, language, abundance, craft, threshold, trauma, death, birth, forest, measure, and responsibility.
 
 The fire opens the first door.
 The story must then walk on its own legs.
