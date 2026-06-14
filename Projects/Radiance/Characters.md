@@ -1,8 +1,8 @@
 # Characters — Radiance / Сияние
 
-This file records the early character and function map for **Radiance / Сияние**.
+This file records the current character and function map for **Radiance / Сияние**.
 
-The project is at first-canon stage. Do not treat this map as final casting.
+The project is still developing. Do not treat this map as final casting.
 
 ---
 
@@ -71,7 +71,8 @@ He should not be:
 - a lecturer;
 - a wizard cliché;
 - a professor in disguise;
-- a clean mouthpiece for the author's philosophy.
+- a clean mouthpiece for the author's philosophy;
+- a tired speaker constantly interrupted by witty guests.
 
 He may be:
 
@@ -94,7 +95,9 @@ to open the door, not to replace the story
 
 After the threshold is crossed, the narrative should move into heroes, events, mythic figures, and consequences.
 
-### Ivar's appearance and layered revelation
+---
+
+## 2. Ivar's appearance and layered revelation
 
 Book I and the wider series are not about Ivar.
 
@@ -131,7 +134,7 @@ power through scenes;
 secret through later books.
 ```
 
-#### External appearance
+### External appearance
 
 Current external image for Ivar in **Radiance / Сияние**:
 
@@ -167,7 +170,7 @@ Important: do not present him as a glowing wise man.
 
 No mystical eyes, no guru entrance, no fantasy elder staging.
 
-#### Eyes
+### Eyes
 
 The eyes are central, but not mystical.
 
@@ -188,7 +191,7 @@ He looks not at the mask, but at the wound that taught the mask to speak.
 
 Use this only as internal guidance unless a scene earns it.
 
-#### Voice
+### Voice
 
 Voice should be revealed at the fire or in a quiet room, not in an explanatory character note.
 
@@ -210,7 +213,9 @@ He tunes.
 
 Show this through others: a joke delayed, a question becoming quieter, silence becoming useful.
 
-#### Function in Radiance
+---
+
+## 3. Ivar's function in Radiance
 
 For **Radiance**, Ivar does not unpack protocols or dead structures.
 
@@ -218,7 +223,7 @@ He unpacks life.
 
 He sees meaning knots inside:
 
-- a child's question;
+- a question;
 - a crude joke;
 - irritation;
 - hunger;
@@ -251,7 +256,7 @@ Ivar sees the moment when a human being mistakes hunger, fear, or defense for th
 
 He should help reveal where a person stands inside living provision and still searches for an object, button, machine, proof, ownership right, or source to possess.
 
-#### How guests may speak about him
+### How guests may speak about him
 
 Guests must not describe Ivar in professional / institutional language.
 
@@ -278,7 +283,6 @@ He is not a teacher. Teachers like being listened to too much.
 
 He can answer a stupid joke so that it becomes more exact than a serious question.
 
-People do not return because he makes them feel better.
 They return because ordinary life stops pretending to be ordinary.
 ```
 
@@ -288,7 +292,7 @@ Do not put all of them in Chapter 1.
 
 Chapter 1 needs understatement.
 
-#### Relation to Ashraellen method
+### Relation to Ashraellen method
 
 Ivar may inherit selected functions from the Ashraellen method, but he must not become a direct self-portrait.
 
@@ -318,7 +322,7 @@ If other people become more visible around him, the scene is working.
 
 ---
 
-## 2. The annual circle
+## 4. The annual circle
 
 The people who come to the northern place should not automatically be called students.
 
@@ -336,21 +340,33 @@ people close to him
 those who once arrived and for some reason returned
 ```
 
+Current Book I decision:
+
+```text
+12 guests + Ivar
+```
+
 They may include:
 
 - old friends;
+- returning guests;
 - adults with private wounds;
 - people who once heard something and came back;
 - a new arrival;
 - someone skeptical;
-- someone who has come only because another person brought them;
-- teenagers / almost children, if Book I needs them.
+- someone who has come only because another person brought them.
 
 They are not a passive audience.
 
-They protect the opening from becoming a lecture.
+But they also must not become a noisy panel around Ivar.
 
-Possible functional roles:
+Correct rule:
+
+```text
+The guests protect the opening from lecture through rare, exact pressure — not through constant interruption.
+```
+
+Possible functional pressures:
 
 ### The skeptic
 
@@ -359,7 +375,7 @@ Asks for proof, laughs at solemnity, resists the mythic frame.
 Function:
 
 ```text
-prevents Ivar from becoming pompous
+prevents false reverence, if used sparingly
 ```
 
 ### The sensitive one
@@ -379,7 +395,7 @@ Turns fear into jokes and jokes into accidental truth.
 Function:
 
 ```text
-keeps the gathering human
+keeps the gathering human, but must not hijack the scene
 ```
 
 ### The wounded one
@@ -392,19 +408,19 @@ Function:
 connects mythic law to private pain
 ```
 
-### The almost-adult
+### The rational pressure
 
-Refuses fairy tales, but does not leave the fire.
+Demands clarity, physical causes, evidence, sequence.
 
 Function:
 
 ```text
-carries the modern reader's defensive intelligence
+prevents the mythic layer from becoming decorative trance
 ```
 
 ---
 
-## 3. Main heroes
+## 5. Main heroes
 
 The series must not remain trapped at the campfire or in the gathering.
 
@@ -422,7 +438,7 @@ Future books should not be structured as repeated campfire conversations unless 
 
 ---
 
-## 4. Mythic figures as functions
+## 6. Mythic figures as functions
 
 The mythic figures should be treated as living functional principles, not as simple fantasy characters.
 
@@ -518,7 +534,7 @@ Not merely a forest god.
 
 ---
 
-## 5. Character rule
+## 7. Character rule
 
 No one should exist only to explain philosophy.
 
