@@ -100,6 +100,12 @@ The current active Chapter 8 draft is:
 Drafts/Chapter_08_v2.md
 ```
 
+The current active Chapter 9 draft is:
+
+```text
+Drafts/Chapter_09_v1.md
+```
+
 Earlier Chapter 1 draft preserved as:
 
 ```text
@@ -173,6 +179,8 @@ Chapter 7 continues the movement from thing to trace to scheme. It should not cr
 
 Chapter 8 continues the movement from thing to trace to scheme to place. It should not reveal a sign, entrance, artifact, or confirmation. It shows the collision between a human-made point on the map and a living place that is full, wet, inconvenient, and alive, but not the answer people expected. Chapter_08_v2 is the active editorial version after giving the low wet place more silence, reducing repeated explanation, and slightly lowering Nick's commentator pressure.
 
+Chapter 9 breaks the too-clean conceptual ladder through body, shame and material return. It should not become psychedelic, comic, or guru-interpreted. David's body fails to close what his mind wanted to correct. The main movement is not the vomiting itself but the morning after: what the human being experiences as shame and excess is quietly taken into the work of earth, insects and the living cycle. Chapter_09_v1 is the active first version.
+
 ---
 
 ## Narrative POV
@@ -224,6 +232,7 @@ Chapter_07_v1.md
 Chapter_07_v2.md
 Chapter_08_v1.md
 Chapter_08_v2.md
+Chapter_09_v1.md
 ```
 
 Chapter titles do not go into filenames.
@@ -427,4 +436,5 @@ Drafts/Chapter_07_v1.md     — Chapter 7 first version, preserved
 Drafts/Chapter_07_v2.md     — Chapter 7 second version, current active draft
 Drafts/Chapter_08_v1.md     — Chapter 8 first version, preserved
 Drafts/Chapter_08_v2.md     — Chapter 8 second version, current active draft
+Drafts/Chapter_09_v1.md     — Chapter 9 first version, current active draft
 ```
