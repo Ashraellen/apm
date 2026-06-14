@@ -61,7 +61,7 @@ Show it through scenes:
 
 - one guest says something ordinary and it becomes the key to the next mythic layer;
 - one guest's wound reveals more truth than Ivar's words;
-- a skeptical question becomes a sacred interruption;
+- a skeptical question becomes a necessary opening;
 - someone who came only from curiosity accidentally carries the needed message;
 - a private conversation before sleep opens a deeper layer than the public fire conversation;
 - the one who seems least prepared may deliver the most precise phrase.
@@ -88,6 +88,10 @@ The structure is stronger if the reader gradually understands:
 Ivar may be necessary, but he is not enough.
 The message moves through the whole circle.
 ```
+
+But this does not mean that everyone must speak all the time.
+
+The message may move through silence, refusal, a delayed joke, a private reaction, a bodily trace, or a question that appears only once.
 
 ---
 
@@ -160,6 +164,7 @@ Last Supper composition
 apostle-like distribution of roles
 Ivar as obvious Christ-figure
 one trait per guest as symbolic function only
+every guest constantly responding like a scripted chorus
 ```
 
 Aim for:
@@ -187,3 +192,11 @@ Something ancient is being echoed here, but the center is no longer one person; 
 ```
 
 then the structure works.
+
+Writing rule:
+
+```text
+Only a few guests should be active in any one scene.
+A guest's words must cost something.
+Silence is also participation.
+```
