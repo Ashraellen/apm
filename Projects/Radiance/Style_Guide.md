@@ -31,10 +31,10 @@ The campfire is an entrance.
 
 It is not the permanent narrative frame for every book.
 
-Correct use:
+Correct use for Book I:
 
 ```text
-Book I opens with a summer-camp fire, a strange narrator, and children / almost children hearing the beginning of the "real" history.
+Book I opens through a northern gathering: twelve guests arrive at a remote house, Ivar is present as a threshold figure, and the first fire begins the story of the real history hidden inside Sampo.
 ```
 
 Then the book must move into active narrative:
@@ -57,9 +57,9 @@ That would turn the cycle into a lecture series with smoke.
 
 ---
 
-## 3. Narrator rule
+## 3. Ivar rule
 
-The narrator is a threshold figure.
+Ivar is a threshold figure.
 
 He opens the first door.
 
@@ -71,7 +71,8 @@ He is not:
 - a lecturer;
 - a wizard cliché;
 - a professor of Finnish mythology;
-- a clean mouthpiece for the author's philosophy.
+- a clean mouthpiece for the author's philosophy;
+- a person constantly interrupted by guests like a tired moderator at a chaotic panel.
 
 He may be:
 
@@ -95,27 +96,34 @@ He effectively says:
 Listen. Belief can wait.
 ```
 
-After the opening function is complete, the narrator should step aside unless the story specifically earns his return.
+After the opening function is complete, Ivar should step aside unless the story specifically earns his return.
 
 ---
 
-## 4. Children / almost children
+## 4. The twelve guests
 
-The children / almost children belong primarily to the Book I entrance.
+The twelve guests belong to Book I's northern gathering.
 
-They are not automatically the permanent audience of the whole series.
+They are adults, friends, returning people, newcomers, invited guests, skeptics, companions, private wounds, old loyalties, and unfinished questions.
 
-Their functions in the opening:
+They are not:
 
-- the skeptic breaks false solemnity;
-- the sensitive one feels the danger early;
-- the joker turns fear into laughter;
-- the wounded one hears the story as accusation;
-- the almost-adult refuses fairy tales but stays near the fire anyway.
+- students;
+- apostles;
+- a spiritual audience;
+- a symbolic spreadsheet;
+- passive witnesses waiting for Ivar to explain the universe.
 
-Their questions should sharpen the opening hook.
+Their questions and reactions should sharpen the opening.
 
-They should not force the whole cycle into question-and-answer format.
+They must not force the book into question-and-answer format.
+
+Current practical rule:
+
+```text
+12 guests + Ivar.
+Only a few voices should be active in any one scene.
+```
 
 ---
 
@@ -131,14 +139,11 @@ Allowed humor:
 - slightly absurd;
 - born from mismatch between mythic scale and ordinary reality.
 
-Example direction for Book I opening:
+Humor must not turn the scene into circus.
 
-```text
-A teenager asks whether Sampo had a warranty.
-The narrator says yes: soil, rain, seed, measure, and the condition that the user must not behave like an idiot with a crown.
-```
+A single precise joke can keep the human body in the room.
 
-Do not turn the series into circus.
+A page of witty interruptions turns Ivar into a lecturer being heckled and the fire into балаган.
 
 ---
 
@@ -149,7 +154,7 @@ Do not explain the mechanism too early.
 Correct method:
 
 - use the fire to open the question;
-- show children expecting a magical machine;
+- show guests expecting a story, a myth, or perhaps a hidden machine;
 - shift the story toward Earth, hunger, soil, food, waste, fear;
 - then leave the entrance and let the narrative unfold through heroes and events;
 - let Sampo become visible slowly as a principle, not as a lecture title.
@@ -165,7 +170,29 @@ The book should reveal meaning as if the reader found a warm stone under snow.
 
 ---
 
-## 7. Mythic ambiguity
+## 7. Chapter montage rule
+
+A chapter may contain several scenes, close to video montage logic but written as prose:
+
+```text
+present layer here and now
+-> Ivar speaks briefly / a guest asks one necessary question / silence turns strange
+-> manifestation / story becoming visible
+-> return to present layer
+-> reaction, silence, small human consequence
+-> next manifestation or private echo
+-> return again
+```
+
+This must not become mechanical.
+
+The manifestation is not a decorative illustration.
+
+It must feel like the story has become active and is pressing back into the room.
+
+---
+
+## 8. Mythic ambiguity
 
 Keep ambiguity alive.
 
@@ -189,7 +216,7 @@ The story is true in more than one way.
 
 ---
 
-## 8. Finnish / Karelian respect rule
+## 9. Finnish / Karelian respect rule
 
 Do not write as if the author owns Kalevala or Finnish / Karelian heritage.
 
@@ -203,7 +230,7 @@ This is an authorial artistic-philosophical return to material that was part of 
 
 ---
 
-## 9. Prohibitions
+## 10. Prohibitions
 
 Do not make the project:
 
@@ -214,7 +241,8 @@ Do not make the project:
 - pseudo-academic performance;
 - adult self-help disguised as fairy tale;
 - a lecture in winter boots;
-- a campfire dialogue repeated mechanically across the series.
+- a campfire dialogue repeated mechanically across the series;
+- a noisy panel discussion where every sentence of Ivar gets immediately commented on.
 
 Keep the text alive.
 
