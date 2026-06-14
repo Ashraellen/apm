@@ -70,6 +70,12 @@ The current active Chapter 3 draft is:
 Drafts/Chapter_03_v3.md
 ```
 
+The current active Chapter 4 draft is:
+
+```text
+Drafts/Chapter_04_v1.md
+```
+
 Earlier Chapter 1 draft preserved as:
 
 ```text
@@ -102,6 +108,8 @@ Chapter 1 moves from the modern airport and minibus entrance toward the northern
 Chapter 2 continues from the sound under the moss. It does not reveal Sampo as Creation yet; it lets Sampo stop being only a word and become rumor, pressure, hunger, measure, bread, warm snow, soil under the nail, and the first disturbance around what feeds.
 
 Chapter 3 moves from listening into participation through morning life: bread, hand, measure, wood, moss, and the warm piece of bread left on Thomas's plate. It should not introduce a large manifestation; the ordinary world must remain ordinary enough to become more disturbing. Chapter_03_v3 is the active polished version after removing remaining authorial/editorial confirmations and softening one overly modern Nick phrase.
+
+Chapter 4 moves from bread/hand/measure to water/surface/holding. It should continue directly from Ivar's promise to go to the water after breakfast. The chapter does not reveal Sampo as Creation and does not begin the making of Sampo; it prepares the next inner step toward vessel, form, device and the human desire to hold a living source.
 
 ---
 
@@ -144,6 +152,7 @@ Chapter_02_v2.md
 Chapter_03_v1.md
 Chapter_03_v2.md
 Chapter_03_v3.md
+Chapter_04_v1.md
 ```
 
 Chapter titles do not go into filenames.
@@ -337,4 +346,5 @@ Drafts/Chapter_02_v2.md     — Chapter 2 second version, current active draft
 Drafts/Chapter_03_v1.md     — Chapter 3 first version, preserved
 Drafts/Chapter_03_v2.md     — Chapter 3 second version, preserved
 Drafts/Chapter_03_v3.md     — Chapter 3 third version, current active draft
+Drafts/Chapter_04_v1.md     — Chapter 4 first version, current active draft
 ```
