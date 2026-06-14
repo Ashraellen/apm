@@ -33,7 +33,7 @@ Series subtitle:
 Current form:
 
 ```text
-philosophical speculative fiction / mythopoetic fantasy / artistic research cycle
+philosophical fantasy / mythopoetic fantasy / artistic research through fiction
 ```
 
 The project is not a retelling of Kalevala.
@@ -127,7 +127,7 @@ Northern spine. Comparative reflections. Philosophical depth. Literary scene.
 
 ## 6. Book I opening location and Ivar
 
-The first book may open in a small northern retreat / mini-camp / large wooden house somewhere in Finland, in forest, by water, or in another quiet northern landscape.
+The first book may open in a remote northern house / gathering place / mini-camp somewhere in Finland, in forest, by water, or in another quiet northern landscape.
 
 This is not "Ivar's house".
 
@@ -157,6 +157,16 @@ This tension matters:
 He withdraws from the world, but does not hate people.
 He does not gather followers; he receives those who can still hear.
 ```
+
+Current Book I gathering:
+
+```text
+12 guests + Ivar
+```
+
+This is not a direct Jesus-and-apostles composition.
+
+The echo may exist under the surface, but must never become costume symbolism.
 
 ---
 
@@ -240,6 +250,8 @@ The meaning must arrive through:
 Do not rely on the campfire dialogue to carry every idea.
 
 Do not turn the place into a guru estate.
+
+Do not turn guest resistance into constant interruption.
 
 ---
 
