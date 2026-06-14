@@ -97,7 +97,7 @@ Drafts/Chapter_07_v2.md
 The current active Chapter 8 draft is:
 
 ```text
-Drafts/Chapter_08_v1.md
+Drafts/Chapter_08_v2.md
 ```
 
 Earlier Chapter 1 draft preserved as:
@@ -137,6 +137,12 @@ Earlier Chapter 7 draft preserved as:
 Drafts/Chapter_07_v1.md
 ```
 
+Earlier Chapter 8 draft preserved as:
+
+```text
+Drafts/Chapter_08_v1.md
+```
+
 The rejected Chapter 2 first version was removed from active drafts:
 
 ```text
@@ -165,7 +171,7 @@ Chapter 6 continues the “Sampo as thing / object” movement by showing the fi
 
 Chapter 7 continues the movement from thing to trace to scheme. It should not create a real map to Sampo; it shows how traces begin to be connected into a system and how the living forest becomes smaller when placed on the table. The map gives relief, not truth. Chapter_07_v2 is the active editorial version after removing several overly explanatory formulations while preserving the chapter's full density and final blow.
 
-Chapter 8 continues the movement from thing to trace to scheme to place. It should not reveal a sign, entrance, artifact, or confirmation. It shows the collision between a human-made point on the map and a living place that is full, wet, inconvenient, and alive, but not the answer people expected. Chapter_08_v1 is the active first version.
+Chapter 8 continues the movement from thing to trace to scheme to place. It should not reveal a sign, entrance, artifact, or confirmation. It shows the collision between a human-made point on the map and a living place that is full, wet, inconvenient, and alive, but not the answer people expected. Chapter_08_v2 is the active editorial version after giving the low wet place more silence, reducing repeated explanation, and slightly lowering Nick's commentator pressure.
 
 ---
 
@@ -217,6 +223,7 @@ Chapter_06_v2.md
 Chapter_07_v1.md
 Chapter_07_v2.md
 Chapter_08_v1.md
+Chapter_08_v2.md
 ```
 
 Chapter titles do not go into filenames.
@@ -418,5 +425,6 @@ Drafts/Chapter_06_v1.md     — Chapter 6 first version, preserved
 Drafts/Chapter_06_v2.md     — Chapter 6 second version, current active draft
 Drafts/Chapter_07_v1.md     — Chapter 7 first version, preserved
 Drafts/Chapter_07_v2.md     — Chapter 7 second version, current active draft
-Drafts/Chapter_08_v1.md     — Chapter 8 first version, current active draft
+Drafts/Chapter_08_v1.md     — Chapter 8 first version, preserved
+Drafts/Chapter_08_v2.md     — Chapter 8 second version, current active draft
 ```
