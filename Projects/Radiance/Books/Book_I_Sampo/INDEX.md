@@ -109,7 +109,7 @@ Drafts/Chapter_09_v1.md
 The current active Chapter 10 draft is:
 
 ```text
-Drafts/Chapter_10_v1.md
+Drafts/Chapter_10_v2.md
 ```
 
 Earlier Chapter 1 draft preserved as:
@@ -155,6 +155,12 @@ Earlier Chapter 8 draft preserved as:
 Drafts/Chapter_08_v1.md
 ```
 
+Earlier Chapter 10 draft preserved as:
+
+```text
+Drafts/Chapter_10_v1.md
+```
+
 The rejected Chapter 2 first version was removed from active drafts:
 
 ```text
@@ -187,7 +193,7 @@ Chapter 8 continues the movement from thing to trace to scheme to place. It shou
 
 Chapter 9 breaks the too-clean conceptual ladder through body, shame and material return. It should not become psychedelic, comic, or guru-interpreted. David's body fails to close what his mind wanted to correct. The main movement is not the vomiting itself but the morning after: what the human being experiences as shame and excess is quietly taken into the work of earth, insects and the living cycle. Chapter_09_v1 is the active first version.
 
-Chapter 10 closes the first “Sampo as thing / object” block and prepares the transition toward “Sampo as machine.” It should not become a philosophical lecture about property. It shows the first social crack through ordinary household life: bread, water, drowsiness, firewood, dishes, David's rest, the closed notebook, “my notes,” “our map,” and the last spoonful of berries. Nothing has been found yet, but people already begin to feel who received how much, who contributed how much, and what can be called mine. Chapter_10_v1 is the active first version.
+Chapter 10 closes the first “Sampo as thing / object” block and prepares the transition toward “Sampo as machine.” It should not become a philosophical lecture about property. It shows the first social crack through ordinary household life: bread, water, firewood, dishes, David's rest, the closed notebook, “my notes,” “our map,” and the last spoonful of berries. Nothing has been found yet, but people already begin to feel who received how much, who contributed how much, and what can be called mine. Chapter_10_v2 is the active editorial version after reducing direct formulations of counting, drying Ivar toward one kitchen line, and preserving the “my notebook / our map” conflict.
 
 ---
 
@@ -242,6 +248,7 @@ Chapter_08_v1.md
 Chapter_08_v2.md
 Chapter_09_v1.md
 Chapter_10_v1.md
+Chapter_10_v2.md
 ```
 
 Chapter titles do not go into filenames.
@@ -446,5 +453,6 @@ Drafts/Chapter_07_v2.md     — Chapter 7 second version, current active draft
 Drafts/Chapter_08_v1.md     — Chapter 8 first version, preserved
 Drafts/Chapter_08_v2.md     — Chapter 8 second version, current active draft
 Drafts/Chapter_09_v1.md     — Chapter 9 first version, current active draft
-Drafts/Chapter_10_v1.md     — Chapter 10 first version, current active draft
+Drafts/Chapter_10_v1.md     — Chapter 10 first version, preserved
+Drafts/Chapter_10_v2.md     — Chapter 10 second version, current active draft
 ```
