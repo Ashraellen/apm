@@ -11,7 +11,7 @@ Book I begins with a modern northern entrance but must open into active mythopoe
 The modern entrance:
 
 ```text
-A remote northern retreat / mini-camp / large wooden house somewhere in Finland or another quiet northern landscape.
+A remote northern house / gathering place / mini-camp somewhere in Finland or another quiet northern landscape.
 People gather there once a year.
 Ivar also comes there once a year.
 The place is not his home.
@@ -36,7 +36,7 @@ Begin with a gripping fantastic hook.
 Then return to the present-time frame:
 
 ```text
-airport -> minibus -> northern retreat -> arrival -> house action -> first fire place -> Ivar begins the story
+airport -> minibus -> northern house -> arrival -> house action -> first fire place -> Ivar begins the story
 ```
 
 This gives the reader shock first, then ground.
@@ -142,15 +142,17 @@ People arrive with fatigue, habits, private motives, unfinished pain, ordinary i
 Current working number:
 
 ```text
-12 people total
+12 guests + Ivar
 ```
+
+This creates thirteen bodies in the shared space, but the book must not stage a direct image of Jesus and the apostles.
 
 This number works because it gives the gathering a ritual weight without requiring the book to call it ritual.
 
 Important rule:
 
 ```text
-Twelve people may be present, but only a few should be active speakers in each scene.
+Twelve guests may be present, but only a few should be active speakers in each scene.
 ```
 
 ---
@@ -322,14 +324,14 @@ The story becomes active and almost real.
 
 ---
 
-## Chapter 1 likely function
+## Chapter 1 current function
 
-Chapter 1 may contain:
+Chapter 1 contains:
 
 ```text
-fantastic hook
+modern arrival from the airport
 minibus from airport
-arrival at the northern retreat
+arrival at the northern house
 house action
 movement to the first fire place
 Ivar begins the story
@@ -339,11 +341,25 @@ Chapter 1 should end when the first real door opens.
 
 ---
 
-## Chapter 2 likely function
+## Chapter 2 current function
 
-Chapter 2 should move directly into the first action inside Ivar's story.
+Chapter 2 moves directly into the first action inside Ivar's story.
 
 The dominant pressure should be mythic action, not explanation.
+
+Chapter 2 v2 is the current active version.
+
+It uses:
+
+```text
+sound under moss
+short Ivar speech
+Sofia as primary lens
+mythic manifestation
+warm snow
+soil under the nail
+iron touching living provision
+```
 
 The present-time frame may return briefly, but the reader must feel that the book has crossed a threshold.
 
@@ -358,58 +374,5 @@ Examples:
 ```text
 A shared scene by the fireplace shows how people try to intellectualize what they heard.
 A private bedroom scene shows how the same story touches a couple's old wound.
-A morning kitchen scene shows that some words cannot be unheard.
-A quiet scene by the lake shows that one guest is no longer sure where the story ended.
-```
-
-This keeps the modern layer alive.
-
----
-
-## Central danger
-
-The central danger is that the book becomes an elegant conversation instead of a novel.
-
-Avoid:
-
-```text
-wise man tells profound things while everyone politely listens
-```
-
-Aim for:
-
-```text
-an ordinary gathering opens a door into a real mythic mechanism, and the reader realizes too late that the mechanism is about them
-```
-
-Second danger:
-
-```text
-turning the book into a screenplay storyboard
-```
-
-The structure may borrow video logic, but the prose must still breathe as prose.
-
-Correct:
-
-```text
-scene as literary pressure
-```
-
-Wrong:
-
-```text
-scene as camera instruction
-```
-
-Third danger:
-
-```text
-the present-time frame becomes only a chair for Ivar's monologue
-```
-
-Correction:
-
-```text
-The present-time frame must move, breathe, resist, digest and change the guests.
+A morning table scene shows that no one has returned fully to ordinary speech.
 ```
