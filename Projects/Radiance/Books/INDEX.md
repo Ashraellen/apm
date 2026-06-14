@@ -44,6 +44,21 @@ Book_I_Sampo/INDEX.md                         — Book I folder index and curren
 Book_I_Sampo/Concept.md                       — Current Book I concept: location, Ivar, annual circle, opening hook
 Book_I_Sampo/Chapter_Architecture.md          — Current chapter/scenes structure: fantastic hook, minibus, arrival, fire, manifestation layers
 Book_I_Sampo/Guest_Circle.md                  — Guest count, 12 guests + Ivar, symbolic rules, invitation logic
-Book_I_Sampo/Drafts/Prologue_Hook_v1.md       — First fantastic prologue hook draft with current correction
-Book_I_Sampo/Drafts/Chapter_01_Malenkoe_Sobytie_v1.md — Chapter 1 first version
+Book_I_Sampo/Narrative_POV.md                 — Primary Sofia POV, controlled shifts, Ivar seen from outside
+Book_I_Sampo/File_Naming.md                   — Chapter file naming rule
+Book_I_Sampo/Season_Setting.md                — Seasonal setting: late August / early September threshold
+Book_I_Sampo/Drafts/Prologue_Hook_v1.md       — First fantastic prologue hook draft
+Book_I_Sampo/Drafts/Chapter_01_v1.md          — Chapter 1 first version, preserved
+Book_I_Sampo/Drafts/Chapter_01_v2.md          — Chapter 1 second version, current active draft
+Book_I_Sampo/Drafts/Chapter_02_v2.md          — Chapter 2 second version, current active draft
 ```
+
+---
+
+## Rejected cleanup
+
+```text
+Book_I_Sampo/Drafts/Chapter_02_v1.md
+```
+
+was removed from active drafts because it overused interruptions, made Ivar too easily broken by the group, and turned the first mythic movement into балаган instead of manifestation.
