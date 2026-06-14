@@ -88,6 +88,12 @@ The current active Chapter 6 draft is:
 Drafts/Chapter_06_v2.md
 ```
 
+The current active Chapter 7 draft is:
+
+```text
+Drafts/Chapter_07_v1.md
+```
+
 Earlier Chapter 1 draft preserved as:
 
 ```text
@@ -145,6 +151,8 @@ Chapter 5 opens the first “Sampo as thing / object” movement. It should not 
 
 Chapter 6 continues the “Sampo as thing / object” movement by showing the first illness of searching. It should not create a quest, map or discovery; it shows how, after Sampo begins to be imagined as a thing, the living world begins to be read as a system of signs and traces. The characters find nothing, but their way of looking becomes damaged. Chapter_06_v2 is the active editorial version after reducing repeated trace-stations, keeping Ivar's main trace line, making Marek more practical, and making the mythic layer less analytic.
 
+Chapter 7 continues the movement from thing to trace to scheme. It should not create a real map to Sampo; it shows how traces begin to be connected into a system and how the living forest becomes smaller when placed on the table. The map gives relief, not truth.
+
 ---
 
 ## Narrative POV
@@ -192,6 +200,7 @@ Chapter_05_v1.md
 Chapter_05_v2.md
 Chapter_06_v1.md
 Chapter_06_v2.md
+Chapter_07_v1.md
 ```
 
 Chapter titles do not go into filenames.
@@ -391,4 +400,5 @@ Drafts/Chapter_05_v1.md     — Chapter 5 first version, preserved
 Drafts/Chapter_05_v2.md     — Chapter 5 second version, current active draft
 Drafts/Chapter_06_v1.md     — Chapter 6 first version, preserved
 Drafts/Chapter_06_v2.md     — Chapter 6 second version, current active draft
+Drafts/Chapter_07_v1.md     — Chapter 7 first version, current active draft
 ```
