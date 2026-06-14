@@ -112,6 +112,12 @@ The current active Chapter 10 draft is:
 Drafts/Chapter_10_v2.md
 ```
 
+The current active Chapter 11 draft is:
+
+```text
+Drafts/Chapter_11_v1.md
+```
+
 Earlier Chapter 1 draft preserved as:
 
 ```text
@@ -195,6 +201,8 @@ Chapter 9 breaks the too-clean conceptual ladder through body, shame and materia
 
 Chapter 10 closes the first “Sampo as thing / object” block and prepares the transition toward “Sampo as machine.” It should not become a philosophical lecture about property. It shows the first social crack through ordinary household life: bread, water, firewood, dishes, David's rest, the closed notebook, “my notes,” “our map,” and the last spoonful of berries. Nothing has been found yet, but people already begin to feel who received how much, who contributed how much, and what can be called mine. Chapter_10_v2 is the active editorial version after reducing direct formulations of counting, drying Ivar toward one kitchen line, and preserving the “my notebook / our map” conflict.
 
+Chapter 11 opens the “Sampo as machine” movement without naming the machine directly. It uses dough, yeast, warmth, waiting and the impossibility of ordering a living process. The main movement is from “кому сколько?” to “как сделать, чтобы стало больше и надёжнее?” Thomas carries active impatience, David is quieter after the previous chapters, Ivar gives almost nothing except “Жди.” The short mythic flash centers on tired hands grinding grain and the phrase “А если бы оно само?” Chapter_11_v1 is the active first version.
+
 ---
 
 ## Narrative POV
@@ -249,6 +257,7 @@ Chapter_08_v2.md
 Chapter_09_v1.md
 Chapter_10_v1.md
 Chapter_10_v2.md
+Chapter_11_v1.md
 ```
 
 Chapter titles do not go into filenames.
@@ -455,4 +464,5 @@ Drafts/Chapter_08_v2.md     — Chapter 8 second version, current active draft
 Drafts/Chapter_09_v1.md     — Chapter 9 first version, current active draft
 Drafts/Chapter_10_v1.md     — Chapter 10 first version, preserved
 Drafts/Chapter_10_v2.md     — Chapter 10 second version, current active draft
+Drafts/Chapter_11_v1.md     — Chapter 11 first version, current active draft
 ```
