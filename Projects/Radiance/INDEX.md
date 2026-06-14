@@ -12,12 +12,12 @@ Series subtitle:
 
 Current format:
 
-**philosophical fantasy / philosophical speculative fiction / mythopoetic fantasy / artistic research cycle**
+**philosophical fantasy / mythopoetic fantasy / artistic research through fiction**
 
 Working external logic:
 
 ```text
-A northern philosophical fiction cycle where the first book opens through a campfire hook: a strange narrator starts telling children, or almost children, the "real" history behind myth. After the door opens, the story must pass into active narrative: heroes, events, mythic functions, choices, conflict and consequence.
+A northern philosophical fantasy cycle where the first book opens through a remote annual gathering: twelve guests arrive at a northern house, Ivar opens the first door by the fire, and the story begins to reveal the "real" history behind myth.
 ```
 
 Important correction:
@@ -41,7 +41,7 @@ This folder records the initial decisions for a new series built around:
 - pantheons as symbolic teaching teams / functional systems of transmission;
 - a campfire doorway in Book I only;
 - philosophical fantasy as the living literary body;
-- philosophical speculative fiction as an additional external description.
+- artistic research through fiction as an external/institutional description.
 
 ---
 
@@ -53,7 +53,7 @@ Project_Bible.md   — Core canon, metaphysics, concept, and project identity
 Mythic_Method.md   — Cleaned method: philosophical fantasy, not epic retelling, not over-technical explanation
 Style_Guide.md     — Tone, rhythm, opening hook, prohibitions, scene rules
 Series_Map.md      — Current named cycle map and functional logic of each book
-Characters.md      — Narrator as first-door figure, listeners, heroes, mythic functions
+Characters.md      — Ivar, the 12 guests, heroes, mythic functions
 Research_Notes.md  — Finnish / Karelian material, comparative pantheons, institutional direction
 Books/             — Book-level memory and future draft folders
 Research/          — Source orientation, notes, and research layers
@@ -81,7 +81,7 @@ Before working on Radiance / Сияние, read:
 Then read specific files depending on the task:
 
 ```text
-Characters.md     — if working with the narrator, children, heroes, or mythic functions
+Characters.md     — if working with Ivar, the 12 guests, heroes, or mythic functions
 Research_Notes.md — if preparing institutional letters, source work, or grant framing
 Books/INDEX.md    — if planning individual books
 ```
@@ -116,7 +116,8 @@ Do not reduce the project to:
 - a lecture on pantheons;
 - a grant wrapper for Finnish institutions;
 - ecological moralizing with a sad hedgehog on the cover;
-- a campfire conversation artificially stretched across the whole cycle.
+- a campfire conversation artificially stretched across the whole cycle;
+- a noisy discussion panel where Ivar is constantly interrupted.
 
 Correct frame:
 
