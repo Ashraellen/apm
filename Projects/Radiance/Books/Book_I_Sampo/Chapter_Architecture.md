@@ -13,7 +13,7 @@ It should begin with a strong fantastic hook.
 Then it moves into the contemporary frame:
 
 ```text
-airport -> minibus -> northern house / retreat -> arrival -> house action -> first fire place -> Ivar begins the story
+airport -> minibus -> northern house / gathering place -> arrival -> house action -> first fire place -> Ivar begins the story
 ```
 
 Important correction:
@@ -44,7 +44,7 @@ After the opening, the book works through alternating layers:
 
 ```text
 present-time frame
-Ivar's words / someone else's question / shared silence
+Ivar's words / someone else's necessary question / shared silence
 mythic manifestation
 return to present
 shift in the group
@@ -117,7 +117,7 @@ The reader should enter with questions.
 
 After the hook, return to the present.
 
-A group travels from the airport to the northern retreat by minibus.
+A group travels from the airport to the northern house by minibus.
 
 Some people know each other.
 
@@ -141,7 +141,7 @@ Nobody should give a clean project summary inside the bus.
 
 ### 2. Arrival at the house
 
-They arrive at the remote northern house / mini-camp.
+They arrive at the remote northern house / gathering place / mini-camp.
 
 The place should be shown through action, not description only.
 
@@ -236,7 +236,7 @@ Working pattern:
 
 ```text
 present scene in a specific location
-Ivar speaks / someone asks / someone remembers / silence turns strange
+Ivar speaks briefly / someone asks one necessary question / someone remembers / silence turns strange
 mythic manifestation
 return to present in the same or another location
 human consequence
@@ -246,6 +246,10 @@ next story-door
 The ratio can change.
 
 Do not make every chapter mechanically identical.
+
+Guest comments must be controlled.
+
+Too many active speakers create soup.
 
 The present-time frame should develop its own human arc:
 
@@ -257,10 +261,9 @@ arrival -> curiosity -> discomfort -> recognition -> resistance -> private react
 
 ## Chapter 1 current function
 
-Chapter 1 should likely contain:
+Chapter 1 contains:
 
 ```text
-fantastic hook
 minibus from airport
 arrival at the northern place
 house action
@@ -270,13 +273,10 @@ Ivar begins the story
 
 Chapter 1 ends when the first real door opens.
 
-Possible ending movement:
+Current active file:
 
 ```text
-Ivar says the first impossible sentence.
-The fire changes, or seems to change.
-The story begins to become visible.
-Cut to Chapter 2.
+Drafts/Chapter_01_v2.md
 ```
 
 ---
@@ -294,6 +294,24 @@ we have crossed from frame into event
 ```
 
 Chapter 2 may still return briefly to Ivar and the listeners, but the dominant pressure should be mythic action.
+
+Current active file:
+
+```text
+Drafts/Chapter_02_v2.md
+```
+
+Rejected version:
+
+```text
+Drafts/Chapter_02_v1.md
+```
+
+Reason:
+
+```text
+too many interruptions, weakened Ivar, too much балаган, not enough manifestation
+```
 
 ---
 
@@ -328,7 +346,7 @@ This prevents the book from becoming a static storytelling session.
 Current working number:
 
 ```text
-12 people total
+12 guests + Ivar
 ```
 
 This number works symbolically and structurally.
@@ -336,10 +354,10 @@ This number works symbolically and structurally.
 But rule:
 
 ```text
-Not all twelve should be equally active at once.
+Not all twelve guests should be equally active at once.
 ```
 
-The group can be divided into layers:
+Practical distribution:
 
 ```text
 3-4 active voices
