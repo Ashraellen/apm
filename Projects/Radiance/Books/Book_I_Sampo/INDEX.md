@@ -64,6 +64,12 @@ The current active Chapter 2 draft is:
 Drafts/Chapter_02_v2.md
 ```
 
+The current active Chapter 3 draft is:
+
+```text
+Drafts/Chapter_03_v1.md
+```
+
 Earlier Chapter 1 draft preserved as:
 
 ```text
@@ -87,6 +93,8 @@ The prologue opens with the mythic image of the Earth as a living feeding mechan
 Chapter 1 moves from the modern airport and minibus entrance toward the northern house, Ivar's first appearance, the first fire, and the opening sentence that pulls the group back toward the prologue.
 
 Chapter 2 continues from the sound under the moss. It does not reveal Sampo as Creation yet; it lets Sampo stop being only a word and become rumor, pressure, hunger, measure, bread, warm snow, soil under the nail, and the first disturbance around what feeds.
+
+Chapter 3 moves from listening into participation through morning life: bread, hand, measure, wood, moss, and the warm piece of bread left on Thomas's plate. It should not introduce a large manifestation; the ordinary world must remain ordinary enough to become more disturbing.
 
 ---
 
@@ -126,6 +134,7 @@ Examples:
 Chapter_01_v1.md
 Chapter_02_v1.md
 Chapter_02_v2.md
+Chapter_03_v1.md
 ```
 
 Chapter titles do not go into filenames.
@@ -316,4 +325,5 @@ Drafts/Prologue_Hook_v1.md  — first fantastic prologue hook draft
 Drafts/Chapter_01_v1.md     — Chapter 1 first version, preserved
 Drafts/Chapter_01_v2.md     — Chapter 1 second version, current active draft
 Drafts/Chapter_02_v2.md     — Chapter 2 second version, current active draft
+Drafts/Chapter_03_v1.md     — Chapter 3 first version, current active draft
 ```
