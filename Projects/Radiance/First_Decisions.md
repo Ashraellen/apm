@@ -25,7 +25,7 @@ Series subtitle:
 Working genre:
 
 ```text
-philosophical speculative fiction
+philosophical fantasy
 mythopoetic fantasy
 artistic research through fiction
 northern mythopoetic cycle
@@ -35,7 +35,7 @@ The series should feel like myth becoming real through story, scene and action, 
 
 ---
 
-## 2. Book I entrance / northern retreat hook
+## 2. Book I entrance / northern house hook
 
 Important correction:
 
@@ -49,12 +49,12 @@ Book I should not be framed as "Ivar's house".
 Correct current understanding:
 
 ```text
-There is a small northern retreat / mini-camp / large wooden house somewhere in the Finnish forest or near a northern lake.
+There is a remote northern house / gathering place / mini-camp somewhere in the Finnish forest or near a northern lake.
 Ivar does not own this place in the narrative sense.
 He also comes there once a year — for solitude, reflection, silence, and the annual gathering of people close to him.
 ```
 
-The place is not a guru estate, school, monastery, or official retreat center.
+The place is not a guru estate, school, monastery, sect, or official retreat center.
 
 It is a temporary northern shelter where people gather.
 
@@ -92,9 +92,17 @@ inner laws revealed through events
 
 The fire is an ignition point, not a cage.
 
-The listeners may include adults, friends, companions, returning guests, new arrivals, and possibly teenagers / almost children.
+Current Book I guest decision:
+
+```text
+12 guests + Ivar
+```
+
+The guests are adults / companions / returning people / newcomers / friends / skeptics / private wounds.
 
 Do not call them automatically "students".
+
+Do not return to the earlier "children / almost children" frame unless the author explicitly reopens that decision later.
 
 Better terms for now:
 
@@ -339,8 +347,6 @@ Birth of the world, water, air, gestation, creation without violence.
 
 Tapio / Тапио, Earth, beast, forest, service to the living mechanism.
 
-Theme:
-
 ```text
 Nature not as resource, but as the body of the Manna-machine.
 ```
@@ -360,7 +366,8 @@ Do not turn the series into:
 - a lecture disguised as fantasy;
 - a grant application wearing reindeer antlers;
 - a repeated campfire dialogue in every book just because the first door worked;
-- a guru estate where Ivar owns the place and people arrive as followers.
+- a guru estate where Ivar owns the place and people arrive as followers;
+- a noisy panel where every sentence must be interrupted so nobody feels too solemn.
 
 The book must remain literature.
 
@@ -375,7 +382,7 @@ The first external step should not be a grant request.
 Correct first contact with Finnish institutions:
 
 ```text
-The author is beginning a philosophical speculative fiction / artistic research project involving Kalevala-related material and asks for orientation regarding sources, context, and possible expert direction.
+The author is beginning a philosophical fantasy / artistic research project involving Kalevala-related material and asks for orientation regarding sources, context, and possible expert direction.
 ```
 
 Possible future contacts:
