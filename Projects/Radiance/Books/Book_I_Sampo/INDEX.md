@@ -142,6 +142,12 @@ The current active Chapter 15 draft is:
 Drafts/Chapter_15_v1.md
 ```
 
+The current active Chapter 16 draft is:
+
+```text
+Drafts/Chapter_16_v1.md
+```
+
 Earlier Chapter 1 draft preserved as:
 
 ```text
@@ -247,6 +253,8 @@ Chapter 14 continues from the loss in Chapter 13 through the first human protect
 
 Chapter 15 continues from the marked new starter in Chapter 14 into the next level: the mark can stop a hand, but it cannot create life. Living things need conditions: place, warmth, air, timing, feeding and attention. The chapter should not become a technical lesson about starter care; the living problem is shown through a peeling label, dry cloth, a jar too close to the stove, a move to another place, old circular traces, and a thin mythic bleed-through. The key fantasy phrase is “Огонь не читает.” Chapter_15_v1 is the active first version.
 
+Chapter 16 closes the starter micro-model by showing how care for the living begins to turn into a mode of maintaining conditions. The living is no longer forgotten; now it is disturbed by too much care. The chapter must not become a technical starter-care lesson or a comic bureaucracy. Its first half gathers around the jar, while its second half widens into the house, stove, wind, water, cold, wet wood and the fact that conditions are larger than any schedule. Chapter_16_v1 is the active first version.
+
 ---
 
 ## Narrative POV
@@ -308,6 +316,7 @@ Chapter_13_v1.md
 Chapter_13_v2.md
 Chapter_14_v1.md
 Chapter_15_v1.md
+Chapter_16_v1.md
 ```
 
 Chapter titles do not go into filenames.
@@ -521,4 +530,5 @@ Drafts/Chapter_13_v1.md     — Chapter 13 first version, preserved
 Drafts/Chapter_13_v2.md     — Chapter 13 second version, current active draft
 Drafts/Chapter_14_v1.md     — Chapter 14 first version, current active draft
 Drafts/Chapter_15_v1.md     — Chapter 15 first version, current active draft
+Drafts/Chapter_16_v1.md     — Chapter 16 first version, current active draft
 ```
