@@ -154,6 +154,12 @@ The accepted active Chapter 17 draft is:
 Drafts/Chapter_17_v1.md
 ```
 
+The current active Chapter 18 draft is:
+
+```text
+Drafts/Chapter_18_v1.md
+```
+
 Earlier Chapter 1 draft preserved as:
 
 ```text
@@ -263,6 +269,8 @@ Chapter 16 closes the starter micro-model by showing how care for the living beg
 
 Chapter 17 moves the scale from the jar to the house and from the house toward the larger living world. The hidden formula is: they wanted to keep the living inside the house, but the house turned out to be inside the living. It begins from the consequence of Chapter 16: the house kept cooling, but not completely, because someone got up at night for the stove. Marek carries practical participation without philosophy; Thomas seeks a transferable rule without being made foolish; David nearly begins a wider list that spreads beyond itself; breakfast lightly foreshadows lack; the outdoor movement through water, wet wood, mud, forest and the house seen from outside shows that the house is not a sealed container. Chapter_17_v1 is the accepted active version after micro-cleaning; no v2 should be created unless a major future rewrite is explicitly needed.
 
+Chapter 18 continues from the traces of forest on the floor and shows that the house lives not by sealed reserves but by exchange. Its hidden formula is that the living does not give from nothing; it passes things through itself. This should not be stated as a thesis in the text. The chapter works through grey water from the rag, peelings, ash, wet wood, porridge, steam, empty bowls, boots and warmth. It should avoid ecological lecture, abstract nature-wisdom, and “circle of life” language. Lack remains only a distant smell for the next chapter. Chapter_18_v1 is the current active first version.
+
 ---
 
 ## Narrative POV
@@ -326,6 +334,7 @@ Chapter_14_v1.md
 Chapter_15_v1.md
 Chapter_16_v1.md
 Chapter_17_v1.md
+Chapter_18_v1.md
 ```
 
 Chapter titles do not go into filenames.
@@ -541,4 +550,5 @@ Drafts/Chapter_14_v1.md     — Chapter 14 first version, current active draft
 Drafts/Chapter_15_v1.md     — Chapter 15 first version, current active draft
 Drafts/Chapter_16_v1.md     — Chapter 16 first version, accepted active draft
 Drafts/Chapter_17_v1.md     — Chapter 17 first version, accepted active draft
+Drafts/Chapter_18_v1.md     — Chapter 18 first version, current active draft
 ```
