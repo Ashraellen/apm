@@ -124,6 +124,12 @@ The current active Chapter 12 draft is:
 Drafts/Chapter_12_v1.md
 ```
 
+The current active Chapter 13 draft is:
+
+```text
+Drafts/Chapter_13_v1.md
+```
+
 Earlier Chapter 1 draft preserved as:
 
 ```text
@@ -217,6 +223,8 @@ Chapter 11 opens the “Sampo as machine” movement without naming the machine 
 
 Chapter 12 continues the “Sampo as machine” movement through the first attempt to preserve a living process as repeatable knowledge. It should not become a recipe lesson or a direct discussion of technology. The main conflict is paper versus hands, recipe versus living starter, written memory versus living continuation. Thomas wants to preserve the method; Lina preserves a living piece. Nora's key line is “Он не запомнит руки.” The mythic flash moves from the wish “А если бы оно само?” toward the first marks of counting: grain, turns of the stone, hands, time and the question “Если повторить столько же раз, выйдет столько же?” Chapter_12_v1 is the active first version.
 
+Chapter 13 breaks the intelligent line “recipe -> repetition -> method” with a real event. It introduces the house caretaker as an external practical presence and shows that a living continuation can be lost not because it was not written down, but because it was not recognized. The living piece dies not from malice, but from wrong recognition. The caretaker is not a villain, fool or comic foreigner; he is a practical person responsible for order. The main event: he sees the sour-smelling starter near the stove, recognizes it as spoiled, and throws it away. The consequence: the recipe remains, the continuation is gone. Chapter_13_v1 is the active first version.
+
 ---
 
 ## Narrative POV
@@ -274,6 +282,7 @@ Chapter_10_v2.md
 Chapter_11_v1.md
 Chapter_11_v2.md
 Chapter_12_v1.md
+Chapter_13_v1.md
 ```
 
 Chapter titles do not go into filenames.
@@ -483,4 +492,5 @@ Drafts/Chapter_10_v2.md     — Chapter 10 second version, current active draft
 Drafts/Chapter_11_v1.md     — Chapter 11 first version, preserved
 Drafts/Chapter_11_v2.md     — Chapter 11 second version, current active draft
 Drafts/Chapter_12_v1.md     — Chapter 12 first version, current active draft
+Drafts/Chapter_13_v1.md     — Chapter 13 first version, current active draft
 ```
