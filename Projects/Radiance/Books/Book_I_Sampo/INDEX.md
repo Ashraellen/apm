@@ -184,6 +184,12 @@ The current active Chapter 22 draft is:
 Drafts/Chapter_22_v1.md
 ```
 
+The current active Chapter 23 draft is:
+
+```text
+Drafts/Chapter_23_v1.md
+```
+
 Earlier Chapter 1 draft preserved as:
 
 ```text
@@ -303,6 +309,8 @@ Chapter 21 shifts from receiving, losing and accepting into participation. It mu
 
 Chapter 22 begins the first quiet movement of recognition after participation. It must not explain Sampo or reveal it as Creation. Sofia moves through a small circle of porch, channel, stones, wet board, basket, threshold and house; the things from previous chapters begin to feel less like separate events and more like one movement. David lays out older notes — trace, map, recipe, mark, condition, gift, participation — and the notes are not false, only too separate. The chapter brings Sofia close to the hidden formula that Sampo was not hidden but unrecognized, without stating it. Chapter_22_v1 is the current active first version.
 
+Chapter 23 breaks the old “where is it?” mode of search without defining Sampo. It takes place around David’s papers after Chapter 22. Thomas honestly asks where Sampo is if it was not where they searched; Ivar gives only the short pressure point: “Ты всё ещё спрашиваешь ‘где’.” David tries to place “Сампо?” in the center of a diagram, but the arrangement becomes too neat and false; Sofia moves the word out of the center and between other pages. The chapter’s purpose is to make it impossible to keep seeking Sampo as an object, center, place, route or diagrammed answer, while still refusing the final formula. Chapter_23_v1 is the current active first version.
+
 ---
 
 ## Narrative POV
@@ -371,6 +379,7 @@ Chapter_19_v1.md
 Chapter_20_v1.md
 Chapter_21_v1.md
 Chapter_22_v1.md
+Chapter_23_v1.md
 ```
 
 Chapter titles do not go into filenames.
@@ -591,4 +600,5 @@ Drafts/Chapter_19_v1.md     — Chapter 19 first version, current active draft
 Drafts/Chapter_20_v1.md     — Chapter 20 first version, current active draft
 Drafts/Chapter_21_v1.md     — Chapter 21 first version, current active draft
 Drafts/Chapter_22_v1.md     — Chapter 22 first version, current active draft
+Drafts/Chapter_23_v1.md     — Chapter 23 first version, current active draft
 ```
