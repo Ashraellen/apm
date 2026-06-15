@@ -190,6 +190,12 @@ The current active Chapter 23 draft is:
 Drafts/Chapter_23_v1.md
 ```
 
+The current active Chapter 24 draft is:
+
+```text
+Drafts/Chapter_24_v1.md
+```
+
 Earlier Chapter 1 draft preserved as:
 
 ```text
@@ -311,6 +317,8 @@ Chapter 22 begins the first quiet movement of recognition after participation. I
 
 Chapter 23 breaks the old “where is it?” mode of search without defining Sampo. It takes place around David’s papers after Chapter 22. Thomas honestly asks where Sampo is if it was not where they searched; Ivar gives only the short pressure point: “Ты всё ещё спрашиваешь ‘где’.” David tries to place “Сампо?” in the center of a diagram, but the arrangement becomes too neat and false; Sofia moves the word out of the center and between other pages. The chapter’s purpose is to make it impossible to keep seeking Sampo as an object, center, place, route or diagrammed answer, while still refusing the final formula. Chapter_23_v1 is the current active first version.
 
+Chapter 24 closes the main body of Book I. It gives the quiet recognition of Sampo without defining it as a thesis and without using Ivar as an explainer. David leaves “Сампо —” unfinished; the white space after the dash stops feeling empty. Sofia perceives the ordinary house — water, stove, bread, mud, boards, people, breath, traces, cold and unfinished word — as no longer separate from what they had been seeking. Ayla speaks once, lightly: “Оно звучит иначе,” opening a faint future door without taking the chapter from Sofia. The chapter ends with the quiet blow: “Сампо не стояло в доме. Дом стоял в нём. И никто не сказал этого вслух.” Chapter_24_v1 is the current active first version and the closing chapter of the main body before a possible short epilogue.
+
 ---
 
 ## Narrative POV
@@ -380,6 +388,7 @@ Chapter_20_v1.md
 Chapter_21_v1.md
 Chapter_22_v1.md
 Chapter_23_v1.md
+Chapter_24_v1.md
 ```
 
 Chapter titles do not go into filenames.
@@ -601,4 +610,5 @@ Drafts/Chapter_20_v1.md     — Chapter 20 first version, current active draft
 Drafts/Chapter_21_v1.md     — Chapter 21 first version, current active draft
 Drafts/Chapter_22_v1.md     — Chapter 22 first version, current active draft
 Drafts/Chapter_23_v1.md     — Chapter 23 first version, current active draft
+Drafts/Chapter_24_v1.md     — Chapter 24 first version, current active draft / main body closing chapter
 ```
