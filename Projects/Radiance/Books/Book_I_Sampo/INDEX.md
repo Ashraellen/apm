@@ -136,6 +136,12 @@ The current active Chapter 14 draft is:
 Drafts/Chapter_14_v1.md
 ```
 
+The current active Chapter 15 draft is:
+
+```text
+Drafts/Chapter_15_v1.md
+```
+
 Earlier Chapter 1 draft preserved as:
 
 ```text
@@ -239,6 +245,8 @@ Chapter 13 breaks the intelligent line “recipe -> repetition -> method” with
 
 Chapter 14 continues from the loss in Chapter 13 through the first human protective gesture: marking what was not recognized. It should not become a conversation about labels. It must move through action: empty shelf, clean jar, new starter, labels, short rules, practical argument, and then outside into the forest, where nothing is signed. The central conflict is that a mark can help, but does not replace recognition. Nora's key line is “Метка спасает то, что уже назвали.” Chapter_14_v1 is the active first version.
 
+Chapter 15 continues from the marked new starter in Chapter 14 into the next level: the mark can stop a hand, but it cannot create life. Living things need conditions: place, warmth, air, timing, feeding and attention. The chapter should not become a technical lesson about starter care; the living problem is shown through a peeling label, dry cloth, a jar too close to the stove, a move to another place, old circular traces, and a thin mythic bleed-through. The key fantasy phrase is “Огонь не читает.” Chapter_15_v1 is the active first version.
+
 ---
 
 ## Narrative POV
@@ -299,6 +307,7 @@ Chapter_12_v1.md
 Chapter_13_v1.md
 Chapter_13_v2.md
 Chapter_14_v1.md
+Chapter_15_v1.md
 ```
 
 Chapter titles do not go into filenames.
@@ -511,4 +520,5 @@ Drafts/Chapter_12_v1.md     — Chapter 12 first version, current active draft
 Drafts/Chapter_13_v1.md     — Chapter 13 first version, preserved
 Drafts/Chapter_13_v2.md     — Chapter 13 second version, current active draft
 Drafts/Chapter_14_v1.md     — Chapter 14 first version, current active draft
+Drafts/Chapter_15_v1.md     — Chapter 15 first version, current active draft
 ```
