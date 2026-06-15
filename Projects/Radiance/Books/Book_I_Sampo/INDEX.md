@@ -166,6 +166,12 @@ The current active Chapter 19 draft is:
 Drafts/Chapter_19_v1.md
 ```
 
+The current active Chapter 20 draft is:
+
+```text
+Drafts/Chapter_20_v1.md
+```
+
 Earlier Chapter 1 draft preserved as:
 
 ```text
@@ -279,6 +285,8 @@ Chapter 18 continues from the traces of forest on the floor and shows that the h
 
 Chapter 19 shifts the engine outward after the house-line of Chapters 16–18. It is not another lesson of the house, but a small northern blow to human expectation. The chapter shows that the living world feeds, but does not have to match human appetite. The group finds a modest amount of mushrooms, sour berries and one fish — enough for the expectation “на вечер хватит” to arise. The food is left on the porch for ordinary reasons, and then the basket is overturned: part of the food is gone, part ruined, fish scales and wet tracks remain. This is not a chapter about animals stealing food; it is about the human “mine” arising faster than measure, gratitude and participation. Chapter_19_v1 is the current active first version.
 
+Chapter 20 follows Chapter 19 without compensating the loss. The fish remains gone, the good mushroom remains ruined, and dinner remains smaller than expected. The chapter shows that a gift does not arrive as repayment or correction, but as something that could not be demanded. Matti arrives on an ordinary errand with a small paper package of potatoes, bread and a jar of pickles because it was left over elsewhere. The gift does not erase lack; it makes the thin soup less empty and creates discomfort around accepting what was not ordered, earned or calculated. Chapter_20_v1 is the current active first version.
+
 ---
 
 ## Narrative POV
@@ -344,6 +352,7 @@ Chapter_16_v1.md
 Chapter_17_v1.md
 Chapter_18_v1.md
 Chapter_19_v1.md
+Chapter_20_v1.md
 ```
 
 Chapter titles do not go into filenames.
@@ -561,4 +570,5 @@ Drafts/Chapter_16_v1.md     — Chapter 16 first version, accepted active draft
 Drafts/Chapter_17_v1.md     — Chapter 17 first version, accepted active draft
 Drafts/Chapter_18_v1.md     — Chapter 18 first version, current active draft
 Drafts/Chapter_19_v1.md     — Chapter 19 first version, current active draft
+Drafts/Chapter_20_v1.md     — Chapter 20 first version, current active draft
 ```
