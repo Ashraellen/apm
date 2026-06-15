@@ -160,6 +160,12 @@ The current active Chapter 18 draft is:
 Drafts/Chapter_18_v1.md
 ```
 
+The current active Chapter 19 draft is:
+
+```text
+Drafts/Chapter_19_v1.md
+```
+
 Earlier Chapter 1 draft preserved as:
 
 ```text
@@ -271,6 +277,8 @@ Chapter 17 moves the scale from the jar to the house and from the house toward t
 
 Chapter 18 continues from the traces of forest on the floor and shows that the house lives not by sealed reserves but by exchange. Its hidden formula is that the living does not give from nothing; it passes things through itself. This should not be stated as a thesis in the text. The chapter works through grey water from the rag, peelings, ash, wet wood, porridge, steam, empty bowls, boots and warmth. It should avoid ecological lecture, abstract nature-wisdom, and “circle of life” language. Lack remains only a distant smell for the next chapter. Chapter_18_v1 is the current active first version.
 
+Chapter 19 shifts the engine outward after the house-line of Chapters 16–18. It is not another lesson of the house, but a small northern blow to human expectation. The chapter shows that the living world feeds, but does not have to match human appetite. The group finds a modest amount of mushrooms, sour berries and one fish — enough for the expectation “на вечер хватит” to arise. The food is left on the porch for ordinary reasons, and then the basket is overturned: part of the food is gone, part ruined, fish scales and wet tracks remain. This is not a chapter about animals stealing food; it is about the human “mine” arising faster than measure, gratitude and participation. Chapter_19_v1 is the current active first version.
+
 ---
 
 ## Narrative POV
@@ -335,6 +343,7 @@ Chapter_15_v1.md
 Chapter_16_v1.md
 Chapter_17_v1.md
 Chapter_18_v1.md
+Chapter_19_v1.md
 ```
 
 Chapter titles do not go into filenames.
@@ -551,4 +560,5 @@ Drafts/Chapter_15_v1.md     — Chapter 15 first version, current active draft
 Drafts/Chapter_16_v1.md     — Chapter 16 first version, accepted active draft
 Drafts/Chapter_17_v1.md     — Chapter 17 first version, accepted active draft
 Drafts/Chapter_18_v1.md     — Chapter 18 first version, current active draft
+Drafts/Chapter_19_v1.md     — Chapter 19 first version, current active draft
 ```
