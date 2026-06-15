@@ -196,6 +196,12 @@ The current active Chapter 24 draft is:
 Drafts/Chapter_24_v1.md
 ```
 
+The current active epilogue draft is:
+
+```text
+Drafts/Epilogue_v1.md
+```
+
 Earlier Chapter 1 draft preserved as:
 
 ```text
@@ -319,6 +325,8 @@ Chapter 23 breaks the old “where is it?” mode of search without defining Sam
 
 Chapter 24 closes the main body of Book I. It gives the quiet recognition of Sampo without defining it as a thesis and without using Ivar as an explainer. David leaves “Сампо —” unfinished; the white space after the dash stops feeling empty. Sofia perceives the ordinary house — water, stove, bread, mud, boards, people, breath, traces, cold and unfinished word — as no longer separate from what they had been seeking. Ayla speaks once, lightly: “Оно звучит иначе,” opening a faint future door without taking the chapter from Sofia. The chapter ends with the quiet blow: “Сампо не стояло в доме. Дом стоял в нём. И никто не сказал этого вслух.” Chapter_24_v1 is the current active first version and the closing chapter of the main body before a possible short epilogue.
 
+Epilogue_v1 is not Chapter 25. It follows the closed main body of Book I and shows the consequences of recognition during the morning of departure. The characters do not explain Sampo or state conclusions. They gather bags, bread, wet boots, papers and ordinary things at the threshold. David takes the unfinished “Сампо —” page without completing it. Sofia feels that the house is no longer simply a place one leaves, but does not formulate this. Ayla takes a closed instrument case and listens to the water outside, quietly opening the future direction of Book II without announcement, music, song, or exposition. Epilogue_v1 is the current active epilogue draft.
+
 ---
 
 ## Narrative POV
@@ -389,6 +397,7 @@ Chapter_21_v1.md
 Chapter_22_v1.md
 Chapter_23_v1.md
 Chapter_24_v1.md
+Epilogue_v1.md
 ```
 
 Chapter titles do not go into filenames.
@@ -611,4 +620,5 @@ Drafts/Chapter_21_v1.md     — Chapter 21 first version, current active draft
 Drafts/Chapter_22_v1.md     — Chapter 22 first version, current active draft
 Drafts/Chapter_23_v1.md     — Chapter 23 first version, current active draft
 Drafts/Chapter_24_v1.md     — Chapter 24 first version, current active draft / main body closing chapter
+Drafts/Epilogue_v1.md       — Epilogue first version, current active epilogue draft
 ```
