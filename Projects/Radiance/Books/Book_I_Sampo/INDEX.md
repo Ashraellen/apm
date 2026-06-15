@@ -178,6 +178,12 @@ The current active Chapter 21 draft is:
 Drafts/Chapter_21_v1.md
 ```
 
+The current active Chapter 22 draft is:
+
+```text
+Drafts/Chapter_22_v1.md
+```
+
 Earlier Chapter 1 draft preserved as:
 
 ```text
@@ -295,6 +301,8 @@ Chapter 20 follows Chapter 19 without compensating the loss. The fish remains go
 
 Chapter 21 shifts from receiving, losing and accepting into participation. It must not become another kitchen/object lesson. After rain and boar tracks, water starts running toward the porch and under the boards. Marek begins the practical work, but the others gradually enter before they understand the whole plan: Sofia holds a wet board because without her hand it will slip, Thomas moves from needing the full system to asking “Ещё?”, Nick’s jokes shorten under the weight of stones, David closes the notebook and takes a bucket, Lina corrects by hand, Nora helps with small practical things, and Ivar, if present, acts rather than teaches. The chapter shows that participation is not an idea but a hand where without it something becomes worse. Chapter_21_v1 is the current active first version.
 
+Chapter 22 begins the first quiet movement of recognition after participation. It must not explain Sampo or reveal it as Creation. Sofia moves through a small circle of porch, channel, stones, wet board, basket, threshold and house; the things from previous chapters begin to feel less like separate events and more like one movement. David lays out older notes — trace, map, recipe, mark, condition, gift, participation — and the notes are not false, only too separate. The chapter brings Sofia close to the hidden formula that Sampo was not hidden but unrecognized, without stating it. Chapter_22_v1 is the current active first version.
+
 ---
 
 ## Narrative POV
@@ -362,6 +370,7 @@ Chapter_18_v1.md
 Chapter_19_v1.md
 Chapter_20_v1.md
 Chapter_21_v1.md
+Chapter_22_v1.md
 ```
 
 Chapter titles do not go into filenames.
@@ -581,4 +590,5 @@ Drafts/Chapter_18_v1.md     — Chapter 18 first version, current active draft
 Drafts/Chapter_19_v1.md     — Chapter 19 first version, current active draft
 Drafts/Chapter_20_v1.md     — Chapter 20 first version, current active draft
 Drafts/Chapter_21_v1.md     — Chapter 21 first version, current active draft
+Drafts/Chapter_22_v1.md     — Chapter 22 first version, current active draft
 ```
