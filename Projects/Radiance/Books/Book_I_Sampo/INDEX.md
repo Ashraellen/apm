@@ -118,6 +118,12 @@ The current active Chapter 11 draft is:
 Drafts/Chapter_11_v2.md
 ```
 
+The current active Chapter 12 draft is:
+
+```text
+Drafts/Chapter_12_v1.md
+```
+
 Earlier Chapter 1 draft preserved as:
 
 ```text
@@ -209,6 +215,8 @@ Chapter 10 closes the first “Sampo as thing / object” block and prepares the
 
 Chapter 11 opens the “Sampo as machine” movement without naming the machine directly. It uses dough, yeast, warmth, waiting and the impossibility of ordering a living process. The main movement is from “кому сколько?” to “как сделать, чтобы стало больше и надёжнее?” Thomas carries active impatience, David is quieter after the previous chapters, Ivar gives almost nothing except “Жди.” The short mythic flash centers on tired hands grinding grain and the phrase “А если бы оно само?” Chapter_11_v2 is the active editorial version after reducing explanations of waiting and softening the final machine-scheme so the mechanism is felt through bread, hand, smell and repetition.
 
+Chapter 12 continues the “Sampo as machine” movement through the first attempt to preserve a living process as repeatable knowledge. It should not become a recipe lesson or a direct discussion of technology. The main conflict is paper versus hands, recipe versus living starter, written memory versus living continuation. Thomas wants to preserve the method; Lina preserves a living piece. Nora's key line is “Он не запомнит руки.” The mythic flash moves from the wish “А если бы оно само?” toward the first marks of counting: grain, turns of the stone, hands, time and the question “Если повторить столько же раз, выйдет столько же?” Chapter_12_v1 is the active first version.
+
 ---
 
 ## Narrative POV
@@ -265,6 +273,7 @@ Chapter_10_v1.md
 Chapter_10_v2.md
 Chapter_11_v1.md
 Chapter_11_v2.md
+Chapter_12_v1.md
 ```
 
 Chapter titles do not go into filenames.
@@ -473,4 +482,5 @@ Drafts/Chapter_10_v1.md     — Chapter 10 first version, preserved
 Drafts/Chapter_10_v2.md     — Chapter 10 second version, current active draft
 Drafts/Chapter_11_v1.md     — Chapter 11 first version, preserved
 Drafts/Chapter_11_v2.md     — Chapter 11 second version, current active draft
+Drafts/Chapter_12_v1.md     — Chapter 12 first version, current active draft
 ```
