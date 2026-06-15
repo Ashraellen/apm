@@ -172,6 +172,12 @@ The current active Chapter 20 draft is:
 Drafts/Chapter_20_v1.md
 ```
 
+The current active Chapter 21 draft is:
+
+```text
+Drafts/Chapter_21_v1.md
+```
+
 Earlier Chapter 1 draft preserved as:
 
 ```text
@@ -287,6 +293,8 @@ Chapter 19 shifts the engine outward after the house-line of Chapters 16–18. I
 
 Chapter 20 follows Chapter 19 without compensating the loss. The fish remains gone, the good mushroom remains ruined, and dinner remains smaller than expected. The chapter shows that a gift does not arrive as repayment or correction, but as something that could not be demanded. Matti arrives on an ordinary errand with a small paper package of potatoes, bread and a jar of pickles because it was left over elsewhere. The gift does not erase lack; it makes the thin soup less empty and creates discomfort around accepting what was not ordered, earned or calculated. Chapter_20_v1 is the current active first version.
 
+Chapter 21 shifts from receiving, losing and accepting into participation. It must not become another kitchen/object lesson. After rain and boar tracks, water starts running toward the porch and under the boards. Marek begins the practical work, but the others gradually enter before they understand the whole plan: Sofia holds a wet board because without her hand it will slip, Thomas moves from needing the full system to asking “Ещё?”, Nick’s jokes shorten under the weight of stones, David closes the notebook and takes a bucket, Lina corrects by hand, Nora helps with small practical things, and Ivar, if present, acts rather than teaches. The chapter shows that participation is not an idea but a hand where without it something becomes worse. Chapter_21_v1 is the current active first version.
+
 ---
 
 ## Narrative POV
@@ -353,6 +361,7 @@ Chapter_17_v1.md
 Chapter_18_v1.md
 Chapter_19_v1.md
 Chapter_20_v1.md
+Chapter_21_v1.md
 ```
 
 Chapter titles do not go into filenames.
@@ -571,4 +580,5 @@ Drafts/Chapter_17_v1.md     — Chapter 17 first version, accepted active draft
 Drafts/Chapter_18_v1.md     — Chapter 18 first version, current active draft
 Drafts/Chapter_19_v1.md     — Chapter 19 first version, current active draft
 Drafts/Chapter_20_v1.md     — Chapter 20 first version, current active draft
+Drafts/Chapter_21_v1.md     — Chapter 21 first version, current active draft
 ```
