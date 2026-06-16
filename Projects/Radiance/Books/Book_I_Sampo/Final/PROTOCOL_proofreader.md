@@ -30,10 +30,10 @@ Source draft files:
 Projects/Radiance/Books/Book_I_Sampo/Drafts/
 ```
 
-Final proofread chapter files:
+Final proofread files:
 
 ```text
-Projects/Radiance/Books/Book_I_Sampo/Final/Chapters/
+Projects/Radiance/Books/Book_I_Sampo/Final/
 ```
 
 Final index:
@@ -48,7 +48,7 @@ Do not delete or overwrite files in `Drafts/`.
 
 ## 3. File naming for final chapters
 
-Use this format:
+Use this format directly inside `Final/`:
 
 ```text
 Prologue_final_v1.md
@@ -249,7 +249,7 @@ For each chapter:
 1. Identify the active source draft in `Drafts/`.
 2. Fetch and read the full source draft.
 3. Make only permitted micro-edits.
-4. Create a new final file in `Final/Chapters/`.
+4. Create a new final file directly in `Final/`.
 5. Do not overwrite previous final versions.
 6. Do not delete source drafts.
 7. Update `Final/FINAL_INDEX.md` if it already exists, or create it if this is the first final file.
@@ -276,13 +276,13 @@ Recommended structure:
 
 ## Current final chapter files
 
-- Prologue — `Chapters/Prologue_final_v1.md` — awaiting approval
-- Chapter 01 — `Chapters/Chapter_01_final_v1.md` — awaiting approval
+- Prologue — `Prologue_final_v1.md` — awaiting approval
+- Chapter 01 — `Chapter_01_final_v1.md` — awaiting approval
 
 ## Earlier final versions preserved
 
 - Chapter 01:
-  - `Chapters/Chapter_01_final_v1.md`
+  - `Chapter_01_final_v1.md`
 ```
 
 When a new final version is created, do not delete the previous one. Move the previous one to preserved earlier final versions.
