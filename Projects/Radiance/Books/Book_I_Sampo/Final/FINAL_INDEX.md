@@ -89,16 +89,16 @@ DOCX created locally; manual Google Drive upload by author.
 Current target:
 
 ```text
-Chapter 10 — Final/Chapter_10_final_v1.md
+Chapter 11 — Drafts/Chapter_11_v2.md
 ```
 
 Recommended next action:
 
 ```text
-Controller should review Chapter_10_final_v1.md.
+Proofreader should start with Chapter 11 only.
 ```
 
-Do not begin Chapter 11 until Chapter 10 is either approved or explicitly put aside by the author.
+Do not begin Chapter 12 until Chapter 11 is either approved or explicitly put aside by the author.
 
 ---
 
@@ -116,8 +116,8 @@ Do not begin Chapter 11 until Chapter 10 is either approved or explicitly put as
 | 7 | Chapter 07 | `Drafts/Chapter_07_v2.md` | `Chapter_07_final_v1.md` | approved final | approve | Accepted by controller without mandatory micro-corrections; meta-trace check passed. DOCX created locally; manual Google Drive upload by author. |
 | 8 | Chapter 08 | `Drafts/Chapter_08_v2.md` | `Chapter_08_final_v1.md` | approved final | approve | Accepted by controller without mandatory micro-corrections; meta-trace check passed. DOCX created locally; manual Google Drive upload by author. |
 | 9 | Chapter 09 | `Drafts/Chapter_09_v1.md` | `Chapter_09_final_v1.md` | approved final | approve | Accepted by controller without mandatory micro-corrections; meta-trace check passed. DOCX created locally; manual Google Drive upload by author. |
-| 10 | Chapter 10 | `Drafts/Chapter_10_v2.md` | `Chapter_10_final_v1.md` | awaiting controller approval | — | Final proofread v1 created; pending controller review. |
-| 11 | Chapter 11 | `Drafts/Chapter_11_v2.md` | — | not started | — |  |
+| 10 | Chapter 10 | `Drafts/Chapter_10_v2.md` | `Chapter_10_final_v1.md` | approved final | approve | Accepted by controller without mandatory micro-corrections; meta-trace check passed. |
+| 11 | Chapter 11 | `Drafts/Chapter_11_v2.md` | — | not started | — | Start here. |
 | 12 | Chapter 12 | `Drafts/Chapter_12_v1.md` | — | not started | — |  |
 | 13 | Chapter 13 | `Drafts/Chapter_13_v2.md` | — | not started | — |  |
 | 14 | Chapter 14 | `Drafts/Chapter_14_v1.md` | — | not started | — |  |
@@ -149,7 +149,7 @@ Do not begin Chapter 11 until Chapter 10 is either approved or explicitly put as
 | Chapter 07 | `Chapter_07_final_v1.md` | `Chapter_07_final_v1.docx` | DOCX created locally; manual Google Drive upload by author. | Local DOCX rendered and visually checked; author uploads manually. |
 | Chapter 08 | `Chapter_08_final_v1.md` | `Chapter_08_final_v1.docx` | DOCX created locally; manual Google Drive upload by author. | Local DOCX rendered and visually checked; author uploads manually. |
 | Chapter 09 | `Chapter_09_final_v1.md` | `Chapter_09_final_v1.docx` | DOCX created locally; manual Google Drive upload by author. | Local DOCX rendered and visually checked; author uploads manually. |
-| Chapter 10 | — | — | not created | Awaiting controller approval. |
+| Chapter 10 | `Chapter_10_final_v1.md` | — | not created | Approved final; local DOCX may now be created. |
 
 ---
 
@@ -346,3 +346,21 @@ Notes:
 - DOCX created locally as `Chapter_09_final_v1.docx` and rendered for visual QA.
 - Manual Google Drive upload by author.
 - Proceed to Chapter 10 only.
+
+## 2026-06-16 — Chapter 10
+
+Final checked file:
+
+`Chapter_10_final_v1.md`
+
+Verdict:
+
+`approve`
+
+Notes:
+
+- Accepted by controller without mandatory micro-corrections.
+- Meta-trace check passed.
+- Chapter function preserved: the emergence of “share/portion” before Samпо is found; social crack carried through bread, water, work, berries, buckets, closed notebook and the “my notebook / our map” conflict.
+- DOCX may now be created locally.
+- Proceed to Chapter 11 only.
