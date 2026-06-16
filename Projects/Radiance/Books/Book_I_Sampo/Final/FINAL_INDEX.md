@@ -89,16 +89,16 @@ DOCX created locally; manual Google Drive upload by author.
 Current target:
 
 ```text
-Chapter 04 — Final/Chapter_04_final_v1.md
+Chapter 05 — Drafts/Chapter_05_v2.md
 ```
 
 Recommended next action:
 
 ```text
-Controller should review Chapter_04_final_v1.md.
+Proofreader should start with Chapter 05 only.
 ```
 
-Do not begin Chapter 05 until Chapter 04 is either approved or explicitly put aside by the author.
+Do not begin Chapter 06 until Chapter 05 is either approved or explicitly put aside by the author.
 
 ---
 
@@ -110,8 +110,8 @@ Do not begin Chapter 05 until Chapter 04 is either approved or explicitly put as
 | 1 | Chapter 01 | `Drafts/Chapter_01_v2.md` | `Chapter_01_final_v1.md` | approved final | accepted by author/controller | Accepted on 2026-06-16. DOCX created locally; manual Google Drive upload by author. |
 | 2 | Chapter 02 | `Drafts/Chapter_02_v2.md` | `Chapter_02_final_v2.md` | approved final after micro-corrections | approve after micro-corrections | Restored final three lines from source draft after controller review. DOCX created locally; manual Google Drive upload by author. |
 | 3 | Chapter 03 | `Drafts/Chapter_03_v3.md` | `Chapter_03_final_v2.md` | approved final after micro-corrections | approve after micro-corrections | Restored final block from source draft after controller review. DOCX created locally; manual Google Drive upload by author. |
-| 4 | Chapter 04 | `Drafts/Chapter_04_v2.md` | `Chapter_04_final_v1.md` | awaiting controller approval | — | Final proofread v1 created; pending controller review. |
-| 5 | Chapter 05 | `Drafts/Chapter_05_v2.md` | — | not started | — |  |
+| 4 | Chapter 04 | `Drafts/Chapter_04_v2.md` | `Chapter_04_final_v2.md` | approved final after micro-corrections | approve after micro-corrections | Restored one missing Sofia reaction line from source draft after controller review. |
+| 5 | Chapter 05 | `Drafts/Chapter_05_v2.md` | — | not started | — | Start here. |
 | 6 | Chapter 06 | `Drafts/Chapter_06_v2.md` | — | not started | — |  |
 | 7 | Chapter 07 | `Drafts/Chapter_07_v2.md` | — | not started | — |  |
 | 8 | Chapter 08 | `Drafts/Chapter_08_v2.md` | — | not started | — |  |
@@ -143,7 +143,7 @@ Do not begin Chapter 05 until Chapter 04 is either approved or explicitly put as
 | Chapter 01 | `Chapter_01_final_v1.md` | `Chapter_01_final_v1.docx` | DOCX created locally; manual Google Drive upload by author. | Local DOCX rendered and visually checked; author uploads manually. |
 | Chapter 02 | `Chapter_02_final_v2.md` | `Chapter_02_final_v2.docx` | DOCX created locally; manual Google Drive upload by author. | Local DOCX rendered and visually checked; author uploads manually. |
 | Chapter 03 | `Chapter_03_final_v2.md` | `Chapter_03_final_v2.docx` | DOCX created locally; manual Google Drive upload by author. | Local DOCX rendered and visually checked; author uploads manually. |
-| Chapter 04 | — | — | not created | Awaiting controller approval. |
+| Chapter 04 | `Chapter_04_final_v2.md` | — | not created | Awaiting post-correction confirmation before DOCX creation. |
 
 ---
 
@@ -153,6 +153,8 @@ Do not begin Chapter 05 until Chapter 04 is either approved or explicitly put as
   - `Chapter_02_final_v1.md` — superseded by `Chapter_02_final_v2.md`
 - Chapter 03:
   - `Chapter_03_final_v1.md` — superseded by `Chapter_03_final_v2.md`
+- Chapter 04:
+  - `Chapter_04_final_v1.md` — superseded by `Chapter_04_final_v2.md`
 
 ---
 
@@ -225,3 +227,19 @@ Notes:
 - DOCX created locally as `Chapter_03_final_v2.docx` and rendered for visual QA.
 - Manual Google Drive upload by author.
 - Proceed to Chapter 04 only.
+
+## 2026-06-16 — Chapter 04
+
+Final checked file:
+
+`Chapter_04_final_v2.md`
+
+Verdict:
+
+`approve after micro-corrections`
+
+Notes:
+
+- Restored one missing Sofia reaction line from source draft after controller review.
+- `Chapter_04_final_v1.md` preserved and marked as superseded by newer final version.
+- Proceed to Chapter 05 only.
