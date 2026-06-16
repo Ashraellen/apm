@@ -90,13 +90,13 @@ For each chapter:
 Current target:
 
 ```text
-Prologue — Drafts/Prologue_Hook_v1.md
+Prologue — Final/Prologue_final_v1.md
 ```
 
 Recommended next action:
 
 ```text
-Proofreader should start with Prologue only.
+Controller should review Prologue_final_v1.md.
 ```
 
 Do not begin Chapter 01 until Prologue is either approved or explicitly put aside by the author.
@@ -107,7 +107,7 @@ Do not begin Chapter 01 until Prologue is either approved or explicitly put asid
 
 | Order | Unit | Source draft | Current final file | Status | Controller verdict | Notes |
 |---:|---|---|---|---|---|---|
-| 0 | Prologue | `Drafts/Prologue_Hook_v1.md` | — | not started | — | Start here. |
+| 0 | Prologue | `Drafts/Prologue_Hook_v1.md` | `Prologue_final_v1.md` | awaiting controller approval | — | Final proofread v1 created; pending controller review. |
 | 1 | Chapter 01 | `Drafts/Chapter_01_v2.md` | — | not started | — |  |
 | 2 | Chapter 02 | `Drafts/Chapter_02_v2.md` | — | not started | — |  |
 | 3 | Chapter 03 | `Drafts/Chapter_03_v3.md` | — | not started | — |  |
@@ -138,7 +138,7 @@ Do not begin Chapter 01 until Prologue is either approved or explicitly put asid
 
 ## 7. Preserved earlier final versions
 
-No final versions yet.
+No earlier final versions yet.
 
 When a newer final version replaces an earlier one, record it here.
 
