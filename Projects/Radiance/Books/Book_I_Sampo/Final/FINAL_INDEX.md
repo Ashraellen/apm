@@ -112,7 +112,7 @@ Do not begin Chapter 08 until Chapter 07 is either approved or explicitly put as
 | 3 | Chapter 03 | `Drafts/Chapter_03_v3.md` | `Chapter_03_final_v2.md` | approved final after micro-corrections | approve after micro-corrections | Restored final block from source draft after controller review. DOCX created locally; manual Google Drive upload by author. |
 | 4 | Chapter 04 | `Drafts/Chapter_04_v2.md` | `Chapter_04_final_v2.md` | approved final after micro-corrections | approve after micro-corrections | Restored one missing Sofia reaction line from source draft after controller review. DOCX created locally; manual Google Drive upload by author. |
 | 5 | Chapter 05 | `Drafts/Chapter_05_v2.md` | `Chapter_05_final_v1.md` | approved final | approve | Accepted by controller without mandatory micro-corrections. DOCX created locally; manual Google Drive upload by author. |
-| 6 | Chapter 06 | `Drafts/Chapter_06_v2.md` | `Chapter_06_final_v2.md` | approved final after micro-corrections | approve after micro-corrections | Removed metatextual wording "не главой" and replaced it with non-literary inner framing. Confirmed correct after post-correction check. |
+| 6 | Chapter 06 | `Drafts/Chapter_06_v2.md` | `Chapter_06_final_v2.md` | approved final after micro-corrections | approve after micro-corrections | Removed metatextual wording "не главой" and replaced it with non-literary inner framing. Confirmed correct after post-correction check. DOCX created locally; manual Google Drive upload by author. |
 | 7 | Chapter 07 | `Drafts/Chapter_07_v2.md` | — | not started | — | Start here. |
 | 8 | Chapter 08 | `Drafts/Chapter_08_v2.md` | — | not started | — |  |
 | 9 | Chapter 09 | `Drafts/Chapter_09_v1.md` | — | not started | — |  |
@@ -145,7 +145,7 @@ Do not begin Chapter 08 until Chapter 07 is either approved or explicitly put as
 | Chapter 03 | `Chapter_03_final_v2.md` | `Chapter_03_final_v2.docx` | DOCX created locally; manual Google Drive upload by author. | Local DOCX rendered and visually checked; author uploads manually. |
 | Chapter 04 | `Chapter_04_final_v2.md` | `Chapter_04_final_v2.docx` | DOCX created locally; manual Google Drive upload by author. | Local DOCX rendered and visually checked; author uploads manually. |
 | Chapter 05 | `Chapter_05_final_v1.md` | `Chapter_05_final_v1.docx` | DOCX created locally; manual Google Drive upload by author. | Local DOCX rendered and visually checked; author uploads manually. |
-| Chapter 06 | `Chapter_06_final_v2.md` | — | not created | Can be created locally after author confirmation. |
+| Chapter 06 | `Chapter_06_final_v2.md` | `Chapter_06_final_v2.docx` | DOCX created locally; manual Google Drive upload by author. | Local DOCX rendered and visually checked; author uploads manually. |
 
 ---
 
@@ -284,4 +284,6 @@ Notes:
 - Replaced metatextual wording "не главой" with non-literary inner framing.
 - Confirmed correct after post-correction check.
 - `Chapter_06_final_v1.md` preserved and marked as superseded by newer final version.
+- DOCX created locally as `Chapter_06_final_v2.docx` and rendered for visual QA.
+- Manual Google Drive upload by author.
 - Proceed to Chapter 07 only.
