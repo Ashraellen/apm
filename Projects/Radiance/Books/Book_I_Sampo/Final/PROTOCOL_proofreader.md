@@ -51,7 +51,7 @@ Do not delete or overwrite files in `Drafts/`.
 The project now uses two storage layers:
 
 1. **GitHub** — official text source in `.md` format.
-2. **Google Drive** — readable working copies in `.docx` format.
+2. **Local DOCX files** — readable working copies created only after approval, then manually uploaded to Google Drive by the author.
 
 The proofreader’s main task remains unchanged:
 
@@ -74,11 +74,17 @@ After approval, the Word copy must use the same version number as the approved M
 Example:
 
 ```text
-GitHub: Final/Chapter_01_final_v1.md
-Google Drive: Chapter_01_final_v1.docx
+GitHub source: Final/Chapter_01_final_v1.md
+Local DOCX: Chapter_01_final_v1.docx
 ```
 
-Approved chapter DOCX copies are uploaded to:
+After creating a local DOCX, give the author a download link.
+
+Do not attempt Google Drive upload through the connector if it causes file-reference errors.
+
+Google Drive is filled manually by the author.
+
+Manual upload destination:
 
 ```text
 Radiance / Book_I_Sampo / Final_DOCX
@@ -335,13 +341,26 @@ Chapter_01_final_v1.md  →  Chapter_01_final_v1.docx
 Chapter_01_final_v2.md  →  Chapter_01_final_v2.docx
 ```
 
-DOCX copies are uploaded to Google Drive:
+The DOCX must be a technical copy of the approved Markdown text.
+
+Do not change, edit, polish or re-proofread the text while creating DOCX.
+
+After creating the DOCX locally:
+
+1. Give the author a download link.
+2. Update `FINAL_INDEX.md` with this exact status:
+
+```text
+DOCX created locally; manual Google Drive upload by author.
+```
+
+Do not upload DOCX to Google Drive through the connector.
+
+The author will manually upload the DOCX to:
 
 ```text
 Radiance / Book_I_Sampo / Final_DOCX
 ```
-
-The DOCX creation must be recorded in `FINAL_INDEX.md`.
 
 ---
 
@@ -367,7 +386,7 @@ Recommended structure:
 
 When a new final version is created, do not delete the previous one. Move the previous one to preserved earlier final versions.
 
-The index must also record DOCX copies created on Google Drive after approval.
+The index must also record local DOCX copies created after approval.
 
 ---
 
