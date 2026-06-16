@@ -2,25 +2,19 @@
 
 Final proofreading index for **Сияние / Radiance — Book I: Сампо**.
 
-This file is the shared working board for the final proofreading process.
+This file is the working board for the final proofreading process.
 
 ---
 
-## 1. Purpose
+## 1. Main rule
 
-This index coordinates the work between:
+One chapter at a time.
 
-1. The main proofreading chat.
-2. The proofreading controller / consultant.
-3. The author as final decision-maker.
-
-The workflow must proceed **one chapter at a time**.
-
-Do not run batches of three chapters unless the author explicitly changes this rule.
+The next chapter begins only after the current chapter receives a controller verdict or the author explicitly decides to move on.
 
 ---
 
-## 2. GitHub text layer
+## 2. Protocols and paths
 
 Proofreader protocol:
 
@@ -40,129 +34,42 @@ Source drafts:
 Projects/Radiance/Books/Book_I_Sampo/Drafts/
 ```
 
-Final proofread Markdown files:
+Final Markdown files:
 
 ```text
 Projects/Radiance/Books/Book_I_Sampo/Final/
 ```
 
-Main book index:
-
-```text
-Projects/Radiance/Books/Book_I_Sampo/INDEX.md
-```
-
-GitHub rule:
-
-```text
-GitHub stores the official text source in .md format only.
-```
+GitHub stores the official text source in `.md` format.
 
 ---
 
-## 3. Google Drive DOCX layer
+## 3. Local DOCX workflow
 
-Google Drive is used for human-readable DOCX working copies after a chapter is accepted in GitHub.
+DOCX files are technical copies of approved Markdown files.
 
-Drive root project folder:
+Do not create DOCX before controller approval.
 
-```text
-Radiance
-```
-
-Folder ID:
+DOCX may be created only after one of these statuses:
 
 ```text
-1UIG8DSEK4n9K17TzwQj_-kAsAPcSc9E_
+approved final
+approved final after micro-corrections
 ```
 
-URL:
+DOCX text must not be changed, edited, polished or re-proofread.
+
+After DOCX is created locally, give the author a download link and record this status:
 
 ```text
-https://drive.google.com/drive/folders/1UIG8DSEK4n9K17TzwQj_-kAsAPcSc9E_
+DOCX created locally; manual Google Drive upload by author.
 ```
 
-Book folder:
-
-```text
-Radiance / Book_I_Sampo
-```
-
-Folder ID:
-
-```text
-1c7BZTJJzVpUaY3Sf7rMvRw1ti-odi0b8
-```
-
-URL:
-
-```text
-https://drive.google.com/drive/folders/1c7BZTJJzVpUaY3Sf7rMvRw1ti-odi0b8
-```
-
-Chapter DOCX folder:
-
-```text
-Radiance / Book_I_Sampo / Final_DOCX
-```
-
-Folder ID:
-
-```text
-1IMwk5Jzuu8K0vNRbMEChgAXRRNUjuIvT
-```
-
-URL:
-
-```text
-https://drive.google.com/drive/folders/1IMwk5Jzuu8K0vNRbMEChgAXRRNUjuIvT
-```
-
-Full book DOCX folder:
-
-```text
-Radiance / Book_I_Sampo / Full_Book_DOCX
-```
-
-Folder ID:
-
-```text
-18fdZXa4lJJikF4K-nso-6hTpi2s-MowE
-```
-
-URL:
-
-```text
-https://drive.google.com/drive/folders/18fdZXa4lJJikF4K-nso-6hTpi2s-MowE
-```
-
-DOCX rule:
-
-```text
-Google Drive stores only .docx working/readable files and the final full-book .docx.
-```
-
-Recommended DOCX workflow:
-
-```text
-Final/Chapter_XX_final_vY.md
-→ controller approval
-→ create Chapter_XX_final_vY.docx
-→ upload to Google Drive / Final_DOCX
-```
-
-The full book DOCX is created only after all chapters and epilogue are approved final:
-
-```text
-Sampo_Book_I_final_v1.docx
-→ upload to Google Drive / Full_Book_DOCX
-```
+Google Drive upload is done manually by the author.
 
 ---
 
 ## 4. Status labels
-
-Use these statuses:
 
 ```text
 not started
@@ -172,29 +79,12 @@ approved final
 approved final after micro-corrections
 returned for another pass
 superseded by newer final version
-DOCX created on Google Drive
-DOCX created locally; Drive upload failed
+DOCX created locally; manual Google Drive upload by author.
 ```
 
 ---
 
-## 5. One-chapter workflow
-
-For each chapter:
-
-1. Proofreader reads the active source draft.
-2. Proofreader creates `*_final_v1.md` directly in `Final/`.
-3. Proofreader updates this index: status becomes `awaiting controller approval`.
-4. Controller checks that final file.
-5. Controller gives a verdict.
-6. If approved, this index is updated to `approved final`.
-7. If micro-corrections are needed, proofreader creates `*_final_v2.md`.
-8. Older final versions are kept and marked as `superseded by newer final version`.
-9. After approval, a DOCX copy may be created and uploaded to Google Drive / `Final_DOCX`.
-
----
-
-## 6. Current proofreading queue
+## 5. Current proofreading queue
 
 Current target:
 
@@ -212,12 +102,12 @@ Do not begin Chapter 03 until Chapter 02 is either approved or explicitly put as
 
 ---
 
-## 7. Current final files
+## 6. Current final files
 
 | Order | Unit | Source draft | Current final file | Status | Controller verdict | Notes |
 |---:|---|---|---|---|---|---|
-| 0 | Prologue | `Drafts/Prologue_Hook_v1.md` | `Prologue_final_v1.md` | approved final | accepted by author/controller | Accepted by author on 2026-06-16. DOCX may now be created. |
-| 1 | Chapter 01 | `Drafts/Chapter_01_v2.md` | `Chapter_01_final_v1.md` | approved final | accepted by author/controller | Accepted by author on 2026-06-16. DOCX created locally; Drive upload failed due connector file-reference validation. |
+| 0 | Prologue | `Drafts/Prologue_Hook_v1.md` | `Prologue_final_v1.md` | approved final | accepted by author/controller | Accepted on 2026-06-16. DOCX may now be created locally. |
+| 1 | Chapter 01 | `Drafts/Chapter_01_v2.md` | `Chapter_01_final_v1.md` | approved final | accepted by author/controller | Accepted on 2026-06-16. DOCX created locally; manual Google Drive upload by author. |
 | 2 | Chapter 02 | `Drafts/Chapter_02_v2.md` | `Chapter_02_final_v1.md` | awaiting controller approval | — | Final proofread v1 created; pending controller review. |
 | 3 | Chapter 03 | `Drafts/Chapter_03_v3.md` | — | not started | — |  |
 | 4 | Chapter 04 | `Drafts/Chapter_04_v2.md` | — | not started | — |  |
@@ -245,32 +135,23 @@ Do not begin Chapter 03 until Chapter 02 is either approved or explicitly put as
 
 ---
 
-## 8. Google Drive DOCX files
+## 7. Local DOCX files
 
-| Unit | Approved Markdown source | DOCX file | Google Drive folder | Status | Notes |
-|---|---|---|---|---|---|
-| Prologue | `Prologue_final_v1.md` | — | `Final_DOCX` | not created | Can be created after author confirmation. |
-| Chapter 01 | `Chapter_01_final_v1.md` | `Chapter_01_final_v1.docx` | `Final_DOCX` | DOCX created locally; Drive upload failed | Local DOCX rendered and visually checked; Drive connector rejected local file path/file reference. Retry upload later. |
-| Chapter 02 | — | — | `Final_DOCX` | not created | Awaiting controller approval. |
+| Unit | Approved Markdown source | DOCX file | Status | Notes |
+|---|---|---|---|---|
+| Prologue | `Prologue_final_v1.md` | — | not created | Can be created locally after author confirmation. |
+| Chapter 01 | `Chapter_01_final_v1.md` | `Chapter_01_final_v1.docx` | DOCX created locally; manual Google Drive upload by author. | Local DOCX rendered and visually checked; author uploads manually. |
+| Chapter 02 | — | — | not created | Awaiting controller approval. |
 
 ---
 
-## 9. Preserved earlier final versions
+## 8. Preserved earlier final versions
 
 No earlier final versions yet.
 
-When a newer final version replaces an earlier one, record it here.
-
-Example:
-
-```markdown
-- Chapter 01:
-  - `Chapter_01_final_v1.md` — superseded by `Chapter_01_final_v2.md`
-```
-
 ---
 
-## 10. Controller decisions log
+## 9. Controller decisions log
 
 ## 2026-06-16 — Prologue
 
@@ -301,13 +182,5 @@ Notes:
 
 - Accepted by author/controller.
 - DOCX created locally as `Chapter_01_final_v1.docx` and rendered for visual QA.
-- Google Drive upload failed because the connector rejected the local file reference.
+- Manual Google Drive upload by author.
 - Proceed to Chapter 02 only.
-
----
-
-## 11. Main rule
-
-One chapter at a time.
-
-The next chapter begins only after the current chapter receives a controller verdict or the author explicitly decides to move on.
