@@ -30,7 +30,7 @@ Source draft files:
 Projects/Radiance/Books/Book_I_Sampo/Drafts/
 ```
 
-Final proofread files:
+Final proofread Markdown files:
 
 ```text
 Projects/Radiance/Books/Book_I_Sampo/Final/
@@ -46,7 +46,56 @@ Do not delete or overwrite files in `Drafts/`.
 
 ---
 
-## 3. File naming for final chapters
+## 3. Two-layer storage rule
+
+The project now uses two storage layers:
+
+1. **GitHub** — official text source in `.md` format.
+2. **Google Drive** — readable working copies in `.docx` format.
+
+The proofreader’s main task remains unchanged:
+
+1. Take one chapter from `Drafts/`.
+2. Perform final micro-proofreading.
+3. Create the final `.md` file in `Final/`.
+4. Update `FINAL_INDEX.md`.
+
+A `.docx` copy must **not** be created before controller approval.
+
+A `.docx` copy may be created only after the chapter receives one of these statuses:
+
+```text
+approved final
+approved final after micro-corrections
+```
+
+After approval, the Word copy must use the same version number as the approved Markdown file.
+
+Example:
+
+```text
+GitHub: Final/Chapter_01_final_v1.md
+Google Drive: Chapter_01_final_v1.docx
+```
+
+Approved chapter DOCX copies are uploaded to:
+
+```text
+Radiance / Book_I_Sampo / Final_DOCX
+```
+
+Do not create a `.docx` for a chapter that is still:
+
+```text
+awaiting controller approval
+returned for another pass
+not started
+proofreading in progress
+```
+
+---
+
+## 4. File naming for final chapters
 
 Use this format directly inside `Final/`:
 
@@ -73,7 +122,7 @@ The source draft version must be recorded inside the file header.
 
 ---
 
-## 4. Required header inside each final file
+## 5. Required header inside each final file
 
 Each final proofread chapter file should begin with this structure:
 
@@ -111,7 +160,7 @@ approved final / утверждённая финальная версия
 
 ---
 
-## 5. What the proofreader is allowed to change
+## 6. What the proofreader is allowed to change
 
 Allowed changes:
 
@@ -130,7 +179,7 @@ The proofreader should make the minimum necessary change.
 
 ---
 
-## 6. What the proofreader must not change
+## 7. What the proofreader must not change
 
 Forbidden changes:
 
@@ -152,7 +201,7 @@ Better slightly rough and alive than smooth and dead.
 
 ---
 
-## 7. Minimal conceptual frame
+## 8. Minimal conceptual frame
 
 The proofreader does **not** need the full project canon.
 
@@ -168,7 +217,7 @@ Do not explain the book for the reader.
 
 ---
 
-## 8. Style to preserve
+## 9. Style to preserve
 
 Preserve:
 
@@ -187,7 +236,7 @@ Do not wash away the cold, damp, smoke, fatigue, awkwardness or weight of things
 
 ---
 
-## 9. Character protection
+## 10. Character protection
 
 ### Ivar
 
@@ -242,30 +291,61 @@ Do not wash away the cold, damp, smoke, fatigue, awkwardness or weight of things
 
 ---
 
-## 10. Proofreading workflow for each chapter
+## 11. Proofreading workflow for each chapter
 
 For each chapter:
 
 1. Identify the active source draft in `Drafts/`.
 2. Fetch and read the full source draft.
 3. Make only permitted micro-edits.
-4. Create a new final file directly in `Final/`.
+4. Create a new final Markdown file directly in `Final/`.
 5. Do not overwrite previous final versions.
 6. Do not delete source drafts.
 7. Update `Final/FINAL_INDEX.md` if it already exists, or create it if this is the first final file.
 8. Report:
    - source draft path;
-   - final file path;
+   - final Markdown file path;
    - final version number;
-   - commit SHA for the created final file;
+   - commit SHA for the created final Markdown file;
    - whether `FINAL_INDEX.md` was updated;
    - summary of changes;
    - doubtful places, if any;
    - whether controller review is needed.
 
+Do not create a `.docx` copy at this stage.
+
 ---
 
-## 11. Final index rule
+## 12. DOCX workflow after approval
+
+After a chapter receives controller approval, and only after that, the proofreader may create a DOCX copy.
+
+Permitted statuses for DOCX creation:
+
+```text
+approved final
+approved final after micro-corrections
+```
+
+DOCX naming must match the approved Markdown version:
+
+```text
+Prologue_final_v1.md  →  Prologue_final_v1.docx
+Chapter_01_final_v1.md  →  Chapter_01_final_v1.docx
+Chapter_01_final_v2.md  →  Chapter_01_final_v2.docx
+```
+
+DOCX copies are uploaded to Google Drive:
+
+```text
+Radiance / Book_I_Sampo / Final_DOCX
+```
+
+The DOCX creation must be recorded in `FINAL_INDEX.md`.
+
+---
+
+## 13. Final index rule
 
 `Final/FINAL_INDEX.md` should list the current approved or pending final version for each chapter.
 
@@ -287,9 +367,11 @@ Recommended structure:
 
 When a new final version is created, do not delete the previous one. Move the previous one to preserved earlier final versions.
 
+The index must also record DOCX copies created on Google Drive after approval.
+
 ---
 
-## 12. Main principle
+## 14. Main principle
 
 Clean the text without washing away its life.
 
