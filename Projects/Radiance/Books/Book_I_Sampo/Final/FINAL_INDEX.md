@@ -114,7 +114,7 @@ Do not begin Chapter 10 until Chapter 09 is either approved or explicitly put as
 | 5 | Chapter 05 | `Drafts/Chapter_05_v2.md` | `Chapter_05_final_v1.md` | approved final | approve | Accepted by controller without mandatory micro-corrections. DOCX created locally; manual Google Drive upload by author. |
 | 6 | Chapter 06 | `Drafts/Chapter_06_v2.md` | `Chapter_06_final_v2.md` | approved final after micro-corrections | approve after micro-corrections | Removed metatextual wording "не главой" and replaced it with non-literary inner framing. Confirmed correct after post-correction check. DOCX created locally; manual Google Drive upload by author. |
 | 7 | Chapter 07 | `Drafts/Chapter_07_v2.md` | `Chapter_07_final_v1.md` | approved final | approve | Accepted by controller without mandatory micro-corrections; meta-trace check passed. DOCX created locally; manual Google Drive upload by author. |
-| 8 | Chapter 08 | `Drafts/Chapter_08_v2.md` | `Chapter_08_final_v1.md` | approved final | approve | Accepted by controller without mandatory micro-corrections; meta-trace check passed. |
+| 8 | Chapter 08 | `Drafts/Chapter_08_v2.md` | `Chapter_08_final_v1.md` | approved final | approve | Accepted by controller without mandatory micro-corrections; meta-trace check passed. DOCX created locally; manual Google Drive upload by author. |
 | 9 | Chapter 09 | `Drafts/Chapter_09_v1.md` | — | not started | — | Start here. |
 | 10 | Chapter 10 | `Drafts/Chapter_10_v2.md` | — | not started | — |  |
 | 11 | Chapter 11 | `Drafts/Chapter_11_v2.md` | — | not started | — |  |
@@ -147,7 +147,7 @@ Do not begin Chapter 10 until Chapter 09 is either approved or explicitly put as
 | Chapter 05 | `Chapter_05_final_v1.md` | `Chapter_05_final_v1.docx` | DOCX created locally; manual Google Drive upload by author. | Local DOCX rendered and visually checked; author uploads manually. |
 | Chapter 06 | `Chapter_06_final_v2.md` | `Chapter_06_final_v2.docx` | DOCX created locally; manual Google Drive upload by author. | Local DOCX rendered and visually checked; author uploads manually. |
 | Chapter 07 | `Chapter_07_final_v1.md` | `Chapter_07_final_v1.docx` | DOCX created locally; manual Google Drive upload by author. | Local DOCX rendered and visually checked; author uploads manually. |
-| Chapter 08 | `Chapter_08_final_v1.md` | — | not created | Approved final; local DOCX may now be created. |
+| Chapter 08 | `Chapter_08_final_v1.md` | `Chapter_08_final_v1.docx` | DOCX created locally; manual Google Drive upload by author. | Local DOCX rendered and visually checked; author uploads manually. |
 
 ---
 
@@ -322,5 +322,6 @@ Notes:
 
 - Accepted by controller without mandatory micro-corrections.
 - Meta-trace check passed: source metatrace “After chapter five/six/seven” was correctly replaced with inner-world object sequence.
-- DOCX may now be created locally.
+- DOCX created locally as `Chapter_08_final_v1.docx` and rendered for visual QA.
+- Manual Google Drive upload by author.
 - Proceed to Chapter 09 only.
