@@ -30,10 +30,10 @@ Source draft files:
 Projects/Radiance/Books/Book_I_Sampo/Drafts/
 ```
 
-Final proofread chapter files:
+Final proofread files:
 
 ```text
-Projects/Radiance/Books/Book_I_Sampo/Final/Chapters/
+Projects/Radiance/Books/Book_I_Sampo/Final/
 ```
 
 Final index:
@@ -173,7 +173,7 @@ The controller should not demand polish that kills texture.
 
 For each final proofread chapter:
 
-1. Fetch the final proofread file from `Final/Chapters/`.
+1. Fetch the final proofread file from `Final/`.
 2. Check the header and source draft reference.
 3. If needed, fetch the source draft from `Drafts/` for comparison.
 4. Read the full final chapter.
