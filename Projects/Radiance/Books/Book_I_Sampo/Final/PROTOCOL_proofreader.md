@@ -69,6 +69,18 @@ approved final
 approved final after micro-corrections
 ```
 
+If the first controller verdict is:
+
+```text
+approve after micro-corrections
+```
+
+then the corrected Markdown version must be created first and sent back for confirmation.
+
+In this case, do **not** create DOCX immediately after making the micro-corrections.
+
+Create DOCX only after the controller explicitly confirms that the corrected version is now the correct final version.
+
 After approval, the Word copy must use the same version number as the approved Markdown file.
 
 Example:
@@ -332,6 +344,14 @@ Permitted statuses for DOCX creation:
 approved final
 approved final after micro-corrections
 ```
+
+Important clarification:
+
+If the controller verdict is `approve after micro-corrections`, DOCX is **not** created immediately after the proofreader makes the requested micro-correction.
+
+First, the corrected Markdown version must be checked again and confirmed as correct by the controller.
+
+Only after this post-correction confirmation may the proofreader create the local DOCX copy.
 
 DOCX naming must match the approved Markdown version:
 
