@@ -106,7 +106,7 @@ Do not begin Chapter 06 until Chapter 05 is either approved or explicitly put as
 
 | Order | Unit | Source draft | Current final file | Status | Controller verdict | Notes |
 |---:|---|---|---|---|---|---|
-| 0 | Prologue | `Drafts/Prologue_Hook_v1.md` | `Prologue_final_v1.md` | approved final | accepted by author/controller | Accepted on 2026-06-16. DOCX may now be created locally. |
+| 0 | Prologue | `Drafts/Prologue_Hook_v1.md` | `Prologue_final_v1.md` | approved final | accepted by author/controller | Accepted on 2026-06-16. DOCX created locally; manual Google Drive upload by author. |
 | 1 | Chapter 01 | `Drafts/Chapter_01_v2.md` | `Chapter_01_final_v1.md` | approved final | accepted by author/controller | Accepted on 2026-06-16. DOCX created locally; manual Google Drive upload by author. |
 | 2 | Chapter 02 | `Drafts/Chapter_02_v2.md` | `Chapter_02_final_v2.md` | approved final after micro-corrections | approve after micro-corrections | Restored final three lines from source draft after controller review. DOCX created locally; manual Google Drive upload by author. |
 | 3 | Chapter 03 | `Drafts/Chapter_03_v3.md` | `Chapter_03_final_v2.md` | approved final after micro-corrections | approve after micro-corrections | Restored final block from source draft after controller review. DOCX created locally; manual Google Drive upload by author. |
@@ -139,7 +139,7 @@ Do not begin Chapter 06 until Chapter 05 is either approved or explicitly put as
 
 | Unit | Approved Markdown source | DOCX file | Status | Notes |
 |---|---|---|---|---|
-| Prologue | `Prologue_final_v1.md` | — | not created | Can be created locally after author confirmation. |
+| Prologue | `Prologue_final_v1.md` | `Prologue_final_v1.docx` | DOCX created locally; manual Google Drive upload by author. | Local DOCX rendered and visually checked; author uploads manually. |
 | Chapter 01 | `Chapter_01_final_v1.md` | `Chapter_01_final_v1.docx` | DOCX created locally; manual Google Drive upload by author. | Local DOCX rendered and visually checked; author uploads manually. |
 | Chapter 02 | `Chapter_02_final_v2.md` | `Chapter_02_final_v2.docx` | DOCX created locally; manual Google Drive upload by author. | Local DOCX rendered and visually checked; author uploads manually. |
 | Chapter 03 | `Chapter_03_final_v2.md` | `Chapter_03_final_v2.docx` | DOCX created locally; manual Google Drive upload by author. | Local DOCX rendered and visually checked; author uploads manually. |
@@ -173,6 +173,8 @@ Verdict:
 Notes:
 
 - Accepted by author/controller.
+- DOCX created locally as `Prologue_final_v1.docx` and rendered for visual QA.
+- Manual Google Drive upload by author.
 - Proceed to Chapter 01 only.
 
 ## 2026-06-16 — Chapter 01
