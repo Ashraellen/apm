@@ -89,16 +89,16 @@ DOCX created locally; manual Google Drive upload by author.
 Current target:
 
 ```text
-Epilogue — Final/Epilogue_final_v1.md
+Book I: all final files approved
 ```
 
 Recommended next action:
 
 ```text
-Controller should review Epilogue_final_v1.md.
+No pending proofreading unit. Optional: assemble/export the full Book I package if the author requests it.
 ```
 
-Do not move beyond Epilogue until it is either approved or explicitly put aside by the author.
+Book I final body and epilogue are fully controller-approved.
 
 ---
 
@@ -131,7 +131,7 @@ Do not move beyond Epilogue until it is either approved or explicitly put aside 
 | 22 | Chapter 22 | `Drafts/Chapter_22_v1.md` | `Chapter_22_final_v1.md` | approved final | approve | Accepted by controller without mandatory micro-corrections; meta-trace check passed; no technical duplicate detected. DOCX created locally; manual Google Drive upload by author. |
 | 23 | Chapter 23 | `Drafts/Chapter_23_v1.md` | `Chapter_23_final_v1.md` | approved final | approve | Accepted by controller without mandatory micro-corrections; meta-trace check passed; no technical duplicate detected. DOCX created locally; manual Google Drive upload by author. |
 | 24 | Chapter 24 | `Drafts/Chapter_24_v1.md` | `Chapter_24_final_v1.md` | approved final | approve | Accepted by controller without mandatory micro-corrections; meta-trace check passed; no technical duplicate detected. DOCX created locally; manual Google Drive upload by author. |
-| 25 | Epilogue | `Drafts/Epilogue_v1.md` | `Epilogue_final_v1.md` | awaiting controller approval | — | Final proofread v1 created; pending controller review. |
+| 25 | Epilogue | `Drafts/Epilogue_v1.md` | `Epilogue_final_v1.md` | approved final | approve | Accepted by controller without mandatory micro-corrections; meta-trace check passed; no technical duplicate detected. DOCX created locally; manual Google Drive upload by author. |
 
 ---
 
@@ -164,7 +164,7 @@ Do not move beyond Epilogue until it is either approved or explicitly put aside 
 | Chapter 22 | `Chapter_22_final_v1.md` | `Chapter_22_final_v1.docx` | DOCX created locally; manual Google Drive upload by author. | Local DOCX rendered and visually checked; author uploads manually. |
 | Chapter 23 | `Chapter_23_final_v1.md` | `Chapter_23_final_v1.docx` | DOCX created locally; manual Google Drive upload by author. | Local DOCX rendered and visually checked; author uploads manually. |
 | Chapter 24 | `Chapter_24_final_v1.md` | `Chapter_24_final_v1.docx` | DOCX created locally; manual Google Drive upload by author. | Local DOCX rendered and visually checked; author uploads manually. |
-| Epilogue | — | — | not created | Awaiting controller approval. |
+| Epilogue | `Epilogue_final_v1.md` | `Epilogue_final_v1.docx` | DOCX created locally; manual Google Drive upload by author. | Local DOCX rendered and visually checked; author uploads manually. |
 
 ---
 
@@ -661,3 +661,23 @@ Notes:
 - DOCX created locally as `Chapter_24_final_v1.docx` and rendered for visual QA.
 - Manual Google Drive upload by author.
 - Proceed to Epilogue only.
+
+## 2026-06-16 — Epilogue
+
+Final checked file:
+
+`Epilogue_final_v1.md`
+
+Verdict:
+
+`approve`
+
+Notes:
+
+- Accepted by controller without mandatory micro-corrections.
+- Meta-trace check passed.
+- No technical duplicate detected.
+- Epilogue function preserved: departure after recognition; no explanation of Sampo; Ayla becomes the future door through listening, without playing or naming Book II.
+- DOCX created locally as `Epilogue_final_v1.docx` and rendered for visual QA.
+- Manual Google Drive upload by author.
+- Book I final body is now fully controller-approved.
