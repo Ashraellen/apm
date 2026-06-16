@@ -89,16 +89,16 @@ DOCX created locally; manual Google Drive upload by author.
 Current target:
 
 ```text
-Chapter 16 — Final/Chapter_16_final_v1.md
+Chapter 17 — Drafts/Chapter_17_v1.md
 ```
 
 Recommended next action:
 
 ```text
-Controller should review Chapter_16_final_v1.md.
+Proofreader should start with Chapter 17 only.
 ```
 
-Do not begin Chapter 17 until Chapter 16 is either approved or explicitly put aside by the author.
+Do not begin Chapter 18 until Chapter 17 is either approved or explicitly put aside by the author.
 
 ---
 
@@ -122,8 +122,8 @@ Do not begin Chapter 17 until Chapter 16 is either approved or explicitly put as
 | 13 | Chapter 13 | `Drafts/Chapter_13_v2.md` | `Chapter_13_final_v1.md` | approved final | approve | Accepted by controller without mandatory micro-corrections; meta-trace check passed; no technical duplicate detected. DOCX created locally; manual Google Drive upload by author. |
 | 14 | Chapter 14 | `Drafts/Chapter_14_v1.md` | `Chapter_14_final_v1.md` | approved final | approve | Accepted by controller without mandatory micro-corrections; meta-trace check passed; no technical duplicate detected. Potential source metatrace "в этой книге" was corrected to inner-world phrasing "у нас". DOCX created locally; manual Google Drive upload by author. |
 | 15 | Chapter 15 | `Drafts/Chapter_15_v1.md` | `Chapter_15_final_v1.md` | approved final | approve | Accepted by controller without mandatory micro-corrections; meta-trace check passed; no technical duplicate detected. DOCX created locally; manual Google Drive upload by author. |
-| 16 | Chapter 16 | `Drafts/Chapter_16_v1.md` | `Chapter_16_final_v1.md` | awaiting controller approval | — | Final proofread v1 created; pending controller review. |
-| 17 | Chapter 17 | `Drafts/Chapter_17_v1.md` | — | not started | — |  |
+| 16 | Chapter 16 | `Drafts/Chapter_16_v1.md` | `Chapter_16_final_v1.md` | approved final | approve | Accepted by controller without mandatory micro-corrections; meta-trace check passed; no technical duplicate detected. DOCX created locally; manual Google Drive upload by author. |
+| 17 | Chapter 17 | `Drafts/Chapter_17_v1.md` | — | not started | — | Start here. |
 | 18 | Chapter 18 | `Drafts/Chapter_18_v1.md` | — | not started | — |  |
 | 19 | Chapter 19 | `Drafts/Chapter_19_v1.md` | — | not started | — |  |
 | 20 | Chapter 20 | `Drafts/Chapter_20_v1.md` | — | not started | — |  |
@@ -155,7 +155,7 @@ Do not begin Chapter 17 until Chapter 16 is either approved or explicitly put as
 | Chapter 13 | `Chapter_13_final_v1.md` | `Chapter_13_final_v1.docx` | DOCX created locally; manual Google Drive upload by author. | Local DOCX rendered and visually checked; author uploads manually. |
 | Chapter 14 | `Chapter_14_final_v1.md` | `Chapter_14_final_v1.docx` | DOCX created locally; manual Google Drive upload by author. | Local DOCX rendered and visually checked; author uploads manually. |
 | Chapter 15 | `Chapter_15_final_v1.md` | `Chapter_15_final_v1.docx` | DOCX created locally; manual Google Drive upload by author. | Local DOCX rendered and visually checked; author uploads manually. |
-| Chapter 16 | — | — | not created | Awaiting controller approval. |
+| Chapter 16 | `Chapter_16_final_v1.md` | `Chapter_16_final_v1.docx` | DOCX created locally; manual Google Drive upload by author. | Local DOCX rendered and visually checked; author uploads manually. |
 
 ---
 
@@ -367,7 +367,7 @@ Notes:
 
 - Accepted by controller without mandatory micro-corrections.
 - Meta-trace check passed.
-- Chapter function preserved: the emergence of “share/portion” before Samпо is found; social crack carried through bread, water, work, berries, buckets, closed notebook and the “my notebook / our map” conflict.
+- Chapter function preserved: the emergence of “share/portion” before Сампо is found; social crack carried through bread, water, work, berries, buckets, closed notebook and the “my notebook / our map” conflict.
 - DOCX created locally as `Chapter_10_final_v1.docx` and rendered for visual QA.
 - Manual Google Drive upload by author.
 - Proceed to Chapter 11 only.
@@ -472,3 +472,23 @@ Notes:
 - DOCX created locally as `Chapter_15_final_v1.docx` and rendered for visual QA.
 - Manual Google Drive upload by author.
 - Proceed to Chapter 16 only.
+
+## 2026-06-16 — Chapter 16
+
+Final checked file:
+
+`Chapter_16_final_v1.md`
+
+Verdict:
+
+`approve`
+
+Notes:
+
+- Accepted by controller without mandatory micro-corrections.
+- Meta-trace check passed.
+- No technical duplicate detected.
+- Chapter function preserved: care becomes duty/watch; the living is no longer forgotten, but is disturbed by too much care; conditions are larger than any schedule.
+- DOCX created locally as `Chapter_16_final_v1.docx` and rendered for visual QA.
+- Manual Google Drive upload by author.
+- Proceed to Chapter 17 only.
