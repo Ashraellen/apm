@@ -89,13 +89,13 @@ DOCX created locally; manual Google Drive upload by author.
 Current target:
 
 ```text
-Chapter 22 — Drafts/Chapter_22_v1.md
+Chapter 22 — Final/Chapter_22_final_v1.md
 ```
 
 Recommended next action:
 
 ```text
-Proofreader should start with Chapter 22 only.
+Controller should review Chapter_22_final_v1.md.
 ```
 
 Do not begin Chapter 23 until Chapter 22 is either approved or explicitly put aside by the author.
@@ -128,7 +128,7 @@ Do not begin Chapter 23 until Chapter 22 is either approved or explicitly put as
 | 19 | Chapter 19 | `Drafts/Chapter_19_v1.md` | `Chapter_19_final_v1.md` | approved final | approve | Accepted by controller without mandatory micro-corrections; meta-trace check passed; no technical duplicate detected. DOCX created locally; manual Google Drive upload by author. |
 | 20 | Chapter 20 | `Drafts/Chapter_20_v1.md` | `Chapter_20_final_v1.md` | approved final | approve | Accepted by controller without mandatory micro-corrections; meta-trace check passed; no technical duplicate detected. DOCX created locally; manual Google Drive upload by author. |
 | 21 | Chapter 21 | `Drafts/Chapter_21_v1.md` | `Chapter_21_final_v1.md` | approved final | approve | Accepted by controller without mandatory micro-corrections; meta-trace check passed; no technical duplicate detected. DOCX created locally; manual Google Drive upload by author. |
-| 22 | Chapter 22 | `Drafts/Chapter_22_v1.md` | — | not started | — | Start here. |
+| 22 | Chapter 22 | `Drafts/Chapter_22_v1.md` | `Chapter_22_final_v1.md` | awaiting controller approval | — | Final proofread v1 created; pending controller review. |
 | 23 | Chapter 23 | `Drafts/Chapter_23_v1.md` | — | not started | — |  |
 | 24 | Chapter 24 | `Drafts/Chapter_24_v1.md` | — | not started | — |  |
 | 25 | Epilogue | `Drafts/Epilogue_v1.md` | — | not started | — |  |
@@ -161,6 +161,7 @@ Do not begin Chapter 23 until Chapter 22 is either approved or explicitly put as
 | Chapter 19 | `Chapter_19_final_v1.md` | `Chapter_19_final_v1.docx` | DOCX created locally; manual Google Drive upload by author. | Local DOCX rendered and visually checked; author uploads manually. |
 | Chapter 20 | `Chapter_20_final_v1.md` | `Chapter_20_final_v1.docx` | DOCX created locally; manual Google Drive upload by author. | Local DOCX rendered and visually checked; author uploads manually. |
 | Chapter 21 | `Chapter_21_final_v1.md` | `Chapter_21_final_v1.docx` | DOCX created locally; manual Google Drive upload by author. | Local DOCX rendered and visually checked; author uploads manually. |
+| Chapter 22 | — | — | not created | Awaiting controller approval. |
 
 ---
 
