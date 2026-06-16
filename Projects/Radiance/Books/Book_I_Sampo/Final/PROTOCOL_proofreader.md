@@ -1,0 +1,296 @@
+# PROTOCOL_proofreader — Book I: Сампо
+
+Final proofreading protocol for **Сияние / Radiance — Book I: Сампо**.
+
+This protocol is for the **main proofreading chat**.
+
+---
+
+## 1. Purpose
+
+This chat is responsible for final proofreading of already accepted chapters of **Book I “Сампо”**.
+
+The task is not to rewrite the book, redesign the concept, add new scenes, or continue writing the story.
+
+The task is to prepare clean final proofread chapter files while preserving the existing artistic structure, tone, rhythm and meaning.
+
+---
+
+## 2. Repository paths
+
+Repository:
+
+```text
+Ashraellen/apm
+```
+
+Source draft files:
+
+```text
+Projects/Radiance/Books/Book_I_Sampo/Drafts/
+```
+
+Final proofread chapter files:
+
+```text
+Projects/Radiance/Books/Book_I_Sampo/Final/Chapters/
+```
+
+Final index:
+
+```text
+Projects/Radiance/Books/Book_I_Sampo/Final/FINAL_INDEX.md
+```
+
+Do not delete or overwrite files in `Drafts/`.
+
+---
+
+## 3. File naming for final chapters
+
+Use this format:
+
+```text
+Prologue_final_v1.md
+Chapter_01_final_v1.md
+Chapter_02_final_v1.md
+Chapter_03_final_v1.md
+...
+Chapter_24_final_v1.md
+Epilogue_final_v1.md
+```
+
+If another final proofreading pass is needed:
+
+```text
+Chapter_01_final_v2.md
+Chapter_01_final_v3.md
+```
+
+Do not name files like `Chapter_01_v1_final.md`, because that can be confused with the source draft version.
+
+The source draft version must be recorded inside the file header.
+
+---
+
+## 4. Required header inside each final file
+
+Each final proofread chapter file should begin with this structure:
+
+```markdown
+# Chapter_XX_final_vY — Book I: Сампо
+
+Final proofread version for **Сияние. Книга I. Сампо**.
+
+Source draft:
+
+```text
+Drafts/Chapter_XX_vZ.md
+```
+
+Proofread version:
+
+```text
+final_vY / финальная вычитка vY
+```
+
+Status:
+
+```text
+awaiting consultant approval / ожидает проверки консультантом
+```
+
+---
+```
+
+After controller approval, status may be changed to:
+
+```text
+approved final / утверждённая финальная версия
+```
+
+---
+
+## 5. What the proofreader is allowed to change
+
+Allowed changes:
+
+1. Typos.
+2. Punctuation.
+3. Grammar mistakes.
+4. Accidental repeated words or repeated sentence structures.
+5. Broken rhythm where the break is accidental, not stylistic.
+6. Small continuity issues in objects, timing, order of action or names.
+7. Over-explaining authorial phrases, when the scene already says the same thing better.
+8. Slightly too beautiful or too polished phrases that weaken the dry northern tone.
+9. Minor dialogue smoothing if the speaker’s voice remains intact.
+10. Markdown headers and internal file formatting.
+
+The proofreader should make the minimum necessary change.
+
+---
+
+## 6. What the proofreader must not change
+
+Forbidden changes:
+
+1. Do not rewrite scenes.
+2. Do not change chapter function.
+3. Do not add new meanings.
+4. Do not add new symbols or motifs.
+5. Do not explain hidden meanings.
+6. Do not make the prose smoother at the cost of pressure, density or living roughness.
+7. Do not turn the text into a lecture.
+8. Do not reveal the meaning of Sampo earlier than the existing text does.
+9. Do not add exposition about Sampo.
+10. Do not improve characters by making them wiser, softer, funnier or more convenient.
+11. Do not remove useful silence, awkwardness, dampness, cold, roughness, fatigue or unfinishedness.
+12. Do not make the language commercially polished.
+13. Do not turn mythopoetic pressure into explicit fantasy mechanics.
+
+Better slightly rough and alive than smooth and dead.
+
+---
+
+## 7. Minimal conceptual frame
+
+The proofreader does **not** need the full project canon.
+
+But the proofreader must preserve this minimal frame:
+
+Book I “Сампо” moves from the human desire to find, possess or control a source of abundance toward the recognition that abundance cannot be owned as a thing or controlled as a machine.
+
+This must not be explained too early.
+
+The meaning must remain inside scenes, objects, food, water, fire, house, forest, weather, lack, gift, exchange, participation and human behaviour.
+
+Do not explain the book for the reader.
+
+---
+
+## 8. Style to preserve
+
+Preserve:
+
+1. Northern dryness.
+2. Object-based narration.
+3. Bodily perception.
+4. Quiet mythopoetic pressure.
+5. Practical action before explanation.
+6. Short, dry dialogue.
+7. Humor that releases pressure but does not dominate.
+8. Silence and hesitation.
+9. The sense that ordinary things are becoming visible as part of a larger living reality.
+10. The difference between seeing, naming, owning, controlling, receiving and participating.
+
+Do not wash away the cold, damp, smoke, fatigue, awkwardness or weight of things.
+
+---
+
+## 9. Character protection
+
+### Ivar
+
+- Speaks little.
+- Does not explain the book.
+- Is not a guru, teacher or lecturer.
+- Should not close the meaning of a scene with a beautiful final phrase unless the existing chapter already does so.
+
+### Sofia
+
+- Main living lens.
+- Should feel through body and situation before formulating conclusions.
+- Do not make her too clear too early.
+
+### Thomas
+
+- Not stupid.
+- Wants clarity, repeatability, fairness and safety.
+- His mistakes must remain human and understandable.
+
+### David
+
+- Writes, maps and records.
+- Becomes more cautious over time.
+- Do not flatten him into “the note-taking man.”
+
+### Nick
+
+- Uses humor.
+- Humor must not overwhelm the scene.
+- He should sometimes fall silent when the moment requires it.
+
+### Nora
+
+- May be strangely accurate.
+- Must not become a prophetess, medium or mystical device.
+
+### Lina
+
+- Acts through hands, food, timing and practical knowledge.
+- Must not become a wise kitchen oracle.
+
+### Marek
+
+- Practical, grounded, dry.
+- Should not explain more than needed.
+
+### Matti
+
+- Practical external presence.
+- Not a villain, fool or comic foreigner.
+
+---
+
+## 10. Proofreading workflow for each chapter
+
+For each chapter:
+
+1. Identify the active source draft in `Drafts/`.
+2. Fetch and read the full source draft.
+3. Make only permitted micro-edits.
+4. Create a new final file in `Final/Chapters/`.
+5. Do not overwrite previous final versions.
+6. Do not delete source drafts.
+7. Update `Final/FINAL_INDEX.md` if it already exists, or create it if this is the first final file.
+8. Report:
+   - source draft path;
+   - final file path;
+   - final version number;
+   - commit SHA for the created final file;
+   - whether `FINAL_INDEX.md` was updated;
+   - summary of changes;
+   - doubtful places, if any;
+   - whether controller review is needed.
+
+---
+
+## 11. Final index rule
+
+`Final/FINAL_INDEX.md` should list the current approved or pending final version for each chapter.
+
+Recommended structure:
+
+```markdown
+# FINAL_INDEX — Book I: Сампо
+
+## Current final chapter files
+
+- Prologue — `Chapters/Prologue_final_v1.md` — awaiting approval
+- Chapter 01 — `Chapters/Chapter_01_final_v1.md` — awaiting approval
+
+## Earlier final versions preserved
+
+- Chapter 01:
+  - `Chapters/Chapter_01_final_v1.md`
+```
+
+When a new final version is created, do not delete the previous one. Move the previous one to preserved earlier final versions.
+
+---
+
+## 12. Main principle
+
+Clean the text without washing away its life.
+
+The final proofread version must feel like the same book, only clearer, cleaner and more exact.
