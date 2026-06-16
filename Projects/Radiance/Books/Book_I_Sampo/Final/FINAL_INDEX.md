@@ -89,16 +89,16 @@ DOCX created locally; manual Google Drive upload by author.
 Current target:
 
 ```text
-Chapter 24 — Final/Chapter_24_final_v1.md
+Epilogue — Drafts/Epilogue_v1.md
 ```
 
 Recommended next action:
 
 ```text
-Controller should review Chapter_24_final_v1.md.
+Proofreader should start with Epilogue only.
 ```
 
-Do not begin Epilogue until Chapter 24 is either approved or explicitly put aside by the author.
+Do not move beyond Epilogue until it is either approved or explicitly put aside by the author.
 
 ---
 
@@ -130,8 +130,8 @@ Do not begin Epilogue until Chapter 24 is either approved or explicitly put asid
 | 21 | Chapter 21 | `Drafts/Chapter_21_v1.md` | `Chapter_21_final_v1.md` | approved final | approve | Accepted by controller without mandatory micro-corrections; meta-trace check passed; no technical duplicate detected. DOCX created locally; manual Google Drive upload by author. |
 | 22 | Chapter 22 | `Drafts/Chapter_22_v1.md` | `Chapter_22_final_v1.md` | approved final | approve | Accepted by controller without mandatory micro-corrections; meta-trace check passed; no technical duplicate detected. DOCX created locally; manual Google Drive upload by author. |
 | 23 | Chapter 23 | `Drafts/Chapter_23_v1.md` | `Chapter_23_final_v1.md` | approved final | approve | Accepted by controller without mandatory micro-corrections; meta-trace check passed; no technical duplicate detected. DOCX created locally; manual Google Drive upload by author. |
-| 24 | Chapter 24 | `Drafts/Chapter_24_v1.md` | `Chapter_24_final_v1.md` | awaiting controller approval | — | Final proofread v1 created; pending controller review. |
-| 25 | Epilogue | `Drafts/Epilogue_v1.md` | — | not started | — |  |
+| 24 | Chapter 24 | `Drafts/Chapter_24_v1.md` | `Chapter_24_final_v1.md` | approved final | approve | Accepted by controller without mandatory micro-corrections; meta-trace check passed; no technical duplicate detected. DOCX created locally; manual Google Drive upload by author. |
+| 25 | Epilogue | `Drafts/Epilogue_v1.md` | — | not started | — | Start here. |
 
 ---
 
@@ -163,7 +163,7 @@ Do not begin Epilogue until Chapter 24 is either approved or explicitly put asid
 | Chapter 21 | `Chapter_21_final_v1.md` | `Chapter_21_final_v1.docx` | DOCX created locally; manual Google Drive upload by author. | Local DOCX rendered and visually checked; author uploads manually. |
 | Chapter 22 | `Chapter_22_final_v1.md` | `Chapter_22_final_v1.docx` | DOCX created locally; manual Google Drive upload by author. | Local DOCX rendered and visually checked; author uploads manually. |
 | Chapter 23 | `Chapter_23_final_v1.md` | `Chapter_23_final_v1.docx` | DOCX created locally; manual Google Drive upload by author. | Local DOCX rendered and visually checked; author uploads manually. |
-| Chapter 24 | — | — | not created | Awaiting controller approval. |
+| Chapter 24 | `Chapter_24_final_v1.md` | `Chapter_24_final_v1.docx` | DOCX created locally; manual Google Drive upload by author. | Local DOCX rendered and visually checked; author uploads manually. |
 
 ---
 
@@ -640,3 +640,23 @@ Notes:
 - DOCX created locally as `Chapter_23_final_v1.docx` and rendered for visual QA.
 - Manual Google Drive upload by author.
 - Proceed to Chapter 24 only.
+
+## 2026-06-16 — Chapter 24
+
+Final checked file:
+
+`Chapter_24_final_v1.md`
+
+Verdict:
+
+`approve`
+
+Notes:
+
+- Accepted by controller without mandatory micro-corrections.
+- Meta-trace check passed.
+- No technical duplicate detected.
+- Chapter function preserved: final main-body recognition of Book I; Sampo is not explained as a thesis, but recognized through house, water, stove, bread, mud, boards, people, cold, traces, leftovers, breath and movement.
+- DOCX created locally as `Chapter_24_final_v1.docx` and rendered for visual QA.
+- Manual Google Drive upload by author.
+- Proceed to Epilogue only.
