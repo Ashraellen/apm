@@ -89,16 +89,16 @@ DOCX created locally; manual Google Drive upload by author.
 Current target:
 
 ```text
-Chapter 06 — Final/Chapter_06_final_v1.md
+Chapter 07 — Drafts/Chapter_07_v2.md
 ```
 
 Recommended next action:
 
 ```text
-Controller should review Chapter_06_final_v1.md.
+Proofreader should start with Chapter 07 only.
 ```
 
-Do not begin Chapter 07 until Chapter 06 is either approved or explicitly put aside by the author.
+Do not begin Chapter 08 until Chapter 07 is either approved or explicitly put aside by the author.
 
 ---
 
@@ -112,8 +112,8 @@ Do not begin Chapter 07 until Chapter 06 is either approved or explicitly put as
 | 3 | Chapter 03 | `Drafts/Chapter_03_v3.md` | `Chapter_03_final_v2.md` | approved final after micro-corrections | approve after micro-corrections | Restored final block from source draft after controller review. DOCX created locally; manual Google Drive upload by author. |
 | 4 | Chapter 04 | `Drafts/Chapter_04_v2.md` | `Chapter_04_final_v2.md` | approved final after micro-corrections | approve after micro-corrections | Restored one missing Sofia reaction line from source draft after controller review. DOCX created locally; manual Google Drive upload by author. |
 | 5 | Chapter 05 | `Drafts/Chapter_05_v2.md` | `Chapter_05_final_v1.md` | approved final | approve | Accepted by controller without mandatory micro-corrections. DOCX created locally; manual Google Drive upload by author. |
-| 6 | Chapter 06 | `Drafts/Chapter_06_v2.md` | `Chapter_06_final_v1.md` | awaiting controller approval | — | Final proofread v1 created; pending controller review. |
-| 7 | Chapter 07 | `Drafts/Chapter_07_v2.md` | — | not started | — |  |
+| 6 | Chapter 06 | `Drafts/Chapter_06_v2.md` | `Chapter_06_final_v2.md` | approved final after micro-corrections | approve after micro-corrections | Removed metatextual wording "не главой" and replaced it with non-literary inner framing. |
+| 7 | Chapter 07 | `Drafts/Chapter_07_v2.md` | — | not started | — | Start here. |
 | 8 | Chapter 08 | `Drafts/Chapter_08_v2.md` | — | not started | — |  |
 | 9 | Chapter 09 | `Drafts/Chapter_09_v1.md` | — | not started | — |  |
 | 10 | Chapter 10 | `Drafts/Chapter_10_v2.md` | — | not started | — |  |
@@ -145,7 +145,7 @@ Do not begin Chapter 07 until Chapter 06 is either approved or explicitly put as
 | Chapter 03 | `Chapter_03_final_v2.md` | `Chapter_03_final_v2.docx` | DOCX created locally; manual Google Drive upload by author. | Local DOCX rendered and visually checked; author uploads manually. |
 | Chapter 04 | `Chapter_04_final_v2.md` | `Chapter_04_final_v2.docx` | DOCX created locally; manual Google Drive upload by author. | Local DOCX rendered and visually checked; author uploads manually. |
 | Chapter 05 | `Chapter_05_final_v1.md` | `Chapter_05_final_v1.docx` | DOCX created locally; manual Google Drive upload by author. | Local DOCX rendered and visually checked; author uploads manually. |
-| Chapter 06 | — | — | not created | Awaiting controller approval. |
+| Chapter 06 | `Chapter_06_final_v2.md` | — | not created | Awaiting post-correction confirmation before DOCX creation. |
 
 ---
 
@@ -157,6 +157,8 @@ Do not begin Chapter 07 until Chapter 06 is either approved or explicitly put as
   - `Chapter_03_final_v1.md` — superseded by `Chapter_03_final_v2.md`
 - Chapter 04:
   - `Chapter_04_final_v1.md` — superseded by `Chapter_04_final_v2.md`
+- Chapter 06:
+  - `Chapter_06_final_v1.md` — superseded by `Chapter_06_final_v2.md`
 
 ---
 
@@ -266,3 +268,19 @@ Notes:
 - DOCX created locally as `Chapter_05_final_v1.docx` and rendered for visual QA.
 - Manual Google Drive upload by author.
 - Proceed to Chapter 06 only.
+
+## 2026-06-16 — Chapter 06
+
+Final checked file:
+
+`Chapter_06_final_v2.md`
+
+Verdict:
+
+`approve after micro-corrections`
+
+Notes:
+
+- Replaced metatextual wording "не главой" with non-literary inner framing.
+- `Chapter_06_final_v1.md` preserved and marked as superseded by newer final version.
+- Proceed to Chapter 07 only.
