@@ -89,16 +89,16 @@ DOCX created locally; manual Google Drive upload by author.
 Current target:
 
 ```text
-Chapter 19 — Final/Chapter_19_final_v1.md
+Chapter 20 — Drafts/Chapter_20_v1.md
 ```
 
 Recommended next action:
 
 ```text
-Controller should review Chapter_19_final_v1.md.
+Proofreader should start with Chapter 20 only.
 ```
 
-Do not begin Chapter 20 until Chapter 19 is either approved or explicitly put aside by the author.
+Do not begin Chapter 21 until Chapter 20 is either approved or explicitly put aside by the author.
 
 ---
 
@@ -125,8 +125,8 @@ Do not begin Chapter 20 until Chapter 19 is either approved or explicitly put as
 | 16 | Chapter 16 | `Drafts/Chapter_16_v1.md` | `Chapter_16_final_v1.md` | approved final | approve | Accepted by controller without mandatory micro-corrections; meta-trace check passed; no technical duplicate detected. DOCX created locally; manual Google Drive upload by author. |
 | 17 | Chapter 17 | `Drafts/Chapter_17_v1.md` | `Chapter_17_final_v1.md` | approved final | approve | Accepted by controller without mandatory micro-corrections; meta-trace check passed; no technical duplicate detected. DOCX created locally; manual Google Drive upload by author. |
 | 18 | Chapter 18 | `Drafts/Chapter_18_v1.md` | `Chapter_18_final_v1.md` | approved final | approve | Accepted by controller without mandatory micro-corrections; meta-trace check passed; no technical duplicate detected. DOCX created locally; manual Google Drive upload by author. |
-| 19 | Chapter 19 | `Drafts/Chapter_19_v1.md` | `Chapter_19_final_v1.md` | awaiting controller approval | — | Final proofread v1 created; pending controller review. |
-| 20 | Chapter 20 | `Drafts/Chapter_20_v1.md` | — | not started | — |  |
+| 19 | Chapter 19 | `Drafts/Chapter_19_v1.md` | `Chapter_19_final_v1.md` | approved final | approve | Accepted by controller without mandatory micro-corrections; meta-trace check passed; no technical duplicate detected. DOCX created locally; manual Google Drive upload by author. |
+| 20 | Chapter 20 | `Drafts/Chapter_20_v1.md` | — | not started | — | Start here. |
 | 21 | Chapter 21 | `Drafts/Chapter_21_v1.md` | — | not started | — |  |
 | 22 | Chapter 22 | `Drafts/Chapter_22_v1.md` | — | not started | — |  |
 | 23 | Chapter 23 | `Drafts/Chapter_23_v1.md` | — | not started | — |  |
@@ -158,7 +158,7 @@ Do not begin Chapter 20 until Chapter 19 is either approved or explicitly put as
 | Chapter 16 | `Chapter_16_final_v1.md` | `Chapter_16_final_v1.docx` | DOCX created locally; manual Google Drive upload by author. | Local DOCX rendered and visually checked; author uploads manually. |
 | Chapter 17 | `Chapter_17_final_v1.md` | `Chapter_17_final_v1.docx` | DOCX created locally; manual Google Drive upload by author. | Local DOCX rendered and visually checked; author uploads manually. |
 | Chapter 18 | `Chapter_18_final_v1.md` | `Chapter_18_final_v1.docx` | DOCX created locally; manual Google Drive upload by author. | Local DOCX rendered and visually checked; author uploads manually. |
-| Chapter 19 | — | — | not created | Awaiting controller approval. |
+| Chapter 19 | `Chapter_19_final_v1.md` | `Chapter_19_final_v1.docx` | DOCX created locally; manual Google Drive upload by author. | Local DOCX rendered and visually checked; author uploads manually. |
 
 ---
 
@@ -535,3 +535,23 @@ Notes:
 - DOCX created locally as `Chapter_18_final_v1.docx` and rendered for visual QA.
 - Manual Google Drive upload by author.
 - Proceed to Chapter 19 only.
+
+## 2026-06-16 — Chapter 19
+
+Final checked file:
+
+`Chapter_19_final_v1.md`
+
+Verdict:
+
+`approve`
+
+Notes:
+
+- Accepted by controller without mandatory micro-corrections.
+- Meta-trace check passed.
+- No technical duplicate detected.
+- Chapter function preserved: after the house/exchange line, the chapter shifts outward and introduces bodily lack; the living world feeds, but does not have to match human appetite.
+- DOCX created locally as `Chapter_19_final_v1.docx` and rendered for visual QA.
+- Manual Google Drive upload by author.
+- Proceed to Chapter 20 only.
