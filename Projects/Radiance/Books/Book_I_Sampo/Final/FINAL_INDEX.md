@@ -118,7 +118,7 @@ Do not begin Chapter 14 until Chapter 13 is either approved or explicitly put as
 | 9 | Chapter 09 | `Drafts/Chapter_09_v1.md` | `Chapter_09_final_v1.md` | approved final | approve | Accepted by controller without mandatory micro-corrections; meta-trace check passed. DOCX created locally; manual Google Drive upload by author. |
 | 10 | Chapter 10 | `Drafts/Chapter_10_v2.md` | `Chapter_10_final_v1.md` | approved final | approve | Accepted by controller without mandatory micro-corrections; meta-trace check passed. DOCX created locally; manual Google Drive upload by author. |
 | 11 | Chapter 11 | `Drafts/Chapter_11_v2.md` | `Chapter_11_final_v1.md` | approved final | approve | Accepted by controller without mandatory micro-corrections; meta-trace check passed; no technical duplicate detected. DOCX created locally; manual Google Drive upload by author. |
-| 12 | Chapter 12 | `Drafts/Chapter_12_v1.md` | `Chapter_12_final_v1.md` | approved final | approve | Accepted by controller without mandatory micro-corrections; meta-trace check passed; no technical duplicate detected. |
+| 12 | Chapter 12 | `Drafts/Chapter_12_v1.md` | `Chapter_12_final_v1.md` | approved final | approve | Accepted by controller without mandatory micro-corrections; meta-trace check passed; no technical duplicate detected. DOCX created locally; manual Google Drive upload by author. |
 | 13 | Chapter 13 | `Drafts/Chapter_13_v2.md` | — | not started | — | Start here. |
 | 14 | Chapter 14 | `Drafts/Chapter_14_v1.md` | — | not started | — |  |
 | 15 | Chapter 15 | `Drafts/Chapter_15_v1.md` | — | not started | — |  |
@@ -151,7 +151,7 @@ Do not begin Chapter 14 until Chapter 13 is either approved or explicitly put as
 | Chapter 09 | `Chapter_09_final_v1.md` | `Chapter_09_final_v1.docx` | DOCX created locally; manual Google Drive upload by author. | Local DOCX rendered and visually checked; author uploads manually. |
 | Chapter 10 | `Chapter_10_final_v1.md` | `Chapter_10_final_v1.docx` | DOCX created locally; manual Google Drive upload by author. | Local DOCX rendered and visually checked; author uploads manually. |
 | Chapter 11 | `Chapter_11_final_v1.md` | `Chapter_11_final_v1.docx` | DOCX created locally; manual Google Drive upload by author. | Local DOCX rendered and visually checked; author uploads manually. |
-| Chapter 12 | `Chapter_12_final_v1.md` | — | not created | Approved final; local DOCX may now be created. |
+| Chapter 12 | `Chapter_12_final_v1.md` | `Chapter_12_final_v1.docx` | DOCX created locally; manual Google Drive upload by author. | Local DOCX rendered and visually checked; author uploads manually. |
 
 ---
 
@@ -404,5 +404,6 @@ Notes:
 - Meta-trace check passed.
 - No technical duplicate detected.
 - Chapter function preserved: recipe versus living starter; paper versus hands; recorded memory versus living continuation.
-- DOCX may now be created locally.
+- DOCX created locally as `Chapter_12_final_v1.docx` and rendered for visual QA.
+- Manual Google Drive upload by author.
 - Proceed to Chapter 13 only.
