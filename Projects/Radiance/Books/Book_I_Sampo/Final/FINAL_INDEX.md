@@ -199,13 +199,13 @@ For each chapter:
 Current target:
 
 ```text
-Chapter 02 — Drafts/Chapter_02_v2.md
+Chapter 02 — Final/Chapter_02_final_v1.md
 ```
 
 Recommended next action:
 
 ```text
-Proofreader should start with Chapter 02 only.
+Controller should review Chapter_02_final_v1.md.
 ```
 
 Do not begin Chapter 03 until Chapter 02 is either approved or explicitly put aside by the author.
@@ -218,7 +218,7 @@ Do not begin Chapter 03 until Chapter 02 is either approved or explicitly put as
 |---:|---|---|---|---|---|---|
 | 0 | Prologue | `Drafts/Prologue_Hook_v1.md` | `Prologue_final_v1.md` | approved final | accepted by author/controller | Accepted by author on 2026-06-16. DOCX may now be created. |
 | 1 | Chapter 01 | `Drafts/Chapter_01_v2.md` | `Chapter_01_final_v1.md` | approved final | accepted by author/controller | Accepted by author on 2026-06-16. DOCX created locally; Drive upload failed due connector file-reference validation. |
-| 2 | Chapter 02 | `Drafts/Chapter_02_v2.md` | — | not started | — | Start here. |
+| 2 | Chapter 02 | `Drafts/Chapter_02_v2.md` | `Chapter_02_final_v1.md` | awaiting controller approval | — | Final proofread v1 created; pending controller review. |
 | 3 | Chapter 03 | `Drafts/Chapter_03_v3.md` | — | not started | — |  |
 | 4 | Chapter 04 | `Drafts/Chapter_04_v2.md` | — | not started | — |  |
 | 5 | Chapter 05 | `Drafts/Chapter_05_v2.md` | — | not started | — |  |
@@ -251,6 +251,7 @@ Do not begin Chapter 03 until Chapter 02 is either approved or explicitly put as
 |---|---|---|---|---|---|
 | Prologue | `Prologue_final_v1.md` | — | `Final_DOCX` | not created | Can be created after author confirmation. |
 | Chapter 01 | `Chapter_01_final_v1.md` | `Chapter_01_final_v1.docx` | `Final_DOCX` | DOCX created locally; Drive upload failed | Local DOCX rendered and visually checked; Drive connector rejected local file path/file reference. Retry upload later. |
+| Chapter 02 | — | — | `Final_DOCX` | not created | Awaiting controller approval. |
 
 ---
 
