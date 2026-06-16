@@ -89,13 +89,13 @@ DOCX created locally; manual Google Drive upload by author.
 Current target:
 
 ```text
-Chapter 03 — Drafts/Chapter_03_v3.md
+Chapter 03 — Final/Chapter_03_final_v1.md
 ```
 
 Recommended next action:
 
 ```text
-Proofreader should start with Chapter 03 only.
+Controller should review Chapter_03_final_v1.md.
 ```
 
 Do not begin Chapter 04 until Chapter 03 is either approved or explicitly put aside by the author.
@@ -109,7 +109,7 @@ Do not begin Chapter 04 until Chapter 03 is either approved or explicitly put as
 | 0 | Prologue | `Drafts/Prologue_Hook_v1.md` | `Prologue_final_v1.md` | approved final | accepted by author/controller | Accepted on 2026-06-16. DOCX may now be created locally. |
 | 1 | Chapter 01 | `Drafts/Chapter_01_v2.md` | `Chapter_01_final_v1.md` | approved final | accepted by author/controller | Accepted on 2026-06-16. DOCX created locally; manual Google Drive upload by author. |
 | 2 | Chapter 02 | `Drafts/Chapter_02_v2.md` | `Chapter_02_final_v2.md` | approved final after micro-corrections | approve after micro-corrections | Restored final three lines from source draft after controller review. DOCX created locally; manual Google Drive upload by author. |
-| 3 | Chapter 03 | `Drafts/Chapter_03_v3.md` | — | not started | — | Start here. |
+| 3 | Chapter 03 | `Drafts/Chapter_03_v3.md` | `Chapter_03_final_v1.md` | awaiting controller approval | — | Final proofread v1 created; pending controller review. |
 | 4 | Chapter 04 | `Drafts/Chapter_04_v2.md` | — | not started | — |  |
 | 5 | Chapter 05 | `Drafts/Chapter_05_v2.md` | — | not started | — |  |
 | 6 | Chapter 06 | `Drafts/Chapter_06_v2.md` | — | not started | — |  |
@@ -142,6 +142,7 @@ Do not begin Chapter 04 until Chapter 03 is either approved or explicitly put as
 | Prologue | `Prologue_final_v1.md` | — | not created | Can be created locally after author confirmation. |
 | Chapter 01 | `Chapter_01_final_v1.md` | `Chapter_01_final_v1.docx` | DOCX created locally; manual Google Drive upload by author. | Local DOCX rendered and visually checked; author uploads manually. |
 | Chapter 02 | `Chapter_02_final_v2.md` | `Chapter_02_final_v2.docx` | DOCX created locally; manual Google Drive upload by author. | Local DOCX rendered and visually checked; author uploads manually. |
+| Chapter 03 | — | — | not created | Awaiting controller approval. |
 
 ---
 
