@@ -20,7 +20,7 @@ Do not run batches of three chapters unless the author explicitly changes this r
 
 ---
 
-## 2. Protocols
+## 2. GitHub text layer
 
 Proofreader protocol:
 
@@ -40,7 +40,7 @@ Source drafts:
 Projects/Radiance/Books/Book_I_Sampo/Drafts/
 ```
 
-Final proofread files:
+Final proofread Markdown files:
 
 ```text
 Projects/Radiance/Books/Book_I_Sampo/Final/
@@ -52,9 +52,115 @@ Main book index:
 Projects/Radiance/Books/Book_I_Sampo/INDEX.md
 ```
 
+GitHub rule:
+
+```text
+GitHub stores the official text source in .md format only.
+```
+
 ---
 
-## 3. Status labels
+## 3. Google Drive DOCX layer
+
+Google Drive is used for human-readable DOCX working copies after a chapter is accepted in GitHub.
+
+Drive root project folder:
+
+```text
+Radiance
+```
+
+Folder ID:
+
+```text
+1UIG8DSEK4n9K17TzwQj_-kAsAPcSc9E_
+```
+
+URL:
+
+```text
+https://drive.google.com/drive/folders/1UIG8DSEK4n9K17TzwQj_-kAsAPcSc9E_
+```
+
+Book folder:
+
+```text
+Radiance / Book_I_Sampo
+```
+
+Folder ID:
+
+```text
+1c7BZTJJzVpUaY3Sf7rMvRw1ti-odi0b8
+```
+
+URL:
+
+```text
+https://drive.google.com/drive/folders/1c7BZTJJzVpUaY3Sf7rMvRw1ti-odi0b8
+```
+
+Chapter DOCX folder:
+
+```text
+Radiance / Book_I_Sampo / Final_DOCX
+```
+
+Folder ID:
+
+```text
+1IMwk5Jzuu8K0vNRbMEChgAXRRNUjuIvT
+```
+
+URL:
+
+```text
+https://drive.google.com/drive/folders/1IMwk5Jzuu8K0vNRbMEChgAXRRNUjuIvT
+```
+
+Full book DOCX folder:
+
+```text
+Radiance / Book_I_Sampo / Full_Book_DOCX
+```
+
+Folder ID:
+
+```text
+18fdZXa4lJJikF4K-nso-6hTpi2s-MowE
+```
+
+URL:
+
+```text
+https://drive.google.com/drive/folders/18fdZXa4lJJikF4K-nso-6hTpi2s-MowE
+```
+
+DOCX rule:
+
+```text
+Google Drive stores only .docx working/readable files and the final full-book .docx.
+```
+
+Recommended DOCX workflow:
+
+```text
+Final/Chapter_XX_final_vY.md
+→ controller approval
+→ create Chapter_XX_final_vY.docx
+→ upload to Google Drive / Final_DOCX
+```
+
+The full book DOCX is created only after all chapters and epilogue are approved final:
+
+```text
+Sampo_Book_I_final_v1.docx
+→ upload to Google Drive / Full_Book_DOCX
+```
+
+---
+
+## 4. Status labels
 
 Use these statuses:
 
@@ -66,11 +172,12 @@ approved final
 approved final after micro-corrections
 returned for another pass
 superseded by newer final version
+DOCX created on Google Drive
 ```
 
 ---
 
-## 4. One-chapter workflow
+## 5. One-chapter workflow
 
 For each chapter:
 
@@ -82,10 +189,11 @@ For each chapter:
 6. If approved, this index is updated to `approved final`.
 7. If micro-corrections are needed, proofreader creates `*_final_v2.md`.
 8. Older final versions are kept and marked as `superseded by newer final version`.
+9. After approval, a DOCX copy may be created and uploaded to Google Drive / `Final_DOCX`.
 
 ---
 
-## 5. Current proofreading queue
+## 6. Current proofreading queue
 
 Current target:
 
@@ -103,11 +211,11 @@ Do not begin Chapter 02 until Chapter 01 is either approved or explicitly put as
 
 ---
 
-## 6. Current final files
+## 7. Current final files
 
 | Order | Unit | Source draft | Current final file | Status | Controller verdict | Notes |
 |---:|---|---|---|---|---|---|
-| 0 | Prologue | `Drafts/Prologue_Hook_v1.md` | `Prologue_final_v1.md` | approved final | accepted by author/controller | Accepted by author on 2026-06-16. |
+| 0 | Prologue | `Drafts/Prologue_Hook_v1.md` | `Prologue_final_v1.md` | approved final | accepted by author/controller | Accepted by author on 2026-06-16. DOCX may now be created. |
 | 1 | Chapter 01 | `Drafts/Chapter_01_v2.md` | `Chapter_01_final_v1.md` | awaiting controller approval | — | Final proofread v1 created; pending controller review. |
 | 2 | Chapter 02 | `Drafts/Chapter_02_v2.md` | — | not started | — |  |
 | 3 | Chapter 03 | `Drafts/Chapter_03_v3.md` | — | not started | — |  |
@@ -136,7 +244,16 @@ Do not begin Chapter 02 until Chapter 01 is either approved or explicitly put as
 
 ---
 
-## 7. Preserved earlier final versions
+## 8. Google Drive DOCX files
+
+| Unit | Approved Markdown source | DOCX file | Google Drive folder | Status | Notes |
+|---|---|---|---|---|---|
+| Prologue | `Prologue_final_v1.md` | — | `Final_DOCX` | not created | Can be created after author confirmation. |
+| Chapter 01 | — | — | `Final_DOCX` | not created | Awaiting controller approval. |
+
+---
+
+## 9. Preserved earlier final versions
 
 No earlier final versions yet.
 
@@ -151,7 +268,7 @@ Example:
 
 ---
 
-## 8. Controller decisions log
+## 10. Controller decisions log
 
 ## 2026-06-16 — Prologue
 
@@ -170,7 +287,7 @@ Notes:
 
 ---
 
-## 9. Main rule
+## 11. Main rule
 
 One chapter at a time.
 
