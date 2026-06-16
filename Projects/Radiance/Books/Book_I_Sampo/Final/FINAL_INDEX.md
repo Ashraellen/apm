@@ -90,16 +90,16 @@ For each chapter:
 Current target:
 
 ```text
-Prologue — Final/Prologue_final_v1.md
+Chapter 01 — Drafts/Chapter_01_v2.md
 ```
 
 Recommended next action:
 
 ```text
-Controller should review Prologue_final_v1.md.
+Proofreader should start with Chapter 01 only.
 ```
 
-Do not begin Chapter 01 until Prologue is either approved or explicitly put aside by the author.
+Do not begin Chapter 02 until Chapter 01 is either approved or explicitly put aside by the author.
 
 ---
 
@@ -107,8 +107,8 @@ Do not begin Chapter 01 until Prologue is either approved or explicitly put asid
 
 | Order | Unit | Source draft | Current final file | Status | Controller verdict | Notes |
 |---:|---|---|---|---|---|---|
-| 0 | Prologue | `Drafts/Prologue_Hook_v1.md` | `Prologue_final_v1.md` | awaiting controller approval | — | Final proofread v1 created; pending controller review. |
-| 1 | Chapter 01 | `Drafts/Chapter_01_v2.md` | — | not started | — |  |
+| 0 | Prologue | `Drafts/Prologue_Hook_v1.md` | `Prologue_final_v1.md` | approved final | accepted by author/controller | Accepted by author on 2026-06-16. |
+| 1 | Chapter 01 | `Drafts/Chapter_01_v2.md` | — | not started | — | Start here. |
 | 2 | Chapter 02 | `Drafts/Chapter_02_v2.md` | — | not started | — |  |
 | 3 | Chapter 03 | `Drafts/Chapter_03_v3.md` | — | not started | — |  |
 | 4 | Chapter 04 | `Drafts/Chapter_04_v2.md` | — | not started | — |  |
@@ -153,16 +153,11 @@ Example:
 
 ## 8. Controller decisions log
 
-No controller decisions yet.
-
-Record decisions here in this format:
-
-```markdown
-## YYYY-MM-DD — Chapter 01
+## 2026-06-16 — Prologue
 
 Final checked file:
 
-`Chapter_01_final_v1.md`
+`Prologue_final_v1.md`
 
 Verdict:
 
@@ -170,8 +165,8 @@ Verdict:
 
 Notes:
 
-- No additional corrections required.
-```
+- Accepted by author/controller.
+- Proceed to Chapter 01 only.
 
 ---
 
