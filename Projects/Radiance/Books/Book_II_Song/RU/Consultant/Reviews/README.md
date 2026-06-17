@@ -2,12 +2,14 @@
 
 Папка для рецензий главного консультационного чата на черновики, созданные чатами-комплектаторами.
 
-Примеры имён:
+## Правило именования рецензий
 
-- `Prologue_v1_review.md`
-- `Chapter_01_v1_review.md`
-- `Chapter_01_v2_review.md`
-- `Epilogue_v1_review.md`
+Используем формат:
+
+- `B2_Prologue_v1_review.md`
+- `B2_Chapter_01_v1_review.md`
+- `B2_Chapter_01_v2_review.md`
+- `B2_Epilogue_v1_review.md`
 
 Рецензия должна содержать:
 
