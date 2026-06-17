@@ -47,14 +47,14 @@ Projects/Radiance/Books/Book_I_Sampo/Narrative_POV.md
 Projects/Radiance/Books/Book_I_Sampo/Season_Setting.md
 ```
 
-For the immediate bridge into Book II, read especially:
+For the immediate bridge into Book II, read especially the Russian master drafts:
 
 ```text
-Projects/Radiance/Books/Book_I_Sampo/Drafts/Chapter_24_v1.md
-Projects/Radiance/Books/Book_I_Sampo/Drafts/Epilogue_v1.md
+Projects/Radiance/Books/Book_I_Sampo/ru/Drafts/Chapter_24_v1.md
+Projects/Radiance/Books/Book_I_Sampo/ru/Drafts/Epilogue_v1.md
 ```
 
-The Book I `INDEX.md` contains the full current active draft list, including Prologue, Chapters 1–24, and Epilogue.
+The Book I `INDEX.md` contains the full current active draft list, including Prologue, Chapters 1–24, and Epilogue. Book I now uses language folders: `ru/`, `en/`, and `pl/`; the Russian master drafts live in `Book_I_Sampo/ru/Drafts/`.
 
 ---
 
