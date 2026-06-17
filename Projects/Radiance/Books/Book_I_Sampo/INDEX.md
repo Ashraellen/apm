@@ -33,22 +33,22 @@ pl/    — Polish branch / польская ветка, пока пустая
 Russian working folders:
 
 ```text
-ru/Drafts/
-ru/Final/
+ru/Drafts/    — Russian master drafts
+ru/Final/     — Russian final proofread Markdown files
 ```
 
 English working folders:
 
 ```text
-en/Drafts/
-en/Final/
+en/Drafts/    — prepared, currently empty
+en/Final/     — prepared, currently empty
 ```
 
 Polish working folders:
 
 ```text
-pl/Drafts/
-pl/Final/
+pl/Drafts/    — prepared, currently empty
+pl/Final/     — prepared, currently empty
 ```
 
 The old root-level `Drafts/` folder has been migrated into:
@@ -57,7 +57,20 @@ The old root-level `Drafts/` folder has been migrated into:
 ru/Drafts/
 ```
 
-`ru/Final/`, `en/Drafts/`, `en/Final/`, `pl/Drafts/`, and `pl/Final/` are currently placeholders unless later filled.
+The old root-level `Final/` folder has been migrated into:
+
+```text
+ru/Final/
+```
+
+The current tree should no longer use:
+
+```text
+Drafts/
+Final/
+```
+
+Use language-prefixed paths instead.
 
 ---
 
@@ -89,159 +102,32 @@ Russian formula:
 
 ## Active Russian drafts
 
-The first active prologue draft is:
-
 ```text
 ru/Drafts/Prologue_Hook_v1.md
-```
-
-The current active Chapter 1 draft is:
-
-```text
 ru/Drafts/Chapter_01_v2.md
-```
-
-The current active Chapter 2 draft is:
-
-```text
 ru/Drafts/Chapter_02_v2.md
-```
-
-The current active Chapter 3 draft is:
-
-```text
 ru/Drafts/Chapter_03_v3.md
-```
-
-The current active Chapter 4 draft is:
-
-```text
 ru/Drafts/Chapter_04_v2.md
-```
-
-The current active Chapter 5 draft is:
-
-```text
 ru/Drafts/Chapter_05_v2.md
-```
-
-The current active Chapter 6 draft is:
-
-```text
 ru/Drafts/Chapter_06_v2.md
-```
-
-The current active Chapter 7 draft is:
-
-```text
 ru/Drafts/Chapter_07_v2.md
-```
-
-The current active Chapter 8 draft is:
-
-```text
 ru/Drafts/Chapter_08_v2.md
-```
-
-The current active Chapter 9 draft is:
-
-```text
 ru/Drafts/Chapter_09_v1.md
-```
-
-The current active Chapter 10 draft is:
-
-```text
 ru/Drafts/Chapter_10_v2.md
-```
-
-The current active Chapter 11 draft is:
-
-```text
 ru/Drafts/Chapter_11_v2.md
-```
-
-The current active Chapter 12 draft is:
-
-```text
 ru/Drafts/Chapter_12_v1.md
-```
-
-The current active Chapter 13 draft is:
-
-```text
 ru/Drafts/Chapter_13_v2.md
-```
-
-The current active Chapter 14 draft is:
-
-```text
 ru/Drafts/Chapter_14_v1.md
-```
-
-The current active Chapter 15 draft is:
-
-```text
 ru/Drafts/Chapter_15_v1.md
-```
-
-The accepted active Chapter 16 draft is:
-
-```text
 ru/Drafts/Chapter_16_v1.md
-```
-
-The accepted active Chapter 17 draft is:
-
-```text
 ru/Drafts/Chapter_17_v1.md
-```
-
-The current active Chapter 18 draft is:
-
-```text
 ru/Drafts/Chapter_18_v1.md
-```
-
-The current active Chapter 19 draft is:
-
-```text
 ru/Drafts/Chapter_19_v1.md
-```
-
-The current active Chapter 20 draft is:
-
-```text
 ru/Drafts/Chapter_20_v1.md
-```
-
-The current active Chapter 21 draft is:
-
-```text
 ru/Drafts/Chapter_21_v1.md
-```
-
-The current active Chapter 22 draft is:
-
-```text
 ru/Drafts/Chapter_22_v1.md
-```
-
-The current active Chapter 23 draft is:
-
-```text
 ru/Drafts/Chapter_23_v1.md
-```
-
-The current active Chapter 24 draft is:
-
-```text
 ru/Drafts/Chapter_24_v1.md
-```
-
-The current active epilogue draft is:
-
-```text
 ru/Drafts/Epilogue_v1.md
 ```
 
@@ -273,6 +159,63 @@ Reason:
 
 ```text
 too many interruptions, weakened Ivar, too much балаган, not enough manifestation
+```
+
+---
+
+## Current Russian final proofread files
+
+Final proofreading board:
+
+```text
+ru/Final/FINAL_INDEX.md
+```
+
+Proofreading protocols:
+
+```text
+ru/Final/PROTOCOL_proofreader.md
+ru/Final/PROTOCOL_controller.md
+```
+
+Approved current final files:
+
+```text
+ru/Final/Prologue_final_v1.md
+ru/Final/Chapter_01_final_v1.md
+ru/Final/Chapter_02_final_v2.md
+ru/Final/Chapter_03_final_v2.md
+ru/Final/Chapter_04_final_v2.md
+ru/Final/Chapter_05_final_v1.md
+ru/Final/Chapter_06_final_v2.md
+ru/Final/Chapter_07_final_v1.md
+ru/Final/Chapter_08_final_v1.md
+ru/Final/Chapter_09_final_v1.md
+ru/Final/Chapter_10_final_v1.md
+ru/Final/Chapter_11_final_v1.md
+ru/Final/Chapter_12_final_v1.md
+ru/Final/Chapter_13_final_v1.md
+ru/Final/Chapter_14_final_v1.md
+ru/Final/Chapter_15_final_v1.md
+ru/Final/Chapter_16_final_v1.md
+ru/Final/Chapter_17_final_v1.md
+ru/Final/Chapter_18_final_v1.md
+ru/Final/Chapter_19_final_v1.md
+ru/Final/Chapter_20_final_v1.md
+ru/Final/Chapter_21_final_v1.md
+ru/Final/Chapter_22_final_v1.md
+ru/Final/Chapter_23_final_v1.md
+ru/Final/Chapter_24_final_v1.md
+ru/Final/Epilogue_final_v1.md
+```
+
+Preserved earlier final versions:
+
+```text
+ru/Final/Chapter_02_final_v1.md
+ru/Final/Chapter_03_final_v1.md
+ru/Final/Chapter_04_final_v1.md
+ru/Final/Chapter_06_final_v1.md
 ```
 
 ---
@@ -369,6 +312,12 @@ All chapter draft files use short technical names:
 Chapter_XX_vY.md
 ```
 
+Final proofread Markdown files use:
+
+```text
+Chapter_XX_final_vY.md
+```
+
 Chapter titles do not go into filenames. The title lives inside the file.
 
 Full rule:
@@ -441,50 +390,6 @@ Concept.md                  — current Book I concept
 Chapter_Architecture.md     — chapter and scene architecture
 Guest_Circle.md             — 12 guests + Ivar, symbolic and dramatic rules
 Narrative_POV.md            — primary Sofia POV, controlled shifts, Ivar seen from outside
-File_Naming.md              — chapter file naming rule
+File_Naming.md              — chapter and final file naming rule
 Season_Setting.md           — seasonal setting: late August / early September threshold
-```
-
----
-
-## Active Russian files
-
-```text
-ru/Drafts/Prologue_Hook_v1.md
-ru/Drafts/Chapter_01_v1.md
-ru/Drafts/Chapter_01_v2.md
-ru/Drafts/Chapter_02_v2.md
-ru/Drafts/Chapter_03_v1.md
-ru/Drafts/Chapter_03_v2.md
-ru/Drafts/Chapter_03_v3.md
-ru/Drafts/Chapter_04_v1.md
-ru/Drafts/Chapter_04_v2.md
-ru/Drafts/Chapter_05_v1.md
-ru/Drafts/Chapter_05_v2.md
-ru/Drafts/Chapter_06_v1.md
-ru/Drafts/Chapter_06_v2.md
-ru/Drafts/Chapter_07_v1.md
-ru/Drafts/Chapter_07_v2.md
-ru/Drafts/Chapter_08_v1.md
-ru/Drafts/Chapter_08_v2.md
-ru/Drafts/Chapter_09_v1.md
-ru/Drafts/Chapter_10_v1.md
-ru/Drafts/Chapter_10_v2.md
-ru/Drafts/Chapter_11_v1.md
-ru/Drafts/Chapter_11_v2.md
-ru/Drafts/Chapter_12_v1.md
-ru/Drafts/Chapter_13_v1.md
-ru/Drafts/Chapter_13_v2.md
-ru/Drafts/Chapter_14_v1.md
-ru/Drafts/Chapter_15_v1.md
-ru/Drafts/Chapter_16_v1.md
-ru/Drafts/Chapter_17_v1.md
-ru/Drafts/Chapter_18_v1.md
-ru/Drafts/Chapter_19_v1.md
-ru/Drafts/Chapter_20_v1.md
-ru/Drafts/Chapter_21_v1.md
-ru/Drafts/Chapter_22_v1.md
-ru/Drafts/Chapter_23_v1.md
-ru/Drafts/Chapter_24_v1.md
-ru/Drafts/Epilogue_v1.md
 ```
