@@ -4,11 +4,17 @@
 
 Сюда переносятся только главы, прошедшие редакторскую проверку и утверждение.
 
-Примеры имён:
+## Правило именования финальных файлов
 
-- `Prologue_final_v1.md`
-- `Chapter_01_final_v1.md`
-- `Chapter_21_final_v1.md`
-- `Epilogue_final_v1.md`
+Используем формат:
+
+`B2_Chapter_XX_final_vY.md`
+
+Примеры:
+
+- `B2_Prologue_final_v1.md`
+- `B2_Chapter_01_final_v1.md`
+- `B2_Chapter_21_final_v1.md`
+- `B2_Epilogue_final_v1.md`
 
 Черновики и промежуточные версии должны оставаться в `RU/Drafts/`.
