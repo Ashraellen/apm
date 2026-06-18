@@ -34,7 +34,7 @@ no-major-risk
 
 | Unit | Draft path | Final Markdown path | Proofreader status | Proofreader commit SHA | Controller verdict | Mandatory micro-corrections | Risk tags | DOCX status | Notes |
 |---|---|---|---|---|---|---|---|---|---|
-| Prologue | `Projects/Radiance/Books/Book_II_Song/RU/Drafts/B2_Prologue_v1.md` | `Projects/Radiance/Books/Book_II_Song/RU/Final/B2_Prologue_final_v1.md` | approved | `468b4f85555684542c2c91c99f7faa961d67a730` | approve | нет | no-major-risk | not created | Пролог принят контролёром; стиль не улучшался; исправлена одна техническая опечатка; review: `Projects/Radiance/Books/Book_II_Song/RU/Consultant/Proofreading_Reviews/B2_Prologue_final_v1_controller_review.md`. |
+| Prologue | `Projects/Radiance/Books/Book_II_Song/RU/Drafts/B2_Prologue_v1.md` | `Projects/Radiance/Books/Book_II_Song/RU/Final/B2_Prologue_final_v1.md` | approved | `468b4f85555684542c2c91c99f7faa961d67a730` | approve | нет | no-major-risk | checked | Пролог принят контролёром; стиль не улучшался; исправлена одна техническая опечатка; review: `Projects/Radiance/Books/Book_II_Song/RU/Consultant/Proofreading_Reviews/B2_Prologue_final_v1_controller_review.md`; локальный DOCX создан и визуально проверен. |
 | Chapter 01 | `Projects/Radiance/Books/Book_II_Song/RU/Drafts/B2_Chapter_01_v1.md` | — | not started | — | — | — | sound-density | not created | Проверить плотность звуковых наблюдений. |
 | Chapter 02 | `Projects/Radiance/Books/Book_II_Song/RU/Drafts/B2_Chapter_02_v1.md` | — | not started | — | — | — | no-major-risk | not created | — |
 | Chapter 03 | `Projects/Radiance/Books/Book_II_Song/RU/Drafts/B2_Chapter_03_v1.md` | — | not started | — | — | — | no-major-risk | not created | — |
