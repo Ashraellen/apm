@@ -3,7 +3,7 @@
 Status:
 
 ```text
-approved final after micro-correction
+approved final after RU author amendment
 ```
 
 Russian source:
@@ -24,6 +24,12 @@ Controller review:
 Projects/Radiance/Books/Book_I_Sampo/en/Consultant/Transcreation_Reviews/Chapter_01_en_v1_controller_review.md
 ```
 
+Post-RU author amendment note:
+
+```text
+Projects/Radiance/Books/Book_I_Sampo/en/Consultant/Transcreation_Reviews/Chapter_01_en_post_ru_author_amendment_note.md
+```
+
 English final:
 
 ```text
@@ -34,6 +40,12 @@ Applied micro-correction:
 
 ```text
 Behind Lina came a solid man... -> Behind Lina came a stocky man...
+```
+
+Applied RU author amendment:
+
+```text
+Ivar appearance paragraph synchronized from current updated EN draft.
 ```
 
 ---
@@ -416,7 +428,7 @@ Only then did she see the man himself.
 
 He was broad and tall — not merely taller than most, but somehow more densely placed in space. Not an old man. Not yet. But there was already in him that weight of age when a person is not so much growing old as ceasing to fuss before the world.
 
-He wore a simple dark sweater, a work jacket, and boots. His temples were shaved. His dark hair, already touched with silver, was gathered into a long French braid that fell down his back. His face was large, attentive, alive. Not smooth. Not noble in the way faces are noble on book covers where no one ever carries firewood or washes his own cup.
+He wore a simple dark sweater, a work jacket, and boots. When he shifted the armful of firewood, Sofia noticed the shaved temples and closely cut sides; the rest of his dark hair, already threaded with silver, was drawn into a long French braid down his back. His face was large, attentive, alive. Not smooth. Not noble in the way faces are noble on book covers where no one ever carries firewood or washes his own cup.
 
 No glow around him.
 
