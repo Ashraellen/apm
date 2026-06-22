@@ -2,6 +2,7 @@
 
 Status: active book-local memory system
 Created: 2026-06-22
+Updated: 2026-06-22
 
 ## Purpose
 
@@ -13,7 +14,19 @@ It stores memory for this book only.
 
 It should not be mixed with Ashraellen MainSite memory or Grants memory.
 
-## Main files and folders
+## Canonical root files
+
+Root project files remain in:
+
+`Projects/Error404/`
+
+These files are the current canonical project layer.
+
+MemorySystem does not replace them.
+
+It indexes, summarizes and routes them.
+
+## Main MemorySystem files and folders
 
 Book master memory:
 
@@ -23,9 +36,17 @@ Instructions:
 
 `Projects/Error404/MemorySystem/INSTRUCTIONS.md`
 
+Root inventory:
+
+`Projects/Error404/MemorySystem/Root_Project_Inventory.md`
+
 Launch text for new chats:
 
 `Projects/Error404/MemorySystem/Launch_Text.md`
+
+Old chat imports:
+
+`Projects/Error404/MemorySystem/Inbox_From_Chats/`
 
 Session logs:
 
@@ -47,10 +68,16 @@ Translations:
 
 `Projects/Error404/MemorySystem/Translations/`
 
+Prompts:
+
+`Projects/Error404/MemorySystem/Prompts/`
+
 ## Rule
 
-This MemorySystem keeps book-local canon, characters, chapter status, translation rules and creative decisions.
+Root files are not moved blindly.
 
-Global Ashraellen memory remains in:
+MemorySystem first creates inventory, then summaries, then only changes structure after explicit author decision.
 
-`Projects/Ashraellen/MemorySystem/`
+After substantial work, create a session log in:
+
+`Projects/Error404/MemorySystem/Session_Logs/`
