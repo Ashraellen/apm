@@ -1,7 +1,16 @@
-# Three-Book Structure — Canon
+# Cycle Structure — Error404
 
-Status: initial canon
+Status: aligned with root cycle files
 Created: 2026-06-22
+Updated: 2026-06-22
+
+Source files:
+
+`Projects/Error404/INDEX.md`
+
+`Projects/Error404/Cycle_Arc.md`
+
+`Projects/Error404/Project_Bible.md`
 
 ## Series
 
@@ -11,34 +20,46 @@ Russian working title:
 
 `Ошибка 404: Бог не найден`
 
-## Book I
+## Current external format
 
-Russian title:
+This project is now treated as a multilingual philosophical-satirical novel cycle / series.
 
-`Почему я?`
+It is not only a single book and not a fixed trilogy.
 
-English title:
+The older trilogy logic remains useful as an internal philosophical movement and reservoir, but it is not the final external structure.
 
-`Why Me?`
+## Current logic
 
-Book I is focused on Vlad's claim, resistance and first cracks in his old perception.
+Book I:
 
-## Book II
+`Почему я?` / `Why Me?`
+
+Status: completed 22-chapter draft.
+
+Book II:
 
 Russian working title:
 
-`На всё Его воля`
+`На всё воля Его`
 
-Book II title is accepted as a working direction.
+Possible English working title:
 
-## Book III
+`On All Things His Will`
 
-Status:
+Future books:
 
-in preparation / not fixed here.
+separate cases of the Heavenly Chancellery.
 
-## Book I chapter count
+## Cycle formula
 
-Book I should have 22 chapters.
+A series of Heavenly Chancellery cases about people who search for God in a form convenient to their fear.
 
-The number 22 functions as symbolic completeness of the path.
+Book I opens the door through Vlad, but Vlad is not the only applicant.
+
+Behind the door there is a queue.
+
+## Boundary
+
+Do not present the old three-book structure as final external canon.
+
+Use it as archived philosophical ore when planning future books.
