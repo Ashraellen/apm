@@ -1,76 +1,36 @@
-# MemorySystem — Ashraellen
+# MemorySystem
 
-Status: canonical memory system
+Status: active
 Created: 2026-06-22
 
 ## Purpose
 
-`MemorySystem` is the service layer for Ashraellen project memory.
+Project memory for Ashraellen is stored in GitHub.
 
-It keeps the project from being scattered across separate chats.
+This folder keeps service memory files together.
 
-Individual chats may work locally, but stable memory is stored in GitHub.
+## Files
 
-## Core idea
+`Projects/Ashraellen/MemorySystem/README.md`
 
-The repository is the long-term memory.
-
-Chats are working rooms.
-
-Each substantial chat must read the relevant memory before work and record what changed after work.
-
-## Main files
-
-Memory center protocol:
-
-`Projects/Ashraellen/MemorySystem/MEMORY_CENTER.md`
-
-New chat workflow:
-
-`Projects/Ashraellen/MemorySystem/Protocols/New_Chat_Workflow.md`
-
-Website memory workflow:
+`Projects/Ashraellen/MemorySystem/Protocols/New_Project_Workflow.md`
 
 `Projects/Ashraellen/MemorySystem/Protocols/Website_Memory_Workflow.md`
 
-Session logs:
+`Projects/Ashraellen/MemorySystem/Session_Logs/README.md`
 
-`Projects/Ashraellen/MemorySystem/Session_Logs/`
+`Projects/Ashraellen/MemorySystem/Session_Logs/SL_001.md`
 
-Templates:
+## Repositories
 
-`Projects/Ashraellen/MemorySystem/Templates/`
+`Ashraellen/apm` — project memory
 
-## Project repositories
+`Ashraellen/ashraellen` — live website
 
-Project memory:
-
-`Ashraellen/apm`
-
-Live website:
-
-`Ashraellen/ashraellen`
-
-## Website memory branch
-
-Main website memory lives in:
-
-`Projects/Ashraellen/MainSite/`
-
-Current sorted website state:
+## Website memory
 
 `Projects/Ashraellen/MainSite/SORTED_STATE_2026-06-22.md`
 
-Website master file:
-
 `Projects/Ashraellen/MainSite/MASTER_MainSite.md`
 
-Raw imported website chat memories:
-
-`Projects/Ashraellen/MainSite/Inbox_From_Chats/MS_NN.md`
-
-## Rule
-
-If a chat changes the project, it must leave a memory trace.
-
-If a chat only answers a small question and changes nothing, a session log is not required.
+`Projects/Ashraellen/MainSite/Inbox_From_Chats/`
