@@ -1,6 +1,6 @@
 # RU Public Thoughts Migration — Working Notes
 
-Status: working note created before live-site implementation  
+Status: updated working note before live-site implementation  
 Date: 2026-06-22  
 Memory repository: `Ashraellen/apm`  
 Live website repository: `Ashraellen/ashraellen`  
@@ -14,195 +14,356 @@ Prepare a controlled migration / creation track for a new Russian public-thought
 /ru/public/thoughts/
 ```
 
-The task is to keep the work inside the MainSite memory layer first, then only after that touch the live website repository.
+The new branch is now defined more precisely as the system of:
 
-The working direction is not to destroy or overwrite the existing Public / Posts architecture, but to add a clearer Russian public-thoughts layer that can hold fuller public texts, selected observations, and expanded thought-pages without flattening them into thin formula cards.
+```text
+Опорные мысли
+```
+
+This is not a generic blog branch. It is a Russian public layer for larger semantic cards that previously existed as selected public formulas, but are now being separated into a clearer structural level.
 
 ## 2. Author decision
 
-Author decision from the current instruction:
+Author decision from the current task clarification:
 
-- read MainSite memory before implementation;
-- keep task memory inside `Projects/Ashraellen/MainSite/`;
-- do not change global `Projects/Ashraellen/MemorySystem/` unless separately necessary;
-- create this working note before live-site changes;
-- if the live website repository `Ashraellen/ashraellen` is changed, create a session log in `Projects/Ashraellen/MainSite/Session_Logs/`;
-- if new `/ru/public/thoughts/` pages are created, immediately record their paths here;
-- if `/ru/public/index.html` is changed, record exactly which block was changed and what it was changed to.
-
-Working interpretation:
-
-- `/ru/public/thoughts/` should become a separate Russian public-thoughts branch, not a chaotic dump into the existing `posts/` layer;
-- existing formula / essay / fragment pages remain intact until a specific replacement or migration is approved;
-- the first implementation should be conservative: static HTML pages, existing visual canon, analytics, canonical links, JSON-LD and normal navigation.
-
-## 3. Old pages / existing site pages to use as templates
-
-Primary live-site templates / reference pages:
+1. Work only with the Ashraellen.com website and the repositories:
 
 ```text
-/ru/public/index.html
+Ashraellen/ashraellen
+Ashraellen/apm
 ```
 
-Use as the main Public entrance reference. Later it may receive a new card / block pointing to `/ru/public/thoughts/`.
-
-```text
-/ru/public/posts/index.html
-```
-
-Use as a structural reference for a public subsection index: header, lead, grid/list logic, seal, base script, navigation pattern.
-
-```text
-/ru/public/posts/formula/index.html
-```
-
-Use only as a reference for compact formula-list logic. Do not let the new thoughts branch become another thin formula scaffold.
-
-```text
-/ru/public/posts/essay/index.html
-```
-
-Use as a reference for fuller public-text cards and expandable / long-form logic, if needed.
-
-```text
-/ru/public/posts/fragment/index.html
-```
-
-Use as a reference for archive / fragment framing and placeholder discipline.
-
-```text
-/ru/public/formulas/01-cheerfulness/index.html
-/ru/public/formulas/02-still-the-same/index.html
-```
-
-Use as detail-page references: title, meta description, canonical, public.css, inline detail-page style, hero / meaning / full text / research note / navigation / seal.
-
-Important: existing formula pages currently live under `/ru/public/formulas/`, while older structured post pages live under `/ru/public/posts/...`. The new branch should avoid increasing this ambiguity unless we deliberately decide to normalize the whole Public structure later.
-
-## 4. Planned new paths
-
-Planned branch root:
+2. Create a new structure:
 
 ```text
 /ru/public/thoughts/
 ```
 
-Planned files / routes, not yet created in the live site at the moment of this note:
+3. Create the following pages as duplicates of existing old formula pages, with terminology and links updated:
+
+```text
+/ru/public/thoughts/01-cheerfulness/
+/ru/public/thoughts/02-still-the-same/
+/ru/public/thoughts/03-let-go/
+/ru/public/thoughts/04-mortality-awakens/
+/ru/public/thoughts/05-on-your-own/
+/ru/public/thoughts/06-insight/
+```
+
+4. Also create the index page:
 
 ```text
 /ru/public/thoughts/index.html
 ```
 
-Planned future individual pages, exact slugs still open:
+Visible page title:
 
 ```text
-/ru/public/thoughts/<slug>/index.html
+Ashraellen — Опорные мысли
 ```
 
-Possible first-path pattern:
+Meaning of the page:
 
 ```text
-/ru/public/thoughts/01-<short-latin-slug>/index.html
-/ru/public/thoughts/02-<short-latin-slug>/index.html
-/ru/public/thoughts/03-<short-latin-slug>/index.html
+Это раздел опорных мыслей публичного поля Ashraellen. Здесь собраны большие смысловые карточки, которые раньше назывались публичными формулами, но теперь выделяются в отдельный слой.
 ```
 
-No actual `/ru/public/thoughts/` live pages have been created yet in this session at the time this note is created.
+5. Do not delete old pages:
 
-## 5. Website files expected to be created later
+```text
+/ru/public/formulas/.../
+```
 
-In `Ashraellen/ashraellen`:
+6. Do not change this file without a separate approval:
+
+```text
+/ru/public/index.html
+```
+
+7. Do not touch:
+
+```text
+Error404
+grants
+other language versions
+redirects
+```
+
+8. Keep memory for this task inside:
+
+```text
+Projects/Ashraellen/MainSite/
+```
+
+Do not change global:
+
+```text
+Projects/Ashraellen/MemorySystem/
+```
+
+unless separately necessary.
+
+## 3. Old pages used as templates
+
+The following existing live-site pages are the exact source templates for the first six new `thoughts` pages:
+
+```text
+ru/public/formulas/01-cheerfulness/index.html
+ru/public/formulas/02-still-the-same/index.html
+ru/public/formulas/03-let-go/index.html
+ru/public/formulas/04-mortality-awakens/index.html
+ru/public/formulas/05-on-your-own/index.html
+ru/public/formulas/06-insight/index.html
+```
+
+Reference SHAs observed during analysis:
+
+```text
+ru/public/formulas/03-let-go/index.html                 sha: 8b0bdc396623e25148b23be49cfebf9552876deb
+ru/public/formulas/04-mortality-awakens/index.html     sha: 1e5d81183aa249f19dd8f48588dbaba5d3a49fce
+ru/public/formulas/05-on-your-own/index.html           sha: db4eba7edcff362d99bfea271740b3fd9531669f
+ru/public/formulas/06-insight/index.html               sha: c81f2fb70946dc519f9bd10d080ca3972f833503
+```
+
+Earlier inspected references:
+
+```text
+ru/public/formulas/01-cheerfulness/index.html
+ru/public/formulas/02-still-the-same/index.html
+```
+
+The pages share the same implementation pattern:
+
+- static HTML;
+- Russian language page;
+- `assets/public.css`;
+- inline `.formula-page` / `.formula-hero` detail-page styles;
+- `script defer src="/assets/analytics.js"`;
+- canonical URL;
+- JSON-LD block;
+- Open Graph / Twitter metadata;
+- breadcrumb list;
+- top navigation;
+- image from `assets/public-formulas/`;
+- blocks: meaning / full text / why selected / research note;
+- previous / next navigation;
+- seal `— mark of presence`.
+
+## 4. New paths planned for live site
+
+Files to create in `Ashraellen/ashraellen`:
+
+```text
+ru/public/thoughts/index.html
+ru/public/thoughts/01-cheerfulness/index.html
+ru/public/thoughts/02-still-the-same/index.html
+ru/public/thoughts/03-let-go/index.html
+ru/public/thoughts/04-mortality-awakens/index.html
+ru/public/thoughts/05-on-your-own/index.html
+ru/public/thoughts/06-insight/index.html
+```
+
+Live-site existence check during analysis:
+
+```text
+ru/public/thoughts/index.html                  not found before implementation
+ru/public/thoughts/01-cheerfulness/index.html  not found before implementation
+```
+
+The rest of the `thoughts` branch is assumed new and should be treated as create-only, not update, unless a fresh fetch shows otherwise immediately before implementation.
+
+## 5. Replacement rules for duplicated pages
+
+For each duplicated detail page:
+
+### 5.1 Terminology
+
+Replace visible and metadata terminology:
+
+```text
+Публичная формула → Опорная мысль
+```
+
+Examples:
+
+```text
+Публичная формула 01 → Опорная мысль 01
+Публичная формула Ashraellen: ... → Опорная мысль Ashraellen: ...
+```
+
+### 5.2 Paths
+
+Replace all old formula-path references:
+
+```text
+/ru/public/formulas/.../ → /ru/public/thoughts/.../
+```
+
+This applies to:
+
+- canonical link;
+- JSON-LD `@id`;
+- JSON-LD `url`;
+- JSON-LD breadcrumb items;
+- Open Graph URL;
+- Twitter / other URL-dependent metadata if present;
+- internal previous / next links;
+- JavaScript navigation assignments.
+
+### 5.3 Breadcrumbs
+
+Replace old breadcrumb label:
+
+```text
+Formulas
+```
+
+with:
+
+```text
+Опорные мысли
+```
+
+or, if an English semantic marker is needed internally:
+
+```text
+Thoughts
+```
+
+Preferred visible Russian breadcrumb:
+
+```text
+Опорные мысли
+```
+
+### 5.4 Titles and descriptions
+
+Keep the individual page title after the dash, but update the collection label where relevant:
+
+Example:
+
+```text
+Ashraellen — Весёлость как диагностика человека
+```
+
+may remain as page title.
+
+Descriptions should change from:
+
+```text
+Публичная формула Ashraellen: ...
+```
+
+to:
+
+```text
+Опорная мысль Ashraellen: ...
+```
+
+### 5.5 CSS and assets
+
+Keep:
+
+```text
+../../../../assets/public.css
+```
+
+Keep old images for now:
+
+```text
+assets/public-formulas/01-cheerfulness.jpg
+assets/public-formulas/02-still-the-same.jpg
+assets/public-formulas/03-let-go.jpg
+assets/public-formulas/04-mortality-awakens.jpg
+assets/public-formulas/05-on-your-own.jpg
+assets/public-formulas/06-insight.jpg
+```
+
+Do not create `assets/thoughts.css` during the first pass unless required.
+
+## 6. Index page plan
+
+Create:
 
 ```text
 ru/public/thoughts/index.html
 ```
 
-Potential individual pages:
+Page title:
 
 ```text
-ru/public/thoughts/01-<slug>/index.html
-ru/public/thoughts/02-<slug>/index.html
-ru/public/thoughts/03-<slug>/index.html
+Ashraellen — Опорные мысли
 ```
 
-Possible CSS decision:
+Suggested H1:
 
 ```text
-assets/thoughts.css
+Опорные мысли
 ```
 
-or reuse:
+Suggested lead:
 
 ```text
-assets/public.css
+Раздел опорных мыслей публичного поля Ashraellen. Здесь собраны большие смысловые карточки, которые раньше назывались публичными формулами, но теперь выделяются в отдельный слой.
 ```
 
-Conservative first decision: reuse `assets/public.css` and, if necessary, small page-local inline CSS based on the existing formula detail pages. Create a dedicated `assets/thoughts.css` only if the branch grows enough to justify it.
+Suggested internal explanation:
 
-## 6. Website files expected to be changed later
+```text
+Опорная мысль — это не короткая цитата и не декоративная фраза. Это смысловой узел: наблюдение, полный текст, причина выбора и исследовательская заметка. Такой формат позволяет видеть не только ударную формулировку, но и внутренний механизм, из которого она возникла.
+```
 
-If the branch is implemented, likely files to change in `Ashraellen/ashraellen`:
+Index should link to the six pages:
+
+```text
+01-cheerfulness
+02-still-the-same
+03-let-go
+04-mortality-awakens
+05-on-your-own
+06-insight
+```
+
+Use existing visual canon. First pass: reuse `assets/public.css` with small inline CSS if needed.
+
+## 7. Website files expected to be changed later
+
+Do not change now without separate approval:
 
 ```text
 ru/public/index.html
 ```
 
-Expected change: add a third public-entry card or dedicated block linking to:
+Possible later change, if approved:
 
-```text
-/ru/public/thoughts/
-```
+- add a card or block linking to `/ru/public/thoughts/`;
+- label: `Опорные мысли`;
+- description: `Большие смысловые карточки публичного поля Ashraellen: наблюдение, полный текст, причина выбора и исследовательская заметка.`
 
-Candidate public label:
+If this file is changed later, the session log must explicitly state which block was changed and what it was changed to.
 
-```text
-Мысли
-```
-
-Candidate description:
-
-```text
-Развёрнутые публичные наблюдения, где короткая формула получает дыхание, контекст и смысловое давление.
-```
-
-The exact final wording should be approved / refined during implementation.
-
-Potential later changes:
+Possible later pipeline files:
 
 ```text
 sitemap.xml
 llms.txt
 ```
 
-However, the current memory says sitemap generation is automatic. Prefer running / relying on the existing sitemap workflow rather than hand-editing `sitemap.xml`, unless the repository workflow requires manual update.
+But existing memory says sitemap generation is automated. Do not hand-edit unless the current repository workflow requires it.
 
-Potential later language expansion:
+## 8. What must not be touched yet
 
-```text
-/en/public/thoughts/
-/pl/public/thoughts/
-...
-```
-
-Not part of the first Russian migration unless explicitly approved.
-
-## 7. What must not be touched yet
-
-Do not touch without separate reason / approval:
+Do not touch:
 
 ```text
 Projects/Ashraellen/MemorySystem/
 ```
 
-Do not alter global memory for this task. Keep notes inside:
+Do not touch in the live website:
 
 ```text
-Projects/Ashraellen/MainSite/
-```
-
-Do not touch yet in the live website:
-
-```text
+Error404
+/404.html
 /index.html
 site.webmanifest
 assets/analytics.js
@@ -214,35 +375,94 @@ monolith/
 */professional/
 ```
 
-Do not rewrite all language versions automatically. This task is Russian-first.
-
-Do not delete or rename existing Public branches:
+Do not touch other languages:
 
 ```text
-/ru/public/posts/
-/ru/public/posts/formula/
-/ru/public/posts/essay/
-/ru/public/posts/fragment/
-/ru/public/posts/sources/
-/ru/public/formulas/
+en/
+pl/
+de/
+es/
+fr/
+pt/
+uk/
+be/
 ```
 
-Do not turn the new branch into motivational content, generic blog posts, SEO filler, or short decorative cards. The public-thoughts layer should preserve authorial density and the Ashraellen research framing.
+Do not delete, rename, redirect or replace existing old pages:
 
-## 8. Open questions
+```text
+/ru/public/formulas/01-cheerfulness/
+/ru/public/formulas/02-still-the-same/
+/ru/public/formulas/03-let-go/
+/ru/public/formulas/04-mortality-awakens/
+/ru/public/formulas/05-on-your-own/
+/ru/public/formulas/06-insight/
+```
 
-1. What exact old pages / old posts / old texts are being migrated into `/ru/public/thoughts/` first?
-2. Should `/ru/public/thoughts/` contain only expanded public observations, or also selected formulas with full commentary?
-3. Should individual pages use numbered slugs (`01-...`) or clean thematic slugs without numbers?
-4. Should the branch be visually closer to `/ru/public/formulas/<id>/` detail pages or to `/ru/public/posts/essay/` cards?
-5. Should `/ru/public/index.html` receive a third card beside `Выступления` and `Публикации`, or a separate block below the existing two-card grid?
-6. Should the existing `/ru/public/formulas/` ambiguity be preserved for now, or later normalized under `/ru/public/thoughts/` / `/ru/public/posts/`?
-7. Should images be required for each thought page, or should the first migration be text-first?
-8. Should the first implementation include JSON-LD as `Article` / `CreativeWork` for individual thought pages rather than only `CollectionPage`?
-9. Should English / Polish versions be planned immediately after the Russian version, or postponed until the Russian structure stabilizes?
-10. Should old formula pages link forward to the new thoughts branch after migration, or remain isolated as selected public formulas?
+Do not make redirects without a separate explicit decision.
 
-## 9. Session-log rule for this task
+Do not simplify the pages into motivational / SEO filler content.
+
+## 9. Links to verify after implementation
+
+Manual verification list after live-site changes:
+
+```text
+https://www.ashraellen.com/ru/public/thoughts/
+https://www.ashraellen.com/ru/public/thoughts/01-cheerfulness/
+https://www.ashraellen.com/ru/public/thoughts/02-still-the-same/
+https://www.ashraellen.com/ru/public/thoughts/03-let-go/
+https://www.ashraellen.com/ru/public/thoughts/04-mortality-awakens/
+https://www.ashraellen.com/ru/public/thoughts/05-on-your-own/
+https://www.ashraellen.com/ru/public/thoughts/06-insight/
+```
+
+Check on each page:
+
+- page loads;
+- CSS loads;
+- image loads;
+- canonical points to `/ru/public/thoughts/.../`;
+- OG URL points to `/ru/public/thoughts/.../`;
+- JSON-LD URL / breadcrumb use `/ru/public/thoughts/.../`;
+- visible terminology says `Опорная мысль`, not `Публичная формула`;
+- breadcrumb label says `Опорные мысли`;
+- previous / next links move inside `thoughts`, not back to `formulas`;
+- `Назад` / section link goes to `/ru/public/thoughts/` or `/ru/public/` according to final implementation;
+- old `/ru/public/formulas/.../` pages still exist.
+
+## 10. Risks
+
+1. Old pages are not all equally formatted: some are minified into one long line. Replacement must be string-safe, not line-number based.
+2. Some text may include the word `формула` as part of conceptual content. Only deliberate public-label replacements should be done; avoid damaging authorial text unless the label is clearly structural.
+3. Breadcrumbs currently use the English label `Formulas` in Russian pages. This should be corrected in the new branch but not necessarily in old pages yet.
+4. Navigation may accidentally point back to `/ru/public/formulas/`. Must verify previous / next links.
+5. The index page must not look like a thin duplicate of `/ru/public/posts/formula/`; it should explain why `Опорные мысли` are a separate layer.
+6. Do not accidentally update `/ru/public/index.html` during first implementation.
+7. Do not create redirects. Old pages must remain available.
+8. Do not touch other language versions.
+9. Do not manually edit global SEO files unless separately approved.
+10. Do not report live-site changes without commit SHAs returned by GitHub.
+
+## 11. Open questions
+
+Mostly resolved by the latest author clarification:
+
+- first six pages are known;
+- slugs are known;
+- old pages remain;
+- Russian-only implementation;
+- no redirect;
+- no `/ru/public/index.html` change before separate approval.
+
+Remaining open questions:
+
+1. Should the new detail pages use `CollectionPage`, `Article`, `CreativeWork`, or another schema type in JSON-LD? Conservative first option: preserve current structure and only update URLs / descriptions.
+2. Should the index link back to `/ru/public/`, `/ru/public/posts/`, or both?
+3. Should visible buttons say `Назад к Публичному` or `Назад к Опорным мыслям` on detail pages? Preferred: detail pages should include `← К опорным мыслям`, with optional public link in the header.
+4. Should old formula pages later receive small links to the new `thoughts` branch? Not part of first implementation.
+
+## 12. Session-log rule for this task
 
 After any change in the live website repository:
 
@@ -270,4 +490,4 @@ The session log must include:
 - pages to check manually;
 - next step.
 
-At the time this note is created, no live-site changes have been made in `Ashraellen/ashraellen` during this session.
+At the time of this update, no live-site changes have been made in `Ashraellen/ashraellen` during this session.
