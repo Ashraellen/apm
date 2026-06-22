@@ -7,6 +7,10 @@ This file is the first orientation point for Ashraellen project work.
 
 ## Core memory
 
+Memory center protocol:
+
+`Projects/Ashraellen/MEMORY_CENTER.md`
+
 Main project index:
 
 `Projects/Ashraellen/INDEX.md`
