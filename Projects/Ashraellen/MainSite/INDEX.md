@@ -51,7 +51,8 @@ Projects/Ashraellen/MainSite/
 │   ├── MS_SL_RU_Public_Thoughts_2026-06-22.md
 │   ├── MS_SL_RU_Public_Thoughts_Arcs_2026-06-22.md
 │   ├── MS_SL_RU_Public_Thoughts_Build_2026-06-23.md
-│   └── MS_SL_RU_Public_Thoughts_Assets_2026-06-23.md
+│   ├── MS_SL_RU_Public_Thoughts_Assets_2026-06-23.md
+│   └── MS_SL_RU_Public_Thoughts_0007_0012_2026-06-23.md
 └── Tasks/
     └── README.md
 ```
@@ -66,6 +67,7 @@ Until a full audit is complete, the strongest current sources are:
 - `Working_Notes/RU_Public_Thoughts_Rotating_Architecture_2026-06-23.md` — current final architecture for the Russian public support-thoughts system: `/ru/public/`, `/ru/public/thoughts/`, rotating completed arcs, and individual support-thought pages.
 - `Session_Logs/MS_SL_RU_Public_Thoughts_Build_2026-06-23.md` — implementation log for creating the correct 0001–0006 support-thought pages and rebuilding `/ru/public/thoughts/index.html`.
 - `Session_Logs/MS_SL_RU_Public_Thoughts_Assets_2026-06-23.md` — implementation log for moving the new support-thought layer image references to `assets/thoughts/` while preserving the old formula layer.
+- `Session_Logs/MS_SL_RU_Public_Thoughts_0007_0012_2026-06-23.md` — implementation log for creating support-thoughts 0007–0012 and updating `/ru/public/` as the current live showcase.
 
 ## Sorting rule
 
