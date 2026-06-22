@@ -68,8 +68,8 @@ This is the current functional map of Book I after rewriting the late arc.
 04. Исковое состояние
     Vlad's legal/workday reality mirrors his inner attempt to turn suffering into a claim.
 
-05. Предварительное слушание
-    The complaint is checked more deeply: does Vlad want truth, justice, compensation, or confirmation?
+05. Домашний порядок
+    Domestic order returns Vlad from metaphysical complaint into ordinary life, where small household rules expose the same inner disorder in a quieter form.
 
 06. Свеча без инструкции / earthly ritual layer
     Ordinary religious form begins to reflect Vlad's awkward attempt to reach God correctly.
