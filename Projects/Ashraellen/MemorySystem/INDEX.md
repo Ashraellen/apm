@@ -21,6 +21,8 @@ This folder keeps service memory files together.
 
 `Projects/Ashraellen/MemorySystem/Session_Logs/SL_001.md`
 
+`Projects/Ashraellen/MemorySystem/Session_Logs/SL_002.md`
+
 ## Repositories
 
 `Ashraellen/apm` — project memory
@@ -34,3 +36,11 @@ This folder keeps service memory files together.
 `Projects/Ashraellen/MainSite/MASTER_MainSite.md`
 
 `Projects/Ashraellen/MainSite/Inbox_From_Chats/`
+
+## Grants memory
+
+`Projects/Ashraellen/Grants/INDEX.md`
+
+`Projects/Ashraellen/Grants/MASTER_Grants.md`
+
+`Projects/Ashraellen/Grants/Inbox_From_Chats/`
