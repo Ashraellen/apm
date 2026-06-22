@@ -1,21 +1,54 @@
-# Prompt — MainSite chat memory
+# MainSite Old Chat Import Workflow
 
-Status: reusable prompt
+Status: canonical workflow file
 Updated: 2026-06-22
 
-Use in older chats about the Ashraellen website.
+This file is the detailed instruction for importing website memory from older chats into the Ashraellen APM repository.
 
-Workflow:
+## 1. Target
 
-1. Review the chat for site-related memory.
-2. Create a Markdown file in `Projects/Ashraellen/MainSite/Inbox_From_Chats/`.
-3. Use the next free short name: `MS_01.md`, `MS_02.md`, `MS_03.md`.
-4. After saving, give a compact chat note: filename, path, commit SHA, and a short summary.
+Extract only information related to the Ashraellen main website / ashraellen.com and save it as a Markdown file.
 
-If the inbox folder cannot be checked, use `MS_XX.md`.
+## 2. Repository and folder
 
-File structure:
+Repository:
 
+`Ashraellen/apm`
+
+Target folder:
+
+`Projects/Ashraellen/MainSite/Inbox_From_Chats/`
+
+## 3. File naming
+
+Use the next free short filename:
+
+`MS_01.md`, `MS_02.md`, `MS_03.md`.
+
+Check the target folder first. If `MS_01.md` and `MS_02.md` already exist, use `MS_03.md`.
+
+If the folder cannot be checked, use temporary name `MS_XX.md` and mention this in the report.
+
+## 4. Collect
+
+Collect site-related material only:
+
+- accepted decisions;
+- completed or prepared work;
+- pages, sections and structure;
+- languages and translations;
+- technical notes: GitHub Pages, paths, URLs, redirects, sitemap, JSON-LD, SEO, llms.txt, PWA, language auto-detection, manual language choice;
+- grant and institutional positioning;
+- ready website text fragments;
+- open tasks;
+- outdated, rejected or uncertain ideas;
+- material to move later into `MASTER_MainSite.md`.
+
+Keep confirmed decisions separate from discussion, drafts, uncertain notes and rejected ideas.
+
+## 5. File template
+
+```markdown
 # MS_NN — MainSite chat memory
 
 Source chat:
@@ -33,16 +66,15 @@ Status: raw import / needs sorting
 ## 9. Open tasks
 ## 10. Outdated / rejected / uncertain
 ## 11. Move to MASTER_MainSite.md
+```
 
-Scope:
+## 6. Final report
 
-- Ashraellen / ashraellen.com website;
-- pages, sections, language versions;
-- GitHub Pages, paths, URLs, redirects, sitemap, JSON-LD, SEO, llms.txt, PWA;
-- grant and institutional positioning;
-- ready public text fragments;
-- open tasks and unresolved questions.
+After saving the file, the chat report should be compact:
 
-Copy-paste request for old chats:
+- filename;
+- full path;
+- commit SHA if available;
+- one or two lines about what was collected.
 
-Please create a MainSite memory file for this chat using the workflow above.
+If saving is impossible, provide a short reason and the file text for manual saving.
