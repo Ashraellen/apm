@@ -1,6 +1,6 @@
 # Book I — Chapter Map
 
-Status: aligned with root completed map
+Status: RU physical inventory stabilized; map reconciliation pending for CH-005
 Created: 2026-06-22
 Updated: 2026-06-22
 
@@ -8,13 +8,17 @@ Book I title:
 
 `Почему я?` / `Why Me?`
 
-Status:
+Draft status:
 
 completed 22-chapter draft
 
-Source:
+Primary map source:
 
 `Projects/Error404/Book1_Completed_Map.md`
+
+RU physical source checked:
+
+`Projects/Error404/VOLUME_I/RU/`
 
 ## File naming pattern
 
@@ -24,98 +28,76 @@ Storage format:
 
 Readable names belong in indexes and chapter maps.
 
-## Completed chapter map
+## RU chapter coverage status
 
-01 — `Ошибка 404`
+Full physical RU coverage for chapters 1–22 is present in:
 
-Vlad files his first complaint against God. The first impossible response appears.
+`Projects/Error404/VOLUME_I/RU/`
 
-02 — `Окно №7`
+One map/content reconciliation issue remains:
 
-The category `Почему я?` opens as a state. Inner monologues intersect instead of real conversations.
+- `CH-005`: current completed map title is `Предварительное слушание`, while the real RU file `E404GNFB1WM-RU_CH-005_v2.md` has the title `Домашний порядок`.
 
-03 — `Демон корректных формулировок`
+## Completed chapter map with confirmed RU files
 
-Respectable language hides resentment, fear, control, hatred and self-deception.
+| Chapter | Title in current map | Real RU file | Version | Title/header in RU file | Status | Notes |
+|---:|---|---|---|---|---|---|
+| CH-001 | `Ошибка 404` | `Projects/Error404/VOLUME_I/RU/E404GNFB1WM-RU_CH-001_v1.md` | v1 | `Ошибка 404` | confirmed in RU | — |
+| CH-002 | `Окно №7` | `Projects/Error404/VOLUME_I/RU/E404GNFB1WM-RU_CH-002_v4.md` | v4 | `Окно №7` | confirmed in RU | explicitly confirmed stabilization target |
+| CH-003 | `Демон корректных формулировок` | `Projects/Error404/VOLUME_I/RU/E404GNFB1WM-RU_CH-003_v2.md` | v2 | `Демон корректных формулировок` | confirmed in RU | — |
+| CH-004 | `Исковое состояние` | `Projects/Error404/VOLUME_I/RU/E404GNFB1WM-RU_CH-004_v2.md` | v2 | `Исковое состояние` | confirmed in RU | — |
+| CH-005 | `Предварительное слушание` | `Projects/Error404/VOLUME_I/RU/E404GNFB1WM-RU_CH-005_v2.md` | v2 | `Домашний порядок` | needs author decision / map reconciliation | conflict: `Book1_Completed_Map.md` names chapter 5 as `Предварительное слушание`, but the physical RU file is titled `Домашний порядок` |
+| CH-006 | `Свеча без инструкции` | `Projects/Error404/VOLUME_I/RU/E404GNFB1WM-RU_CH-006_v1.md` | v1 | `Свеча без инструкции` | confirmed in RU | — |
+| CH-007 | `Архив молитв` | `Projects/Error404/VOLUME_I/RU/E404GNFB1WM-RU_CH-007_v1.md` | v1 | `Архив молитв` | confirmed in RU | — |
+| CH-008 | `Не благодарность` | `Projects/Error404/VOLUME_I/RU/E404GNFB1WM-RU_CH-008_v1.md` | v1 | `Не благодарность` | confirmed in RU | — |
+| CH-009 | `Счёт за добро` | `Projects/Error404/VOLUME_I/RU/E404GNFB1WM-RU_CH-009_v1.md` | v1 | `Счёт за добро` | confirmed in RU | — |
+| CH-010 | `Радостные спасённые` / `Тёплый круг` | `Projects/Error404/VOLUME_I/RU/E404GNFB1WM-RU_CH-010_v1.md` | v1 | `Радостные спасённые` | confirmed in RU | map contains alternate/theme title `Тёплый круг`; physical RU header uses `Радостные спасённые` |
+| CH-011 | `Отдел чудес` | `Projects/Error404/VOLUME_I/RU/E404GNFB1WM-RU_CH-011_v1.md` | v1 | `Отдел чудес` | confirmed in RU | — |
+| CH-012 | `Donner Kebab` | `Projects/Error404/VOLUME_I/RU/E404GNFB1WM-RU_CH-012_v1.md` | v1 | `Donner Kebab` | confirmed in RU | — |
+| CH-013 | `Курс успешного духовного успеха` | `Projects/Error404/VOLUME_I/RU/E404GNFB1WM-RU_CH-013_v2.md` | v2 | `Курс успешного духовного успеха` | confirmed in RU | — |
+| CH-014 | `Коробка` | `Projects/Error404/VOLUME_I/RU/E404GNFB1WM-RU_CH-014_v2.md` | v2 | `Коробка` | confirmed in RU | — |
+| CH-015 | `Пока не готов` | `Projects/Error404/VOLUME_I/RU/E404GNFB1WM-RU_CH-015_v2.md` | v2 | `Пока не готов` | confirmed in RU | — |
+| CH-016 | `Автоответчик` | `Projects/Error404/VOLUME_I/RU/E404GNFB1WM-RU_CH-016_v2.md` | v2 | `Автоответчик` | confirmed in RU | — |
+| CH-017 | `Кто спрашивает?` | `Projects/Error404/VOLUME_I/RU/E404GNFB1WM-RU_CH-017_v2.md` | v2 | `Кто спрашивает?` | confirmed in RU | — |
+| CH-018 | `Удостоверение личности` | `Projects/Error404/VOLUME_I/RU/E404GNFB1WM-RU_CH-018_v2.md` | v2 | `Удостоверение личности` | confirmed in RU | — |
+| CH-019 | `Отдел идентификации заявителя` | `Projects/Error404/VOLUME_I/RU/E404GNFB1WM-RU_CH-019_v4.md` | v4 | `Отдел идентификации заявителя` | confirmed in RU | explicitly confirmed stabilization target |
+| CH-020 | `Запрос не отправлен` | `Projects/Error404/VOLUME_I/RU/E404GNFB1WM-RU_CH-020_v2.md` | v2 | `Запрос не отправлен` | confirmed in RU | — |
+| CH-021 | `Окно №7. Повторное обращение` | `Projects/Error404/VOLUME_I/RU/E404GNFB1WM-RU_CH-021_v4.md` | v4 | `Окно №7. Повторное обращение` | confirmed in RU | explicitly confirmed stabilization target |
+| CH-022 | `Пользователь не найден` | `Projects/Error404/VOLUME_I/RU/E404GNFB1WM-RU_CH-022_v2.md` | v2 | `Пользователь не найден` | confirmed in RU | explicitly confirmed stabilization target |
 
-04 — `Исковое состояние`
+## Confirmed RU versions
 
-Vlad's legal/workday reality mirrors his attempt to turn suffering into a claim.
+Specially confirmed stabilization targets:
 
-05 — `Предварительное слушание`
+- `CH-002 — E404GNFB1WM-RU_CH-002_v4.md`
+- `CH-019 — E404GNFB1WM-RU_CH-019_v4.md`
+- `CH-021 — E404GNFB1WM-RU_CH-021_v4.md`
+- `CH-022 — E404GNFB1WM-RU_CH-022_v2.md`
 
-The complaint is checked more deeply: truth, justice, compensation or confirmation?
+Additional confirmed RU files:
 
-06 — `Свеча без инструкции`
-
-Ordinary religious form reflects Vlad's awkward attempt to reach God correctly.
-
-07 — `Архив молитв`
-
-Vlad sees where prayers were bargaining, expectation and spiritual accounting.
-
-08 — `Не благодарность`
-
-Gratitude becomes suspicious because Vlad sees invoices hidden under `thank you`.
-
-09 — `Счёт за добро`
-
-Good deeds, suffering, correctness, reward and resentment become inner bookkeeping.
-
-10 — `Радостные спасённые` / `Тёплый круг`
-
-Earthly spiritual community: sincerity exists, but form and performance surround it.
-
-11 — `Отдел чудес`
-
-Miracles are checked against recipient expectations. Salvation may come in a rejected form.
-
-12 — `Donner Kebab`
-
-Poshpshekhon appears once. Truth arrives through kebab, not through a golden microphone.
-
-13 — `Курс успешного духовного успеха`
-
-Vlad enters spiritual marketing to expose packaging. The box motif becomes visible.
-
-14 — `Коробка`
-
-Domestic sorting of boxes reveals proofs, scripts, old reasons and unfinished versions of himself.
-
-15 — `Пока не готов`
-
-`Пока не готов` is tested through action: honest pause or a new residence for resistance.
-
-16 — `Автоответчик`
-
-Vlad notices old phrases answering before him. The old pain speaks in his voice.
-
-17 — `Кто спрашивает?`
-
-The question `Почему я?` begins to lose a stable author.
-
-18 — `Удостоверение личности`
-
-Name, role, code, document and identity are tested through everyday life.
-
-19 — `Отдел идентификации заявителя`
-
-Vlad tries to present the claimant; the sender remains unconfirmed.
-
-20 — `Запрос не отправлен`
-
-The old complaint can no longer be submitted in the same form. `Господи. Мне больно.` remains without accusation.
-
-21 — `Окно №7. Повторное обращение`
-
-Vlad returns to Window №7, but no longer as the same claimant.
-
-22 — `Пользователь не найден`
-
-The former user who tried to use God as a service is no longer found in the old way. The next question appears: `Кто спрашивает?`
+- `CH-001 — E404GNFB1WM-RU_CH-001_v1.md`
+- `CH-003 — E404GNFB1WM-RU_CH-003_v2.md`
+- `CH-004 — E404GNFB1WM-RU_CH-004_v2.md`
+- `CH-005 — E404GNFB1WM-RU_CH-005_v2.md` — file present, map title conflict pending
+- `CH-006 — E404GNFB1WM-RU_CH-006_v1.md`
+- `CH-007 — E404GNFB1WM-RU_CH-007_v1.md`
+- `CH-008 — E404GNFB1WM-RU_CH-008_v1.md`
+- `CH-009 — E404GNFB1WM-RU_CH-009_v1.md`
+- `CH-010 — E404GNFB1WM-RU_CH-010_v1.md`
+- `CH-011 — E404GNFB1WM-RU_CH-011_v1.md`
+- `CH-012 — E404GNFB1WM-RU_CH-012_v1.md`
+- `CH-013 — E404GNFB1WM-RU_CH-013_v2.md`
+- `CH-014 — E404GNFB1WM-RU_CH-014_v2.md`
+- `CH-015 — E404GNFB1WM-RU_CH-015_v2.md`
+- `CH-016 — E404GNFB1WM-RU_CH-016_v2.md`
+- `CH-017 — E404GNFB1WM-RU_CH-017_v2.md`
+- `CH-018 — E404GNFB1WM-RU_CH-018_v2.md`
+- `CH-020 — E404GNFB1WM-RU_CH-020_v2.md`
 
 ## Open tasks
 
-- Add physical file paths for each chapter.
-- Add current language/version status for RU, EN and PL.
-- Check stored chapter files against this completed map.
+- Author decision needed for `CH-005`: either reconcile the chapter map to `Домашний порядок`, rename/update the physical chapter file, or document intentional divergence.
+- EN inventory remains pending.
+- PL inventory remains pending.
+- Do not modify root files, physical chapter files, `MASTER_Error404.md`, `Characters/`, `Canon/`, or `Translations/` during this stabilization step.
