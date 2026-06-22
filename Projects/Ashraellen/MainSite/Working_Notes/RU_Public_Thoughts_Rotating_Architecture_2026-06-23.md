@@ -261,7 +261,88 @@ On individual support-thought pages:
 - link to next support-thought if it exists;
 - use short navigation labels: `К дуге`, `Предыдущая мысль`, `Следующая мысль`.
 
-## 11. Existing old and temporary layers
+## 11. Language rollout rule
+
+Initial implementation is Russian-first.
+
+The support-thought architecture, page structure, navigation logic, card layout, metadata pattern, and completed-arc rotation should be built and stabilized first in Russian:
+
+```text
+/ru/public/
+/ru/public/thoughts/
+/ru/public/thoughts/arcs/
+```
+
+Only after the Russian version is stable and approved should the same structural changes be replicated to other language versions by analogy.
+
+This means:
+
+- do not redesign the other languages independently;
+- do not start multilingual replication before the Russian layer is stable;
+- when replication begins, preserve the same architecture and adapt only language, metadata, links, and local text naturally;
+- use the Russian implementation as the master structural pattern.
+
+## 12. Text integrity rule
+
+The full text of each support-thought must not be changed, shortened, compressed, paraphrased, polished, or silently corrected.
+
+When the author provides the section equivalent to:
+
+```text
+Полный текст
+```
+
+that text is sacred as supplied. It must be inserted exactly as given unless the author explicitly asks for editing.
+
+Allowed work around the supplied full text:
+
+- create or adapt the title if needed;
+- write `Смысл`;
+- write `Почему выбрано`;
+- write `Исследовательская заметка`;
+- prepare metadata, descriptions, cards, navigation, and page scaffolding;
+- format the page without changing the supplied wording.
+
+Forbidden without explicit author approval:
+
+- shortening the full text;
+- rewriting the full text;
+- smoothing the full text;
+- changing rhythm or paragraph structure;
+- replacing words for style;
+- removing repetitions;
+- merging paragraphs;
+- adding explanations inside the full text.
+
+## 13. Editorial completion rule for new support-thoughts
+
+For future/new support-thoughts, the author may provide only the main support-thought body, i.e. the future `Полный текст` section.
+
+In that case, the assistant must complete the surrounding analytical structure by analogy with the old formula page pattern, especially:
+
+```text
+Смысл
+Полный текст
+Почему выбрано
+Исследовательская заметка
+```
+
+Reference pattern:
+
+```text
+https://www.ashraellen.com/ru/public/formulas/01-cheerfulness/
+```
+
+The assistant's task is to create the surrounding interpretive frame while preserving the author's supplied `Полный текст` exactly.
+
+The added blocks must serve the thought, not dominate it:
+
+- `Смысл` explains the inner movement and central axis of the thought;
+- `Почему выбрано` explains why this thought deserves to become an опорная мысль;
+- `Исследовательская заметка` frames the thought within Ashraellen's literary-philosophical / artistic research practice;
+- none of these blocks may turn the text into motivation, coaching, therapy, sermonizing, SEO filler, or a simplified lesson.
+
+## 14. Existing old and temporary layers
 
 Old historical layer:
 
@@ -290,7 +371,7 @@ Temporary intermediate layer already created earlier:
 
 Do not delete immediately. First create the correct new pages, update navigation, verify deployment, and only then decide whether to delete or redirect the temporary intermediate pages.
 
-## 12. Immediate implementation plan
+## 15. Immediate implementation plan
 
 Next safe implementation sequence:
 
@@ -315,12 +396,14 @@ Next safe implementation sequence:
 
 6. After verification, decide what to do with the temporary intermediate URLs.
 
-## 13. Restrictions
+7. Only after the Russian layer is stable and approved, replicate the structure to other language versions by analogy.
+
+## 16. Restrictions
 
 Do not touch without separate author approval:
 
 ```text
-other language versions
+other language versions before Russian approval
 /ru/public/posts/formula/
 /ru/public/posts/formula/lines/
 redirects
@@ -334,4 +417,4 @@ robots.txt
 site.webmanifest
 ```
 
-This architecture applies only to the Russian public support-thoughts layer unless later explicitly expanded.
+This architecture applies first to the Russian public support-thoughts layer. Multilingual rollout should happen later by analogy after the Russian implementation is stable.
