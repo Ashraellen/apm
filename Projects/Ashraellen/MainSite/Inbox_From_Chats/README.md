@@ -8,15 +8,27 @@ This folder is intentionally unsorted. It is the receiving bay.
 
 ## File naming convention
 
-Use:
+Use short numbered filenames:
 
-`MainSite_ChatMemory_YYYY-MM-DD_short-topic.md`
+`MS_01.md`, `MS_02.md`, `MS_03.md`, etc.
 
-Examples:
+## Important numbering rule
 
-- `MainSite_ChatMemory_2026-02-16_github-pages-language-gateway.md`
-- `MainSite_ChatMemory_2026-05-20_root-index-pwa-autodetect.md`
-- `MainSite_ChatMemory_2026-06-08_kone-finnish-landing.md`
+Different chats cannot see one another, so they cannot reliably know the next free number.
+
+The user should assign the number before pasting the prompt into an old chat, for example:
+
+`Номер файла: 01`
+
+The chat then creates:
+
+`MS_01.md`
+
+If no number is provided, the chat should use temporary filename:
+
+`MS_XX.md`
+
+and tell the user to replace `XX` with the correct number.
 
 ## Sorting rule
 
