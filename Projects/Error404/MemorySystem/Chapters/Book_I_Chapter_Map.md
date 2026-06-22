@@ -1,6 +1,6 @@
 # Book I — Chapter Map
 
-Status: RU physical inventory stabilized; map reconciliation pending for CH-005
+Status: RU physical inventory stabilized; CH-005 reconciled by author decision
 Created: 2026-06-22
 Updated: 2026-06-22
 
@@ -34,9 +34,11 @@ Full physical RU coverage for chapters 1–22 is present in:
 
 `Projects/Error404/VOLUME_I/RU/`
 
-One map/content reconciliation issue remains:
+Author decision recorded:
 
-- `CH-005`: current completed map title is `Предварительное слушание`, while the real RU file `E404GNFB1WM-RU_CH-005_v2.md` has the title `Домашний порядок`.
+- `CH-005` title is `Домашний порядок`.
+- Former completed-map title `Предварительное слушание` is superseded.
+- No blocking RU chapter-map conflicts remain.
 
 ## Completed chapter map with confirmed RU files
 
@@ -46,7 +48,7 @@ One map/content reconciliation issue remains:
 | CH-002 | `Окно №7` | `Projects/Error404/VOLUME_I/RU/E404GNFB1WM-RU_CH-002_v4.md` | v4 | `Окно №7` | confirmed in RU | explicitly confirmed stabilization target |
 | CH-003 | `Демон корректных формулировок` | `Projects/Error404/VOLUME_I/RU/E404GNFB1WM-RU_CH-003_v2.md` | v2 | `Демон корректных формулировок` | confirmed in RU | — |
 | CH-004 | `Исковое состояние` | `Projects/Error404/VOLUME_I/RU/E404GNFB1WM-RU_CH-004_v2.md` | v2 | `Исковое состояние` | confirmed in RU | — |
-| CH-005 | `Предварительное слушание` | `Projects/Error404/VOLUME_I/RU/E404GNFB1WM-RU_CH-005_v2.md` | v2 | `Домашний порядок` | needs author decision / map reconciliation | conflict: `Book1_Completed_Map.md` names chapter 5 as `Предварительное слушание`, but the physical RU file is titled `Домашний порядок` |
+| CH-005 | `Домашний порядок` | `Projects/Error404/VOLUME_I/RU/E404GNFB1WM-RU_CH-005_v2.md` | v2 | `Домашний порядок` | confirmed in RU | reconciled by author decision; former completed-map title `Предварительное слушание` superseded |
 | CH-006 | `Свеча без инструкции` | `Projects/Error404/VOLUME_I/RU/E404GNFB1WM-RU_CH-006_v1.md` | v1 | `Свеча без инструкции` | confirmed in RU | — |
 | CH-007 | `Архив молитв` | `Projects/Error404/VOLUME_I/RU/E404GNFB1WM-RU_CH-007_v1.md` | v1 | `Архив молитв` | confirmed in RU | — |
 | CH-008 | `Не благодарность` | `Projects/Error404/VOLUME_I/RU/E404GNFB1WM-RU_CH-008_v1.md` | v1 | `Не благодарность` | confirmed in RU | — |
@@ -79,7 +81,7 @@ Additional confirmed RU files:
 - `CH-001 — E404GNFB1WM-RU_CH-001_v1.md`
 - `CH-003 — E404GNFB1WM-RU_CH-003_v2.md`
 - `CH-004 — E404GNFB1WM-RU_CH-004_v2.md`
-- `CH-005 — E404GNFB1WM-RU_CH-005_v2.md` — file present, map title conflict pending
+- `CH-005 — E404GNFB1WM-RU_CH-005_v2.md` — reconciled as `Домашний порядок`
 - `CH-006 — E404GNFB1WM-RU_CH-006_v1.md`
 - `CH-007 — E404GNFB1WM-RU_CH-007_v1.md`
 - `CH-008 — E404GNFB1WM-RU_CH-008_v1.md`
@@ -97,7 +99,6 @@ Additional confirmed RU files:
 
 ## Open tasks
 
-- Author decision needed for `CH-005`: either reconcile the chapter map to `Домашний порядок`, rename/update the physical chapter file, or document intentional divergence.
 - EN inventory remains pending.
 - PL inventory remains pending.
-- Do not modify root files, physical chapter files, `MASTER_Error404.md`, `Characters/`, `Canon/`, or `Translations/` during this stabilization step.
+- Physical chapter files remain unchanged.
