@@ -1,7 +1,8 @@
 # Title Canon — Error404
 
-Status: initial canon
+Status: aligned with root project files
 Created: 2026-06-22
+Updated: 2026-06-22
 
 ## Series / cycle
 
@@ -33,16 +34,20 @@ Polish:
 
 ## Book II
 
-Russian:
+Russian working title:
 
-`На всё Его воля`
+`На всё воля Его`
 
-Polish:
+Possible English working title:
+
+`On All Things His Will`
+
+Polish working title:
 
 `Na wszystko Jego wola`
 
-## Book III
+## Future books
 
-Status:
+The project is no longer treated as a fixed external trilogy.
 
-in preparation / not fixed here.
+Future books may be separate cases of the Heavenly Chancellery.
