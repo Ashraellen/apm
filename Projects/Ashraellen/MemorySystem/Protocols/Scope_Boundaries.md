@@ -2,6 +2,7 @@
 
 Status: active
 Created: 2026-06-22
+Updated: 2026-06-22
 
 ## Principle
 
@@ -31,7 +32,24 @@ Do not create book-memory folders inside:
 
 Books, novels and literary projects should remain in their own project folders.
 
-MemorySystem may only reference those folders when a workflow needs it.
+Each concrete book may later have its own local `MemorySystem` inside that book's folder.
+
+Example pattern:
+
+`Projects/Ashraellen/<BookOrCycle>/MemorySystem/`
+
+or, if the book already has a deeper established path:
+
+`Projects/<BookProject>/<Book>/MemorySystem/`
+
+This keeps layers separate:
+
+- global Ashraellen MemorySystem = service memory and routing;
+- MainSite = website memory;
+- Grants = institutional memory;
+- book-local MemorySystem = canon, chapters, characters, versions and creative decisions for that specific book.
+
+The global MemorySystem may reference book-local systems only when coordination requires it.
 
 ## Website boundary
 
