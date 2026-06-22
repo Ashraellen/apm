@@ -17,11 +17,15 @@ This folder keeps service memory files together.
 
 `Projects/Ashraellen/MemorySystem/Protocols/Website_Memory_Workflow.md`
 
+`Projects/Ashraellen/MemorySystem/Protocols/Grants_Memory_Workflow.md`
+
 `Projects/Ashraellen/MemorySystem/Session_Logs/README.md`
 
 `Projects/Ashraellen/MemorySystem/Session_Logs/SL_001.md`
 
 `Projects/Ashraellen/MemorySystem/Session_Logs/SL_002.md`
+
+`Projects/Ashraellen/MemorySystem/Session_Logs/SL_003.md`
 
 ## Repositories
 
@@ -44,3 +48,5 @@ This folder keeps service memory files together.
 `Projects/Ashraellen/Grants/MASTER_Grants.md`
 
 `Projects/Ashraellen/Grants/Inbox_From_Chats/`
+
+`Projects/Ashraellen/Grants/Prompts/Request_Other_Chats_Grants_Memory.md`
