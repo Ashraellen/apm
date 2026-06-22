@@ -19,6 +19,8 @@ This folder keeps service memory files together.
 
 `Projects/Ashraellen/MemorySystem/Protocols/Grants_Memory_Workflow.md`
 
+`Projects/Ashraellen/MemorySystem/Protocols/Scope_Boundaries.md`
+
 `Projects/Ashraellen/MemorySystem/Session_Logs/README.md`
 
 `Projects/Ashraellen/MemorySystem/Session_Logs/SL_001.md`
@@ -26,6 +28,8 @@ This folder keeps service memory files together.
 `Projects/Ashraellen/MemorySystem/Session_Logs/SL_002.md`
 
 `Projects/Ashraellen/MemorySystem/Session_Logs/SL_003.md`
+
+`Projects/Ashraellen/MemorySystem/Session_Logs/SL_004.md`
 
 ## Repositories
 
@@ -50,3 +54,13 @@ This folder keeps service memory files together.
 `Projects/Ashraellen/Grants/Inbox_From_Chats/`
 
 `Projects/Ashraellen/Grants/Prompts/Request_Other_Chats_Grants_Memory.md`
+
+## Boundaries
+
+`MemorySystem` is a service layer.
+
+It should not store book drafts or creative book memory.
+
+Website memory belongs to `MainSite`.
+
+Grant memory belongs to `Grants`.
