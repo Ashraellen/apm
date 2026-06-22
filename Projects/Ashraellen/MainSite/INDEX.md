@@ -20,6 +20,7 @@ The goal is not to replace the live website repository. This directory is a work
 5. Technical implementation details go into `Technical/`.
 6. Language and translation decisions go into `Languages/`.
 7. Content architecture and public positioning go into `Content/` and `Grant_Positioning/`.
+8. Active implementation decisions and transitional architecture notes may be placed in `Working_Notes/` before they are merged into the master memory.
 
 ## Directory map
 
@@ -43,17 +44,24 @@ Projects/Ashraellen/MainSite/
 │   └── README.md
 ├── Assets/
 │   └── README.md
+├── Working_Notes/
+│   ├── RU_Public_Thoughts_Migration_2026-06-22.md
+│   └── RU_Public_Thoughts_Rotating_Architecture_2026-06-23.md
+├── Session_Logs/
+│   ├── MS_SL_RU_Public_Thoughts_2026-06-22.md
+│   └── MS_SL_RU_Public_Thoughts_Arcs_2026-06-22.md
 └── Tasks/
     └── README.md
 ```
 
 ## Current source of truth
 
-Until a full audit is complete, the strongest current source is:
+Until a full audit is complete, the strongest current sources are:
 
 - `MASTER_MainSite.md` — living master file.
 - `Decisions/2026-06-22_current_chat_site_decisions.md` — first consolidated memory from the current chat and known prior site decisions.
 - `Prompts/Request_Other_Chats_Site_Memory.md` — reusable prompt for extracting site memory from older chats.
+- `Working_Notes/RU_Public_Thoughts_Rotating_Architecture_2026-06-23.md` — current final architecture for the Russian public support-thoughts system: `/ru/public/`, `/ru/public/thoughts/`, rotating completed arcs, and individual support-thought pages.
 
 ## Sorting rule
 
