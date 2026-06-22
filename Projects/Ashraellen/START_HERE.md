@@ -21,6 +21,10 @@ Website import workflow:
 
 `Projects/Ashraellen/MainSite/Prompts/Request_Other_Chats_Site_Memory.md`
 
+Project session logs:
+
+`Projects/Ashraellen/Session_Logs/`
+
 ## Repository roles
 
 Project memory:
@@ -35,7 +39,26 @@ Live website:
 
 Before substantial work, check the relevant memory files.
 
-After substantial work, record the result in the relevant project folder.
+After substantial work, every chat must record what happened.
+
+A session record should include:
+
+- what was done;
+- which decisions were accepted;
+- which files or pages were created, changed or discussed;
+- relevant paths;
+- commit SHAs if available;
+- what remains open;
+- what was rejected, outdated or uncertain;
+- which MASTER or sorted-state files should be updated later.
+
+Default project-wide log folder:
+
+`Projects/Ashraellen/Session_Logs/`
+
+Use short numbered logs:
+
+`SL_001.md`, `SL_002.md`, `SL_003.md`.
 
 For website imports from older chats, use:
 
