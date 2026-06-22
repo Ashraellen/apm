@@ -1,11 +1,12 @@
 # MASTER_Error404 — Error 404: God Not Found
 
-Status: draft master memory
+Status: active master memory
 Created: 2026-06-22
+Updated: 2026-06-22
 
 ## 1. Project identity
 
-Series / cycle title:
+Cycle / series:
 
 `Error 404: God Not Found`
 
@@ -17,89 +18,147 @@ Book I:
 
 `Почему я?` / `Why Me?`
 
-## 2. Core genre and tone
+Book II working title:
+
+`На всё воля Его`
+
+Possible English working title:
+
+`On All Things His Will`
+
+## 2. Current format
+
+Current external format:
+
+`multilingual philosophical-satirical novel cycle / series`
+
+Earlier trilogy logic remains useful as an internal philosophical movement, but it is not the final external format.
+
+Each future book may function as a separate case of the Heavenly Chancellery.
+
+Book I opens the door through Vlad, but Vlad is not the only applicant.
+
+## 3. Current Book I status
+
+Book I is completed as a 22-chapter draft.
+
+This is no longer only a planning project.
+
+The completed draft follows Vlad from the complaint `Почему я?` toward the damaged next question:
+
+`Кто спрашивает?`
+
+The ending is not enlightenment, final peace or completed spiritual realization.
+
+Correct state:
+
+`The old claimant begins to fail.`
+
+`The old question no longer works.`
+
+`The old user is not found in the same form.`
+
+## 4. Core genre and tone
 
 Genre:
 
 - philosophical satire;
 - mystical bureaucracy;
 - everyday absurdity;
+- digital/apocryphal atmosphere;
 - irony plus pain plus spiritual search.
 
 Tone:
 
+- first funny, then painful, then serious;
 - living scenes, not lectures;
 - humor with a philosophical knife;
 - bureaucratic absurdity;
-- ordinary reality touched by metaphysical pressure;
 - no motivational simplification.
 
-## 3. Main character
+The book does not mock God. It mocks the human habit of turning God into service, guarantee, contract, compensation system, emergency button or supreme complaints department.
 
-Vlad is a lawyer.
+## 5. Vlad
 
-At the beginning he is not a sage.
+Vlad is the protagonist of Book I.
 
-He is an irritated claimant against the universe.
+He is a lawyer.
 
-He tries to turn suffering into a document.
+He replaces the earlier name Nikolai.
 
-## 4. Heavenly Chancellery
+At the beginning he is not a sage and not almost enlightened.
 
-The Heavenly Chancellery is not simply a place and not simply an app.
+He is irritated, tired, sarcastic, offended and convinced that suffering gives him the right to demand an explanation.
 
-It is a state that appears through phones, television, coincidences and vanishing notifications.
+He comes not for God, but for a guarantee that his version of pain will be officially recognized.
 
-It should not become cheap fantasy or direct exposition.
+## 6. Heavenly Chancellery
 
-## 5. Structural decisions
+The Heavenly Chancellery is not a place, institution, office, app or fantasy bureaucracy.
 
-Book I should have 22 chapters.
+It is a state through which a person encounters their own request to God, life, fate or Truth.
 
-The number 22 works as symbolic completeness of the path.
+For Vlad, it appears through a legal-bureaucratic interface: claims, windows, numbers, notifications, categories of appeals.
 
-Late chapters should bring back more humor, external scenes and secondary characters.
+## 7. Window No. 7
 
-Anna should not be an ideal therapist. She should be alive, sometimes tired, irritated and sharply teasing.
+Window No. 7 is not a physical office.
 
-## 6. Existing important elements
+It opens in a state.
 
-Important elements already established:
+For Vlad, it handles the category:
 
-- Window No. 7;
-- Donner Kebab;
-- Poshpshekhon;
-- Anna;
-- Vlad's legal work;
-- the box labelled `Разное`;
-- the phrase and idea of bringing a box and demanding that infinity fit into it.
+`Почему я?` / `Why me?`
 
-## 7. File naming rule
+The waiting hall is a place where lonelinesses sit next to each other.
 
-Use the format:
+The conversations are non-conversations: inner monologues intersect Vlad's questions without becoming normal dialogue.
 
-`E404_GNF_Book1_Why_Me_Glava_XX_Nazvanie_Glavy_vY.ext`
+## 8. Root project files
 
-Chapter number should use two digits.
+The core project files remain in the root folder:
 
-Examples:
+`Projects/Error404/INDEX.md`
 
-`E404_GNF_Book1_Why_Me_Glava_01_Oshibka_404_v1.docx`
+`Projects/Error404/README_ABBREVIATIONS.md`
 
-`E404_GNF_Book1_Why_Me_Glava_04_Iskovoe_Sostoyanie_v1.md`
+`Projects/Error404/Project_Bible.md`
 
-## 8. Formats
+`Projects/Error404/Style_Guide.md`
 
-For finished chapters, save:
+`Projects/Error404/Chapter_Plan.md`
 
-- `.md`
-- `.docx`
-- `.txt`
+`Projects/Error404/Window_7.md`
 
-## 9. Open tasks
+`Projects/Error404/Characters.md`
 
-- Build detailed character memory.
-- Build canon file for Window No. 7.
-- Build chapter status map for Book I.
-- Build translation rules for Polish and English versions.
-- Preserve accepted lore for the three-part structure.
+`Projects/Error404/Book1_Completed_Map.md`
+
+`Projects/Error404/Cycle_Arc.md`
+
+`Projects/Error404/Trilogy_Arc.md`
+
+`Projects/Error404/Future_Reservoir_Books_II_III.md`
+
+These files should not be moved into MemorySystem blindly.
+
+MemorySystem indexes, summarizes and routes them.
+
+## 9. File naming rule
+
+Storage chapter filenames should use compact stable format:
+
+`E404GNFB1WM-LANG_CH-XXX_vN.ext`
+
+Example:
+
+`E404GNFB1WM-RU_CH-001_v1.md`
+
+Readable expanded names belong in indexes and maps.
+
+## 10. Open tasks
+
+- Build a full root inventory.
+- Import memories from older Error404 chats into `MemorySystem/Inbox_From_Chats/`.
+- Promote stable imported decisions into this master file.
+- Keep root files as the current canonical project layer unless the user explicitly decides to reorganize.
