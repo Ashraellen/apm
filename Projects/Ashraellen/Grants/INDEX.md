@@ -43,3 +43,25 @@ Independent artistic research / literary-philosophical research / multilingual p
 
 Core formula:
 Ashraellen is a long-term independent literary and philosophical research project exploring self-deception, perception, inner freedom, and the human search for meaning through novels, satire, essays, video, visual formulas, and a multilingual public archive.
+
+## MemorySystem connection
+
+Main project memory system:
+
+`Projects/Ashraellen/MemorySystem/INDEX.md`
+
+Grants master memory:
+
+`Projects/Ashraellen/Grants/MASTER_Grants.md`
+
+Raw grant chat imports:
+
+`Projects/Ashraellen/Grants/Inbox_From_Chats/`
+
+Project session logs:
+
+`Projects/Ashraellen/MemorySystem/Session_Logs/`
+
+Stable grant decisions should be promoted into `MASTER_Grants.md`.
+
+Raw imports and rough notes should go first into `Inbox_From_Chats/`.
