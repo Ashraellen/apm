@@ -8,7 +8,9 @@ Purpose:
 
 This file stores unresolved, contradictory or not-yet-authorized decisions for `Error 404: God Not Found` / `Ошибка 404: Бог не найден`.
 
-Nothing from this file should be promoted into `MASTER_Error404.md`, `Characters/`, `Canon/`, `Chapters/` or `Translations/` without a direct author decision.
+Nothing from unresolved sections in this file should be promoted into `MASTER_Error404.md`, `Characters/`, `Canon/`, `Chapters/` or `Translations/` without a direct author decision.
+
+Resolved technical notes may remain here as history, but should not be treated as canon conflicts.
 
 ---
 
@@ -51,13 +53,13 @@ Should `серaя вата` remain only as atmosphere / subjective feeling, or s
 
 ---
 
-## Conflict: repository identity — Ashraellen/ashraellen-apm vs Ashraellen/apm
+## Resolved technical note: repository identity — Ashraellen/ashraellen-apm → Ashraellen/apm
 
-Status: conflict / needs author decision
+Status: resolved / historical repository rename
 
 ### What one source says
 
-Several imported chat memories report work done in:
+Several imported chat memories reported work done in:
 
 `Ashraellen/ashraellen-apm`
 
@@ -65,32 +67,41 @@ These imports mention commits, file paths, archive folders, chapter uploads, rea
 
 ### What another source says
 
-The current MemorySystem work is being performed in:
+Current MemorySystem work is being performed in:
 
 `Ashraellen/apm`
 
-Current user instruction explicitly uses:
+Author clarification on 2026-06-22:
 
-`Ashraellen/apm`
+`Ashraellen/ashraellen-apm` was renamed to `Ashraellen/apm`.
 
-as the target repository for Error404 MemorySystem work.
+Therefore this is not a canon conflict.
 
 ### Why it matters
 
-If older files exist only in `Ashraellen/ashraellen-apm`, then paths and commit SHAs from raw imports cannot be treated as verified current project state in `Ashraellen/apm`.
+This resolves the repository identity issue for current work.
 
-This affects:
+Old name:
 
-- chapter file inventory;
-- old-version archives;
-- translation rules;
-- `VOLUME_I/` structure;
-- commit SHA references;
-- whether some files need migration or should be ignored.
+`Ashraellen/ashraellen-apm`
+
+New actual name:
+
+`Ashraellen/apm`
+
+All future operations should use:
+
+`Ashraellen/apm`
+
+Old links / commit SHA references from `ashraellen-apm` should be checked only when needed, as historical references from before / during the rename.
 
 ### Suggested next question for author
 
-Is `Ashraellen/apm` now the only canonical repository for Error404, and should any files or commits from `Ashraellen/ashraellen-apm` be migrated, ignored, or treated as historical residue?
+No author decision needed now.
+
+Operational rule:
+
+Use `Ashraellen/apm` as the active canonical repository for all future Error404 work.
 
 ---
 
