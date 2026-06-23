@@ -69,6 +69,7 @@ Commit SHAs:
 0008 paragraph-structure normalization: 98bce35ec1a6449450623f6f983581446abeeafa
 0009 create: 502378e5f1fb3fe151c71a8068383fb393f072e5
 0010 create: 474bc2c3e185df2242ba46713b47fff08ea95bb3
+0010 Alice interpretation note: cc839082a6da5e2742d66508fea4f9405d74422f
 0011 create: 79d09e9a89228e26c730a79984aad28e897d7e27
 0012 create: 0b1faf12cf52fa2520929378341c46348a468aa0
 ```
@@ -136,6 +137,14 @@ For each support-thought, the surrounding blocks were created:
 ```
 
 These blocks were written to serve the supplied full text and preserve the Ashraellen frame: literary-philosophical / artistic research, not motivation, therapy, coaching, or SEO filler.
+
+## Alice interpretation note for 0010
+
+For support-thought 0010, `Грязная чашка`, the author clarified that the piece is a free authorial interpretation of the famous fairy tale `Alice in Wonderland` / `Алиса в Стране чудес`.
+
+The original was changed and expanded to закрепить мысль — to anchor and strengthen the support-thought.
+
+This clarification was added to the page's `Исследовательская заметка`, without changing the supplied `Полный текст`.
 
 ## User verification
 
