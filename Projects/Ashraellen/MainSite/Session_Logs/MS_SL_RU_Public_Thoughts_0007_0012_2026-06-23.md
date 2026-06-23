@@ -137,6 +137,16 @@ For each support-thought, the surrounding blocks were created:
 
 These blocks were written to serve the supplied full text and preserve the Ashraellen frame: literary-philosophical / artistic research, not motivation, therapy, coaching, or SEO filler.
 
+## User verification
+
+The author checked the live result and confirmed:
+
+```text
+Проверил, всё хорошо.
+```
+
+This confirms that the live Russian showcase and the newly created support-thought pages were visually reviewed and accepted by the author.
+
 ## Not touched
 
 The following were not modified:
