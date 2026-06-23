@@ -56,7 +56,8 @@ Projects/Ashraellen/MainSite/
 │   ├── MS_SL_EN_Public_Thoughts_0001_0012_2026-06-23.md
 │   ├── MS_SL_PL_Public_Thoughts_0001_0012_2026-06-23.md
 │   ├── MS_SL_UK_Public_Thoughts_0001_0012_2026-06-23.md
-│   └── MS_SL_BE_Public_Thoughts_0001_0012_2026-06-23.md
+│   ├── MS_SL_BE_Public_Thoughts_0001_0012_2026-06-23.md
+│   └── MS_SL_PT_Public_Thoughts_0001_0012_2026-06-23.md
 └── Tasks/
     └── README.md
 ```
@@ -76,16 +77,10 @@ Until a full audit is complete, the strongest current sources are:
 - `Session_Logs/MS_SL_PL_Public_Thoughts_0001_0012_2026-06-23.md` — implementation log for creating the Polish support-thought architecture and transcreating 0001–0012.
 - `Session_Logs/MS_SL_UK_Public_Thoughts_0001_0012_2026-06-23.md` — implementation log for creating the Ukrainian support-thought architecture and transcreating 0001–0012.
 - `Session_Logs/MS_SL_BE_Public_Thoughts_0001_0012_2026-06-23.md` — implementation log for creating the Belarusian support-thought architecture and transcreating 0001–0012.
+- `Session_Logs/MS_SL_PT_Public_Thoughts_0001_0012_2026-06-23.md` — implementation log for creating the Portuguese support-thought architecture and transcreating 0001–0012.
 
 ## Sorting rule
 
-Do not throw old information directly into the master file. First place it in `Inbox_From_Chats/`, then extract:
+Do not copy raw notes directly into the master file. First place incoming material in `Inbox_From_Chats/`, then extract confirmed decisions, open questions, useful text fragments, technical paths, language/version notes, and outdated or rejected ideas.
 
-- confirmed decisions;
-- open questions;
-- useful text fragments;
-- technical paths/files;
-- language/version notes;
-- outdated or rejected ideas.
-
-This prevents the website memory from becoming a holy landfill with a navigation menu.
+This keeps the website memory clean and navigable.
