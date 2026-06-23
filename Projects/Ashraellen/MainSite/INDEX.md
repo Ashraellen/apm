@@ -29,7 +29,8 @@ Projects/Ashraellen/MainSite/
 ├── INDEX.md
 ├── MASTER_MainSite.md
 ├── Decisions/
-│   └── 2026-06-22_current_chat_site_decisions.md
+│   ├── 2026-06-22_current_chat_site_decisions.md
+│   └── Public_Thoughts_Multilingual_Rollout_Decisions_2026-06-23.md
 ├── Inbox_From_Chats/
 │   └── README.md
 ├── Prompts/
@@ -71,6 +72,7 @@ Until a full audit is complete, the strongest current sources are:
 
 - `MASTER_MainSite.md` — living master file.
 - `Decisions/2026-06-22_current_chat_site_decisions.md` — first consolidated memory from the current chat and known prior site decisions.
+- `Decisions/Public_Thoughts_Multilingual_Rollout_Decisions_2026-06-23.md` — main handoff and decision memo for the completed multilingual support-thought layer 0001–0012, including architecture, terminology, rotation rules, text-protection rules, assets, old-formula preservation and next-chat instructions.
 - `Prompts/Request_Other_Chats_Site_Memory.md` — reusable prompt for extracting site memory from older chats.
 - `Working_Notes/RU_Public_Thoughts_Rotating_Architecture_2026-06-23.md` — current final architecture for the Russian public support-thoughts system: `/ru/public/`, `/ru/public/thoughts/`, rotating completed arcs, and individual support-thought pages.
 - `Session_Logs/MS_SL_RU_Public_Thoughts_Build_2026-06-23.md` — implementation log for creating the correct 0001–0006 support-thought pages and rebuilding `/ru/public/thoughts/index.html`.
