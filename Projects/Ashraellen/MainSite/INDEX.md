@@ -53,7 +53,8 @@ Projects/Ashraellen/MainSite/
 │   ├── MS_SL_RU_Public_Thoughts_Build_2026-06-23.md
 │   ├── MS_SL_RU_Public_Thoughts_Assets_2026-06-23.md
 │   ├── MS_SL_RU_Public_Thoughts_0007_0012_2026-06-23.md
-│   └── MS_SL_EN_Public_Thoughts_0001_0012_2026-06-23.md
+│   ├── MS_SL_EN_Public_Thoughts_0001_0012_2026-06-23.md
+│   └── MS_SL_PL_Public_Thoughts_0001_0012_2026-06-23.md
 └── Tasks/
     └── README.md
 ```
@@ -70,6 +71,7 @@ Until a full audit is complete, the strongest current sources are:
 - `Session_Logs/MS_SL_RU_Public_Thoughts_Assets_2026-06-23.md` — implementation log for moving the new support-thought layer image references to `assets/thoughts/` while preserving the old formula layer.
 - `Session_Logs/MS_SL_RU_Public_Thoughts_0007_0012_2026-06-23.md` — implementation log for creating support-thoughts 0007–0012 and updating `/ru/public/` as the current live showcase.
 - `Session_Logs/MS_SL_EN_Public_Thoughts_0001_0012_2026-06-23.md` — implementation log for creating the English support-thought architecture and transcreating 0001–0012.
+- `Session_Logs/MS_SL_PL_Public_Thoughts_0001_0012_2026-06-23.md` — implementation log for creating the Polish support-thought architecture and transcreating 0001–0012.
 
 ## Sorting rule
 
