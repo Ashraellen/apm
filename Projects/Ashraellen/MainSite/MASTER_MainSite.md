@@ -64,6 +64,7 @@ Known language folders from prior decisions:
 - `/fr/`;
 - `/pt/`;
 - `/uk/`;
+- `/be/`;
 - `/fi/` — introduced or discussed for Kone / Finnish-facing landing context.
 
 The site is multilingual and public-facing. It should remain coherent rather than becoming nine disconnected mini-sites.
@@ -128,7 +129,79 @@ Current working decision from this chat:
 - Better solution: a long, clear Finnish landing page with a link to the detailed English version.
 - The landing should serve as a respectful entrance for Finnish readers while the full professional detail remains in English.
 
-## 9. Repository memory workflow
+## 9. Public Thoughts / Опорные мысли — canonical architecture
+
+Canonical source:
+
+```text
+Projects/Ashraellen/MainSite/Decisions/Public_Thoughts_Multilingual_Rollout_Decisions_2026-06-23.md
+```
+
+This decision file is the main source of truth for the multilingual support-thought layer `0001–0012`. Future chats must read it before touching `/public/`, `/public/thoughts/`, support-thought cards, support-thought pages, old formulas, assets, or translation/transcreation.
+
+Current canonical architecture for every language:
+
+```text
+/[lang]/public/
+→ live showcase of the current six support-thoughts
+
+/[lang]/public/thoughts/
+→ newest completed support-thought arc that has moved away from the live showcase
+
+/[lang]/public/thoughts/index-0001.html
+/[lang]/public/thoughts/index-0002.html
+→ older completed support-thought arcs after rotation
+
+/[lang]/public/thoughts/arcs/0001-cheerfulness.html
+/[lang]/public/thoughts/arcs/0002-still-the-same.html
+...
+→ individual expanded support-thought pages
+```
+
+Current state after the 2026-06-23 rollout:
+
+```text
+/[lang]/public/
+→ 0007–0012
+
+/[lang]/public/thoughts/
+→ 0001–0006
+
+/[lang]/public/thoughts/arcs/
+→ individual pages 0001–0012
+```
+
+Do not revive obsolete intermediate schemes:
+
+```text
+/[lang]/public/thoughts/01-cheerfulness/
+/[lang]/public/thoughts/02-still-the-same/
+/[lang]/public/thoughts/arcs/arc-0001.html
+/[lang]/public/formulas/arcs/
+```
+
+Separate layers:
+
+```text
+/[lang]/public/posts/formula/
+→ short formulas, separate branch
+
+/[lang]/public/posts/formula/lines/
+→ completed short-formula lines
+
+/[lang]/public/formulas/
+→ old historical formula layer; preserve unless the author explicitly decides otherwise
+
+assets/thoughts/
+→ new support-thought images
+
+assets/public-formulas/
+→ old formula-layer images
+```
+
+Russian master text for support-thoughts is protected. Do not shorten, smooth, rewrite, commercialize, motivate, simplify, or silently correct the supplied `Полный текст` without explicit author approval.
+
+## 10. Repository memory workflow
 
 This MainSite folder is not the live website codebase. It is a memory and coordination layer.
 
@@ -144,7 +217,7 @@ Workflow:
 8. Move grant/institutional positioning into `Grant_Positioning/`.
 9. Maintain open tasks in `Tasks/`.
 
-## 10. Open work
+## 11. Open work
 
 To be done after importing old chat summaries:
 
@@ -157,7 +230,7 @@ To be done after importing old chat summaries:
 - identify what is implemented, what is drafted, and what is only discussed;
 - produce a clean `MASTER_MainSite_v1` after sorting incoming materials.
 
-## 11. Rule for future additions
+## 12. Rule for future additions
 
 Every future site-related decision should be recorded with:
 
