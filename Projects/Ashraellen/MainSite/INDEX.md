@@ -57,7 +57,8 @@ Projects/Ashraellen/MainSite/
 │   ├── MS_SL_PL_Public_Thoughts_0001_0012_2026-06-23.md
 │   ├── MS_SL_UK_Public_Thoughts_0001_0012_2026-06-23.md
 │   ├── MS_SL_BE_Public_Thoughts_0001_0012_2026-06-23.md
-│   └── MS_SL_PT_Public_Thoughts_0001_0012_2026-06-23.md
+│   ├── MS_SL_PT_Public_Thoughts_0001_0012_2026-06-23.md
+│   └── MS_SL_ES_Public_Thoughts_0001_0012_2026-06-23.md
 └── Tasks/
     └── README.md
 ```
@@ -78,6 +79,7 @@ Until a full audit is complete, the strongest current sources are:
 - `Session_Logs/MS_SL_UK_Public_Thoughts_0001_0012_2026-06-23.md` — implementation log for creating the Ukrainian support-thought architecture and transcreating 0001–0012.
 - `Session_Logs/MS_SL_BE_Public_Thoughts_0001_0012_2026-06-23.md` — implementation log for creating the Belarusian support-thought architecture and transcreating 0001–0012.
 - `Session_Logs/MS_SL_PT_Public_Thoughts_0001_0012_2026-06-23.md` — implementation log for creating the Portuguese support-thought architecture and transcreating 0001–0012.
+- `Session_Logs/MS_SL_ES_Public_Thoughts_0001_0012_2026-06-23.md` — implementation log for creating the Spanish support-thought architecture and transcreating 0001–0012.
 
 ## Sorting rule
 
