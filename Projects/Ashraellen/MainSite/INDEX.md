@@ -46,7 +46,7 @@ Projects/Ashraellen/MainSite/
 ├── Assets/
 │   └── README.md
 ├── Working_Notes/
-│   ├── RU_Public_Thoughts_Migration_2026-06-22.md
+│   ├── RU_Public_Thoughts_Migration_2026-06-22.md  [SUPERSEDED — historical only]
 │   └── RU_Public_Thoughts_Rotating_Architecture_2026-06-23.md
 ├── Session_Logs/
 │   ├── MS_SL_RU_Public_Thoughts_2026-06-22.md
@@ -71,10 +71,11 @@ Projects/Ashraellen/MainSite/
 Until a full audit is complete, the strongest current sources are:
 
 - `MASTER_MainSite.md` — living master file.
+- `Decisions/Public_Thoughts_Multilingual_Rollout_Decisions_2026-06-23.md` — **canonical source of truth** for the completed multilingual support-thought layer 0001–0012. It defines architecture, terminology, rotation rules, text-protection rules, assets, old-formula preservation, multilingual rollout and next-chat instructions.
 - `Decisions/2026-06-22_current_chat_site_decisions.md` — first consolidated memory from the current chat and known prior site decisions.
-- `Decisions/Public_Thoughts_Multilingual_Rollout_Decisions_2026-06-23.md` — main handoff and decision memo for the completed multilingual support-thought layer 0001–0012, including architecture, terminology, rotation rules, text-protection rules, assets, old-formula preservation and next-chat instructions.
 - `Prompts/Request_Other_Chats_Site_Memory.md` — reusable prompt for extracting site memory from older chats.
-- `Working_Notes/RU_Public_Thoughts_Rotating_Architecture_2026-06-23.md` — current final architecture for the Russian public support-thoughts system: `/ru/public/`, `/ru/public/thoughts/`, rotating completed arcs, and individual support-thought pages.
+- `Working_Notes/RU_Public_Thoughts_Rotating_Architecture_2026-06-23.md` — Russian implementation note for the rotating public support-thoughts system. It supports the canonical decision file but does not override it.
+- `Working_Notes/RU_Public_Thoughts_Migration_2026-06-22.md` — **superseded historical note only**. Do not use it as an active architecture source.
 - `Session_Logs/MS_SL_RU_Public_Thoughts_Build_2026-06-23.md` — implementation log for creating the correct 0001–0006 support-thought pages and rebuilding `/ru/public/thoughts/index.html`.
 - `Session_Logs/MS_SL_RU_Public_Thoughts_Assets_2026-06-23.md` — implementation log for moving the new support-thought layer image references to `assets/thoughts/` while preserving the old formula layer.
 - `Session_Logs/MS_SL_RU_Public_Thoughts_0007_0012_2026-06-23.md` — implementation log for creating support-thoughts 0007–0012 and updating `/ru/public/` as the current live showcase.
@@ -86,6 +87,42 @@ Until a full audit is complete, the strongest current sources are:
 - `Session_Logs/MS_SL_ES_Public_Thoughts_0001_0012_2026-06-23.md` — implementation log for creating the Spanish support-thought architecture and transcreating 0001–0012.
 - `Session_Logs/MS_SL_FR_Public_Thoughts_0001_0012_2026-06-23.md` — implementation log for creating the French support-thought architecture and transcreating 0001–0012.
 - `Session_Logs/MS_SL_DE_Public_Thoughts_0001_0012_2026-06-23.md` — implementation log for creating the German support-thought architecture and transcreating 0001–0012.
+
+## Public Thoughts warning for new chats
+
+For `Public Thoughts` / `Опорные мысли`, do not revive older intermediate schemes.
+
+Current canonical pattern:
+
+```text
+/[lang]/public/
+→ current live six
+
+/[lang]/public/thoughts/
+→ newest completed support-thought arc
+
+/[lang]/public/thoughts/index-0001.html
+/[lang]/public/thoughts/index-0002.html
+→ older completed arcs
+
+/[lang]/public/thoughts/arcs/0001-cheerfulness.html
+/[lang]/public/thoughts/arcs/0002-still-the-same.html
+→ individual support-thought pages
+
+/[lang]/public/posts/formula/
+→ short formulas, separate branch
+
+/[lang]/public/formulas/
+→ old historical formula layer, preserve unless explicitly decided otherwise
+```
+
+Do not use as active architecture:
+
+```text
+/[lang]/public/thoughts/01-cheerfulness/
+/[lang]/public/thoughts/arcs/arc-0001.html
+/[lang]/public/formulas/arcs/
+```
 
 ## Sorting rule
 
