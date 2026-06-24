@@ -54,6 +54,7 @@ Projects/Ashraellen/MainSite/
 │   ├── MS_SL_RU_Public_Thoughts_Build_2026-06-23.md
 │   ├── MS_SL_RU_Public_Thoughts_Assets_2026-06-23.md
 │   ├── MS_SL_RU_Public_Thoughts_0007_0012_2026-06-23.md
+│   ├── MS_SL_RU_Public_Thoughts_0013_0018_2026-06-24.md
 │   ├── MS_SL_EN_Public_Thoughts_0001_0012_2026-06-23.md
 │   ├── MS_SL_PL_Public_Thoughts_0001_0012_2026-06-23.md
 │   ├── MS_SL_UK_Public_Thoughts_0001_0012_2026-06-23.md
@@ -79,6 +80,7 @@ Until a full audit is complete, the strongest current sources are:
 - `Session_Logs/MS_SL_RU_Public_Thoughts_Build_2026-06-23.md` — implementation log for creating the correct 0001–0006 support-thought pages and rebuilding `/ru/public/thoughts/index.html`.
 - `Session_Logs/MS_SL_RU_Public_Thoughts_Assets_2026-06-23.md` — implementation log for moving the new support-thought layer image references to `assets/thoughts/` while preserving the old formula layer.
 - `Session_Logs/MS_SL_RU_Public_Thoughts_0007_0012_2026-06-23.md` — implementation log for creating support-thoughts 0007–0012 and updating `/ru/public/` as the current live showcase.
+- `Session_Logs/MS_SL_RU_Public_Thoughts_0013_0018_2026-06-24.md` — implementation log for creating support-thoughts 0013–0018, updating `/ru/public/` as the current live showcase, rotating `0007–0012` into `/ru/public/thoughts/`, and archiving `0001–0006` as `index-0001.html`.
 - `Session_Logs/MS_SL_EN_Public_Thoughts_0001_0012_2026-06-23.md` — implementation log for creating the English support-thought architecture and transcreating 0001–0012.
 - `Session_Logs/MS_SL_PL_Public_Thoughts_0001_0012_2026-06-23.md` — implementation log for creating the Polish support-thought architecture and transcreating 0001–0012.
 - `Session_Logs/MS_SL_UK_Public_Thoughts_0001_0012_2026-06-23.md` — implementation log for creating the Ukrainian support-thought architecture and transcreating 0001–0012.
@@ -101,9 +103,11 @@ Current canonical pattern:
 /[lang]/public/thoughts/
 → newest completed support-thought arc
 
+/[lang]/public/thoughts/index-000N.html
+/[lang]/public/thoughts/index-000(N-1).html
+...
 /[lang]/public/thoughts/index-0001.html
-/[lang]/public/thoughts/index-0002.html
-→ older completed arcs
+→ older completed arcs in descending historical order; the larger the arc number, the newer the arc
 
 /[lang]/public/thoughts/arcs/0001-cheerfulness.html
 /[lang]/public/thoughts/arcs/0002-still-the-same.html
