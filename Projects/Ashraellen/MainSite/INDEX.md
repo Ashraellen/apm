@@ -31,7 +31,8 @@ Projects/Ashraellen/MainSite/
 ├── Decisions/
 │   ├── 2026-06-22_current_chat_site_decisions.md
 │   ├── Public_Thoughts_Multilingual_Rollout_Decisions_2026-06-23.md
-│   └── Public_Thoughts_Arc_Page_Navigation_Rule_2026-06-24.md
+│   ├── Public_Thoughts_Arc_Page_Navigation_Rule_2026-06-24.md
+│   └── Mark_Of_Presence_Label_Rule_2026-06-24.md
 ├── Inbox_From_Chats/
 │   └── README.md
 ├── Prompts/
@@ -75,6 +76,7 @@ Until a full audit is complete, the strongest current sources are:
 - `MASTER_MainSite.md` — living master file.
 - `Decisions/Public_Thoughts_Multilingual_Rollout_Decisions_2026-06-23.md` — **canonical source of truth** for the completed multilingual support-thought layer 0001–0012. It defines architecture, terminology, rotation rules, text-protection rules, assets, old-formula preservation, multilingual rollout and next-chat instructions.
 - `Decisions/Public_Thoughts_Arc_Page_Navigation_Rule_2026-06-24.md` — active addendum defining arc-page navigation: pages of arcs use only arc-level buttons (`← Previous arc` / `Next arc →` and localized equivalents); the oldest arc omits the next-arc button when no older arc exists.
+- `Decisions/Mark_Of_Presence_Label_Rule_2026-06-24.md` — active rule: the seal label must always be exactly `— mark of presence` in English on every language version; it is a symbolic site formula, not a translatable interface string.
 - `Decisions/2026-06-22_current_chat_site_decisions.md` — first consolidated memory from the current chat and known prior site decisions.
 - `Prompts/Request_Other_Chats_Site_Memory.md` — reusable prompt for extracting site memory from older chats.
 - `Working_Notes/RU_Public_Thoughts_Rotating_Architecture_2026-06-23.md` — Russian implementation note for the rotating public support-thoughts system. It supports the canonical decision file but does not override it.
