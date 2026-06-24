@@ -32,13 +32,16 @@ Projects/Ashraellen/MainSite/
 │   ├── 2026-06-22_current_chat_site_decisions.md
 │   ├── Public_Thoughts_Multilingual_Rollout_Decisions_2026-06-23.md
 │   ├── Public_Thoughts_Arc_Page_Navigation_Rule_2026-06-24.md
-│   └── Mark_Of_Presence_Label_Rule_2026-06-24.md
+│   ├── Mark_Of_Presence_Label_Rule_2026-06-24.md
+│   └── Support_Thoughts_Anti_Duplication_System_2026-06-25.md
 ├── Inbox_From_Chats/
 │   └── README.md
 ├── Prompts/
 │   └── Request_Other_Chats_Site_Memory.md
 ├── Content/
-│   └── README.md
+│   ├── README.md
+│   ├── Support_Thoughts_Source_Register.md
+│   └── Telegram_Channel_Scan_Log.md
 ├── Languages/
 │   └── README.md
 ├── Technical/
@@ -77,6 +80,9 @@ Until a full audit is complete, the strongest current sources are:
 - `Decisions/Public_Thoughts_Multilingual_Rollout_Decisions_2026-06-23.md` — **canonical source of truth** for the completed multilingual support-thought layer 0001–0012. It defines architecture, terminology, rotation rules, text-protection rules, assets, old-formula preservation, multilingual rollout and next-chat instructions.
 - `Decisions/Public_Thoughts_Arc_Page_Navigation_Rule_2026-06-24.md` — active addendum defining arc-page navigation: pages of arcs use only arc-level buttons (`← Previous arc` / `Next arc →` and localized equivalents); the oldest arc omits the next-arc button when no older arc exists.
 - `Decisions/Mark_Of_Presence_Label_Rule_2026-06-24.md` — active rule: the seal label must always be exactly `— mark of presence` in English on every language version; it is a symbolic site formula, not a translatable interface string.
+- `Decisions/Support_Thoughts_Anti_Duplication_System_2026-06-25.md` — active rule for preventing duplicate support thoughts. It defines exact, formula, image/metaphor, thematic and final-turn duplicates; it requires checking candidates before assigning new numbers.
+- `Content/Support_Thoughts_Source_Register.md` — active anti-duplication register of published thoughts. It currently records 0001–0018 as `done`, with formulas, core themes, central images, slugs, assets and duplicate guards.
+- `Content/Telegram_Channel_Scan_Log.md` — active scan log for the Telegram channel `https://t.me/ashraellenchannel`; it records reviewed layers, candidate examples and last reviewed markers for future support-thought arcs.
 - `Decisions/2026-06-22_current_chat_site_decisions.md` — first consolidated memory from the current chat and known prior site decisions.
 - `Prompts/Request_Other_Chats_Site_Memory.md` — reusable prompt for extracting site memory from older chats.
 - `Working_Notes/RU_Public_Thoughts_Rotating_Architecture_2026-06-23.md` — Russian implementation note for the rotating public support-thoughts system. It supports the canonical decision file but does not override it.
@@ -131,6 +137,20 @@ Do not use as active architecture:
 /[lang]/public/thoughts/arcs/arc-0001.html
 /[lang]/public/formulas/arcs/
 ```
+
+## Anti-duplication rule for new arcs
+
+Before creating any new support-thought arc, read:
+
+```text
+Decisions/Support_Thoughts_Anti_Duplication_System_2026-06-25.md
+Content/Support_Thoughts_Source_Register.md
+Content/Telegram_Channel_Scan_Log.md
+```
+
+Do not assign new official numbers until candidates have been checked against the register for formula, central image, core theme, final turn and source reuse.
+
+If a candidate has high similarity risk, mark it `review` and ask the user before using it as a new thought.
 
 ## Sorting rule
 
