@@ -54,6 +54,12 @@ review    — requires user's decision
 | 0016 | done | 0003 | Факт был один | Факт был один. А страдания — на три сезона с продолжением. | anxiety, interpretation, overthinking, fact | one fact vs inner dramatic series | 0016-one-fact | 0016-one-fact.jpg | Telegram public channel, exact message link to be backfilled. | Avoid another thought where the main mechanism is small fact plus imagined suffering series. |
 | 0017 | done | 0003 | Свидетель не мешает истине | Свидетель — это не тот, кто ничего не делает. Это тот, кто не мешает истине стать видимой раньше времени. | calm, witnessing, patience, truth | witness not interfering / waiting | 0017-witness-does-not-interfere | 0017-witness-does-not-interfere.jpg | Telegram public channel, exact message link to be backfilled. | Do not duplicate witness-as-non-interference as separate thought. |
 | 0018 | done | 0003 | Образ не может быть счастлив | Образ может получить признание. Но он не может быть счастлив. | image, self-realization, authenticity, recognition | image vs living person | 0018-image-cannot-be-happy | 0018-image-cannot-be-happy.jpg | Telegram public channel, exact message link to be backfilled. | Avoid another thought whose core is public image/role cannot live or be happy. |
+| 0019 | done | 0004 | Не бомбите | Не бомбите — и не бомбимы будете. | aggression, reaction, return, inner war | what is released into the world becomes one's environment | 0019-do-not-bomb | 0019-do-not-bomb.jpg | Telegram public channel; built in RU on 2026-06-25. | Do not duplicate returning aggression / bombing as environment. |
+| 0020 | done | 0004 | Народ и масса | Народ помнит. Масса реагирует. | people, mass, memory, collective reaction, attention | people as memory vs mass as reactive flow | 0020-people-and-mass | 0020-people-and-mass.jpg | Telegram public channel; built in RU on 2026-06-25. | Do not duplicate people/mass distinction unless radically new. |
+| 0021 | done | 0004 | Брачные игры | Отношения редко начинаются с другого человека. Чаще всего они начинаются с той роли, которую мы уже принесли с собой. | relationships, roles, scenarios, inner request | mating-game scenarios / brought role | 0021-mating-games | 0021-mating-games.jpg | Telegram public channel; built in RU on 2026-06-25. | Do not duplicate relationship-as-brought-role scenario. |
+| 0022 | done | 0004 | Духовность не навязывается | Подлинная духовность не навязывается. Ею очаровываются. | spirituality, coercion, fear, recognition, Source | spirituality as recognition, not force | 0022-spirituality-is-not-forced | 0022-spirituality-is-not-forced.jpg | Telegram public channel; built in RU on 2026-06-25. | Do not duplicate spirituality-as-non-coercion. |
+| 0023 | done | 0004 | Цена перехода | Любой переход на новый этап оплачивается кризисом. | transition, crisis, price, role, change | crisis as price of transition | 0023-price-of-transition | 0023-price-of-transition.jpg | Telegram public channel; built in RU on 2026-06-25. | Do not duplicate crisis-as-price-of-transition. |
+| 0024 | done | 0004 | Подлинный враг | Подлинным врагом человека является не его невежество. А уверенность, что он уже знает достаточно. | ignorance, certainty, pride, learning, humility | ignorance fenced by pride / false certainty | 0024-true-enemy-not-ignorance | 0024-true-enemy-not-ignorance.jpg | User-selected source line; full support thought developed in RU on 2026-06-25. | Do not duplicate ignorance vs closed certainty / pride around not-knowing. |
 
 ## Candidate buffer for next arc
 
@@ -65,7 +71,7 @@ Use this section only while preparing the next arc. Move selected rows into the 
 
 ## Duplicate check before assigning numbers
 
-Before assigning official numbers 0019–0024, write a short check like this:
+Before assigning official numbers 0025–0030, write a short check like this:
 
 ```text
 Candidate formula:
