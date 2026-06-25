@@ -56,6 +56,55 @@ Last reviewed marker:
 
 ## Current known scan state
 
+### 2026-06-25 — Arc 0004, thoughts 0019–0024
+
+Channel access method:
+- Public Telegram preview.
+- Additional user-selected source line for 0024: `Подлинным врагом человека является не его невежество.`
+
+Reviewed range:
+- Nearest visible post layer after the material used for 0013–0018.
+- Public preview confirmed candidate texts including 0019–0023.
+- Exact message links were not backfilled; use public channel source note unless direct links are later needed.
+
+Selected and published in RU:
+
+```text
+0019 — Не бомбите
+0020 — Народ и масса
+0021 — Брачные игры
+0022 — Духовность не навязывается
+0023 — Цена перехода
+0024 — Подлинный враг
+```
+
+Duplicate / skip notes:
+- Original proposed 0024 from the same post as 0023 (`Исчерпанная роль`) was rejected by the user because it repeated the same source layer.
+- Replacement 0024 was accepted from the user-selected first line about ignorance.
+- 0023 and 0024 are now independent source centers.
+
+Implementation notes:
+- RU individual pages created under `ru/public/thoughts/arcs/0019–0024`.
+- RU live showcase `/ru/public/` now points to 0019–0024.
+- Previous live arc 0013–0018 moved to `/ru/public/thoughts/` as DUГА 0003.
+- Former `/ru/public/thoughts/` arc 0002 moved to `ru/public/thoughts/index-0002.html`.
+- `ru/public/thoughts/index-0001.html` navigation updated to point back to `index-0002.html`.
+- `0018-image-cannot-be-happy.html` next-arc link updated to `index-0002.html` to avoid a self-loop after rotation.
+
+Duplicate guard:
+- These six are now registered as `done` in `Support_Thoughts_Source_Register.md`.
+- Do not reuse their formulas, central images or final turns as new thoughts.
+
+Last reviewed marker:
+- Exact Telegram message link not logged.
+- Next scan should begin after the Arc 0004 source cluster and avoid reusing:
+  - returning aggression / bombing;
+  - people vs mass;
+  - relationship role scripts;
+  - spirituality as non-coercion;
+  - crisis as price of transition;
+  - ignorance vs closed certainty.
+
 ### 2026-06-24/25 — Arc 0003, thoughts 0013–0018
 
 Channel access method:
@@ -91,13 +140,10 @@ Candidate examples visible near this layer, not yet selected:
 ```
 
 Status of these examples:
-- Not selected yet.
-- Must be checked against the register before use.
-- They are not reserved and not numbered.
+- Selected and published later as part of Arc 0004, except original same-source 0024 was replaced.
 
 Last reviewed marker:
 - Exact Telegram message link not logged.
-- Next scan should begin from the currently visible post layer after the 0013–0018 source cluster, then move further as needed.
 
 ## Notes
 
