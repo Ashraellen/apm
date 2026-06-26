@@ -19,6 +19,12 @@ assets/formulas/<lang>.json
 
 This rule does not govern Public Thoughts / Опорные мысли.
 
+All language work for this content type is also governed by the site-wide transcreation rule:
+
+```text
+Decisions/Site_Wide_Transcreation_Rule_2026-06-26.md
+```
+
 ## 2. Core distinction
 
 Formulas are their own public format.
@@ -167,9 +173,27 @@ Block: <theme of the active line>
 
 ## 8. Implementation model
 
-The current multilingual implementation uses lightweight language page shells plus a shared renderer.
+The current multilingual Formula implementation uses lightweight language page shells plus a shared renderer:
 
-Page shells exist at:
+```text
+assets/formula-multilingual.js
+assets/formulas/<lang>.json
+```
+
+This exists because the language pages were first created technically, and the transcreation step was added afterward.
+
+Therefore this model is accepted as the current working implementation, but it must not be treated as the preferred model for future content creation.
+
+For future Formula lines, the preferred workflow is:
+
+```text
+1. Prepare the source line.
+2. Approve the line's meaning, rhythm and set of formulas.
+3. Transcreate the line into all target languages before publication.
+4. Publish self-contained language pages with the transcreated text already present in HTML, unless there is a concrete technical reason to keep a shared renderer/data model.
+```
+
+The current page shells exist at:
 
 ```text
 /[lang]/public/posts/formula/index.html
@@ -178,13 +202,7 @@ Page shells exist at:
 /[lang]/public/posts/formula/lines/line-0002.html
 ```
 
-The renderer is:
-
-```text
-assets/formula-multilingual.js
-```
-
-The transcreation data files are:
+The current data files are:
 
 ```text
 assets/formulas/en.json
@@ -197,11 +215,17 @@ assets/formulas/uk.json
 assets/formulas/be.json
 ```
 
-Russian may remain static while useful, but future multilingual work should prefer the separated renderer/data model.
+Russian currently has its own static implementation.
 
 ## 9. Transcreation rule
 
-Formula localization must be transcreation, not literal translation.
+Formula localization follows the site-wide transcreation rule:
+
+```text
+Decisions/Site_Wide_Transcreation_Rule_2026-06-26.md
+```
+
+Formula language work must be transcreation, not literal translation.
 
 Goal:
 
@@ -271,10 +295,12 @@ When adding a new current line, check these files:
 /[lang]/public/posts/formula/index.html
 /[lang]/public/posts/formula/lines/index.html
 /[lang]/public/posts/formula/lines/line-000N.html
-assets/formulas/<lang>.json
+assets/formulas/<lang>.json, only while the current shared data implementation remains in use
 assets/formula-multilingual.js, only if the mechanism changes
 assets/formula.css, only if visual style changes
 ```
+
+Preferred future publication is self-contained language HTML with the transcreated text already present.
 
 Update the APM memory if the mechanism, file layout, or line logic changes.
 
