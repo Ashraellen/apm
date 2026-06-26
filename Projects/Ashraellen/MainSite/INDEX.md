@@ -30,6 +30,7 @@ Projects/Ashraellen/MainSite/
 ├── MASTER_MainSite.md
 ├── Decisions/
 │   ├── 2026-06-22_current_chat_site_decisions.md
+│   ├── Public_Posts_Formulas_Working_Rule_2026-06-26.md
 │   ├── Public_Thoughts_Working_Reference_2026-06-26.md
 │   ├── Public_Thoughts_Current_Status_Addendum_2026-06-26.md
 │   ├── Public_Thoughts_Multilingual_Rollout_Decisions_2026-06-23.md
@@ -82,6 +83,7 @@ Projects/Ashraellen/MainSite/
 Until a full audit is complete, the strongest current sources are:
 
 - `MASTER_MainSite.md` — living master file for the whole Ashraellen MainSite.
+- `Decisions/Public_Posts_Formulas_Working_Rule_2026-06-26.md` — active working rule for `/[lang]/public/posts/formula/`. It defines Formula posts as a separate format from Public Thoughts: formulas must not be echoes, extracts, summaries or repetitions of support thoughts. New formula lines may use Telegram material or newly written standalone formulas.
 - `Decisions/Public_Thoughts_Working_Reference_2026-06-26.md` — **first operational entry point for Public Thoughts / Опорные мысли**. It records the current 0001–0024 boundary, the next 0025–0030 / ДУГА 0005 range, aligned languages, golden-template method, CSS, seal, cards, navigation, assets, text structure, anti-duplication, update targets and the next rotation guard with `index-0003.html`.
 - `Decisions/Public_Thoughts_Current_Status_Addendum_2026-06-26.md` — active current-status addendum. It records the aligned language set `RU, EN, PL, UK, BE, PT, ES, FR, DE`, the current Public Thoughts layout, the 0024 / ДУГА 0004 boundary, and the next rotation target for 0025–0030 / ДУГА 0005.
 - `Decisions/Support_Thoughts_CSS_Split_2026-06-25.md` — active technical rule for Public Thoughts CSS split. It records `assets/arcs.css` for individual support-thought pages, `assets/thoughts.css` for arc/index pages, current spacing values, and the rule that working legacy pages are not cleaned only for the sake of cleanup.
@@ -109,6 +111,31 @@ Until a full audit is complete, the strongest current sources are:
 - `Session_Logs/MS_SL_ES_Public_Thoughts_0001_0012_2026-06-23.md` — implementation log for creating the Spanish support-thought architecture and transcreating 0001–0012.
 - `Session_Logs/MS_SL_FR_Public_Thoughts_0001_0012_2026-06-23.md` — implementation log for creating the French support-thought architecture and transcreating 0001–0012.
 - `Session_Logs/MS_SL_DE_Public_Thoughts_0001_0012_2026-06-23.md` — implementation log for creating the German support-thought architecture and transcreating 0001–0012.
+
+## Public formulas rule
+
+For `/[lang]/public/posts/formula/`, start with:
+
+```text
+Decisions/Public_Posts_Formulas_Working_Rule_2026-06-26.md
+```
+
+Current formula structure:
+
+```text
+/[lang]/public/posts/formula/
+→ current active formula line
+
+/[lang]/public/posts/formula/lines/
+→ completed formula lines index
+
+/[lang]/public/posts/formula/lines/line-000N.html
+→ completed formula line archive
+```
+
+Formula posts are independent from Public Thoughts. They must not echo the current support-thought arc or repeat Public Thoughts as shortened cards.
+
+Formula candidates may come from Telegram material or from newly written standalone formulas approved for this format.
 
 ## Public Thoughts warning for new chats
 
