@@ -1,196 +1,281 @@
-# Public Posts — Formulas working rule
+# Public Posts — Formulas content type rule
 
 Date: 2026-06-26
 Project: Ashraellen MainSite / Public / Posts / Formula
-Status: active working rule
+Status: active content-type rule
 
-## Scope
+## 1. Scope
 
-This rule governs:
+This rule governs the `Formula` post type under Public Posts:
 
 ```text
 /[lang]/public/posts/formula/
 /[lang]/public/posts/formula/lines/
 /[lang]/public/posts/formula/lines/line-000N.html
+assets/formula.css
+assets/formula-multilingual.js
+assets/formulas/<lang>.json
 ```
 
-It does not govern Public Thoughts / Опорные мысли.
+This rule does not govern Public Thoughts / Опорные мысли.
 
-## Core distinction
+## 2. Core distinction
 
 Formulas are their own public format.
 
-They must not be an echo, extract, summary, or repetition of Public Thoughts.
-
-Public Thoughts and Formulas may share the wider Ashraellen field, but they are separate publication types:
+They must not be treated as:
 
 ```text
-Public Thoughts / Опорные мысли
-→ support-thought pages, arcs, images, individual pages, archive rotation
-
-Posts / Formula
-→ short formula cards, current line, completed lines archive
+- Public Thoughts excerpts
+- shortened support thoughts
+- summaries of Public Thoughts
+- echoes of the current Public Thoughts arc
+- replacements for Public Thoughts
 ```
 
-## Mechanical similarity to Public Thoughts
+Formulas may belong to the same Ashraellen field, but they are a separate content type.
 
-The formula section is separate in content, but its rotation mechanism is intentionally similar to Public Thoughts.
+## 3. Content principle
 
-Both systems have:
+A formula is a short, self-contained line of thought.
+
+It should work as:
 
 ```text
-current visible layer
-→ archive layer
-→ numbered historical pages
+one thought
+one inner movement
+one precise strike
 ```
 
-For Public Thoughts this appears as:
+Formula cards should remain concise, clean and direct.
+
+A formula should not become:
 
 ```text
-/[lang]/public/
-→ current live support-thought arc
-
-/[lang]/public/thoughts/
-→ newest completed support-thought arc
-
-/[lang]/public/thoughts/index-000N.html
-→ older completed support-thought arcs
+- a miniature essay
+- a motivational quote
+- a doctrine statement
+- an explanation
+- a comment on another page
 ```
 
-For Formula posts this appears as:
-
-```text
-/[lang]/public/posts/formula/
-→ current active formula line
-
-/[lang]/public/posts/formula/lines/
-→ completed formula lines index
-
-/[lang]/public/posts/formula/lines/line-000N.html
-→ completed formula line archive
-```
-
-The mechanism may be similar; the content must remain separate.
-
-## Numbering rule
+## 4. Numbering rule
 
 Individual formulas are not numbered.
 
-Only formula lines are numbered:
+Only formula lines are numbered conceptually and archivally:
 
 ```text
 line-0001.html
 line-0002.html
 line-0003.html
+...
 ```
 
-Inside a line, formulas remain short standalone cards without visible numeric labels.
+Inside a line, formulas appear as unnumbered cards.
 
-## Current structure
+## 5. Rotation model
 
-The current Russian implementation uses:
+The formula section uses a layered rotation model.
 
-```text
-/ru/public/posts/formula/
-→ current formula line
-
-/ru/public/posts/formula/lines/
-→ index of completed formula lines
-
-/ru/public/posts/formula/lines/line-0001.html
-→ first completed formula line
-```
-
-The current formula section uses:
+Current state after the first implemented rotation set:
 
 ```text
-assets/formula.css
-```
-
-## Line logic
-
-The formula section works by lines.
-
-A line is a compact set of short formulas united by tone, theme or inner movement.
-
-Working model:
-
-```text
-/formula/
+/[lang]/public/posts/formula/
 → current active line
 
-/formula/lines/
-→ list of completed lines
+/[lang]/public/posts/formula/lines/
+→ previous line
 
-/formula/lines/line-000N.html
-→ completed line archive page
+/[lang]/public/posts/formula/lines/line-0002.html
+→ older archived line
+
+/[lang]/public/posts/formula/lines/line-0001.html
+→ oldest archived line in the current set
 ```
 
-When a current line is completed, preserve it as the next `line-000N.html`, add it to `/lines/`, and place the next active line on `/formula/`.
-
-## Line navigation
-
-Formula line pages use line-level navigation when adjacent lines exist:
+Example current chain:
 
 ```text
+0004 current
+→ 0003 previous
+→ 0002 archive
+→ 0001 archive
+```
+
+When a new line appears:
+
+```text
+1. Move the current /formula/ line into /formula/lines/.
+2. Preserve the previous /formula/lines/ line as the next numbered archive file.
+3. Keep older numbered archive files intact.
+4. Put the new active line into /formula/.
+```
+
+## 6. Navigation model
+
+The active line page uses:
+
+```text
+Следующая линия →
+```
+
+to move from the newest active line toward the previous line.
+
+Previous and archived line pages may use:
+
+```text
+Актуальная линия
 ← Предыдущая линия
 Следующая линия →
 ```
 
-The current active line may link back to the previous completed line.
+Navigation is chronological by line layers, not by individual formula cards.
 
-A completed line may link forward to the current active line if that is the next line in sequence.
+## 7. Heading model
 
-## Source rule
+Avoid repeating the same line label several times on a page.
 
-Formula candidates may come from:
-
-1. Telegram channel material.
-2. New formulas written specifically for this format.
-3. Author-approved adaptations that do not repeat Public Thoughts.
-
-Do not automatically derive formulas from current Public Thoughts.
-
-Do not use the formula section as a mirror of the support-thought arc currently visible on `/public/`.
-
-## Selection rule
-
-Before publishing a new formula line, check that candidates do not duplicate current Public Thoughts by:
+Preferred visible structure for previous/archive line pages:
 
 ```text
-exact final line
-central image
-core theme
-same rhetorical turn
-same wording with shorter length
+H1:
+<theme of the line>
+
+Lead:
+<ordinal status of the line>
+
+Inner block heading:
+Formulas of the line / Формулы линии / localized equivalent
 ```
 
-A formula may be philosophically adjacent to the wider Ashraellen system, but it should have its own angle and not feel like a cut-down support thought.
-
-## Card structure
-
-Each formula card follows the current practical structure:
-
-```html
-<article class="formula-card">
-  <p class="kicker">Формула</p>
-  <p class="formula-text">...</p>
-  <div class="formula-tags">...</div>
-</article>
-```
-
-## Current next task
-
-The next formula task is to create a second formula line for:
+Example:
 
 ```text
-/ru/public/posts/formula/
+H1: Мысль, внимание, тело, прошлое
+Lead: Первая архивная линия формул.
+Block: Формулы линии
 ```
 
-This second line should not be based on support thoughts `0019–0024`.
-
-Use Telegram material and/or new standalone formulas. Keep the first completed line preserved as:
+The active page may keep:
 
 ```text
-/ru/public/posts/formula/lines/line-0001.html
+H1: Формулы
+Lead: Лаконичные формулировки...
+Block: <theme of the active line>
 ```
+
+## 8. Implementation model
+
+The current multilingual implementation uses lightweight language page shells plus a shared renderer.
+
+Page shells exist at:
+
+```text
+/[lang]/public/posts/formula/index.html
+/[lang]/public/posts/formula/lines/index.html
+/[lang]/public/posts/formula/lines/line-0001.html
+/[lang]/public/posts/formula/lines/line-0002.html
+```
+
+The renderer is:
+
+```text
+assets/formula-multilingual.js
+```
+
+The transcreation data files are:
+
+```text
+assets/formulas/en.json
+assets/formulas/pl.json
+assets/formulas/de.json
+assets/formulas/es.json
+assets/formulas/fr.json
+assets/formulas/pt.json
+assets/formulas/uk.json
+assets/formulas/be.json
+```
+
+Russian may remain static while useful, but future multilingual work should prefer the separated renderer/data model.
+
+## 9. Transcreation rule
+
+Formula localization must be transcreation, not literal translation.
+
+Goal:
+
+```text
+same inner strike
+same rhythmical force
+same silence after the line
+natural language-specific expression
+```
+
+Do not force Russian syntax into other languages.
+
+Each language should sound as if the formula was originally written in that language.
+
+## 10. Language coverage
+
+Current implemented languages for the formula section:
+
+```text
+RU
+EN
+PL
+DE
+ES
+FR
+PT
+UK
+BE
+```
+
+The current shared renderer supports the multilingual pages through each page's `<html lang="...">` value.
+
+## 11. Source rule
+
+New formula lines may come from:
+
+```text
+- Telegram material
+- newly written formulas
+- author-approved adaptations
+- distilled ideas from Ashraellen work, if they do not duplicate Public Thoughts
+```
+
+Do not automatically derive formulas from the current Public Thoughts arc.
+
+Before publishing a new formula line, check that it does not duplicate Public Thoughts by:
+
+```text
+- exact final line
+- central image
+- rhetorical turn
+- same wording shortened
+- same theme presented as a card instead of a support thought
+```
+
+## 12. Practical line size
+
+The current working size is 15 formulas per line.
+
+This may remain the default unless there is a concrete reason to change it.
+
+## 13. Files to update when a new line is created
+
+When adding a new current line, check these files:
+
+```text
+/[lang]/public/posts/formula/index.html
+/[lang]/public/posts/formula/lines/index.html
+/[lang]/public/posts/formula/lines/line-000N.html
+assets/formulas/<lang>.json
+assets/formula-multilingual.js, only if the mechanism changes
+assets/formula.css, only if visual style changes
+```
+
+Update the APM memory if the mechanism, file layout, or line logic changes.
+
+Do not update Public Thoughts documentation unless the change also affects Public Thoughts, which should be rare.
