@@ -30,9 +30,13 @@ Projects/Ashraellen/MainSite/
 ├── MASTER_MainSite.md
 ├── Decisions/
 │   ├── 2026-06-22_current_chat_site_decisions.md
+│   ├── Public_Thoughts_Working_Reference_2026-06-26.md
+│   ├── Public_Thoughts_Current_Status_Addendum_2026-06-26.md
 │   ├── Public_Thoughts_Multilingual_Rollout_Decisions_2026-06-23.md
 │   ├── Public_Thoughts_Arc_Page_Navigation_Rule_2026-06-24.md
 │   ├── Mark_Of_Presence_Label_Rule_2026-06-24.md
+│   ├── Support_Thoughts_CSS_Split_2026-06-25.md
+│   ├── Site_Page_Type_Stylesheet_Rule_2026-06-25.md
 │   └── Support_Thoughts_Anti_Duplication_System_2026-06-25.md
 ├── Inbox_From_Chats/
 │   └── README.md
@@ -67,7 +71,8 @@ Projects/Ashraellen/MainSite/
 │   ├── MS_SL_PT_Public_Thoughts_0001_0012_2026-06-23.md
 │   ├── MS_SL_ES_Public_Thoughts_0001_0012_2026-06-23.md
 │   ├── MS_SL_FR_Public_Thoughts_0001_0012_2026-06-23.md
-│   └── MS_SL_DE_Public_Thoughts_0001_0012_2026-06-23.md
+│   ├── MS_SL_DE_Public_Thoughts_0001_0012_2026-06-23.md
+│   └── MS_SL_Public_Thoughts_Working_Reference_Cleanup_2026-06-26.md
 └── Tasks/
     └── README.md
 ```
@@ -76,8 +81,12 @@ Projects/Ashraellen/MainSite/
 
 Until a full audit is complete, the strongest current sources are:
 
-- `MASTER_MainSite.md` — living master file.
-- `Decisions/Public_Thoughts_Multilingual_Rollout_Decisions_2026-06-23.md` — **canonical source of truth** for the completed multilingual support-thought layer 0001–0012. It defines architecture, terminology, rotation rules, text-protection rules, assets, old-formula preservation, multilingual rollout and next-chat instructions.
+- `MASTER_MainSite.md` — living master file for the whole Ashraellen MainSite.
+- `Decisions/Public_Thoughts_Working_Reference_2026-06-26.md` — **first operational entry point for Public Thoughts / Опорные мысли**. It records the current 0001–0024 boundary, the next 0025–0030 / ДУГА 0005 range, aligned languages, golden-template method, CSS, seal, cards, navigation, assets, text structure, anti-duplication, update targets and the next rotation guard with `index-0003.html`.
+- `Decisions/Public_Thoughts_Current_Status_Addendum_2026-06-26.md` — active current-status addendum. It records the aligned language set `RU, EN, PL, UK, BE, PT, ES, FR, DE`, the current Public Thoughts layout, the 0024 / ДУГА 0004 boundary, and the next rotation target for 0025–0030 / ДУГА 0005.
+- `Decisions/Support_Thoughts_CSS_Split_2026-06-25.md` — active technical rule for Public Thoughts CSS split. It records `assets/arcs.css` for individual support-thought pages, `assets/thoughts.css` for arc/index pages, current spacing values, and the rule that working legacy pages are not cleaned only for the sake of cleanup.
+- `Decisions/Site_Page_Type_Stylesheet_Rule_2026-06-25.md` — active site-wide CSS principle: a new section or new page type receives its own shared page-type stylesheet; `assets/public.css` remains the common base.
+- `Decisions/Public_Thoughts_Multilingual_Rollout_Decisions_2026-06-23.md` — detailed historical and architectural source for the multilingual support-thought rollout. Use for background, terminology, text-protection rules, old-formula preservation, asset principles and multilingual reasoning. For current operational work, start with the working reference above.
 - `Decisions/Public_Thoughts_Arc_Page_Navigation_Rule_2026-06-24.md` — active addendum defining arc-page navigation: pages of arcs use only arc-level buttons (`← Previous arc` / `Next arc →` and localized equivalents); the oldest arc omits the next-arc button when no older arc exists.
 - `Decisions/Mark_Of_Presence_Label_Rule_2026-06-24.md` — active rule: the seal label must always be exactly `— mark of presence` in English on every language version; it is a symbolic site formula, not a translatable interface string.
 - `Decisions/Support_Thoughts_Anti_Duplication_System_2026-06-25.md` — active rule for preventing duplicate support thoughts. It defines exact, formula, image/metaphor, thematic and final-turn duplicates; it requires checking candidates before assigning new numbers.
@@ -85,8 +94,9 @@ Until a full audit is complete, the strongest current sources are:
 - `Content/Telegram_Channel_Scan_Log.md` — active scan log for the Telegram channel `https://t.me/ashraellenchannel`; it records reviewed layers, candidate examples, the RU publication of 0019–0024, and last reviewed markers for future support-thought arcs.
 - `Decisions/2026-06-22_current_chat_site_decisions.md` — first consolidated memory from the current chat and known prior site decisions.
 - `Prompts/Request_Other_Chats_Site_Memory.md` — reusable prompt for extracting site memory from older chats.
-- `Working_Notes/RU_Public_Thoughts_Rotating_Architecture_2026-06-23.md` — Russian implementation note for the rotating public support-thoughts system. It supports the canonical decision file but does not override it.
+- `Working_Notes/RU_Public_Thoughts_Rotating_Architecture_2026-06-23.md` — Russian implementation note for the rotating public support-thoughts system. It supports the canonical decision file but does not override the current working reference.
 - `Working_Notes/RU_Public_Thoughts_Migration_2026-06-22.md` — **superseded historical note only**. Do not use it as an active architecture source.
+- `Session_Logs/MS_SL_Public_Thoughts_Working_Reference_Cleanup_2026-06-26.md` — implementation log for the latest Public Thoughts memory cleanup: CSS split update, working reference rotation guard, multilingual status alignment and current-status addendum update.
 - `Session_Logs/MS_SL_RU_Public_Thoughts_Build_2026-06-23.md` — implementation log for creating the correct 0001–0006 support-thought pages and rebuilding `/ru/public/thoughts/index.html`.
 - `Session_Logs/MS_SL_RU_Public_Thoughts_Assets_2026-06-23.md` — implementation log for moving the new support-thought layer image references to `assets/thoughts/` while preserving the old formula layer.
 - `Session_Logs/MS_SL_RU_Public_Thoughts_0007_0012_2026-06-23.md` — implementation log for creating support-thoughts 0007–0012 and updating `/ru/public/` as the current live showcase.
@@ -102,7 +112,11 @@ Until a full audit is complete, the strongest current sources are:
 
 ## Public Thoughts warning for new chats
 
-For `Public Thoughts` / `Опорные мысли`, do not revive older intermediate schemes.
+For `Public Thoughts` / `Опорные мысли`, start with:
+
+```text
+Decisions/Public_Thoughts_Working_Reference_2026-06-26.md
+```
 
 Current canonical pattern:
 
@@ -130,6 +144,13 @@ Current canonical pattern:
 → old historical formula layer, preserve unless explicitly decided otherwise
 ```
 
+The next Public Thoughts rotation must preserve the current newest completed archive page before replacing it:
+
+```text
+/[lang]/public/thoughts/index-0003.html
+→ 0013–0018 / ДУГА 0003
+```
+
 Do not use as active architecture:
 
 ```text
@@ -143,12 +164,13 @@ Do not use as active architecture:
 Before creating any new support-thought arc, read:
 
 ```text
+Decisions/Public_Thoughts_Working_Reference_2026-06-26.md
 Decisions/Support_Thoughts_Anti_Duplication_System_2026-06-25.md
 Content/Support_Thoughts_Source_Register.md
 Content/Telegram_Channel_Scan_Log.md
 ```
 
-Do not assign new official numbers until candidates have been checked against the register for formula, central image, core theme, final turn and source reuse.
+Do not assign new official numbers until candidates have been checked against the register for formula, central image, core theme, final turn, source reuse and slug/title collision.
 
 If a candidate has high similarity risk, mark it `review` and ask the user before using it as a new thought.
 
