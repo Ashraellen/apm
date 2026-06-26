@@ -54,6 +54,27 @@ Current Russian layout:
 → individual support-thought pages 0001–0024
 ```
 
+Current multilingual alignment:
+
+```text
+RU, EN, PL, UK, BE, PT, ES, FR and DE follow the same Public Thoughts structure:
+
+/[lang]/public/
+→ live showcase: 0019–0024 / ДУГА 0004
+
+/[lang]/public/thoughts/
+→ newest completed archive arc: 0013–0018 / ДУГА 0003
+
+/[lang]/public/thoughts/index-0002.html
+→ ДУГА 0002: 0007–0012
+
+/[lang]/public/thoughts/index-0001.html
+→ ДУГА 0001: 0001–0006
+
+/[lang]/public/thoughts/arcs/
+→ individual support-thought pages 0001–0024
+```
+
 ## 3. Page architecture
 
 For each language, Public Thoughts use this structure:
@@ -121,7 +142,41 @@ Working method:
 6. Update the register, scan log, INDEX and session log.
 ```
 
-## 5. CSS for Public Thoughts
+## 5. Next rotation step for 0025–0030
+
+When `0025–0030 / ДУГА 0005` becomes the new live showcase, rotate every aligned language in this order:
+
+```text
+1. Build /[lang]/public/ with 0025–0030 / ДУГА 0005.
+2. Preserve the current /[lang]/public/thoughts/ page as /[lang]/public/thoughts/index-0003.html.
+3. Move 0019–0024 / ДУГА 0004 from the live showcase layer into /[lang]/public/thoughts/.
+4. Keep /[lang]/public/thoughts/index-0002.html as ДУГА 0002.
+5. Keep /[lang]/public/thoughts/index-0001.html as ДУГА 0001.
+6. Update navigation links between live showcase, newest archive page and numbered archive pages.
+```
+
+After this rotation:
+
+```text
+/[lang]/public/
+→ 0025–0030 / ДУГА 0005
+
+/[lang]/public/thoughts/
+→ 0019–0024 / ДУГА 0004
+
+/[lang]/public/thoughts/index-0003.html
+→ 0013–0018 / ДУГА 0003
+
+/[lang]/public/thoughts/index-0002.html
+→ 0007–0012 / ДУГА 0002
+
+/[lang]/public/thoughts/index-0001.html
+→ 0001–0006 / ДУГА 0001
+```
+
+This step protects ДУГА 0003 from being overwritten during the next update.
+
+## 6. CSS for Public Thoughts
 
 Individual support-thought pages use:
 
@@ -143,7 +198,7 @@ Reference:
 Projects/Ashraellen/MainSite/Decisions/Support_Thoughts_CSS_Split_2026-06-25.md
 ```
 
-## 6. Site-wide CSS principle
+## 7. Site-wide CSS principle
 
 This principle applies to the whole Ashraellen.com site, not only to Public Thoughts:
 
@@ -174,7 +229,7 @@ Reference:
 Projects/Ashraellen/MainSite/Decisions/Site_Page_Type_Stylesheet_Rule_2026-06-25.md
 ```
 
-## 7. Seal / mark of presence
+## 8. Seal / mark of presence
 
 All language versions use the same symbolic seal label:
 
@@ -190,7 +245,7 @@ Reference:
 Projects/Ashraellen/MainSite/Decisions/Mark_Of_Presence_Label_Rule_2026-06-24.md
 ```
 
-## 8. Arc cards
+## 9. Arc cards
 
 Each support-thought card on an arc/index page contains:
 
@@ -212,7 +267,7 @@ PL: Otwórz myśl →
 
 The whole card may remain clickable. The visible button gives the reader a clear action point.
 
-## 9. Navigation
+## 10. Navigation
 
 Arc/index pages use arc-level navigation:
 
@@ -240,7 +295,7 @@ Reference:
 Projects/Ashraellen/MainSite/Decisions/Public_Thoughts_Arc_Page_Navigation_Rule_2026-06-24.md
 ```
 
-## 10. Assets
+## 11. Assets
 
 Public Thoughts images live in:
 
@@ -261,7 +316,7 @@ The old formula-layer images remain separate:
 assets/public-formulas/
 ```
 
-## 11. Text structure
+## 12. Text structure
 
 Russian master page blocks:
 
@@ -294,7 +349,7 @@ Reference:
 Projects/Ashraellen/MainSite/Decisions/Public_Thoughts_Multilingual_Rollout_Decisions_2026-06-23.md
 ```
 
-## 12. Anti-duplication
+## 13. Anti-duplication
 
 Before selecting or numbering a new arc, use:
 
@@ -318,7 +373,7 @@ slug/title collision
 
 Official numbers are assigned after this check.
 
-## 13. Files to update after Public Thoughts work
+## 14. Files to update after Public Thoughts work
 
 After creating or rotating a Public Thoughts arc, update:
 
@@ -335,7 +390,7 @@ If the work creates a reusable rule, add or update a decision file in:
 Projects/Ashraellen/MainSite/Decisions/
 ```
 
-## 14. Core references
+## 15. Core references
 
 ```text
 Projects/Ashraellen/MainSite/Decisions/Public_Thoughts_Current_Status_Addendum_2026-06-26.md
@@ -349,7 +404,7 @@ Projects/Ashraellen/MainSite/Content/Support_Thoughts_Source_Register.md
 Projects/Ashraellen/MainSite/Content/Telegram_Channel_Scan_Log.md
 ```
 
-## 15. Scope boundary
+## 16. Scope boundary
 
 This reference governs only:
 
