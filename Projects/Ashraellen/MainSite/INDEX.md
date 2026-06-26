@@ -30,6 +30,7 @@ Projects/Ashraellen/MainSite/
 ├── MASTER_MainSite.md
 ├── Decisions/
 │   ├── 2026-06-22_current_chat_site_decisions.md
+│   ├── Site_Wide_Transcreation_Rule_2026-06-26.md
 │   ├── Public_Posts_Formulas_Working_Rule_2026-06-26.md
 │   ├── Public_Thoughts_Working_Reference_2026-06-26.md
 │   ├── Public_Thoughts_Current_Status_Addendum_2026-06-26.md
@@ -83,7 +84,8 @@ Projects/Ashraellen/MainSite/
 Until a full audit is complete, the strongest current sources are:
 
 - `MASTER_MainSite.md` — living master file for the whole Ashraellen MainSite.
-- `Decisions/Public_Posts_Formulas_Working_Rule_2026-06-26.md` — **active content-type rule for Public Posts / Formula**. It defines formula posts as a separate content type from Public Thoughts, records the current line-rotation model, the heading/navigation model, the multilingual renderer, the separate `assets/formulas/<lang>.json` transcreation files, and the rule that localization is transcreation rather than literal translation.
+- `Decisions/Site_Wide_Transcreation_Rule_2026-06-26.md` — **active site-wide content rule**. All public-facing multilingual Ashraellen.com content must be created through transcreation, not literal translation. This applies to all new content and page types unless a specific technical or legal exception is explicitly stated.
+- `Decisions/Public_Posts_Formulas_Working_Rule_2026-06-26.md` — **active content-type rule for Public Posts / Formula**. It defines formula posts as a separate content type from Public Thoughts, records the line-rotation model, heading/navigation model, and current multilingual implementation. It also states that the current `assets/formula-multilingual.js` + `assets/formulas/<lang>.json` layer exists because the transcreation step was added after the technical pages, and that future formula lines should preferably be transcreated before publication into self-contained language pages.
 - `Decisions/Public_Thoughts_Working_Reference_2026-06-26.md` — **first operational entry point for Public Thoughts / Опорные мысли**. It records the current 0001–0024 boundary, the next 0025–0030 / ДУГА 0005 range, aligned languages, golden-template method, CSS, seal, cards, navigation, assets, text structure, anti-duplication, update targets and the next rotation guard with `index-0003.html`.
 - `Decisions/Public_Thoughts_Current_Status_Addendum_2026-06-26.md` — active current-status addendum. It records the aligned language set `RU, EN, PL, UK, BE, PT, ES, FR, DE`, the current Public Thoughts layout, the 0024 / ДУГА 0004 boundary, and the next rotation target for 0025–0030 / ДУГА 0005.
 - `Decisions/Support_Thoughts_CSS_Split_2026-06-25.md` — active technical rule for Public Thoughts CSS split. It records `assets/arcs.css` for individual support-thought pages, `assets/thoughts.css` for arc/index pages, current spacing values, and the rule that working legacy pages are not cleaned only for the sake of cleanup.
@@ -112,12 +114,30 @@ Until a full audit is complete, the strongest current sources are:
 - `Session_Logs/MS_SL_FR_Public_Thoughts_0001_0012_2026-06-23.md` — implementation log for creating the French support-thought architecture and transcreating 0001–0012.
 - `Session_Logs/MS_SL_DE_Public_Thoughts_0001_0012_2026-06-23.md` — implementation log for creating the German support-thought architecture and transcreating 0001–0012.
 
+## Site-wide transcreation rule
+
+For any multilingual content on Ashraellen.com, start with:
+
+```text
+Decisions/Site_Wide_Transcreation_Rule_2026-06-26.md
+```
+
+Core rule:
+
+```text
+Transcreation is the default for all public-facing multilingual content.
+Literal translation is not the final publication method.
+```
+
+This applies to all current and future content/page types unless explicitly exempted for technical, legal or canonical-label reasons.
+
 ## Public formulas rule
 
 For `Public Posts / Formula`, start with:
 
 ```text
 Decisions/Public_Posts_Formulas_Working_Rule_2026-06-26.md
+Decisions/Site_Wide_Transcreation_Rule_2026-06-26.md
 ```
 
 Current formula structure:
@@ -152,9 +172,9 @@ Important content rules:
 - only formula lines are numbered archivally;
 - formulas are independent from Public Thoughts;
 - formulas must not echo the current support-thought arc;
-- localization must be transcreation, not literal translation;
-- multilingual formula text lives in assets/formulas/<lang>.json;
-- the shared renderer is assets/formula-multilingual.js.
+- transcreation is required by the site-wide rule;
+- the current JS/JSON formula layer is a working implementation created after a missed transcreation step;
+- future formula lines should preferably be transcreated before publication and published as self-contained language pages unless there is a concrete technical reason otherwise.
 ```
 
 Current implemented languages:
@@ -169,6 +189,7 @@ For `Public Thoughts` / `Опорные мысли`, start with:
 
 ```text
 Decisions/Public_Thoughts_Working_Reference_2026-06-26.md
+Decisions/Site_Wide_Transcreation_Rule_2026-06-26.md
 ```
 
 Current canonical pattern:
