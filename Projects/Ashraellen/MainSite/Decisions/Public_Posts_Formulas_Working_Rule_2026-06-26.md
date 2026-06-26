@@ -72,6 +72,20 @@ For Formula posts this appears as:
 
 The mechanism may be similar; the content must remain separate.
 
+## Numbering rule
+
+Individual formulas are not numbered.
+
+Only formula lines are numbered:
+
+```text
+line-0001.html
+line-0002.html
+line-0003.html
+```
+
+Inside a line, formulas remain short standalone cards without visible numeric labels.
+
 ## Current structure
 
 The current Russian implementation uses:
@@ -113,6 +127,19 @@ Working model:
 ```
 
 When a current line is completed, preserve it as the next `line-000N.html`, add it to `/lines/`, and place the next active line on `/formula/`.
+
+## Line navigation
+
+Formula line pages use line-level navigation when adjacent lines exist:
+
+```text
+← Предыдущая линия
+Следующая линия →
+```
+
+The current active line may link back to the previous completed line.
+
+A completed line may link forward to the current active line if that is the next line in sequence.
 
 ## Source rule
 
