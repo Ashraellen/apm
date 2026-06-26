@@ -32,6 +32,46 @@ Posts / Formula
 → short formula cards, current line, completed lines archive
 ```
 
+## Mechanical similarity to Public Thoughts
+
+The formula section is separate in content, but its rotation mechanism is intentionally similar to Public Thoughts.
+
+Both systems have:
+
+```text
+current visible layer
+→ archive layer
+→ numbered historical pages
+```
+
+For Public Thoughts this appears as:
+
+```text
+/[lang]/public/
+→ current live support-thought arc
+
+/[lang]/public/thoughts/
+→ newest completed support-thought arc
+
+/[lang]/public/thoughts/index-000N.html
+→ older completed support-thought arcs
+```
+
+For Formula posts this appears as:
+
+```text
+/[lang]/public/posts/formula/
+→ current active formula line
+
+/[lang]/public/posts/formula/lines/
+→ completed formula lines index
+
+/[lang]/public/posts/formula/lines/line-000N.html
+→ completed formula line archive
+```
+
+The mechanism may be similar; the content must remain separate.
+
 ## Current structure
 
 The current Russian implementation uses:
