@@ -2,6 +2,7 @@
 
 Status: active cleanup plan  
 Created: 2026-06-27  
+Updated: 2026-06-27  
 Workspace: `Projects/Ashraellen/Grants/`
 
 ---
@@ -25,8 +26,10 @@ Projects/Ashraellen/Grants/
 Core files:
 
 ```text
+Projects/Ashraellen/Grants/START_HERE.md
 Projects/Ashraellen/Grants/INDEX.md
 Projects/Ashraellen/Grants/MASTER_Grants.md
+Projects/Ashraellen/Grants/Outreach_Monitoring_2026.md
 ```
 
 Project-wide language rule outside Grants:
@@ -51,11 +54,12 @@ Working folders:
 ```text
 Projects/Ashraellen/Grants/Inbox_From_Chats/
 Projects/Ashraellen/Grants/Prompts/
+Projects/Ashraellen/Grants/legacy_grants_sources/
 ```
 
 ---
 
-## 3. Files currently outside the Grants workspace
+## 3. Files one level above the Grants workspace
 
 These files may still exist under `Projects/Ashraellen/`:
 
@@ -63,6 +67,14 @@ These files may still exist under `Projects/Ashraellen/`:
 Projects/Ashraellen/Grants_Ashraellen_Master.md
 Projects/Ashraellen/Grant_Outreach_Monitoring_2026.md
 Projects/Ashraellen/legacy_grants_sources/
+```
+
+Current status:
+
+```text
+Projects/Ashraellen/Grants_Ashraellen_Master.md           — redirect stub
+Projects/Ashraellen/Grant_Outreach_Monitoring_2026.md     — redirect stub
+Projects/Ashraellen/legacy_grants_sources/                — old physical archive source folder, not active workspace
 ```
 
 They should no longer be treated as the main active grant workspace.
@@ -73,22 +85,23 @@ They should no longer be treated as the main active grant workspace.
 
 ### 4.1. Master strategy
 
-Source / old location:
+Old location:
 
 ```text
 Projects/Ashraellen/Grants_Ashraellen_Master.md
 ```
 
-Target / active location:
+Active location:
 
 ```text
 Projects/Ashraellen/Grants/MASTER_Grants.md
 ```
 
-Action:
+Status:
 
-- consolidate stable decisions into `MASTER_Grants.md`;
-- then turn the old file into a short redirect, or archive it.
+```text
+DONE: stable decisions consolidated into MASTER_Grants.md; old file turned into redirect stub.
+```
 
 Do not keep two active master files.
 
@@ -96,45 +109,63 @@ Do not keep two active master files.
 
 ### 4.2. Outreach monitoring
 
-Source / old location:
+Old location:
 
 ```text
 Projects/Ashraellen/Grant_Outreach_Monitoring_2026.md
 ```
 
-Target / active location:
+Active location:
 
 ```text
 Projects/Ashraellen/Grants/Outreach_Monitoring_2026.md
 ```
 
-Action:
+Status:
 
-- copy / move the full monitoring journal into Grants;
-- update references in `MASTER_Grants.md` and `INDEX.md`;
-- then turn the old file into a short redirect, or archive it.
+```text
+PARTLY DONE: compact active outreach monitoring file created inside Grants; old file turned into redirect stub.
+```
+
+Note:
+
+The full original journal was too large to migrate safely through the tool in one exact copy. The active Grants version contains the key operational monitoring data and points back to the old source history. Do not create partial copies under the same name.
 
 ---
 
 ### 4.3. Legacy grant source files
 
-Source / old location:
+Old physical source folder:
 
 ```text
 Projects/Ashraellen/legacy_grants_sources/
 ```
 
-Target / active archive location:
+Target archive location:
 
 ```text
 Projects/Ashraellen/Grants/legacy_grants_sources/
 ```
 
-Action:
+Status:
 
-- copy / move the legacy source folder into Grants;
-- make clear that these files are archive sources, not active directives;
-- then turn the old folder reference into a redirect if needed.
+```text
+PARTLY DONE: archive pointer created inside Grants. Physical copy of the large legacy files still requires a safe full-file method.
+```
+
+Expected legacy files:
+
+```text
+Grants_000.md
+Grants_001.md
+Grants_002.md
+Grants_003.md
+Grants_004.md
+```
+
+Rule:
+
+Legacy files are archive sources, not active directives.
 
 ---
 
@@ -180,11 +211,14 @@ ARCHIVED   — preserved for record only
 ## 8. Immediate checklist
 
 - [x] Confirm that `Projects/Ashraellen/Grants/` exists.
-- [x] Update `Projects/Ashraellen/Grants/INDEX.md` as the main workspace map.
+- [x] Create `Projects/Ashraellen/Grants/START_HERE.md` as the main entry point.
+- [x] Turn `Projects/Ashraellen/Grants/INDEX.md` into compatibility pointer to START_HERE.
 - [x] Update `Projects/Ashraellen/Grants/MASTER_Grants.md` as active grant master memory.
-- [ ] Create / move `Outreach_Monitoring_2026.md` into Grants.
-- [ ] Move / mirror `legacy_grants_sources/` into Grants.
-- [ ] Turn old top-level grant files into redirect stubs after safe migration.
+- [x] Create compact active `Projects/Ashraellen/Grants/Outreach_Monitoring_2026.md`.
+- [x] Turn old `Projects/Ashraellen/Grant_Outreach_Monitoring_2026.md` into redirect stub.
+- [x] Turn old `Projects/Ashraellen/Grants_Ashraellen_Master.md` into redirect stub.
+- [x] Create `Projects/Ashraellen/Grants/legacy_grants_sources/README.md` as archive pointer.
+- [ ] Physically copy large legacy source files into `Projects/Ashraellen/Grants/legacy_grants_sources/` using a safe full-file method.
 - [ ] Review institution folders and add status to each.
 
 ---
