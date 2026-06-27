@@ -1,22 +1,71 @@
 # Legacy grants source files
 
-Дата создания: 2026-06-11
-Проект: Ashraellen
-Назначение папки: архивные исходники грантовой стратегии.
+Дата создания исходного архива: 2026-06-11  
+Дата переноса в Grants workspace: 2026-06-27  
+Проект: Ashraellen  
+Папка: `Projects/Ashraellen/Grants/legacy_grants_sources/`
 
-Эти файлы являются архивными источниками, а не активными рабочими директивами.
+---
 
-Активный главный канон:
-Projects/Ashraellen/Grants_Ashraellen_Master.md
+## Назначение папки
 
-Дополнительные актуальные файлы:
+Эта папка содержит архивные исходники грантовой стратегии Ashraellen.
+
+Файлы в этой папке являются источниками происхождения решений, а не активными рабочими директивами.
+
+---
+
+## Архивные файлы
+
+```text
+Grants_000.md
+Grants_001.md
+Grants_002.md
+Grants_003.md
+Grants_004.md
+```
+
+---
+
+## Активные файлы
+
+Главная точка входа в грантовую работу:
+
+```text
+Projects/Ashraellen/Grants/START_HERE.md
+```
+
+Активный главный грантовый канон:
+
+```text
+Projects/Ashraellen/Grants/MASTER_Grants.md
+```
+
+Активный мониторинг обращений:
+
+```text
+Projects/Ashraellen/Grants/Outreach_Monitoring_2026.md
+```
+
+Языковое правило проекта:
+
+```text
 Projects/Ashraellen/Ashraellen_Language_Rule.md
-Projects/Ashraellen/Grant_Outreach_Monitoring_2026.md
+```
 
-Если между архивными файлами и Grants_Ashraellen_Master.md есть противоречие,
-приоритет имеет Grants_Ashraellen_Master.md.
+---
+
+## Правило приоритета
+
+Если между архивными файлами и активным мастер-файлом есть противоречие, приоритет имеет:
+
+```text
+Projects/Ashraellen/Grants/MASTER_Grants.md
+```
 
 Короткая формула:
 
+```text
 Архив хранит происхождение решений.
-Мастер-файл задаёт текущий канон.
+MASTER_Grants.md задаёт текущий канон.
+```
