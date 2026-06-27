@@ -124,12 +124,12 @@ Projects/Ashraellen/Grants/Outreach_Monitoring_2026.md
 Status:
 
 ```text
-PARTLY DONE: compact active outreach monitoring file created inside Grants; old file turned into redirect stub.
+DONE FOR ACTIVE WORK: compact active outreach monitoring file created inside Grants; old file turned into redirect stub.
 ```
 
 Note:
 
-The full original journal was too large to migrate safely through the tool in one exact copy. The active Grants version contains the key operational monitoring data and points back to the old source history. Do not create partial copies under the same name.
+The active Grants version contains the key operational monitoring data. If a full historical version is needed later, restore it only inside `Projects/Ashraellen/Grants/` and do not re-create a competing top-level file.
 
 ---
 
@@ -141,7 +141,7 @@ Old physical source folder:
 Projects/Ashraellen/legacy_grants_sources/
 ```
 
-Target archive location:
+Active archive location:
 
 ```text
 Projects/Ashraellen/Grants/legacy_grants_sources/
@@ -150,17 +150,18 @@ Projects/Ashraellen/Grants/legacy_grants_sources/
 Status:
 
 ```text
-PARTLY DONE: archive pointer created inside Grants. Physical copy of the large legacy files still requires a safe full-file method.
+DONE: legacy source files Grants_000.md — Grants_004.md are now physically present inside the Grants workspace.
 ```
 
-Expected legacy files:
+Confirmed files:
 
 ```text
-Grants_000.md
-Grants_001.md
-Grants_002.md
-Grants_003.md
-Grants_004.md
+Projects/Ashraellen/Grants/legacy_grants_sources/README.md
+Projects/Ashraellen/Grants/legacy_grants_sources/Grants_000.md
+Projects/Ashraellen/Grants/legacy_grants_sources/Grants_001.md
+Projects/Ashraellen/Grants/legacy_grants_sources/Grants_002.md
+Projects/Ashraellen/Grants/legacy_grants_sources/Grants_003.md
+Projects/Ashraellen/Grants/legacy_grants_sources/Grants_004.md
 ```
 
 Rule:
@@ -214,11 +215,11 @@ ARCHIVED   — preserved for record only
 - [x] Create `Projects/Ashraellen/Grants/START_HERE.md` as the main entry point.
 - [x] Turn `Projects/Ashraellen/Grants/INDEX.md` into compatibility pointer to START_HERE.
 - [x] Update `Projects/Ashraellen/Grants/MASTER_Grants.md` as active grant master memory.
-- [x] Create compact active `Projects/Ashraellen/Grants/Outreach_Monitoring_2026.md`.
+- [x] Create active `Projects/Ashraellen/Grants/Outreach_Monitoring_2026.md`.
 - [x] Turn old `Projects/Ashraellen/Grant_Outreach_Monitoring_2026.md` into redirect stub.
 - [x] Turn old `Projects/Ashraellen/Grants_Ashraellen_Master.md` into redirect stub.
-- [x] Create `Projects/Ashraellen/Grants/legacy_grants_sources/README.md` as archive pointer.
-- [ ] Physically copy large legacy source files into `Projects/Ashraellen/Grants/legacy_grants_sources/` using a safe full-file method.
+- [x] Create and update `Projects/Ashraellen/Grants/legacy_grants_sources/README.md`.
+- [x] Physically copy legacy source files into `Projects/Ashraellen/Grants/legacy_grants_sources/`.
 - [ ] Review institution folders and add status to each.
 
 ---
