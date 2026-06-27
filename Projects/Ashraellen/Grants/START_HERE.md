@@ -18,6 +18,7 @@ For any future grant-related chat or task, read these files first:
 
 ```text
 Projects/Ashraellen/Grants/START_HERE.md
+Projects/Ashraellen/Grants/STATUS_OVERVIEW.md
 Projects/Ashraellen/Grants/MASTER_Grants.md
 Projects/Ashraellen/Ashraellen_Language_Rule.md
 ```
@@ -77,11 +78,18 @@ Visegrad    — Visegrad Fund
 Panoptykon  — Fundacja Panoptykon
 ```
 
+Quick status overview:
+
+```text
+Projects/Ashraellen/Grants/STATUS_OVERVIEW.md
+```
+
 Additional working folders:
 
 ```text
-Inbox_From_Chats/  — raw imports and rough material from chats before consolidation
-Prompts/           — prompts, reusable instructions and workflow helpers
+Inbox_From_Chats/        — raw imports and rough material from chats before consolidation
+Prompts/                 — prompts, reusable instructions and workflow helpers
+legacy_grants_sources/   — archived source files, not active directives
 ```
 
 ---
@@ -92,6 +100,12 @@ Primary grant master memory:
 
 ```text
 Projects/Ashraellen/Grants/MASTER_Grants.md
+```
+
+Active outreach monitoring:
+
+```text
+Projects/Ashraellen/Grants/Outreach_Monitoring_2026.md
 ```
 
 Migration and cleanup plan:
@@ -171,29 +185,24 @@ Projects/Ashraellen/Grants/Inbox_From_Chats/
 
 ## 8. Current cleanup / migration note
 
-There are older grant-related files that may still exist one level above this workspace, under `Projects/Ashraellen/`.
+Older top-level grant files should not be used as active files.
 
-They should not become competing master files. They should be treated as either:
-
-1. source material to consolidate into `Grants/MASTER_Grants.md`;
-2. archive material to place under `Grants/Archive/` or `Grants/legacy_grants_sources/`;
-3. temporary redirect files pointing future work back to this `Grants/` workspace.
-
-The intended final rule is:
+Active grant-specific work belongs in:
 
 ```text
-All grant-specific work belongs in Projects/Ashraellen/Grants/.
-General Ashraellen language and project memory may remain outside Grants/.
+Projects/Ashraellen/Grants/
 ```
+
+General Ashraellen language and project memory may remain outside Grants.
 
 ---
 
 ## 9. Immediate next actions
 
-1. Bring outreach monitoring into the Grants workspace.
-2. Move or archive legacy grant source files under the Grants workspace.
-3. Review institution folders and mark each one with status: IDEA, RESEARCH, DRAFT, READY, SENT, WAITING, ANSWERED, CLOSED or ARCHIVED.
-4. Consolidate Kone Foundation strategy from existing files.
+1. Work on Kone as the main active priority.
+2. Prepare EV as an opportunistic concise application.
+3. Check ISRF / Templeton / Visegrad only after current eligibility and fit are verified.
+4. Keep Panoptykon closed unless a new strategic reason appears.
 5. Prepare a clean grant-facing text pack based on the professional dossier and website memory.
 
 ---
@@ -205,8 +214,9 @@ Do not restart the general grant strategy from zero.
 Use this workspace as the operational grant system:
 
 ```text
-START_HERE.md      — entry point
-MASTER_Grants.md   — stable grant memory
+START_HERE.md       — entry point
+STATUS_OVERVIEW.md  — quick status map
+MASTER_Grants.md    — stable grant memory
 Institution folders — programme-specific work
-Inbox_From_Chats/  — raw material before consolidation
+Inbox_From_Chats/   — raw material before consolidation
 ```
