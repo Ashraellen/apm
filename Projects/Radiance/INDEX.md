@@ -1,53 +1,105 @@
 # Radiance — Сияние
 
+Updated: 2026-06-29
+
 `Radiance` means **Сияние**.
 
 Russian series title:
 
-**Сияние**
+```text
+Сияние
+```
 
 Series subtitle:
 
-**Северные сказания о настоящей истории мира**
+```text
+Северные сказания о настоящей истории мира
+```
 
 Current format:
 
-**philosophical fantasy / mythopoetic fantasy / artistic research through fiction**
+```text
+philosophical fantasy / mythopoetic fantasy / artistic research through fiction
+```
 
-Current institutional frame:
+---
+
+## 1. Current institutional / external frame
+
+Radiance is a long-term literary-philosophical artistic research cycle developed through a series of books.
+
+Core formula:
 
 ```text
-Radiance is a literary-philosophical cycle in which internal mythopoetic research is transformed into accessible literary form.
-
 Not research about a novel.
 Not a novel based on research.
 Research becoming a novel.
 ```
 
+Russian formula:
+
+```text
+Не исследование о романе.
+Не роман по мотивам исследования.
+А исследование, ставшее романом.
+```
+
 Working external logic:
 
 ```text
-A northern philosophical fantasy cycle where Finnish / Karelian / Kalevala-related mythic material serves as the main northern spine for artistic research through fiction. The first book, Sampo, is complete in Russian final form and English literary transcreation. The second book, Song, continues the method through sound, word, hearing and relation.
-```
+A northern philosophical fantasy cycle where Finnish / Karelian / Kalevala-related mythic material serves as the main northern spine for artistic research through fiction.
 
-Important correction:
+Book I, Sampo, is complete in Russian final form and English literary transcreation.
 
-```text
-The campfire is an entrance / hook for Book I, not the permanent frame for every book in the series.
+Book II, Song / Песня, is complete in Russian final proofread form and has passed the proofreading-controller cycle. Its English version is a future stage.
 ```
 
 ---
 
-## Current status
+## 2. What the research is trying to do
 
-The project is no longer only at first-canon stage.
+Radiance does **not** aim to modernize, explain, simplify or academically decode the Kalevala.
 
-Current material status:
+The project approaches Finnish / Karelian / Kalevala-related mythopoetic material as a living cultural trace through which contemporary literature can investigate inner laws of human existence and relation to reality.
+
+Working formula:
 
 ```text
-Book I: Sampo — Russian final version complete and controller-approved.
+We do not retell Kalevala.
+We show the world from which such stories could have arisen.
+```
+
+Russian working formula:
+
+```text
+Мы не пересказываем Калевалу.
+Мы показываем мир, из которого такие истории могли возникнуть.
+```
+
+The cycle uses mythic motifs not as decorative plot material, but as preserved forms of perception, responsibility, language, measure, participation and transformation.
+
+Short purpose statement:
+
+```text
+Radiance investigates the human being and reality through the mythopoetic traces in which epic preserved knowledge about the human being and reality.
+```
+
+Russian:
+
+```text
+«Сияние» исследует человека и реальность через мифопоэтические следы, в которых эпос сохранил знание о человеке и реальности.
+```
+
+---
+
+## 3. Current material status
+
+```text
+Book I: Sampo — Russian final proofread version complete and controller-approved.
 Book I: Sampo — English literary transcreation complete and approved in en/Final/.
-Book II: Song — structural and conceptual base created; novel not yet drafted.
+Book II: Song / Песня — Russian final proofread version complete and controller-approved in RU/Final/.
+Book II: Song / Песня — English version not yet prepared; future stage.
+Books III–VIII — mapped as active nodes of the long-term cycle; not yet active full drafting folders unless created separately.
 ```
 
 This folder records the active decisions for a literary-artistic research cycle built around:
@@ -55,16 +107,51 @@ This folder records the active decisions for a literary-artistic research cycle 
 - Finnish / Karelian mythic material as the main northern spine;
 - the Kalevala field as a living source, not a decorative grant element;
 - Sampo as the first completed central motif;
+- Song / Песня as the second completed Russian research-novel body;
 - Creation / Earth as the true Manna-machine;
-- pantheons as symbolic teaching teams / functional systems of transmission;
-- a campfire doorway in Book I only;
+- mythic figures and motifs as carriers of inner laws, not as encyclopedic fantasy characters;
 - philosophical fantasy as the living literary body;
-- artistic research through fiction as an external/institutional description;
+- artistic research through fiction as an external / institutional description;
 - internal mythopoetic research transformed into accessible literary form.
 
 ---
 
-## Do not waste time re-checking this
+## 4. Current named series map
+
+The current named spine contains eight active book nodes. The final number of books is not locked, but new books must be added by decision, not by accident.
+
+```text
+Book I   — Сампо       — abundance / Creation as Manna-machine
+Book II  — Песня       — Väinämöinen / word, song, language as tuning
+Book III — Кузница     — Ilmarinen / craft, form, technology, responsibility
+Book IV  — Порог       — Louhi and Pohjola / access, threshold, maturity
+Book V   — Сбой        — Kullervo / trauma, damaged script, false destiny
+Book VI  — Возвращение — Lemminkäinen / death, dismantling, return
+Book VII — Дыхание     — Ilmatar / birth, water, air, creation without violence
+Book VIII— Лес         — Tapio, Earth, beast / living mechanism, service
+```
+
+Series principle:
+
+```text
+Each book reveals not only a mythic figure or motif, but an inner law.
+```
+
+Wrong approach:
+
+```text
+Book about a mythological character and their powers.
+```
+
+Correct approach:
+
+```text
+Book about the human mechanism / inner law that the mythic figure carries.
+```
+
+---
+
+## 5. Do not waste time re-checking this
 
 The English transcreation of **Book I: Sampo** exists.
 
@@ -74,33 +161,36 @@ Approved English final files live here:
 Projects/Radiance/Books/Book_I_Sampo/en/Final/
 ```
 
-The set includes:
+The Russian final proofread branch of **Book II: Song / Песня** exists.
+
+Approved / controller-checked Russian final files live here:
 
 ```text
-Prologue_en_final_v1.md
-Chapter_01_en_final_v1.md
-Chapter_02_en_final_v1.md
-...
-Chapter_24_en_final_v1.md
-Epilogue_en_final_v1.md
+Projects/Radiance/Books/Book_II_Song/RU/Final/
 ```
 
-If an older note says that the English branch is empty, treat that note as outdated.
+The Book II final index is:
+
+```text
+Projects/Radiance/Books/Book_II_Song/RU/Final/FINAL_INDEX.md
+```
+
+If an older note says that Book II is not drafted yet, treat that note as outdated and update it.
 
 ---
 
-## File map
+## 6. File map
 
 ```text
 First_Decisions.md          — First canonical decisions from the initial conversation
 Project_Bible.md            — Core canon, metaphysics, concept, and project identity
 Mythic_Method.md            — Cleaned method: philosophical fantasy, not epic retelling, not over-technical explanation
-Artistic_Research_Frame.md  — Current decision: internal research becomes accessible literary form
+Artistic_Research_Frame.md  — Current institutional/artistic-research frame and grant-facing language
 Style_Guide.md              — Tone, rhythm, opening hook, prohibitions, scene rules
 Series_Map.md               — Current named cycle map and functional logic of each book
 Characters.md               — Ivar, the 12 guests, heroes, mythic functions
 Research_Notes.md           — Finnish / Karelian material, comparative pantheons, institutional direction
-Books/                      — Book-level memory and future draft folders
+Books/                      — Book-level memory, final branches and future book folders
 Research/                   — Source orientation, notes, and research layers
 Drafts/                     — Working fragments, scenes, exploratory drafts
 Archive/                    — Deprecated / older / rejected variants
@@ -108,7 +198,7 @@ Archive/                    — Deprecated / older / rejected variants
 
 ---
 
-## Reading order for future work
+## 7. Reading order for future work
 
 Before working on Radiance / Сияние, read:
 
@@ -131,14 +221,15 @@ Characters.md                                      — if working with Ivar, the
 Research_Notes.md                                  — if preparing institutional letters, source work, or grant framing
 Books/INDEX.md                                     — if planning individual books
 Books/Book_I_Sampo/INDEX.md                        — if working with Book I: Sampo
-Books/Book_I_Sampo/ru/Final/FINAL_INDEX.md         — if checking the Russian final version
-Books/Book_I_Sampo/en/Final/                       — if checking the English transcreation
-Books/Book_II_Song/INDEX.md                        — if working with Book II: Song
+Books/Book_I_Sampo/ru/Final/FINAL_INDEX.md         — if checking the Russian final version of Book I
+Books/Book_I_Sampo/en/Final/                       — if checking the English transcreation of Book I
+Books/Book_II_Song/INDEX.md                        — if working with Book II: Song / Песня
+Books/Book_II_Song/RU/Final/FINAL_INDEX.md         — if checking the Russian final proofread version of Book II
 ```
 
 ---
 
-## Current core formula
+## 8. Current core formula
 
 ```text
 The ancient stories about abundance machines did not describe a lost device.
@@ -165,7 +256,7 @@ Internal research -> literary embodiment -> accessible public form.
 
 ---
 
-## Main caution
+## 9. Main caution
 
 Do not reduce the project to:
 
