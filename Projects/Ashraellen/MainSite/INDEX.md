@@ -51,7 +51,8 @@ Projects/Ashraellen/MainSite/
 ├── Languages/
 │   └── README.md
 ├── Technical/
-│   └── README.md
+│   ├── README.md
+│   └── Sitemap_Automatic_Generation_Rule_2026-06-28.md
 ├── Grant_Positioning/
 │   └── README.md
 ├── Assets/
@@ -85,6 +86,7 @@ Until a full audit is complete, the strongest current sources are:
 
 - `MASTER_MainSite.md` — living master file for the whole Ashraellen MainSite.
 - `Decisions/Site_Wide_Transcreation_Rule_2026-06-26.md` — **active site-wide content rule**. All public-facing multilingual Ashraellen.com content must be created through transcreation, not literal translation. This applies to all new content and page types unless a specific technical or legal exception is explicitly stated.
+- `Technical/Sitemap_Automatic_Generation_Rule_2026-06-28.md` — **active technical SEO rule**. `sitemap.xml` must be generated automatically from the current site tree and canonical page metadata. It must not be maintained manually as the normal workflow after page creation, rotation, archive changes or deletion.
 - `Decisions/Public_Posts_Formulas_Working_Rule_2026-06-26.md` — **active content-type rule for Public Posts / Formula**. It defines formula posts as a separate content type from Public Thoughts, records the line-rotation model, heading/navigation model, and current multilingual implementation. It also states that the current `assets/formula-multilingual.js` + `assets/formulas/<lang>.json` layer exists because the transcreation step was added after the technical pages, and that future formula lines should preferably be transcreated before publication into self-contained language pages.
 - `Decisions/Public_Thoughts_Working_Reference_2026-06-26.md` — **first operational entry point for Public Thoughts / Опорные мысли**. It records the current 0001–0024 boundary, the next 0025–0030 / ДУГА 0005 range, aligned languages, golden-template method, CSS, seal, cards, navigation, assets, text structure, anti-duplication, update targets and the next rotation guard with `index-0003.html`.
 - `Decisions/Public_Thoughts_Current_Status_Addendum_2026-06-26.md` — active current-status addendum. It records the aligned language set `RU, EN, PL, UK, BE, PT, ES, FR, DE`, the current Public Thoughts layout, the 0024 / ДУГА 0004 boundary, and the next rotation target for 0025–0030 / ДУГА 0005.
@@ -130,6 +132,24 @@ Literal translation is not the final publication method.
 ```
 
 This applies to all current and future content/page types unless explicitly exempted for technical, legal or canonical-label reasons.
+
+## Automatic sitemap rule
+
+For sitemap work, start with:
+
+```text
+Technical/Sitemap_Automatic_Generation_Rule_2026-06-28.md
+```
+
+Core rule:
+
+```text
+sitemap.xml is a generated artifact.
+It must be regenerated from the current static site tree and canonical page metadata.
+It must not be maintained manually as the normal workflow.
+```
+
+Duplicate title or duplicate meta description warnings must be fixed in the page metadata itself, not by manually manipulating the sitemap.
 
 ## Public formulas rule
 
