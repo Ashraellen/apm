@@ -1,7 +1,8 @@
 # Artistic_Research_Frame — Radiance / Сияние
 
 Status: ACTIVE DECISION RECORD  
-Created: 2026-06-28
+Created: 2026-06-28  
+Updated: 2026-06-29
 
 This file records the current institutional and artistic-research framing decision for **Radiance / Сияние**.
 
@@ -42,7 +43,41 @@ Russian formula:
 
 ---
 
-## 2. External / institutional wording
+## 2. What the research is for
+
+Radiance does **not** aim to modernize, explain or decode the Kalevala for a contemporary audience.
+
+It approaches Finnish / Karelian / Kalevala-related mythopoetic material as a living cultural trace through which contemporary literature can investigate inner laws of human existence and relation to reality.
+
+Core purpose:
+
+```text
+Radiance investigates the human being and reality through the mythopoetic traces in which epic preserved knowledge about the human being and reality.
+```
+
+Russian:
+
+```text
+«Сияние» исследует человека и реальность через мифопоэтические следы, в которых эпос сохранил знание о человеке и реальности.
+```
+
+Clean formula:
+
+```text
+We do not retell Kalevala.
+We show the world from which such stories could have arisen.
+```
+
+Russian:
+
+```text
+Мы не пересказываем Калевалу.
+Мы показываем мир, из которого такие истории могли возникнуть.
+```
+
+---
+
+## 3. External / institutional wording
 
 Preferred English formulation:
 
@@ -53,7 +88,7 @@ Radiance is a literary cycle in which artistic research becomes readable fiction
 Expanded formulation:
 
 ```text
-Radiance is a literary-philosophical cycle in which internal mythopoetic research is transformed into accessible literary form. The aim is to make complex philosophical and mythopoetic inquiry readable, emotionally concrete and publicly shareable without reducing it to simplified explanation.
+Radiance is a long-term literary-philosophical artistic research cycle developed through a series of books. The Finnish / Karelian / Kalevala-related mythopoetic field is the main northern spine of the cycle. The project transforms internal mythopoetic research into accessible literary form, making complex philosophical and cultural inquiry readable, emotionally concrete and publicly shareable without reducing it to simplified explanation.
 ```
 
 Use these terms:
@@ -65,6 +100,7 @@ practice-based literary research
 accessible literary form
 public-facing literary form
 reader-facing fiction
+literary-philosophical artistic research cycle
 ```
 
 Avoid relying on:
@@ -75,6 +111,7 @@ popular form
 fictionalized philosophy
 research disguised as fantasy
 fantasy based on Kalevala
+modern retelling of Kalevala
 ```
 
 Reason:
@@ -86,7 +123,31 @@ It finds a living literary form in which the idea can breathe.
 
 ---
 
-## 3. Book I: Sampo
+## 4. Current material status
+
+```text
+Book I: Sampo — Russian final proofread version complete and controller-approved.
+Book I: Sampo — English literary transcreation complete and approved in en/Final/.
+Book II: Song / Песня — Russian final proofread version complete and controller-approved in RU/Final/.
+Book II: Song / Песня — English version not yet prepared; future stage.
+Books III–VIII — mapped as active nodes of the long-term cycle; not yet full active drafting folders unless separately created.
+```
+
+Operational warning:
+
+```text
+Do not describe Book II as merely planned, not drafted, or only conceptually structured.
+```
+
+Correct external wording:
+
+```text
+Book II, Song / Песня, is complete in Russian final proofread form and has passed the proofreading-controller cycle. It continues the cycle through sound, word, song, hearing, language, relation, instrument and silence. Its English version is a future stage.
+```
+
+---
+
+## 5. Book I: Sampo
 
 **Book I: Sampo** is the first completed artistic-research unit of the cycle.
 
@@ -128,69 +189,11 @@ Russian final version: complete and controller-approved.
 English literary transcreation: complete and approved in en/Final/.
 ```
 
-Do not state that the English branch is empty.
-
 ---
 
-## 4. Concise treatise / research note decision
+## 6. Book II: Song / Песня
 
-A short "treatise-like" document for **Book I: Sampo** is useful and allowed, but it must not become the primary form of the project.
-
-Correct role:
-
-```text
-The novel is the living artistic body of the research.
-The concise research note is the map / key / skeleton of what the novel investigates.
-```
-
-Russian working formula:
-
-```text
-Роман — живое художественное тело исследования.
-Краткий трактат / записка — сжатая карта того, что было исследовано.
-```
-
-Preferred institutional title:
-
-```text
-Radiance: Sampo
-A Concise Literary-Philosophical Research Note
-```
-
-Internal / optional title:
-
-```text
-Sampo: A Concise Treatise on Abundance and Participation
-```
-
-Recommended length:
-
-```text
-5–8 pages
-maximum 10 pages
-```
-
-Function:
-
-- explain the research question behind **Sampo**;
-- show that the novel is a completed artistic-research outcome;
-- extract the philosophical skeleton without killing the literary body;
-- help grant readers, editors, translators and partners understand the method quickly;
-- prevent the book from being mistaken for decorative fantasy, folklore retelling or vague spiritual prose.
-
-Do not use the note to replace the novel or explain it to death.
-
-Dedicated planning file:
-
-```text
-Projects/Radiance/Research/Sampo/Sampo_Concise_Research_Note_Plan.md
-```
-
----
-
-## 5. Book II: Song / Песня
-
-**Book II: Song / Песня** continues the same method through another inner law.
+**Book II: Song / Песня** is the second completed Russian artistic-research body of the cycle.
 
 Core transition:
 
@@ -227,15 +230,71 @@ She must work with sound.
 But sound no longer gives itself to her as work.
 ```
 
-Book II is not yet a completed novel. It has an active structural and conceptual base in:
+Current material status:
 
 ```text
-Projects/Radiance/Books/Book_II_Song/
+Russian final proofread version: complete and controller-approved.
+Final branch: Projects/Radiance/Books/Book_II_Song/RU/Final/
+Final index: Projects/Radiance/Books/Book_II_Song/RU/Final/FINAL_INDEX.md
+English version: future stage.
+```
+
+Institutional summary:
+
+```text
+Song continues the same literary artistic-research method through sound, word, song, hearing, language, relation and silence. It is not a study of Väinämöinen as a mythological character, but an inquiry into what happens when language and song stop describing reality and begin participating in its order.
 ```
 
 ---
 
-## 6. Historical / methodological relatives
+## 7. Concise research note decision
+
+A short treatise-like / research-note document for **Book I: Sampo** is useful and allowed, but it must not become the primary form of the project.
+
+Correct role:
+
+```text
+The novel is the living artistic body of the research.
+The concise research note is the map / key / skeleton of what the novel investigates.
+```
+
+Russian working formula:
+
+```text
+Роман — живое художественное тело исследования.
+Краткая записка — карта / ключ / скелет того, что роман исследует.
+```
+
+Preferred institutional title:
+
+```text
+Radiance: Sampo
+A Concise Literary-Philosophical Research Note on Abundance and Participation
+```
+
+Current active files:
+
+```text
+Projects/Radiance/Research/Sampo/Sampo_CRN_RU.md
+Projects/Radiance/Research/Sampo/Sampo_CRN_EN.md
+Projects/Radiance/Research/Sampo/Sampo_CRN_RU_v2.pdf
+Projects/Radiance/Research/Sampo/Sampo_CRN_EN_v2.pdf
+Projects/Radiance/Research/Sampo/INDEX.md
+```
+
+Function:
+
+- explain the research question behind **Sampo**;
+- show that the novel is a completed artistic-research outcome;
+- extract the philosophical skeleton without killing the literary body;
+- help grant readers, editors, translators and partners understand the method quickly;
+- prevent the book from being mistaken for decorative fantasy, folklore retelling or vague spiritual prose.
+
+Do not use the note to replace the novel or explain it to death.
+
+---
+
+## 8. Historical / methodological relatives
 
 This section is for grant and institutional positioning only.
 
@@ -298,7 +357,7 @@ Russian working formulation:
 
 ---
 
-## 7. Kalevala / Finnish-Karelian material
+## 9. Kalevala / Finnish-Karelian material
 
 Radiance should not be presented as a direct retelling of **Kalevala**.
 
@@ -328,19 +387,19 @@ We show the world from which such stories could have arisen.
 
 ---
 
-## 8. Kone / grant framing use
+## 10. Kone / Finnish institutional use
 
 For Kone Foundation or Finnish institutional contexts, the best frame is:
 
 ```text
-Radiance / Сияние as a literary artistic-research cycle using Finnish, Karelian and Kalevala-related mythic material as a living source for public-facing philosophical fiction.
+Radiance / Сияние as a long-term literary artistic-research cycle using Finnish, Karelian and Kalevala-related mythic material as a living cultural trace for public-facing philosophical fiction.
 ```
 
 Ashraellen should be presented as the authorial / artistic-research practice behind the cycle.
 
-Radiance / Sampo should be presented as the concrete, completed first case.
+Book I / Sampo should be presented as the first completed concrete case.
 
-Book II / Song should be presented as the next development stage.
+Book II / Song should be presented as the second completed Russian research-novel body and as evidence that Radiance is already a functioning cycle, not only a proposal.
 
 The concise research note may be used as a supporting document / attachment, but not as a replacement for literary excerpts.
 
@@ -348,10 +407,11 @@ Best package logic:
 
 ```text
 1. Project proposal / application text
-2. Concise Literary-Philosophical Research Note
+2. Concise Literary-Philosophical Research Note for Sampo
 3. Selected English excerpt from Sampo
 4. Author / artistic-research profile
-5. Work plan for next stage
+5. Current cycle status note: Book I complete RU/EN; Book II complete RU; English Book II future stage
+6. Work plan for next stage
 ```
 
 Do not submit Radiance as:
@@ -367,7 +427,7 @@ Do not submit Radiance as:
 
 ---
 
-## 9. Operational warning for future chats
+## 11. Operational warning for future chats
 
 Do not spend time searching whether the English transcreation of **Book I: Sampo** exists.
 
@@ -379,31 +439,44 @@ Approved English final files are stored in:
 Projects/Radiance/Books/Book_I_Sampo/en/Final/
 ```
 
-The set includes:
+Do not spend time searching whether **Book II: Song / Песня** is only planned.
+
+It is not only planned.
+
+The Russian final proofread branch is stored in:
 
 ```text
-Prologue_en_final_v1.md
-Chapter_01_en_final_v1.md
-Chapter_02_en_final_v1.md
-...
-Chapter_24_en_final_v1.md
-Epilogue_en_final_v1.md
+Projects/Radiance/Books/Book_II_Song/RU/Final/
 ```
 
-If another file still says that the English branch is empty, treat that file as outdated and update it.
+The final proofread/controller index is:
+
+```text
+Projects/Radiance/Books/Book_II_Song/RU/Final/FINAL_INDEX.md
+```
+
+If another file still says that the English branch of Book I is empty, or that Book II is not drafted yet, treat that file as outdated and update it.
 
 ---
 
-## 10. Short version for new chats
+## 12. Short version for new chats
 
 ```text
 Radiance is not a philosophy lecture and not a decorative Kalevala fantasy.
 It is artistic research through fiction.
+
 Sampo is the completed first research-novel: abundance, ownership, participation, recognition.
-Song is the next research-novel: sound, word, hearing, relation.
+It exists in Russian final form and English literary transcreation.
+
+Song / Песня is the completed second Russian research-novel: sound, word, hearing, relation, language, instrument and silence.
+Its English version is a future stage.
+
+The Finnish / Karelian / Kalevala-related material is the main northern spine and living cultural trace of the cycle.
+The purpose is not to explain Kalevala, but to investigate the human being and reality through the mythopoetic traces in which epic preserved knowledge about the human being and reality.
+
 The result of the internal research must remain readable as living literature, not as a dull philosophical treatise.
 
-A short treatise-like document is useful, but it should be framed as a Concise Literary-Philosophical Research Note: a map/key to the novel, not a replacement for the novel.
+A short research-note document is useful, but it should be framed as a Concise Literary-Philosophical Research Note: a map/key to the novel, not a replacement for the novel.
 
 Historical context: Radiance may be situated near traditions where mythological, philosophical, linguistic or cultural inquiry becomes fiction, but it must not be compared as an imitation or equal-status claim to Tolkien, Eco, Le Guin, Calvino, Borges or Hesse.
 ```
