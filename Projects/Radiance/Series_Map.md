@@ -1,12 +1,28 @@
 # Series_Map — Radiance / Сияние
 
+Updated: 2026-06-29
+
 This file records the current named book map for **Сияние. Северные сказания о настоящей истории мира**.
 
 The current named spine contains eight active book nodes. The final number of books is not locked; if a ninth book appears later, it must be added by decision, not by accident.
 
 ---
 
-## Series principle
+## 1. Current material status
+
+```text
+Book I: Sampo — Russian final proofread version complete and controller-approved.
+Book I: Sampo — English literary transcreation complete and approved in en/Final/.
+Book II: Song / Песня — Russian final proofread version complete and controller-approved in RU/Final/.
+Book II: Song / Песня — English version not yet prepared; future stage.
+Books III–VIII — mapped as active nodes of the long-term cycle; not yet full active drafting folders unless created separately.
+```
+
+Do not describe Book II as only planned, not drafted, or merely conceptual.
+
+---
+
+## 2. Series principle
 
 Each book reveals not only a mythic figure or motif, but an inner law.
 
@@ -19,7 +35,7 @@ Book about a mythological character and their powers.
 Correct approach:
 
 ```text
-Book about the human mechanism that the mythic figure carries.
+Book about the human mechanism / inner law that the mythic figure carries.
 ```
 
 The Finnish / Karelian line is the main spine.
@@ -35,12 +51,40 @@ The series itself must unfold through active heroes, events, mythic figures, cho
 
 ---
 
-## Book I. Сампо
+## 3. Research purpose of the whole cycle
+
+Radiance is not an attempt to explain Kalevala through a modern lens.
+
+Correct purpose:
+
+```text
+To investigate the human being and reality through the mythopoetic traces in which epic preserved knowledge about the human being and reality.
+```
+
+The project approaches Finnish / Karelian / Kalevala-related mythopoetic material as a living cultural trace through which contemporary literature can investigate inner laws of abundance, language, craft, threshold, trauma, death, birth, forest, measure, responsibility and participation.
+
+Clean formula:
+
+```text
+We do not retell Kalevala.
+We show the world from which such stories could have arisen.
+```
+
+---
+
+## 4. Book I. Сампо
 
 Internal term:
 
 ```text
 Протокол Сампо / The Sampo Protocol
+```
+
+Current status:
+
+```text
+Russian final proofread version complete and controller-approved.
+English literary transcreation complete and approved.
 ```
 
 Main motif:
@@ -87,12 +131,19 @@ Comparative echoes:
 
 ---
 
-## Book II. Песня
+## 5. Book II. Песня
 
 Central figure:
 
 ```text
 Väinämöinen / Вяйнямёйнен
+```
+
+Current status:
+
+```text
+Russian final proofread version complete and controller-approved.
+English version not yet prepared; future stage.
 ```
 
 Main motif:
@@ -115,6 +166,13 @@ from opinion to song
 from argument to tuning
 ```
 
+Internal transition from Book I:
+
+```text
+Book I: Sampo cannot be taken as a thing.
+Book II: Song cannot be taken as sound.
+```
+
 Comparative echoes:
 
 - Logos;
@@ -126,7 +184,7 @@ Comparative echoes:
 
 ---
 
-## Book III. Кузница
+## 6. Book III. Кузница
 
 Central figure:
 
@@ -163,7 +221,7 @@ Comparative echoes:
 
 ---
 
-## Book IV. Порог
+## 7. Book IV. Порог
 
 Central figures:
 
@@ -201,7 +259,7 @@ Comparative echoes:
 
 ---
 
-## Book V. Сбой
+## 8. Book V. Сбой
 
 Central figure:
 
@@ -239,7 +297,7 @@ Comparative echoes:
 
 ---
 
-## Book VI. Возвращение
+## 9. Book VI. Возвращение
 
 Central figure:
 
@@ -276,7 +334,7 @@ Comparative echoes:
 
 ---
 
-## Book VII. Дыхание
+## 10. Book VII. Дыхание
 
 Central figure:
 
@@ -314,7 +372,7 @@ Comparative echoes:
 
 ---
 
-## Book VIII. Лес
+## 11. Book VIII. Лес
 
 Central field:
 
@@ -352,7 +410,7 @@ Comparative echoes:
 
 ---
 
-## Current external title logic
+## 12. Current external title logic
 
 Recommended display:
 
@@ -370,3 +428,17 @@ Better current use:
 Сампо — public book title
 Протокол Сампо — internal world-term / chapter-term / revealed concept
 ```
+
+---
+
+## 13. First-contact institutional compression
+
+For first letters to Finnish institutions, do not overload the message with the whole eight-book architecture.
+
+Use this compressed form:
+
+```text
+Radiance is a long-term literary-philosophical artistic research cycle. The Finnish / Karelian / Kalevala-related line is its main northern spine. Book I, Sampo, is complete in Russian and English. Book II, Song / Песня, is complete in Russian final proofread form. The wider cycle continues through further books on craft, threshold, trauma, return, birth, forest, measure and responsibility.
+```
+
+Only provide the full eight-book map if they ask for more detail or if it belongs in a project note.
