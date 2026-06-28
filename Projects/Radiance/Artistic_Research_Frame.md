@@ -179,7 +179,70 @@ Projects/Radiance/Books/Book_II_Song/
 
 ---
 
-## 5. Kalevala / Finnish-Karelian material
+## 5. Historical / methodological relatives
+
+This section is for grant and institutional positioning only.
+
+Do not present Radiance as "the new Tolkien", "the new Eco", or as equal in stature to major historical writers.
+
+Use these names only as **typological and methodological context**: examples of literary traditions where research, myth, language, culture or philosophy became artistic form rather than remaining an external academic treatise.
+
+Core context formula:
+
+```text
+Radiance belongs to a broader tradition of literary works in which mythological, philosophical, linguistic or cultural inquiry becomes fiction rather than remaining an academic treatise.
+```
+
+Institutional wording:
+
+```text
+The method has historical precedents in literary traditions where research does not remain external to the artwork, but becomes its narrative body.
+```
+
+Useful methodological parallels:
+
+```text
+Tolkien — myth, language, epic -> fictional world
+Eco — semiotics, medieval studies -> intellectual novel
+Le Guin — anthropology, culture, society -> speculative fiction
+Calvino — structure, language, memory -> literary form
+Borges — metaphysics, infinity, text -> short fiction as philosophical trap
+Hesse — inner spiritual inquiry -> accessible symbolic novel
+```
+
+How to use these examples:
+
+```text
+Methodologically adjacent to mythopoetic and literary-philosophical traditions.
+Not an imitation.
+Not a claim of equivalence.
+Not a marketing comparison.
+```
+
+Do not write:
+
+```text
+Radiance is like Tolkien.
+Radiance continues Eco.
+Radiance is a new Kalevala.
+Radiance does for Finnish myth what Tolkien did for English myth.
+```
+
+Better:
+
+```text
+Radiance can be situated near traditions of mythopoetic and literary-philosophical fiction in which the artistic work itself becomes a mode of inquiry.
+```
+
+Russian working formulation:
+
+```text
+«Сияние» принадлежит к широкой традиции произведений, где мифологическое, философское, языковое или культурное исследование становится художественной формой, а не остаётся академическим трактатом.
+```
+
+---
+
+## 6. Kalevala / Finnish-Karelian material
 
 Radiance should not be presented as a direct retelling of **Kalevala**.
 
@@ -209,7 +272,7 @@ We show the world from which such stories could have arisen.
 
 ---
 
-## 6. Kone / grant framing use
+## 7. Kone / grant framing use
 
 For Kone Foundation or Finnish institutional contexts, the best frame is:
 
@@ -236,7 +299,7 @@ Do not submit Radiance as:
 
 ---
 
-## 7. Operational warning for future chats
+## 8. Operational warning for future chats
 
 Do not spend time searching whether the English transcreation of **Book I: Sampo** exists.
 
@@ -263,7 +326,7 @@ If another file still says that the English branch is empty, treat that file as 
 
 ---
 
-## 8. Short version for new chats
+## 9. Short version for new chats
 
 ```text
 Radiance is not a philosophy lecture and not a decorative Kalevala fantasy.
@@ -271,4 +334,6 @@ It is artistic research through fiction.
 Sampo is the completed first research-novel: abundance, ownership, participation, recognition.
 Song is the next research-novel: sound, word, hearing, relation.
 The result of the internal research must remain readable as living literature, not as a dull philosophical treatise.
+
+Historical context: Radiance may be situated near traditions where mythological, philosophical, linguistic or cultural inquiry becomes fiction, but it must not be compared as an imitation or equal-status claim to Tolkien, Eco, Le Guin, Calvino, Borges or Hesse.
 ```
