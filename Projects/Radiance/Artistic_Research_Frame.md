@@ -132,7 +132,63 @@ Do not state that the English branch is empty.
 
 ---
 
-## 4. Book II: Song / Песня
+## 4. Concise treatise / research note decision
+
+A short "treatise-like" document for **Book I: Sampo** is useful and allowed, but it must not become the primary form of the project.
+
+Correct role:
+
+```text
+The novel is the living artistic body of the research.
+The concise research note is the map / key / skeleton of what the novel investigates.
+```
+
+Russian working formula:
+
+```text
+Роман — живое художественное тело исследования.
+Краткий трактат / записка — сжатая карта того, что было исследовано.
+```
+
+Preferred institutional title:
+
+```text
+Radiance: Sampo
+A Concise Literary-Philosophical Research Note
+```
+
+Internal / optional title:
+
+```text
+Sampo: A Concise Treatise on Abundance and Participation
+```
+
+Recommended length:
+
+```text
+5–8 pages
+maximum 10 pages
+```
+
+Function:
+
+- explain the research question behind **Sampo**;
+- show that the novel is a completed artistic-research outcome;
+- extract the philosophical skeleton without killing the literary body;
+- help grant readers, editors, translators and partners understand the method quickly;
+- prevent the book from being mistaken for decorative fantasy, folklore retelling or vague spiritual prose.
+
+Do not use the note to replace the novel or explain it to death.
+
+Dedicated planning file:
+
+```text
+Projects/Radiance/Research/Sampo/Sampo_Concise_Research_Note_Plan.md
+```
+
+---
+
+## 5. Book II: Song / Песня
 
 **Book II: Song / Песня** continues the same method through another inner law.
 
@@ -179,7 +235,7 @@ Projects/Radiance/Books/Book_II_Song/
 
 ---
 
-## 5. Historical / methodological relatives
+## 6. Historical / methodological relatives
 
 This section is for grant and institutional positioning only.
 
@@ -242,7 +298,7 @@ Russian working formulation:
 
 ---
 
-## 6. Kalevala / Finnish-Karelian material
+## 7. Kalevala / Finnish-Karelian material
 
 Radiance should not be presented as a direct retelling of **Kalevala**.
 
@@ -272,7 +328,7 @@ We show the world from which such stories could have arisen.
 
 ---
 
-## 7. Kone / grant framing use
+## 8. Kone / grant framing use
 
 For Kone Foundation or Finnish institutional contexts, the best frame is:
 
@@ -285,6 +341,18 @@ Ashraellen should be presented as the authorial / artistic-research practice beh
 Radiance / Sampo should be presented as the concrete, completed first case.
 
 Book II / Song should be presented as the next development stage.
+
+The concise research note may be used as a supporting document / attachment, but not as a replacement for literary excerpts.
+
+Best package logic:
+
+```text
+1. Project proposal / application text
+2. Concise Literary-Philosophical Research Note
+3. Selected English excerpt from Sampo
+4. Author / artistic-research profile
+5. Work plan for next stage
+```
 
 Do not submit Radiance as:
 
@@ -299,7 +367,7 @@ Do not submit Radiance as:
 
 ---
 
-## 8. Operational warning for future chats
+## 9. Operational warning for future chats
 
 Do not spend time searching whether the English transcreation of **Book I: Sampo** exists.
 
@@ -326,7 +394,7 @@ If another file still says that the English branch is empty, treat that file as 
 
 ---
 
-## 9. Short version for new chats
+## 10. Short version for new chats
 
 ```text
 Radiance is not a philosophy lecture and not a decorative Kalevala fantasy.
@@ -334,6 +402,8 @@ It is artistic research through fiction.
 Sampo is the completed first research-novel: abundance, ownership, participation, recognition.
 Song is the next research-novel: sound, word, hearing, relation.
 The result of the internal research must remain readable as living literature, not as a dull philosophical treatise.
+
+A short treatise-like document is useful, but it should be framed as a Concise Literary-Philosophical Research Note: a map/key to the novel, not a replacement for the novel.
 
 Historical context: Radiance may be situated near traditions where mythological, philosophical, linguistic or cultural inquiry becomes fiction, but it must not be compared as an imitation or equal-status claim to Tolkien, Eco, Le Guin, Calvino, Borges or Hesse.
 ```
