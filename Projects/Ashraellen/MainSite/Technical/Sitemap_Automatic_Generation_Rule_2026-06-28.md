@@ -6,9 +6,11 @@ Status: active technical rule
 
 ## Core rule
 
-`sitemap.xml` must be generated automatically.
+`sitemap.xml` is already generated automatically and must continue to be treated as a generated artifact.
 
 It must not be maintained manually as a normal workflow step after creating, rotating, archiving or deleting pages.
+
+Do not create a second sitemap mechanism unless the existing one is explicitly replaced by a confirmed technical decision.
 
 ## Reason
 
@@ -32,14 +34,14 @@ When site pages are added or changed:
 ```text
 1. Update the actual HTML/content files.
 2. Keep canonical URLs correct inside the pages.
-3. Run or trigger the sitemap generator.
+3. Use the existing automatic sitemap generation mechanism.
 4. The generator scans the current site tree and writes sitemap.xml.
 5. Do not hand-edit sitemap.xml except for emergency repair.
 ```
 
 ## Generator requirements
 
-The sitemap generator should:
+The existing sitemap generator should continue to:
 
 ```text
 - scan the live static site tree;
@@ -64,6 +66,8 @@ Bing or other search engine warnings about duplicate titles/descriptions should 
 
 The sitemap can help discovery, but it does not solve duplicate title or duplicate meta description problems.
 
-## Future implementation note
+## Existing automation note
 
-If not already present in the live repository, create a generator script and, preferably, a GitHub Actions workflow or other repeatable command that regenerates sitemap.xml automatically after relevant page changes.
+The sitemap generation mechanism already exists in the live site workflow.
+
+Future chats should first identify and use the existing mechanism rather than proposing to create a new generator or maintain the sitemap by hand.
