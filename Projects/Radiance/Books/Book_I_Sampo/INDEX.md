@@ -20,14 +20,38 @@ Internal / world term:
 
 ---
 
-## Language structure
-
-Book I now uses language folders.
+## Current status
 
 ```text
-ru/    — Russian master branch / основная русская версия
-en/    — English branch / английская ветка, пока пустая
-pl/    — Polish branch / польская ветка, пока пустая
+Russian master version: complete.
+Russian final proofread Markdown version: complete and controller-approved.
+English literary transcreation: complete and approved in en/Final/.
+Polish branch: prepared, currently not developed.
+```
+
+Do not mark the English branch as empty.
+
+The English transcreation exists and includes:
+
+```text
+Prologue_en_final_v1.md
+Chapter_01_en_final_v1.md
+Chapter_02_en_final_v1.md
+...
+Chapter_24_en_final_v1.md
+Epilogue_en_final_v1.md
+```
+
+---
+
+## Language structure
+
+Book I uses language folders.
+
+```text
+ru/    — Russian master branch / основная русская версия; complete final files exist
+en/    — English branch / английская транскреация; complete approved final files exist
+pl/    — Polish branch / польская ветка; prepared, currently empty
 ```
 
 Russian working folders:
@@ -40,8 +64,9 @@ ru/Final/     — Russian final proofread Markdown files
 English working folders:
 
 ```text
-en/Drafts/    — prepared, currently empty
-en/Final/     — prepared, currently empty
+en/Drafts/    — English transcreation drafts
+en/Final/     — approved English final transcreation files
+en/Consultant/Transcreation_Reviews/ — controller reviews and notes
 ```
 
 Polish working folders:
@@ -96,6 +121,42 @@ Russian formula:
 Они искали Сампо как машину.
 Они жили внутри Сампо как Творения.
 Они хотели обеспечения без участия.
+```
+
+---
+
+## Artistic-research framing
+
+Book I is not an academic treatise on Kalevala and not a direct retelling of the epic.
+
+It is a completed work of literary artistic research.
+
+Correct framing:
+
+```text
+Sampo uses the Sampo motif to investigate abundance, ownership, participation and the human failure to recognize the living systems that sustain life.
+```
+
+Short formula:
+
+```text
+Not research about a novel.
+Not a novel based on research.
+Research becoming a novel.
+```
+
+Russian formula:
+
+```text
+Не исследование о романе.
+Не роман по мотивам исследования.
+А исследование, ставшее романом.
+```
+
+Full project-level framing file:
+
+```text
+Projects/Radiance/Artistic_Research_Frame.md
 ```
 
 ---
@@ -220,6 +281,86 @@ ru/Final/Chapter_06_final_v1.md
 
 ---
 
+## Current English transcreation files
+
+English draft files:
+
+```text
+en/Drafts/Prologue_en_v1.md
+en/Drafts/Chapter_01_en_v1.md
+en/Drafts/Chapter_02_en_v1.md
+en/Drafts/Chapter_03_en_v1.md
+en/Drafts/Chapter_04_en_v1.md
+en/Drafts/Chapter_05_en_v1.md
+en/Drafts/Chapter_06_en_v1.md
+en/Drafts/Chapter_07_en_v1.md
+en/Drafts/Chapter_08_en_v1.md
+en/Drafts/Chapter_09_en_v1.md
+en/Drafts/Chapter_10_en_v1.md
+en/Drafts/Chapter_11_en_v1.md
+en/Drafts/Chapter_12_en_v1.md
+en/Drafts/Chapter_13_en_v1.md
+en/Drafts/Chapter_14_en_v1.md
+en/Drafts/Chapter_15_en_v1.md
+en/Drafts/Chapter_16_en_v1.md
+en/Drafts/Chapter_17_en_v1.md
+en/Drafts/Chapter_18_en_v1.md
+en/Drafts/Chapter_19_en_v1.md
+en/Drafts/Chapter_20_en_v1.md
+en/Drafts/Chapter_21_en_v1.md
+en/Drafts/Chapter_22_en_v1.md
+en/Drafts/Chapter_23_en_v1.md
+en/Drafts/Chapter_24_en_v1.md
+en/Drafts/Epilogue_en_v1.md
+```
+
+Approved English final files:
+
+```text
+en/Final/Prologue_en_final_v1.md
+en/Final/Chapter_01_en_final_v1.md
+en/Final/Chapter_02_en_final_v1.md
+en/Final/Chapter_03_en_final_v1.md
+en/Final/Chapter_04_en_final_v1.md
+en/Final/Chapter_05_en_final_v1.md
+en/Final/Chapter_06_en_final_v1.md
+en/Final/Chapter_07_en_final_v1.md
+en/Final/Chapter_08_en_final_v1.md
+en/Final/Chapter_09_en_final_v1.md
+en/Final/Chapter_10_en_final_v1.md
+en/Final/Chapter_11_en_final_v1.md
+en/Final/Chapter_12_en_final_v1.md
+en/Final/Chapter_13_en_final_v1.md
+en/Final/Chapter_14_en_final_v1.md
+en/Final/Chapter_15_en_final_v1.md
+en/Final/Chapter_16_en_final_v1.md
+en/Final/Chapter_17_en_final_v1.md
+en/Final/Chapter_18_en_final_v1.md
+en/Final/Chapter_19_en_final_v1.md
+en/Final/Chapter_20_en_final_v1.md
+en/Final/Chapter_21_en_final_v1.md
+en/Final/Chapter_22_en_final_v1.md
+en/Final/Chapter_23_en_final_v1.md
+en/Final/Chapter_24_en_final_v1.md
+en/Final/Epilogue_en_final_v1.md
+```
+
+Known status pattern:
+
+```text
+Prologue: approved final.
+Chapter 01: approved final after RU author amendment.
+Chapter 02–Epilogue: final_v1 / approved after controller micro-corrections.
+```
+
+Controller reviews and notes live in:
+
+```text
+en/Consultant/Transcreation_Reviews/
+```
+
+---
+
 ## Chapter summaries / active memory
 
 Prologue opens with the mythic image of the Earth as a living feeding mechanism and the first human attempt to extract or own what already surrounds and feeds them.
@@ -306,16 +447,23 @@ Narrative_POV.md
 
 ## Chapter file naming rule
 
-All chapter draft files use short technical names:
+Russian draft files use short technical names:
 
 ```text
 Chapter_XX_vY.md
 ```
 
-Final proofread Markdown files use:
+Russian final proofread Markdown files use:
 
 ```text
 Chapter_XX_final_vY.md
+```
+
+English transcreation files use English-language technical names:
+
+```text
+Chapter_XX_en_vY.md
+Chapter_XX_en_final_vY.md
 ```
 
 Chapter titles do not go into filenames. The title lives inside the file.
@@ -392,4 +540,6 @@ Guest_Circle.md             — 12 guests + Ivar, symbolic and dramatic rules
 Narrative_POV.md            — primary Sofia POV, controlled shifts, Ivar seen from outside
 File_Naming.md              — chapter and final file naming rule
 Season_Setting.md           — seasonal setting: late August / early September threshold
+ru/Final/FINAL_INDEX.md     — Russian final proofread board
+en/Final/                   — approved English literary transcreation files
 ```
