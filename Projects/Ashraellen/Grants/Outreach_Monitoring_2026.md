@@ -94,7 +94,20 @@ Goal: consultation / direction / institutional readability test, not a direct gr
 
 ---
 
-## 5. Panoptykon result
+## 5. Kone Foundation eligibility inquiry
+
+Date sent: 2026-06-29  
+Language: English  
+Type: eligibility inquiry before preparing full application  
+Goal: clarify whether the project may be eligible for Kone and what route would be appropriate.
+
+| № | Institution | Contact / channel | Framing angle | Ask | Status | Follow-up |
+|---|---|---|---|---|---|---|
+| 1 | Kone Foundation | koneensaatio@koneensaatio.fi | Radiance / Sampo as the first focused part of a wider literary-philosophical artistic research cycle and developing series of books; Finnish-Karelian mythopoetic material, Sampo motif, Kalevala tradition; not a retelling or folklore reconstruction | clarify eligibility for a non-Finnish individual applicant based in Poland who cannot carry out a working period physically in Finland; ask whether Finnish institutional affiliation, working group with Finnish / Finland-based collaborator, or another structure is needed | WAITING | wait for reply; if no response within a reasonable time, consider one polite follow-up |
+
+---
+
+## 6. Panoptykon result
 
 Fundacja Panoptykon replied that the project does not fit the foundation's area of interest.
 
@@ -112,7 +125,7 @@ Do not continue correspondence unless a new strategic reason appears.
 
 ---
 
-## 6. Recommended follow-up template
+## 7. Recommended follow-up template
 
 ```text
 Szanowni Państwo,
@@ -129,7 +142,7 @@ https://www.ashraellen.com/pl/
 
 ---
 
-## 7. Main links used / recommended
+## 8. Main links used / recommended
 
 ```text
 https://www.ashraellen.com/pl/
@@ -142,7 +155,7 @@ https://www.ashraellen.com/en/professional/
 
 ---
 
-## 8. Response log
+## 9. Response log
 
 | Date | Institution | Response | Action | Status |
 |---|---|---|---|---|
@@ -150,18 +163,20 @@ https://www.ashraellen.com/en/professional/
 
 ---
 
-## 9. Next actions
+## 10. Next actions
 
-1. Do not expand outreach chaotically before analysing first reactions.
-2. Prepare `Project Brief PL`.
-3. Prepare `Project Brief EN`.
-4. Prepare follow-up letters only when strategically justified.
-5. Build an evidence pack: reach, comments, books, videos, site links, public response.
-6. Continue preparing the Kone Foundation package.
+1. Wait for Kone Foundation's response to the eligibility inquiry.
+2. Do not expand outreach chaotically before analysing first reactions.
+3. Prepare `Project Brief PL`.
+4. Prepare `Project Brief EN`.
+5. Prepare follow-up letters only when strategically justified.
+6. Build an evidence pack: reach, comments, books, videos, site links, public response.
+7. Continue preparing the Kone Foundation package.
+8. If Kone confirms that a Finnish affiliation / collaborator is needed, start targeted Finnish institutional / scholarly / literary-cultural contact search.
 
 ---
 
-## 10. Core conclusion
+## 11. Core conclusion
 
 The first Polish institutional wave presented Ashraellen through five compatible doors:
 
@@ -170,6 +185,8 @@ The first Polish institutional wave presented Ashraellen through five compatible
 3. Pogranicze — internal borderland of language, memory, system and culture.
 4. Panoptykon — human being in digital environment, information noise and inner autonomy.
 5. IBL PAN — literature as research into experience, language, memory, narrative and self-deception.
+
+Kone Foundation has now been contacted separately through an eligibility inquiry, not a full application.
 
 Formula:
 
