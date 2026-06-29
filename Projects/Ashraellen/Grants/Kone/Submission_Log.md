@@ -6,7 +6,7 @@ Track submission history, eligibility inquiries, sent messages, responses and fo
 Current status:
 
 ```text
-ELIGIBILITY INQUIRY SENT / WAITING
+KONE RESPONDED / ELIGIBILITY ROUTES IDENTIFIED
 ```
 
 No formal Kone grant application has been submitted yet.
@@ -14,8 +14,20 @@ No formal Kone grant application has been submitted yet.
 Current meaning:
 
 ```text
-A first eligibility inquiry was sent to Kone Foundation before preparing the full application package.
-The key question is whether a non-Finnish individual applicant based in Poland, unable to carry out work physically in Finland, may be eligible through Finnish institutional affiliation, or whether a working group with a Finnish citizen / Finland-based collaborator would be required.
+Kone Foundation replied to the first eligibility inquiry.
+There is no separate route to select in the application form and no separate question related to this in the form.
+It is sufficient that the connection to Finland is clearly demonstrated elsewhere in the application.
+For this project, the available options seem to be either:
+1. finding an affiliation with a Finnish institution; OR
+2. submitting the application as a working group that includes someone who is either a Finnish citizen or based in Finland.
+```
+
+Strategic conclusion:
+
+```text
+The project should not assume that an individual application from Poland is enough by itself.
+The next practical task is to secure either Finnish institutional affiliation or a Finnish / Finland-based working group participant.
+The ongoing SKS and Kalevala Society contacts are now strategically relevant as orientation routes, but they must not be treated as assumed support.
 ```
 
 ---
@@ -25,6 +37,7 @@ The key question is whether a non-Finnish individual applicant based in Poland, 
 ```text
 2026-06-11 — Kone workspace created in APM.
 2026-06-29 — First eligibility inquiry sent to Kone Foundation.
+2026-06-29 — Kone Foundation replied: no separate application route; connection to Finland must be demonstrated; practical options are Finnish institutional affiliation OR working group with Finnish citizen / Finland-based participant.
 ```
 
 ---
@@ -101,18 +114,58 @@ None.
 The message offered to send a short project note if useful, but did not overload the initial inquiry with attachments.
 ```
 
-Status:
+Status after sending:
 
 ```text
 WAITING
 ```
 
-Follow-up:
+---
+
+## 2026-06-29 — Kone Foundation response received
+
+Date received:
 
 ```text
-Wait for Kone response.
-If no answer arrives within a reasonable time, consider one polite follow-up.
-In parallel, search for possible Finnish institutional / scholarly / literary-cultural contacts only if strategically useful.
+2026-06-29
+```
+
+Response summary:
+
+```text
+Kone Foundation clarified that the applicant does not have to select a separate route in the application form, because there is no separate question related to this in the application form.
+It is sufficient that the connection to Finland is clearly demonstrated elsewhere in the application.
+
+For this project, the available options seem to be either:
+1. finding an affiliation with a Finnish institution; OR
+2. submitting the application as a working group that includes someone who is either a Finnish citizen or based in Finland.
+```
+
+Practical interpretation:
+
+```text
+The response does not close the door.
+It clarifies that the decisive eligibility / credibility issue is how the application demonstrates a clear connection to Finland.
+For Ashraellen / Radiance, the safest path is no longer an isolated individual application from Poland.
+The safest paths are:
+1. Finnish institutional affiliation; or
+2. a working group with a Finnish citizen / Finland-based participant.
+```
+
+Follow-up action:
+
+```text
+Do not ask Kone more general eligibility questions immediately.
+Send a short thank-you only if useful.
+Continue Finnish context-building through SKS and Kalevala Society.
+Prepare a concise English project note that can be sent to possible Finnish institutions / researchers / collaborators.
+Begin identifying possible Finnish institutional affiliation routes and Finland-based collaborators.
+```
+
+Status:
+
+```text
+RESPONDED / ROUTES IDENTIFIED
 ```
 
 ---
