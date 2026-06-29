@@ -1,7 +1,8 @@
 # Mythopoetic Instruction Canon — Radiance / Сияние
 
 Status: ACTIVE INTERNAL CANON  
-Created: 2026-06-29
+Created: 2026-06-29  
+Updated: 2026-06-29
 
 This file records the deeper internal canon behind **Radiance / Сияние**: why the series exists, what it studies, and how ancient stories are understood inside the project.
 
@@ -270,7 +271,43 @@ Radiance asks whether contemporary literature can help restore this hearing with
 
 ---
 
-## 7. Why the series exists
+## 7. Artistic form as test, not proof
+
+Radiance does not prove ancient truth as a thesis.
+
+It tests whether artistic form can make ancient truth audible again — and not only audible, but clearly and distinctly understandable through lived literary experience.
+
+Russian core formulation:
+
+```text
+Мы не доказываем древнюю истину как тезис.
+Мы проверяем, может ли художественная форма снова сделать её слышимой и явственно понимаемой.
+```
+
+English working formulation:
+
+```text
+We do not prove ancient truth as a thesis.
+We test whether artistic form can make it audible again — and clearly understandable as lived experience.
+```
+
+This formula is crucial because it keeps **Radiance** within artistic research rather than doctrine, sermon or academic proof.
+
+The project is not trying to force belief.
+
+It is not trying to establish a metaphysical thesis from above.
+
+It is not trying to replace scholarship with revelation.
+
+It asks whether fiction, scene, rhythm, image, silence, character and consequence can restore the working intelligibility of an ancient image.
+
+The test is not whether the reader agrees with a proposition.
+
+The test is whether the reader can begin to hear the instruction inside the image again.
+
+---
+
+## 8. Why the series exists
 
 Radiance exists to restore the working force of ancient images through literature.
 
@@ -298,7 +335,7 @@ Russian:
 
 ---
 
-## 8. What each current book-node studies as instruction
+## 9. What each current book-node studies as instruction
 
 ### Book I — Сампо
 
@@ -386,7 +423,7 @@ It asks whether the human being can return from ownership to service.
 
 ---
 
-## 9. Internal vs external language
+## 10. Internal vs external language
 
 The internal canon may say:
 
@@ -410,6 +447,12 @@ External comparative version:
 Alongside the Finnish / Karelian / Kalevala-related line, the project studies epic and mythopoetic traditions of other cultures with varying degrees of depth. This comparative layer does not flatten cultural differences, but observes how different peoples preserved related symbolic structures through their own languages, landscapes, images, rituals and narrative forms.
 ```
 
+External artistic-research version:
+
+```text
+The project does not aim to prove ancient truth as a thesis. It tests whether literary form can make ancient images audible and intelligible again as lived experience.
+```
+
 Do not write externally in a way that sounds like:
 
 ```text
@@ -427,9 +470,9 @@ Different traditions are approached not as interchangeable myths, but as cultura
 
 ---
 
-## 10. Main dangers
+## 11. Main dangers
 
-### 10.1. Dead academic reduction
+### 11.1. Dead academic reduction
 
 Do not reduce the project to:
 
@@ -439,7 +482,7 @@ a study of mythological motifs
 
 The motifs matter because they carry instruction.
 
-### 10.2. Primitive literalism
+### 11.2. Primitive literalism
 
 Do not reduce the project to:
 
@@ -449,27 +492,35 @@ ancient stories are exact technical reports
 
 The truth of the stories is not dependent on proving them as literal chronology.
 
-### 10.3. Universal flattening
+### 11.3. Universal flattening
 
 Do not reduce all traditions to one undifferentiated system.
 
 The root may be one or related, but the languages of access are different and must be respected.
 
-### 10.4. Spiritual sermon
+### 11.4. Spiritual sermon
 
 Do not let the novel become a sermon, doctrine or spiritual instruction manual.
 
 The instruction must become scene.
 
-### 10.5. Decorative folklore
+### 11.5. Decorative folklore
 
 Do not use Finnish / Karelian / Kalevala-related material as atmosphere.
 
 The northern material is not decoration. It is the main spine of the current cycle.
 
+### 11.6. Thesis-proof trap
+
+Do not make the project sound like an attempt to prove ancient truth as a thesis.
+
+Radiance tests form.
+
+It asks whether the ancient instruction can become audible and intelligible again through literature.
+
 ---
 
-## 11. Core formulas to preserve
+## 12. Core formulas to preserve
 
 ```text
 Древние истории — это образные инструкции к миру.
@@ -497,6 +548,11 @@ The northern material is not decoration. It is the main spine of the current cyc
 ```text
 Мы не возвращаемся в древность.
 Мы возвращаем древнему образу его рабочую силу.
+```
+
+```text
+Мы не доказываем древнюю истину как тезис.
+Мы проверяем, может ли художественная форма снова сделать её слышимой и явственно понимаемой.
 ```
 
 ```text
