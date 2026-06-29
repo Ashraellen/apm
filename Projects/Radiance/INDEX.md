@@ -90,6 +90,19 @@ Russian:
 «Сияние» исследует человека и реальность через мифопоэтические следы, в которых эпос сохранил знание о человеке и реальности.
 ```
 
+Deeper internal canon:
+
+```text
+Ancient stories are image-based instructions to the world.
+They tell, in symbolic form, how it was, how it is, and how it should be.
+```
+
+Dedicated canon file:
+
+```text
+Projects/Radiance/Mythopoetic_Instruction_Canon.md
+```
+
 ---
 
 ## 3. Current material status
@@ -109,6 +122,7 @@ This folder records the active decisions for a literary-artistic research cycle 
 - Sampo as the first completed central motif;
 - Song / Песня as the second completed Russian research-novel body;
 - Creation / Earth as the true Manna-machine;
+- ancient stories as image-based instructions, not dead cultural decoration;
 - mythic figures and motifs as carriers of inner laws, not as encyclopedic fantasy characters;
 - philosophical fantasy as the living literary body;
 - artistic research through fiction as an external / institutional description;
@@ -182,18 +196,19 @@ If an older note says that Book II is not drafted yet, treat that note as outdat
 ## 6. File map
 
 ```text
-First_Decisions.md          — First canonical decisions from the initial conversation
-Project_Bible.md            — Core canon, metaphysics, concept, and project identity
-Mythic_Method.md            — Cleaned method: philosophical fantasy, not epic retelling, not over-technical explanation
-Artistic_Research_Frame.md  — Current institutional/artistic-research frame and grant-facing language
-Style_Guide.md              — Tone, rhythm, opening hook, prohibitions, scene rules
-Series_Map.md               — Current named cycle map and functional logic of each book
-Characters.md               — Ivar, the 12 guests, heroes, mythic functions
-Research_Notes.md           — Finnish / Karelian material, comparative pantheons, institutional direction
-Books/                      — Book-level memory, final branches and future book folders
-Research/                   — Source orientation, notes, and research layers
-Drafts/                     — Working fragments, scenes, exploratory drafts
-Archive/                    — Deprecated / older / rejected variants
+First_Decisions.md                    — First canonical decisions from the initial conversation
+Project_Bible.md                      — Core canon, metaphysics, concept, and project identity
+Mythopoetic_Instruction_Canon.md      — Deeper internal canon: ancient stories as image-based instructions
+Mythic_Method.md                      — Cleaned method: philosophical fantasy, not epic retelling, not over-technical explanation
+Artistic_Research_Frame.md            — Current institutional/artistic-research frame and grant-facing language
+Style_Guide.md                        — Tone, rhythm, opening hook, prohibitions, scene rules
+Series_Map.md                         — Current named cycle map and functional logic of each book
+Characters.md                         — Ivar, the 12 guests, heroes, mythic functions
+Research_Notes.md                     — Finnish / Karelian material, comparative pantheons, institutional direction
+Books/                                — Book-level memory, final branches and future book folders
+Research/                             — Source orientation, notes, and research layers
+Drafts/                               — Working fragments, scenes, exploratory drafts
+Archive/                              — Deprecated / older / rejected variants
 ```
 
 ---
@@ -209,9 +224,10 @@ Before working on Radiance / Сияние, read:
 4. Projects/Radiance/Artistic_Research_Frame.md
 5. Projects/Radiance/First_Decisions.md
 6. Projects/Radiance/Project_Bible.md
-7. Projects/Radiance/Mythic_Method.md
-8. Projects/Radiance/Series_Map.md
-9. Projects/Radiance/Style_Guide.md
+7. Projects/Radiance/Mythopoetic_Instruction_Canon.md
+8. Projects/Radiance/Mythic_Method.md
+9. Projects/Radiance/Series_Map.md
+10. Projects/Radiance/Style_Guide.md
 ```
 
 Then read specific files depending on the task:
@@ -269,7 +285,9 @@ Do not reduce the project to:
 - a grant wrapper for Finnish institutions;
 - ecological moralizing with a sad hedgehog on the cover;
 - a campfire conversation artificially stretched across the whole cycle;
-- a noisy discussion panel where Ivar is constantly interrupted.
+- a noisy discussion panel where Ivar is constantly interrupted;
+- primitive literalism where ancient stories become exact technical reports;
+- universal flattening where all traditions become the same interchangeable myth.
 
 Correct frame:
 
