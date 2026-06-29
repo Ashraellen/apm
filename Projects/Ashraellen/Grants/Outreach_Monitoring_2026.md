@@ -141,13 +141,20 @@ Not a retelling of the Kalevala, not folklore reconstruction, not an academic st
 
 | № | Institution | Contact / channel | Date / time | Framing angle | Ask | Status | Follow-up |
 |---|---|---|---|---|---|---|---|
-| 1 | Finnish Literature Society / SKS | sks@finlit.fi | sent 2026-06-20 01:11 | broad Finnish literature / folklore / cultural history / Kalevala-related orientation; Radiance / Sampo as literary-artistic research through fiction | ask whether project can be meaningfully situated in Finnish literature, folklore, cultural history, or Kalevala-related context; request suitable researcher / archive / collection / programme / institution | SENT / WAITING | wait for reply; if no response after a reasonable time, consider one polite follow-up |
+| 1 | Finnish Literature Society / SKS | sks@finlit.fi | sent 2026-06-20 01:11; auto-reply received 2026-06-29 02:40 | broad Finnish literature / folklore / cultural history / Kalevala-related orientation; Radiance / Sampo as literary-artistic research through fiction | ask whether project can be meaningfully situated in Finnish literature, folklore, cultural history, or Kalevala-related context; request suitable researcher / archive / collection / programme / institution | AUTO-REPLY / WAITING UNTIL 2026-08-03 | no follow-up before 2026-08-03; SKS auto-reply says they will reply again after summer break on 2026-08-03 |
 | 2 | Kalevala Society | kalevalaseura@kalevalaseura.fi | scheduled for 2026-07-01 08:00 | contemporary Kalevala-related artistic, literary and cultural heritage context; Sampo and Song as first working nodes of Radiance | ask whether project can be meaningfully situated in contemporary Kalevala-related artistic, literary or cultural heritage contexts; request suitable researcher / event / publication context / network / institution | SCHEDULED | confirm sent after scheduled delivery; then wait for reply |
 
 Note:
 
 ```text
 Kalevala Society letter version should avoid Russian-language titles or Russian words in the first contact. Use English project names and describe original-language status neutrally.
+```
+
+SKS auto-reply text:
+
+```text
+Vastaamme SKS:n sähköposteihin jälleen 3.8.2026 alkaen kesälomakauden päätyttyä.
+Due to the summer break we will reply to this email again 3 August 2026.
 ```
 
 ---
@@ -206,6 +213,7 @@ https://www.ashraellen.com/en/professional/
 |---|---|---|---|---|
 | 2026-06 | Fundacja Panoptykon | Project does not fit the foundation's area of interest. | Close contact. | CLOSED |
 | 2026-06-20 01:11 | Finnish Literature Society / SKS | Initial orientation email sent. | Wait for response. | SENT / WAITING |
+| 2026-06-29 02:40 | Finnish Literature Society / SKS | Automatic reply received: due to summer break, SKS will reply again from 2026-08-03. | Do not follow up before 2026-08-03. | AUTO-REPLY / WAITING UNTIL 2026-08-03 |
 | 2026-07-01 08:00 | Kalevala Society | Email scheduled for delivery. | Confirm after sending. | SCHEDULED |
 
 ---
@@ -214,14 +222,15 @@ https://www.ashraellen.com/en/professional/
 
 1. Wait for Kone Foundation's response to the eligibility inquiry.
 2. Confirm that the Kalevala Society email was sent after the scheduled delivery on 2026-07-01 08:00.
-3. Wait for Finnish Literature Society / SKS response; if no response after a reasonable time, consider one polite follow-up.
-4. Wait for Kalevala Society response after sending; if no response after a reasonable time, consider one polite follow-up.
-5. Do not expand Finnish outreach chaotically before analysing first reactions.
-6. Prepare `Project Brief EN` adapted to the Finnish / Kalevala-related context.
-7. Prepare `Sampo Concise Research Note EN` as a possible attachment only if requested or strategically useful.
-8. Prepare a selected English excerpt from `Sampo` only if requested or strategically useful.
-9. Continue preparing the Kone Foundation package.
-10. If Kone confirms that a Finnish affiliation / collaborator is needed, use SKS / Kalevala Society responses as possible orientation routes, not as assumed support.
+3. Do not follow up with Finnish Literature Society / SKS before 2026-08-03 because of the summer-break auto-reply.
+4. Wait for Finnish Literature Society / SKS response after 2026-08-03; if no response after a reasonable time, consider one polite follow-up.
+5. Wait for Kalevala Society response after sending; if no response after a reasonable time, consider one polite follow-up.
+6. Do not expand Finnish outreach chaotically before analysing first reactions.
+7. Prepare `Project Brief EN` adapted to the Finnish / Kalevala-related context.
+8. Prepare `Sampo Concise Research Note EN` as a possible attachment only if requested or strategically useful.
+9. Prepare a selected English excerpt from `Sampo` only if requested or strategically useful.
+10. Continue preparing the Kone Foundation package.
+11. If Kone confirms that a Finnish affiliation / collaborator is needed, use SKS / Kalevala Society responses as possible orientation routes, not as assumed support.
 
 ---
 
@@ -239,7 +248,7 @@ Kone Foundation has now been contacted separately through an eligibility inquiry
 
 A Finnish / Kalevala-related orientation wave has also begun:
 
-1. Finnish Literature Society / SKS — sent / waiting.
+1. Finnish Literature Society / SKS — auto-reply received / waiting until 2026-08-03.
 2. Kalevala Society — scheduled for 2026-07-01 08:00.
 
 Formula:
