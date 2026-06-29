@@ -6,7 +6,7 @@ Track submission history, eligibility inquiries, sent messages, responses and fo
 Current status:
 
 ```text
-KONE RESPONDED / ELIGIBILITY ROUTES IDENTIFIED
+KONE RESPONDED / THANK-YOU SENT / ELIGIBILITY ROUTES IDENTIFIED
 ```
 
 No formal Kone grant application has been submitted yet.
@@ -20,6 +20,8 @@ It is sufficient that the connection to Finland is clearly demonstrated elsewher
 For this project, the available options seem to be either:
 1. finding an affiliation with a Finnish institution; OR
 2. submitting the application as a working group that includes someone who is either a Finnish citizen or based in Finland.
+
+A short thank-you reply was sent at 12:12, confirming that this clarification will be taken into account while preparing the project further.
 ```
 
 Strategic conclusion:
@@ -38,6 +40,7 @@ The ongoing SKS and Kalevala Society contacts are now strategically relevant as 
 2026-06-11 — Kone workspace created in APM.
 2026-06-29 — First eligibility inquiry sent to Kone Foundation.
 2026-06-29 — Kone Foundation replied: no separate application route; connection to Finland must be demonstrated; practical options are Finnish institutional affiliation OR working group with Finnish citizen / Finland-based participant.
+2026-06-29 12:12 — Short thank-you reply sent to Kone Foundation.
 ```
 
 ---
@@ -156,7 +159,6 @@ Follow-up action:
 
 ```text
 Do not ask Kone more general eligibility questions immediately.
-Send a short thank-you only if useful.
 Continue Finnish context-building through SKS and Kalevala Society.
 Prepare a concise English project note that can be sent to possible Finnish institutions / researchers / collaborators.
 Begin identifying possible Finnish institutional affiliation routes and Finland-based collaborators.
@@ -166,6 +168,38 @@ Status:
 
 ```text
 RESPONDED / ROUTES IDENTIFIED
+```
+
+---
+
+## 2026-06-29 12:12 — Thank-you reply sent
+
+Date / time sent:
+
+```text
+2026-06-29 12:12
+```
+
+Message type:
+
+```text
+Short thank-you reply in the same email thread.
+```
+
+Content summary:
+
+```text
+Thanked Kone Foundation for the clear and helpful clarification.
+Confirmed understanding that the connection to Finland should be demonstrated within the application itself.
+Confirmed understanding that the most relevant options are Finnish institutional affiliation or a working group including a Finnish citizen / Finland-based participant.
+Stated that this will be taken into account while preparing the project further.
+Included the English project website in the signature.
+```
+
+Status:
+
+```text
+THANK-YOU SENT / NO FURTHER KONE QUESTION NOW
 ```
 
 ---
