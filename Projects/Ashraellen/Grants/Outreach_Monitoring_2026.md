@@ -160,7 +160,7 @@ Not a retelling of the Kalevala, not folklore reconstruction, not an academic st
 | № | Institution | Contact / channel | Date / time | Framing angle | Ask | Status | Follow-up |
 |---|---|---|---|---|---|---|---|
 | 1 | Finnish Literature Society / SKS | sks@finlit.fi | sent 2026-06-20 01:11; auto-reply received 2026-06-29 02:40 | broad Finnish literature / folklore / cultural history / Kalevala-related orientation; Radiance / Sampo as literary-artistic research through fiction | ask whether project can be meaningfully situated in Finnish literature, folklore, cultural history, or Kalevala-related context; request suitable researcher / archive / collection / programme / institution | AUTO-REPLY / WAITING UNTIL 2026-08-03 | no follow-up before 2026-08-03; SKS auto-reply says they will reply again after summer break on 2026-08-03 |
-| 2 | Kalevala Society | kalevalaseura@kalevalaseura.fi | scheduled for 2026-07-01 08:00 | contemporary Kalevala-related artistic, literary and cultural heritage context; Sampo and Song as first working nodes of Radiance | ask whether project can be meaningfully situated in contemporary Kalevala-related artistic, literary or cultural heritage contexts; request suitable researcher / event / publication context / network / institution | SCHEDULED | confirm sent after scheduled delivery; then wait for reply |
+| 2 | Kalevala Society | kalevalaseura@kalevalaseura.fi | rescheduled to 2026-06-29; previously scheduled for 2026-07-01 08:00 | contemporary Kalevala-related artistic, literary and cultural heritage context; Sampo and Song as first working nodes of Radiance | ask whether project can be meaningfully situated in contemporary Kalevala-related artistic, literary or cultural heritage contexts; request suitable researcher / event / publication context / network / institution | SCHEDULED FOR 2026-06-29 | confirm sent after delivery; then wait for reply |
 
 Note:
 
@@ -234,7 +234,7 @@ https://www.ashraellen.com/en/professional/
 | 2026-06-29 | Kone Foundation | Eligibility answer received: connection to Finland must be shown in application; options are Finnish institutional affiliation OR working group with Finnish citizen / Finland-based participant. | Continue Finnish context-building; seek affiliation / working-group route. | RESPONDED / ROUTES IDENTIFIED |
 | 2026-06-29 02:40 | Finnish Literature Society / SKS | Automatic reply received: due to summer break, SKS will reply again from 2026-08-03. | Do not follow up before 2026-08-03. | AUTO-REPLY / WAITING UNTIL 2026-08-03 |
 | 2026-06-29 12:12 | Kone Foundation | Short thank-you reply sent in the same thread. | No further Kone question now. | THANK-YOU SENT |
-| 2026-07-01 08:00 | Kalevala Society | Email scheduled for delivery. | Confirm after sending. | SCHEDULED |
+| 2026-06-29 | Kalevala Society | Email delivery date moved from 2026-07-01 08:00 to today. | Confirm after sending. | SCHEDULED FOR TODAY |
 
 ---
 
@@ -242,7 +242,7 @@ https://www.ashraellen.com/en/professional/
 
 1. Do not ask Kone more general eligibility questions immediately.
 2. Treat the Kone route as clarified: Finnish institutional affiliation OR working group with Finnish citizen / Finland-based participant.
-3. Confirm that the Kalevala Society email was sent after the scheduled delivery on 2026-07-01 08:00.
+3. Confirm that the Kalevala Society email was sent after delivery on 2026-06-29.
 4. Do not follow up with Finnish Literature Society / SKS before 2026-08-03 because of the summer-break auto-reply.
 5. Wait for Finnish Literature Society / SKS response after 2026-08-03; if no response after a reasonable time, consider one polite follow-up.
 6. Wait for Kalevala Society response after sending; if no response after a reasonable time, consider one polite follow-up.
@@ -275,7 +275,7 @@ The realistic routes are Finnish institutional affiliation OR a working group wi
 A Finnish / Kalevala-related orientation wave has also begun:
 
 1. Finnish Literature Society / SKS — auto-reply received / waiting until 2026-08-03.
-2. Kalevala Society — scheduled for 2026-07-01 08:00.
+2. Kalevala Society — rescheduled to 2026-06-29 / scheduled for today.
 
 Formula:
 
