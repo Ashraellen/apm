@@ -2,6 +2,7 @@
 
 Status: active compact monitoring file  
 Created in Grants workspace: 2026-06-27  
+Updated: 2026-06-29  
 Original full source: `Projects/Ashraellen/Grant_Outreach_Monitoring_2026.md`  
 Workspace: `Projects/Ashraellen/Grants/`
 
@@ -75,6 +76,12 @@ Other languages are channels of access.
 Translation should open the project, not rewrite its core.
 ```
 
+Operational contact address for current English institutional outreach:
+
+```text
+ashraellen.live@gmail.com
+```
+
 ---
 
 ## 4. First Polish institutional outreach wave
@@ -107,7 +114,45 @@ Goal: clarify whether the project may be eligible for Kone and what route would 
 
 ---
 
-## 6. Panoptykon result
+## 6. Finnish / Kalevala-related institutional orientation outreach
+
+Purpose:
+
+```text
+Find a correct Finnish cultural / literary / research context for Radiance before any possible Kone Foundation package is finalized.
+```
+
+First-wave principle:
+
+```text
+Do not ask for a grant, recommendation letter, or formal support at first contact.
+Ask for orientation, relevance check, and direction to a suitable researcher / archive / programme / event / publication context / network.
+```
+
+Current project framing for this wave:
+
+```text
+Radiance as a long-term literary-philosophical artistic research cycle developed through fiction.
+Finnish / Karelian / Kalevala-related mythopoetic material as the main northern spine.
+Ancient epic and mythopoetic narratives as symbolic systems of transmission / image-based instructions.
+Artistic form as a test of whether ancient images can become audible and intelligible again as lived experience.
+Not a retelling of the Kalevala, not folklore reconstruction, not an academic study of the epic, not decorative mythology.
+```
+
+| № | Institution | Contact / channel | Date / time | Framing angle | Ask | Status | Follow-up |
+|---|---|---|---|---|---|---|---|
+| 1 | Finnish Literature Society / SKS | sks@finlit.fi | sent 2026-06-20 01:11 | broad Finnish literature / folklore / cultural history / Kalevala-related orientation; Radiance / Sampo as literary-artistic research through fiction | ask whether project can be meaningfully situated in Finnish literature, folklore, cultural history, or Kalevala-related context; request suitable researcher / archive / collection / programme / institution | SENT / WAITING | wait for reply; if no response after a reasonable time, consider one polite follow-up |
+| 2 | Kalevala Society | kalevalaseura@kalevalaseura.fi | scheduled for 2026-07-01 08:00 | contemporary Kalevala-related artistic, literary and cultural heritage context; Sampo and Song as first working nodes of Radiance | ask whether project can be meaningfully situated in contemporary Kalevala-related artistic, literary or cultural heritage contexts; request suitable researcher / event / publication context / network / institution | SCHEDULED | confirm sent after scheduled delivery; then wait for reply |
+
+Note:
+
+```text
+Kalevala Society letter version should avoid Russian-language titles or Russian words in the first contact. Use English project names and describe original-language status neutrally.
+```
+
+---
+
+## 7. Panoptykon result
 
 Fundacja Panoptykon replied that the project does not fit the foundation's area of interest.
 
@@ -125,7 +170,7 @@ Do not continue correspondence unless a new strategic reason appears.
 
 ---
 
-## 7. Recommended follow-up template
+## 8. Recommended follow-up template
 
 ```text
 Szanowni Państwo,
@@ -142,7 +187,7 @@ https://www.ashraellen.com/pl/
 
 ---
 
-## 8. Main links used / recommended
+## 9. Main links used / recommended
 
 ```text
 https://www.ashraellen.com/pl/
@@ -155,28 +200,32 @@ https://www.ashraellen.com/en/professional/
 
 ---
 
-## 9. Response log
+## 10. Response log
 
 | Date | Institution | Response | Action | Status |
 |---|---|---|---|---|
 | 2026-06 | Fundacja Panoptykon | Project does not fit the foundation's area of interest. | Close contact. | CLOSED |
+| 2026-06-20 01:11 | Finnish Literature Society / SKS | Initial orientation email sent. | Wait for response. | SENT / WAITING |
+| 2026-07-01 08:00 | Kalevala Society | Email scheduled for delivery. | Confirm after sending. | SCHEDULED |
 
 ---
 
-## 10. Next actions
+## 11. Next actions
 
 1. Wait for Kone Foundation's response to the eligibility inquiry.
-2. Do not expand outreach chaotically before analysing first reactions.
-3. Prepare `Project Brief PL`.
-4. Prepare `Project Brief EN`.
-5. Prepare follow-up letters only when strategically justified.
-6. Build an evidence pack: reach, comments, books, videos, site links, public response.
-7. Continue preparing the Kone Foundation package.
-8. If Kone confirms that a Finnish affiliation / collaborator is needed, start targeted Finnish institutional / scholarly / literary-cultural contact search.
+2. Confirm that the Kalevala Society email was sent after the scheduled delivery on 2026-07-01 08:00.
+3. Wait for Finnish Literature Society / SKS response; if no response after a reasonable time, consider one polite follow-up.
+4. Wait for Kalevala Society response after sending; if no response after a reasonable time, consider one polite follow-up.
+5. Do not expand Finnish outreach chaotically before analysing first reactions.
+6. Prepare `Project Brief EN` adapted to the Finnish / Kalevala-related context.
+7. Prepare `Sampo Concise Research Note EN` as a possible attachment only if requested or strategically useful.
+8. Prepare a selected English excerpt from `Sampo` only if requested or strategically useful.
+9. Continue preparing the Kone Foundation package.
+10. If Kone confirms that a Finnish affiliation / collaborator is needed, use SKS / Kalevala Society responses as possible orientation routes, not as assumed support.
 
 ---
 
-## 11. Core conclusion
+## 12. Core conclusion
 
 The first Polish institutional wave presented Ashraellen through five compatible doors:
 
@@ -187,6 +236,11 @@ The first Polish institutional wave presented Ashraellen through five compatible
 5. IBL PAN — literature as research into experience, language, memory, narrative and self-deception.
 
 Kone Foundation has now been contacted separately through an eligibility inquiry, not a full application.
+
+A Finnish / Kalevala-related orientation wave has also begun:
+
+1. Finnish Literature Society / SKS — sent / waiting.
+2. Kalevala Society — scheduled for 2026-07-01 08:00.
 
 Formula:
 
