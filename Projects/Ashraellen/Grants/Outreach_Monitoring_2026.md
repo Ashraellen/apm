@@ -110,7 +110,7 @@ Goal: clarify whether the project may be eligible for Kone and what route would 
 
 | № | Institution | Contact / channel | Framing angle | Ask | Status | Follow-up |
 |---|---|---|---|---|---|---|
-| 1 | Kone Foundation | koneensaatio@koneensaatio.fi | Radiance / Sampo as the first focused part of a wider literary-philosophical artistic research cycle and developing series of books; Finnish-Karelian mythopoetic material, Sampo motif, Kalevala tradition; not a retelling or folklore reconstruction | clarify eligibility for a non-Finnish individual applicant based in Poland who cannot carry out a working period physically in Finland; ask whether Finnish institutional affiliation, working group with Finnish / Finland-based collaborator, or another structure is needed | RESPONDED / ROUTES IDENTIFIED | no need for another general eligibility inquiry now; practical next step is Finnish institutional affiliation or working group with Finnish / Finland-based participant |
+| 1 | Kone Foundation | koneensaatio@koneensaatio.fi | Radiance / Sampo as the first focused part of a wider literary-philosophical artistic research cycle and developing series of books; Finnish-Karelian mythopoetic material, Sampo motif, Kalevala tradition; not a retelling or folklore reconstruction | clarify eligibility for a non-Finnish individual applicant based in Poland who cannot carry out a working period physically in Finland; ask whether Finnish institutional affiliation, working group with Finnish / Finland-based collaborator, or another structure is needed | RESPONDED / THANK-YOU SENT / ROUTES IDENTIFIED | no need for another general eligibility inquiry now; practical next step is Finnish institutional affiliation or working group with Finnish / Finland-based participant |
 
 Kone response summary:
 
@@ -121,6 +121,13 @@ The connection to Finland must be clearly demonstrated elsewhere in the applicat
 For this project, the available options seem to be either:
 1. affiliation with a Finnish institution; OR
 2. submitting as a working group including someone who is a Finnish citizen or based in Finland.
+```
+
+Thank-you reply:
+
+```text
+Sent 2026-06-29 12:12 in the same thread.
+Short thank-you reply only; no further eligibility question asked.
 ```
 
 ---
@@ -226,6 +233,7 @@ https://www.ashraellen.com/en/professional/
 | 2026-06-20 01:11 | Finnish Literature Society / SKS | Initial orientation email sent. | Wait for response. | SENT / WAITING |
 | 2026-06-29 | Kone Foundation | Eligibility answer received: connection to Finland must be shown in application; options are Finnish institutional affiliation OR working group with Finnish citizen / Finland-based participant. | Continue Finnish context-building; seek affiliation / working-group route. | RESPONDED / ROUTES IDENTIFIED |
 | 2026-06-29 02:40 | Finnish Literature Society / SKS | Automatic reply received: due to summer break, SKS will reply again from 2026-08-03. | Do not follow up before 2026-08-03. | AUTO-REPLY / WAITING UNTIL 2026-08-03 |
+| 2026-06-29 12:12 | Kone Foundation | Short thank-you reply sent in the same thread. | No further Kone question now. | THANK-YOU SENT |
 | 2026-07-01 08:00 | Kalevala Society | Email scheduled for delivery. | Confirm after sending. | SCHEDULED |
 
 ---
