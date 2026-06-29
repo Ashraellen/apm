@@ -110,7 +110,18 @@ Goal: clarify whether the project may be eligible for Kone and what route would 
 
 | № | Institution | Contact / channel | Framing angle | Ask | Status | Follow-up |
 |---|---|---|---|---|---|---|
-| 1 | Kone Foundation | koneensaatio@koneensaatio.fi | Radiance / Sampo as the first focused part of a wider literary-philosophical artistic research cycle and developing series of books; Finnish-Karelian mythopoetic material, Sampo motif, Kalevala tradition; not a retelling or folklore reconstruction | clarify eligibility for a non-Finnish individual applicant based in Poland who cannot carry out a working period physically in Finland; ask whether Finnish institutional affiliation, working group with Finnish / Finland-based collaborator, or another structure is needed | WAITING | wait for reply; if no response within a reasonable time, consider one polite follow-up |
+| 1 | Kone Foundation | koneensaatio@koneensaatio.fi | Radiance / Sampo as the first focused part of a wider literary-philosophical artistic research cycle and developing series of books; Finnish-Karelian mythopoetic material, Sampo motif, Kalevala tradition; not a retelling or folklore reconstruction | clarify eligibility for a non-Finnish individual applicant based in Poland who cannot carry out a working period physically in Finland; ask whether Finnish institutional affiliation, working group with Finnish / Finland-based collaborator, or another structure is needed | RESPONDED / ROUTES IDENTIFIED | no need for another general eligibility inquiry now; practical next step is Finnish institutional affiliation or working group with Finnish / Finland-based participant |
+
+Kone response summary:
+
+```text
+No separate route has to be selected in the application form.
+There is no separate application-form question related to this.
+The connection to Finland must be clearly demonstrated elsewhere in the application.
+For this project, the available options seem to be either:
+1. affiliation with a Finnish institution; OR
+2. submitting as a working group including someone who is a Finnish citizen or based in Finland.
+```
 
 ---
 
@@ -213,6 +224,7 @@ https://www.ashraellen.com/en/professional/
 |---|---|---|---|---|
 | 2026-06 | Fundacja Panoptykon | Project does not fit the foundation's area of interest. | Close contact. | CLOSED |
 | 2026-06-20 01:11 | Finnish Literature Society / SKS | Initial orientation email sent. | Wait for response. | SENT / WAITING |
+| 2026-06-29 | Kone Foundation | Eligibility answer received: connection to Finland must be shown in application; options are Finnish institutional affiliation OR working group with Finnish citizen / Finland-based participant. | Continue Finnish context-building; seek affiliation / working-group route. | RESPONDED / ROUTES IDENTIFIED |
 | 2026-06-29 02:40 | Finnish Literature Society / SKS | Automatic reply received: due to summer break, SKS will reply again from 2026-08-03. | Do not follow up before 2026-08-03. | AUTO-REPLY / WAITING UNTIL 2026-08-03 |
 | 2026-07-01 08:00 | Kalevala Society | Email scheduled for delivery. | Confirm after sending. | SCHEDULED |
 
@@ -220,17 +232,18 @@ https://www.ashraellen.com/en/professional/
 
 ## 11. Next actions
 
-1. Wait for Kone Foundation's response to the eligibility inquiry.
-2. Confirm that the Kalevala Society email was sent after the scheduled delivery on 2026-07-01 08:00.
-3. Do not follow up with Finnish Literature Society / SKS before 2026-08-03 because of the summer-break auto-reply.
-4. Wait for Finnish Literature Society / SKS response after 2026-08-03; if no response after a reasonable time, consider one polite follow-up.
-5. Wait for Kalevala Society response after sending; if no response after a reasonable time, consider one polite follow-up.
-6. Do not expand Finnish outreach chaotically before analysing first reactions.
-7. Prepare `Project Brief EN` adapted to the Finnish / Kalevala-related context.
-8. Prepare `Sampo Concise Research Note EN` as a possible attachment only if requested or strategically useful.
-9. Prepare a selected English excerpt from `Sampo` only if requested or strategically useful.
-10. Continue preparing the Kone Foundation package.
-11. If Kone confirms that a Finnish affiliation / collaborator is needed, use SKS / Kalevala Society responses as possible orientation routes, not as assumed support.
+1. Do not ask Kone more general eligibility questions immediately.
+2. Treat the Kone route as clarified: Finnish institutional affiliation OR working group with Finnish citizen / Finland-based participant.
+3. Confirm that the Kalevala Society email was sent after the scheduled delivery on 2026-07-01 08:00.
+4. Do not follow up with Finnish Literature Society / SKS before 2026-08-03 because of the summer-break auto-reply.
+5. Wait for Finnish Literature Society / SKS response after 2026-08-03; if no response after a reasonable time, consider one polite follow-up.
+6. Wait for Kalevala Society response after sending; if no response after a reasonable time, consider one polite follow-up.
+7. Do not expand Finnish outreach chaotically before analysing first reactions.
+8. Prepare `Project Brief EN` adapted to the Finnish / Kalevala-related context.
+9. Prepare `Sampo Concise Research Note EN` as a possible attachment only if requested or strategically useful.
+10. Prepare a selected English excerpt from `Sampo` only if requested or strategically useful.
+11. Start identifying possible Finnish institutional affiliation routes and Finnish / Finland-based collaborators.
+12. Continue preparing the Kone Foundation package around a realistic eligibility structure.
 
 ---
 
@@ -244,7 +257,12 @@ The first Polish institutional wave presented Ashraellen through five compatible
 4. Panoptykon — human being in digital environment, information noise and inner autonomy.
 5. IBL PAN — literature as research into experience, language, memory, narrative and self-deception.
 
-Kone Foundation has now been contacted separately through an eligibility inquiry, not a full application.
+Kone Foundation has now clarified the practical eligibility structure:
+
+```text
+The connection to Finland must be clearly demonstrated in the application.
+The realistic routes are Finnish institutional affiliation OR a working group with a Finnish citizen / Finland-based participant.
+```
 
 A Finnish / Kalevala-related orientation wave has also begun:
 
