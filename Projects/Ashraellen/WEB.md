@@ -1,10 +1,34 @@
 # Ashraellen Website — Technical Memory
 
-Last updated: 2026-06-12
+Last updated: 2026-06-30
+
+## Current critical maintenance record
+
+The completed static metadata repair from 2026-06-30 is recorded in:
+
+```text
+Projects/Ashraellen/Website_Static_Metadata_Repair_2026-06-30.md
+```
+
+Read that file before making new metadata, sitemap, Open Graph, Twitter Card, JSON-LD, public identity, or GitHub Actions workflow changes for Ashraellen.com.
+
+Final repair status:
+
+```text
+Pages checked: 550
+Pages with issues: 0
+Total issues: 0
+```
+
+Core rule after the repair:
+Do not re-enable broad site-wide metadata generators that blindly overwrite page-level metadata. Keep metadata page-specific and static. Do not use client-side JavaScript to repair SEO/social metadata after page load.
 
 ## Purpose
 
 This file records the current technical state of the Ashraellen website and the SEO / AI-readiness work completed on 2026-06-12, so future chats, Codex sessions and contributors can continue from the same point without rediscovering the site structure.
+
+Important update:
+The older 2026-06-12 sections below describe the previous SEO / AI-readiness layer and should be read together with `Website_Static_Metadata_Repair_2026-06-30.md`, because the 2026-06-30 repair changed the metadata workflow and disabled uncontrolled broad metadata rewriting.
 
 ## Main website repository
 
@@ -483,7 +507,7 @@ Workflow file:
 .github/workflows/sitemap.yml
 ```
 
-Current order:
+Historical 2026-06-12 order before the 2026-06-30 metadata repair:
 
 ```text
 1. Apply canonical links
@@ -495,7 +519,13 @@ Current order:
 7. Commit changed generated files if needed
 ```
 
-Trigger paths include:
+Current post-repair workflow order is recorded in:
+
+```text
+Projects/Ashraellen/Website_Static_Metadata_Repair_2026-06-30.md
+```
+
+Trigger paths in the older workflow included:
 
 ```text
 **/*.html
@@ -575,27 +605,25 @@ Give crawlers time to recrawl.
 
 ### Next technical layer
 
-Create separate OG images and update `scripts/apply-og.js` to choose images by page type:
+Create separate OG images and update metadata carefully by page type only when better project-specific images exist.
+
+Do not re-enable blind site-wide OG rewriting.
+
+Suggested image families may include:
 
 ```text
-assets/og/research.jpg
-assets/og/professional.jpg
-assets/og/books.jpg
-assets/og/monolith.jpg
-assets/og/beton.jpg
-assets/og/sludge.jpg
+research
+professional
+books
+monolith
+beton
+sludge
 ```
 
-Suggested mapping:
+The approved fallback remains:
 
 ```text
-/research/ -> research.jpg
-/professional/ -> professional.jpg
-/books/ -> books.jpg
-/books/monolith/ -> monolith.jpg
-/books/monolith/beton/ -> beton.jpg
-/books/monolith/sludge/ -> sludge.jpg
-fallback -> ashraellen-og-home-default-1200x630.jpg
+assets/og/ashraellen-og-home-default-1200x630.jpg
 ```
 
 ### Next content layer
@@ -617,10 +645,11 @@ These pages should remain faithful to Ashraellen's actual framing and must not b
 ## Working rules for future chats
 
 1. Before changing the site, read this file and inspect the current website repository state.
-2. Do not add `href="#"` or `src="#"` placeholders.
-3. Do not rely on client-side JavaScript for essential search / AI / preview metadata.
-4. Keep semantic information available in static HTML.
-5. Keep PWA icons and OG images separate.
-6. Use `Ashraellen` as the public author name.
-7. Preserve the project framing as independent artistic / literary-philosophical research.
-8. Avoid turning the site into SEO filler or a generic personal brand page.
+2. Also read `Website_Static_Metadata_Repair_2026-06-30.md` before metadata, sitemap, OG/Twitter, JSON-LD or workflow changes.
+3. Do not add `href="#"` or `src="#"` placeholders.
+4. Do not rely on client-side JavaScript for essential search / AI / preview metadata.
+5. Keep semantic information available in static HTML.
+6. Keep PWA icons and OG images separate.
+7. Use `Ashraellen` as the public author name.
+8. Preserve the project framing as independent artistic / literary-philosophical research.
+9. Avoid turning the site into SEO filler or a generic personal brand page.
