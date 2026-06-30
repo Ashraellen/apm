@@ -11,6 +11,7 @@ Active file map:
 BIO.md                                      — author bio and public positioning
 GST.md                                      — compact grant strategy and profile note
 WEB.md                                      — website structure and language notes
+Website_Static_Metadata_Repair_2026-06-30.md — completed 2026-06-30 website metadata repair, audit, workflow cleanup and OG background mapping
 WEB_Asset_Style_Consolidation_Plan.md       — planned website background/CSS consolidation task
 CNT.md                                      — content style and channel notes
 PKD.md                                      — Polish activity codes and business notes
