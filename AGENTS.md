@@ -28,6 +28,22 @@ Writing rules:
 - Do not turn scenes into lectures.
 - When editing literary text, preserve meaning, rhythm, tone, and pressure.
 
+Website page rules for Ashraellen.com:
+- Any assistant, agent, or future chat working with website pages must read this section before making site changes.
+- Public website pages must be clean, static HTML.
+- Do not create patch-like solutions, temporary fixes, hidden runtime corrections, or JavaScript that repairs page structure after load.
+- The source HTML must already contain real content, real navigation links, real image paths, real language links, metadata, and canonical URLs.
+- Do not use JavaScript to replace link destinations, image sources, canonical links, hreflang links, titles, text, or book/page content.
+- Do not add base-path patch scripts, link-rewriting blocks, or runtime correction logic.
+- Do not use placeholder anchors for real navigation.
+- If a page exists in several languages, the language versions must have the same structural completeness.
+- For any new page type, create a dedicated CSS file in `assets/` and reuse it across all language versions of that page type.
+- Avoid large inline style blocks for new page types. Inline styles may remain only in older pages until they are deliberately refactored.
+- JSON-LD structured data is allowed and should remain where appropriate.
+- Analytics scripts are allowed unless the task explicitly removes them.
+- Small optional interactions are allowed only when the full content already exists in HTML and the interaction is not required for robots to see the page.
+- Do not solve structural problems by adding a script, a hidden fallback, a temporary redirect, or a dynamic correction. Fix the source HTML, CSS, and file structure directly.
+
 Top-level folders:
 - `Projects/` — project memory folders.
 - `Skills/` — repeatable workflows and procedural instructions.
