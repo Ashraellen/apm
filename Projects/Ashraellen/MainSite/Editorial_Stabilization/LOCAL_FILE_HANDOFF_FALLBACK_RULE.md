@@ -1,6 +1,7 @@
 # LOCAL FILE HANDOFF FALLBACK RULE
 
 Date: 2026-06-30
+Updated: 2026-06-30
 Scope: Editorial Stabilization / Formula Staticization
 Status: active fallback rule
 
@@ -19,16 +20,20 @@ After two controlled write attempts fail for the same small file group:
 2. Do not run emergency repair scripts.
 3. Do not broaden scope.
 4. Prepare replacement files locally with the exact repository filenames and paths.
-5. Package them for manual download.
+5. Provide the files to the user as separate downloadable `.html` files, not as a zip, unless the user explicitly asks for a zip.
 6. Tell the user exactly where each file must be uploaded in the live repository.
 7. The user may then upload the files manually with replacement.
 ```
 
 ## Required handoff format
 
-The handoff package must preserve repository paths.
+For mobile work, do **not** package the files as `.zip` by default.
 
-Example:
+Provide each replacement HTML file separately.
+
+Each file must be named exactly as the target repository filename.
+
+Example target paths:
 
 ```text
 be/public/posts/formula/lines/index.html
@@ -36,7 +41,17 @@ be/public/posts/formula/lines/line-0001.html
 be/public/posts/formula/lines/line-0002.html
 ```
 
-The downloadable package should preferably be a `.zip` containing the same directory structure.
+Because two files may have the same basename in different directories, the user-facing download labels must clearly identify the full target path.
+
+Example labels:
+
+```text
+Download replacement for be/public/posts/formula/lines/index.html
+Download replacement for be/public/posts/formula/lines/line-0001.html
+Download replacement for be/public/posts/formula/lines/line-0002.html
+```
+
+If the local artifact system cannot safely expose two files with identical basenames, add a short README or instruction note, but do not require the user to handle a zip on mobile.
 
 ## Required validation before handoff
 
@@ -71,10 +86,19 @@ be/public/posts/formula/lines/line-0002.html
 Tell the user:
 
 ```text
-Unzip the package.
+Download each HTML file separately.
 Upload each file to the matching path in Ashraellen/ashraellen, replacing the existing file with the same name.
 Do not rename files.
-Do not upload the parent folder into the wrong level.
+Do not upload the file to a neighboring language folder.
+Do not upload the file one directory too high or too low.
+```
+
+For the current BE case, the upload targets are:
+
+```text
+index.html       -> be/public/posts/formula/lines/index.html
+line-0001.html   -> be/public/posts/formula/lines/line-0001.html
+line-0002.html   -> be/public/posts/formula/lines/line-0002.html
 ```
 
 ## After manual upload
