@@ -1,14 +1,36 @@
 # MainSite Editorial Stabilization — Exchange Workspace
 
 Date opened: 2026-06-30
+Date closed: 2026-07-01
 Project: Ashraellen MainSite
 Live repository: `Ashraellen/ashraellen`
 Memory repository: `Ashraellen/apm`
-Status: active coordination workspace
+Status: closed / archived coordination workspace
+
+## Closeout
+
+Editorial Stabilization is closed by:
+
+```text
+REPORT_008_Editorial_Stabilization_Closeout.md
+REVIEW_008_Editorial_Stabilization_Closeout.md
+```
+
+Final accepted state:
+
+```text
+- permanent sitemap/report workflow is safe for normal pushes;
+- emergency broad metadata repair is isolated behind workflow_dispatch and RUN_EMERGENCY_REPAIR confirmation;
+- Formula staticization is complete for 36 / 36 pages;
+- current generated metadata audit has zero issues;
+- image-related OG/Twitter review notes are accepted as non-blocking for now;
+- legacy RU Public Thoughts URLs remain unchanged for now;
+- no immediate implementation command is recommended.
+```
 
 ## Purpose
 
-This directory is the repository-based exchange space between:
+This directory was the repository-based exchange space between:
 
 ```text
 - Architect / reviewer chat
@@ -16,90 +38,72 @@ This directory is the repository-based exchange space between:
 - User, with minimal manual transfer between chats
 ```
 
-The goal is to coordinate the editorial stabilization after the 2026-06-30 static metadata repair without requiring the user to copy long reports between chats.
+The goal was to coordinate the editorial stabilization after the 2026-06-30 static metadata repair without requiring the user to copy long reports between chats.
 
 ## Communication rule
 
-Instructions and reports must be exchanged through repository files, not through long pasted chat messages.
+Instructions and reports were exchanged through repository files, not through long pasted chat messages.
 
-The user may simply tell the executor chat:
-
-```text
-Read the current command file in:
-Projects/Ashraellen/MainSite/Editorial_Stabilization/
-
-Work only according to that file and write your report back into the same workspace.
-```
-
-The user may then tell the reviewer chat:
-
-```text
-Please review the latest executor report in:
-Projects/Ashraellen/MainSite/Editorial_Stabilization/
-```
-
-## Current command file
-
-Executor must start with:
+## Final command/report sequence
 
 ```text
 COMMAND_001_Editorial_Stabilization_Plan.md
-```
-
-## Report template
-
-Executor must write reports using:
-
-```text
-REPORT_TEMPLATE.md
-```
-
-Recommended report filename pattern:
-
-```text
 REPORT_001_Editorial_Stabilization_Plan.md
-REPORT_002_<short-task-name>.md
+REVIEW_001_Editorial_Stabilization_Plan.md
+
+COMMAND_002_Workflow_Split.md
+REPORT_002_Workflow_Split.md
+REVIEW_002_Workflow_Split.md
+
+COMMAND_003_Formula_Staticization.md
+REPORT_003_Formula_Staticization.md
+REVIEW_003_Formula_Staticization.md
+
+COMMAND_003A_Formula_Staticization_Batch_A.md
+REPORT_003A_Formula_Staticization_Batch_A.md
+REVIEW_003A_Formula_Staticization_Batch_A.md
+
+COMMAND_003B_Formula_Staticization_Batch_B.md
+REPORT_003B_Formula_Staticization_Batch_B.md
+REVIEW_003B_Formula_Staticization_Batch_B.md
+
+COMMAND_003B_Retry_Formula_Staticization_Batch_B_Remaining.md
+REPORT_003B_Retry_Formula_Staticization_Batch_B_Remaining.md
+REVIEW_003B_Retry_Formula_Staticization_Batch_B_Remaining.md
+
+COMMAND_003C_Formula_Staticization_Batch_C.md
+REPORT_003C_Formula_Staticization_Batch_C.md
+REVIEW_003C_Formula_Staticization_Batch_C.md
+
+COMMAND_003C_Retry_Formula_Staticization_BE_Remaining.md
+REPORT_003C_Retry_Formula_Staticization_BE_Remaining.md
+REVIEW_003C_Retry_Formula_Staticization_BE_Remaining.md
+
+COMMAND_003C_Retry2_Formula_Staticization_BE_Remaining.md
+REVIEW_003C_Manual_BE_Handoff_Accepted.md
+
+COMMAND_004_Formula_Staticization_Final_Audit.md
+REPORT_004_Formula_Staticization_Final_Audit.md
+REVIEW_004_Formula_Staticization_Final_Audit.md
+
+COMMAND_005_Metadata_Quality_Pass_Batch_1.md
+REPORT_005_Metadata_Quality_Pass_Batch_1.md
+REVIEW_005_Metadata_Quality_Pass_Batch_1.md
+
+COMMAND_006_Metadata_Review_Notes_Triage.md
+REPORT_006_Metadata_Review_Notes_Triage.md
+REVIEW_006_Metadata_Review_Notes_Triage.md
+
+COMMAND_007_Legacy_URL_Policy_Audit.md
+REPORT_007_Legacy_URL_Policy_Audit.md
+REVIEW_007_Legacy_URL_Policy_Audit.md
+
+COMMAND_008_Editorial_Stabilization_Closeout.md
+REPORT_008_Editorial_Stabilization_Closeout.md
+REVIEW_008_Editorial_Stabilization_Closeout.md
 ```
 
-## Working roles
-
-### Architect / reviewer chat
-
-Responsible for:
-
-```text
-- defining command files;
-- reviewing reports;
-- deciding whether work is accepted, rejected, paused or narrowed;
-- protecting site architecture and editorial principles;
-- preventing broad automatic repair scripts from becoming the permanent editorial model.
-```
-
-### Executor chat
-
-Responsible for:
-
-```text
-- reading the command file;
-- reading the required source files;
-- performing only the requested work;
-- making repository changes only inside the allowed scope;
-- writing concise but complete reports into this directory;
-- asking for approval through a report when a decision exceeds the command scope.
-```
-
-### User
-
-The user should not need to transfer long reports manually.
-
-The user only needs to move short commands between chats, such as:
-
-```text
-Executor: read command 001 and write report 001.
-Reviewer: read report 001 and give the next command.
-```
-
-## Non-negotiable constraints
+## Non-negotiable constraints that remain active
 
 ```text
 - Do not manually edit sitemap.xml as normal workflow.
@@ -112,31 +116,33 @@ Reviewer: read report 001 and give the next command.
 - Do not make destructive changes without a report and approval.
 ```
 
-## Required source files for executor
+## Future work guardrails
 
-Before starting any task, executor must read:
+Future work must start from a new explicit command and must not reopen Editorial Stabilization by default.
+
+Possible future tracks:
 
 ```text
-Projects/Ashraellen/MainSite/INDEX.md
-Projects/Ashraellen/WEB.md
-Projects/Ashraellen/Website_Static_Metadata_Repair_2026-06-30.md
-Projects/Ashraellen/MainSite/Decisions/Site_Wide_Transcreation_Rule_2026-06-26.md
+- Metadata Image Strategy;
+- Formula Source Layer Cleanup Audit;
+- Public Thoughts Legacy URL Pilot;
+- Long Tail Metadata Quality Audit.
+```
+
+Any future legacy URL implementation must follow:
+
+```text
+Projects/Ashraellen/MainSite/Decisions/Legacy_Public_Thoughts_URLs_Leave_Unchanged_2026-07-01.md
+```
+
+Any future sitemap work must follow:
+
+```text
 Projects/Ashraellen/MainSite/Technical/Sitemap_Automatic_Generation_Rule_2026-06-28.md
-Projects/Ashraellen/MainSite/Decisions/Public_Posts_Formulas_Working_Rule_2026-06-26.md
-Projects/Ashraellen/MainSite/Decisions/Public_Thoughts_Working_Reference_2026-06-26.md
 ```
 
-## Review cycle
+Any future multilingual public content work must follow:
 
 ```text
-1. Reviewer writes or updates COMMAND_NNN.
-2. Executor reads the command and required sources.
-3. Executor performs allowed work or prepares a plan if approval is required.
-4. Executor writes REPORT_NNN.
-5. Reviewer reads REPORT_NNN directly from the repo.
-6. Reviewer writes next command or acceptance note.
+Projects/Ashraellen/MainSite/Decisions/Site_Wide_Transcreation_Rule_2026-06-26.md
 ```
-
-## Current first goal
-
-Prepare editorial stabilization so the site moves from emergency automatic metadata repair toward stable page-specific, transcreated, static metadata and self-contained public content pages.
