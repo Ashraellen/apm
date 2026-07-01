@@ -3,7 +3,8 @@
 Date: 2026-07-01  
 Project: Ashraellen / MainSite / Book Section Editorial Audit  
 Status: HTML draft / patch plan only  
-Command source: `COMMAND_003_Monolith_Series_HTML_Draft_Patch.md`
+Command source: `COMMAND_003_Monolith_Series_HTML_Draft_Patch.md`  
+Update: MS decision applied — `Карта распада` uses a 3×3 structure.
 
 ---
 
@@ -17,15 +18,15 @@ ru/books/monolith/index.html
 
 Это не live-site правка. Файл `ru/books/monolith/index.html` не изменялся.
 
-Цель: перевести редакционный черновик `DRAFT_002` в точный план HTML-внедрения, который MS сможет проверить до отдельного implementation-command.
+Цель: перевести редакционный черновик `DRAFT_002` и последующее решение MS по `Карте распада` в точный план HTML-внедрения, который MS сможет проверить до отдельного implementation-command.
 
 Работа ограничена страницей серии `МОНОЛИТ`. Страницы `БЕТОН`, `ЖИЖА`, `Сияние`, `Сампо` и общий каталог книг в рамках этого command не трогаются.
 
 ---
 
-## 2. Source files read
+## 2. Source files read / decision sources
 
-Прочитаны и использованы:
+Использованы:
 
 ```text
 Projects/Ashraellen/MainSite/Book_Section_Editorial_Audit/REPORT_001_Book_Section_Audit_Plan.md
@@ -33,6 +34,16 @@ Projects/Ashraellen/MainSite/Book_Section_Editorial_Audit/DRAFT_002_Monolith_Ser
 Projects/Ashraellen/MainSite/Book_Section_Editorial_Audit/MS_REPORT_002_Monolith_Series_Editorial_Expansion.md
 ru/books/monolith/index.html
 assets/books.css
+```
+
+Также применено решение MS по `Карте распада`:
+
+```text
+Не использовать плоскую карту на 9 равноправных узлов.
+Не сокращать карту до трёх слишком бедных карточек.
+Использовать структуру 3×3:
+- три главных узла: БЕТОН, ЖИЖА, ГАЗ;
+- внутри каждого узла — по три смысловых признака.
 ```
 
 Из `REPORT_001` взято решение: `МОНОЛИТ` нужно усиливать, но не переписывать с нуля. Главная задача — добавить архитектуру, не потеряв холодный протокольный нерв.
@@ -74,6 +85,7 @@ assets/books.css
 8. Не менять JSON-LD и metadata в рамках этого draft, кроме отдельного раздела optional future work.
 9. Сохранить текущий фон, обложки, карточки томов и главный сигнал серии.
 10. Использовать архитектуру `Сияния` только как каркас, не как тон.
+11. `Карта распада` должна быть иерархической: три состояния социальной материи, внутри каждого — три признака.
 
 Коротко: не строим новый Департамент, просто даём старому бетону нормальную несущую конструкцию.
 
@@ -104,7 +116,10 @@ assets/books.css
 
 5. `Карта распада`:
    - новый блок после research frame;
-   - использовать 9-node version, если страница визуально выдерживает.
+   - использовать модель 3×3:
+     - `БЕТОН` → три признака;
+     - `ЖИЖА` → три признака;
+     - `ГАЗ` → три признака.
 
 6. `Для кого этот проект`:
    - две компактные колонки.
@@ -113,7 +128,7 @@ assets/books.css
    - full version, но в компактной структуре.
 
 8. `Фраза серии`:
-   - сохранить как финальный сигнал перед seal.
+   - сохранить как финальный сигнал или заменить на альтернативный финальный сигнал, если MS захочет избежать повтора hero.
 
 9. Seal:
    - оставить как есть.
@@ -167,16 +182,13 @@ Do not add this to `assets/books.css` unless a separate design cleanup command r
     margin-bottom:0;
   }
 
-  .monolith-map{
-    list-style:none;
-    margin:0;
-    padding:0;
+  .monolith-state-grid{
     display:grid;
     grid-template-columns:repeat(3,minmax(0,1fr));
-    gap:12px;
+    gap:14px;
   }
 
-  .monolith-map li,
+  .monolith-state-card,
   .monolith-box{
     border:1px solid rgba(242,242,244,.12);
     border-radius:14px;
@@ -184,18 +196,43 @@ Do not add this to `assets/books.css` unless a separate design cleanup command r
     background:rgba(0,0,0,.20);
   }
 
-  .monolith-map strong,
+  .monolith-state-card h3,
   .monolith-box h3{
-    display:block;
     margin:0 0 7px;
     color:var(--fg);
-    font-size:14px;
+    font-size:15px;
     line-height:1.25;
   }
 
-  .monolith-map span,
+  .monolith-state-card .state-note{
+    margin:0 0 10px;
+    color:var(--muted);
+    font-size:12px;
+    line-height:1.35;
+    font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;
+    letter-spacing:.03em;
+  }
+
+  .monolith-state-card ul{
+    margin:0;
+    padding:0;
+    list-style:none;
+    display:grid;
+    gap:7px;
+  }
+
+  .monolith-state-card li{
+    color:var(--muted);
+    font-size:13px;
+    line-height:1.45;
+  }
+
+  .monolith-state-card li::before{
+    content:'— ';
+    opacity:.75;
+  }
+
   .monolith-box p{
-    display:block;
     margin:0;
     color:var(--muted);
     font-size:13px;
@@ -209,7 +246,7 @@ Do not add this to `assets/books.css` unless a separate design cleanup command r
   }
 
   @media(max-width:900px){
-    .monolith-map,
+    .monolith-state-grid,
     .monolith-two-col{
       grid-template-columns:1fr;
     }
@@ -217,7 +254,7 @@ Do not add this to `assets/books.css` unless a separate design cleanup command r
 </style>
 ```
 
-Reason: existing `assets/books.css` has good base blocks but no generic grid for 9-node map or two compact columns. Local additions keep the change isolated to `MONOLITH`.
+Reason: existing `assets/books.css` has good base blocks but no dedicated 3×3 semantic card layout for the map or two compact columns. Local additions keep the change isolated to `MONOLITH`.
 
 ### 5.2. Replace current `h1 + lead` with expanded hero
 
@@ -246,7 +283,7 @@ Notes:
 
 - Keeps the colder MONOLITH-specific voice.
 - Uses command-approved kicker and lead.
-- Moves the main signal upward into hero without deleting the final `Фраза серии` block yet. MS should decide whether to keep the signal both in hero and near the end. Recommendation: keep in hero and remove or transform final block only if repetition feels heavy.
+- Moves the main signal upward into hero without deleting the final `Фраза серии` block yet. MS should decide whether to keep the signal both in hero and near the end. Recommendation: keep in hero and transform the final block into an alternative signal if repetition feels heavy.
 
 ### 5.3. Replace current `Серия` block with `Что такое МОНОЛИТ`
 
@@ -347,7 +384,7 @@ Notes:
 
 - Adds `id="volumes"` for CTA navigation.
 - Keeps current cards and images.
-- Suggested static href cleanup is included as draft plan only. MS should confirm whether to keep or remove the existing inline JS link reassignment in the later implementation. Best future approach: set static `href` directly and either remove redundant JS link mutations in a separate technical cleanup or leave them harmlessly if compatibility with GitHub Pages preview is still needed.
+- Suggested static href cleanup is included as draft plan only. MS should confirm whether to keep or remove the existing inline JS link reassignment in the later implementation.
 
 ### 5.5. Add `Художественно-исследовательская рамка` block after `Тома`
 
@@ -376,50 +413,121 @@ Notes:
 - Uses the word `исследует`, but keeps the block rooted in system image and artistic mechanism.
 - Does not sound like a grant application.
 
-### 5.6. Add `Карта распада` block after research frame
+### 5.6. Add `Карта распада` block after research frame — MS-approved 3×3 model
 
-Preferred 9-node HTML draft:
+Do not use the previous flat 9-node list.  
+Do not use the too-poor 3-card-only version.  
+Use three main states, each with three signs.
+
+Recommended HTML draft:
 
 ```html
 <section id="collapse-map" class="list">
   <div class="list-header">
     <h2>Карта распада</h2>
-    <p class="note">смысловые узлы трилогии</p>
+    <p class="note">три состояния / девять признаков</p>
   </div>
   <ul class="items">
     <li class="item" style="grid-template-columns:1fr;">
       <div class="body">
-        <ul class="monolith-map">
-          <li><strong>БЕТОН</strong><span>Стадия затвердевшей стабильности. Система кажется прочной, потому что всё живое внутри неё уже объявлено дефектом.</span></li>
-          <li><strong>ЖИЖА</strong><span>Стадия вязкой деформации. Форма больше не защищает человека, но ещё удерживает его внутри среды, где согласие приходит через усталость.</span></li>
-          <li><strong>ГАЗ</strong><span>Стадия разгерметизации. Прежние контейнеры распадаются, а контроль пытается стать невидимым, рассеянным и привычным как воздух.</span></li>
-          <li><strong>Память</strong><span>Опасная зона системы. То, что человек помнит слишком ярко, может нарушить гладкость официальной реальности.</span></li>
-          <li><strong>Шум</strong><span>Всё, что не удаётся сгладить: чувство, запах, вопрос, вина, любовь, сопротивление, случайная трещина в идеально выровненной поверхности.</span></li>
-          <li><strong>Стабильность</strong><span>Не всегда безопасность. В МОНОЛИТЕ она становится способом обездвижить живое и назвать неподвижность порядком.</span></li>
-          <li><strong>Контроль</strong><span>Не только власть сверху. Это дрессировка восприятия, при которой человек сам начинает исправлять себя до того, как его исправит система.</span></li>
-          <li><strong>Трещина</strong><span>Первая форма освобождения. Она ещё не разрушает стену, но доказывает, что стена не вечна.</span></li>
-          <li><strong>Разгерметизация</strong><span>Момент, когда форма больше не удерживает давление. Система перестаёт быть монолитом и начинает распадаться на среду, голос, страх и привычку.</span></li>
-        </ul>
+        <div class="monolith-state-grid">
+          <article class="monolith-state-card">
+            <h3>БЕТОН</h3>
+            <p class="state-note">затвердевшая стабильность</p>
+            <ul>
+              <li>стабильность как тюрьма</li>
+              <li>память как опасность</li>
+              <li>первая трещина</li>
+            </ul>
+          </article>
+
+          <article class="monolith-state-card">
+            <h3>ЖИЖА</h3>
+            <p class="state-note">вязкая деформация</p>
+            <ul>
+              <li>усталость сопротивления</li>
+              <li>растворение границ</li>
+              <li>соучастие как привычка</li>
+            </ul>
+          </article>
+
+          <article class="monolith-state-card">
+            <h3>ГАЗ</h3>
+            <p class="state-note">разгерметизация формы</p>
+            <ul>
+              <li>контроль становится воздухом</li>
+              <li>смысл выходит из контейнеров</li>
+              <li>прежняя система теряет стену, но не исчезает</li>
+            </ul>
+          </article>
+        </div>
       </div>
     </li>
   </ul>
 </section>
 ```
 
-6-node fallback if visual density is too high:
+Expanded text alternative if MS wants each state to have one explanatory line before the three signs:
 
 ```html
-<ul class="monolith-map">
-  <li><strong>БЕТОН</strong><span>Затвердевшая стабильность, где порядок становится тюрьмой.</span></li>
-  <li><strong>ЖИЖА</strong><span>Вязкая зона деформации, где человек теряет границы и привыкает к недопустимому.</span></li>
-  <li><strong>ГАЗ</strong><span>Разгерметизация формы, где контроль пытается стать воздухом.</span></li>
-  <li><strong>Память</strong><span>Сбой в гладкой версии реальности.</span></li>
-  <li><strong>Шум</strong><span>Всё живое, что система не успела отредактировать.</span></li>
-  <li><strong>Трещина</strong><span>Первый знак, что монолит не вечен.</span></li>
-</ul>
+<section id="collapse-map" class="list">
+  <div class="list-header">
+    <h2>Карта распада</h2>
+    <p class="note">три состояния / девять признаков</p>
+  </div>
+  <ul class="items">
+    <li class="item" style="grid-template-columns:1fr;">
+      <div class="body">
+        <div class="monolith-state-grid">
+          <article class="monolith-state-card">
+            <h3>БЕТОН</h3>
+            <p class="state-note">затвердевшая стабильность</p>
+            <p class="state-desc">Форма кажется вечной, потому что всё живое внутри неё уже объявлено дефектом.</p>
+            <ul>
+              <li>стабильность как тюрьма</li>
+              <li>память как опасность</li>
+              <li>первая трещина</li>
+            </ul>
+          </article>
+          <article class="monolith-state-card">
+            <h3>ЖИЖА</h3>
+            <p class="state-note">вязкая деформация</p>
+            <p class="state-desc">Форма больше не защищает человека, но ещё удерживает его внутри среды.</p>
+            <ul>
+              <li>усталость сопротивления</li>
+              <li>растворение границ</li>
+              <li>соучастие как привычка</li>
+            </ul>
+          </article>
+          <article class="monolith-state-card">
+            <h3>ГАЗ</h3>
+            <p class="state-note">разгерметизация формы</p>
+            <p class="state-desc">Прежние контейнеры распадаются, а контроль пытается стать невидимым и привычным.</p>
+            <ul>
+              <li>контроль становится воздухом</li>
+              <li>смысл выходит из контейнеров</li>
+              <li>прежняя система теряет стену, но не исчезает</li>
+            </ul>
+          </article>
+        </div>
+      </div>
+    </li>
+  </ul>
+</section>
 ```
 
-Recommendation: use 9-node version for MS review, because command explicitly allows it if CSS can support the layout. The local `.monolith-map` grid supports it without changing global CSS.
+If the expanded version is used, add this CSS inside `.monolith-state-card` styles:
+
+```css
+.monolith-state-card .state-desc{
+  margin:0 0 10px;
+  color:var(--muted);
+  font-size:13px;
+  line-height:1.45;
+}
+```
+
+Recommendation: use the compact 3×3 version first. It is stronger, cleaner and less explanatory. Use expanded version only if MS decides that the cards need one line of orientation.
 
 ### 5.7. Add `Для кого этот проект` block after map
 
@@ -582,13 +690,13 @@ Preserve seal:
 
 ### Move / redistribute
 
-The existing `Серия` paragraphs should not be discarded. Their core material is redistributed into `Что такое МОНОЛИТ` and the research frame:
+The existing `Серия` paragraphs should not be discarded. Their core material is redistributed into `Что такое МОНОЛИТ`, the research frame and the 3×3 map:
 
-- `Мы привыкли считать стабильность безопасностью` → `Что такое МОНОЛИТ`.
-- `абсолютная стабильность — состояние предельного затвердевания` → `Что такое МОНОЛИТ` and `Карта распада`.
+- `Мы привыкли считать стабильность безопасностью` → `Что такое МОНОЛИТ` and `БЕТОН` state.
+- `абсолютная стабильность — состояние предельного затвердевания` → `Что такое МОНОЛИТ` and `БЕТОН` state.
 - `любая живая мысль становится дефектом` → `Что такое МОНОЛИТ`.
 - `исправление / удаление шума / редактирование реальности` → research frame and boundaries.
-- `путь от Бетона через Жижу к разгерметизации` → hero, `Что такое`, map.
+- `путь от Бетона через Жижу к разгерметизации` → hero, `Что такое`, 3×3 map.
 
 ---
 
@@ -619,12 +727,13 @@ Do not run broad metadata repair scripts.
 ## 8. Mobile / readability notes
 
 1. The page will become significantly longer. This is acceptable if sections remain scannable.
-2. The 9-node `Карта распада` should be a 3-column grid on desktop and 1-column on mobile.
-3. `Что важно не перепутать` full version is the heaviest block. MS should test whether it feels like necessary boundary-setting or too much explanation.
-4. Two-column `Для кого` should collapse to one column under 900px.
-5. Existing `.main` uses vertical centering on desktop. With longer page content this may still work, but if the page feels vertically awkward, a future implementation may need to consider `align-items:flex-start` for this page only. Do not change this in the draft unless visual testing confirms the need.
-6. Keep text blocks narrow: `max-width:82ch` is recommended for readability.
-7. Avoid adding images, new backgrounds or design effects. The page needs pressure, not carnival.
+2. The `Карта распада` should be a 3-column state grid on desktop and 1-column on mobile.
+3. The 3×3 model is better than a flat 9-node list because it preserves the internal logic of the trilogy: three states, each with three signs.
+4. `Что важно не перепутать` full version is the heaviest block. MS should test whether it feels like necessary boundary-setting or too much explanation.
+5. Two-column `Для кого` should collapse to one column under 900px.
+6. Existing `.main` uses vertical centering on desktop. With longer page content this may still work, but if the page feels vertically awkward, a future implementation may need to consider `align-items:flex-start` for this page only. Do not change this in the draft unless visual testing confirms the need.
+7. Keep text blocks narrow: `max-width:82ch` is recommended for readability.
+8. Avoid adding images, new backgrounds or design effects. The page needs pressure, not carnival.
 
 ---
 
@@ -651,13 +760,12 @@ No client-side JavaScript was added for content, SEO, metadata or social metadat
 
 ## 10. Explicit statement that no live-site edits were made
 
-No live-site edits were made during `COMMAND_003_Monolith_Series_HTML_Draft_Patch.md`.
+No live-site edits were made during this `DRAFT_003` update.
 
-This command produced only APM draft files:
+This update changed only the APM draft plan:
 
 ```text
 Projects/Ashraellen/MainSite/Book_Section_Editorial_Audit/DRAFT_003_Monolith_Series_HTML_Draft_Patch.md
-Projects/Ashraellen/MainSite/Book_Section_Editorial_Audit/MS_REPORT_003_Monolith_Series_HTML_Draft_Patch.md
 ```
 
 A separate explicit command is required before editing:
